@@ -11,8 +11,6 @@ import {
   BookOpen,
   Brain,
   Trophy,
-  Eye,
-  EyeOff,
   ListChecks,
   Microscope,
 } from 'lucide-react';
@@ -152,7 +150,7 @@ export default function QuizApp({ allQuestions }: Props) {
             >
               <BookOpen className="w-6 h-6" />
               <span className="font-semibold text-sm">Fleshkart</span>
-              <span className="text-xs opacity-70">Javobni ko&apos;rsating</span>
+              <span className="text-xs opacity-70">To&apos;g&apos;ri javob ko&apos;rinadi</span>
             </button>
           </div>
 
@@ -326,27 +324,15 @@ export default function QuizApp({ allQuestions }: Props) {
             <span className="bg-blue-100 text-blue-600 font-bold text-sm px-2 py-1 rounded-lg flex-shrink-0">
               #{q.id}
             </span>
-            <p className="text-gray-800 font-medium leading-relaxed text-base">{q.question}</p>
+            <p className="text-gray-800 font-semibold leading-relaxed text-xl">{q.question}</p>
           </div>
         </div>
 
-        {/* Flashcard reveal button */}
-        {mode === 'flashcard' && !revealed && (
-          <button
-            onClick={handleReveal}
-            className="bg-indigo-600 hover:bg-indigo-700 text-white font-bold py-4 rounded-2xl transition-all shadow-lg shadow-indigo-200 flex items-center justify-center gap-2"
-          >
-            <Eye className="w-5 h-5" />
-            Javobni ko&apos;rsatish
-          </button>
-        )}
-
         {/* Answers */}
-        {(mode === 'quiz' || revealed) && (
-          <div className="flex flex-col gap-3">
+        <div className="flex flex-col gap-3">
             {q.answers.map((ans, idx) => {
               let cls =
-                'w-full text-left p-4 rounded-2xl border-2 transition-all duration-200 font-medium text-sm leading-relaxed ';
+                'w-full text-left p-4 rounded-2xl border-2 transition-all duration-200 font-medium text-base leading-relaxed ';
               if (mode === 'quiz') {
                 if (selected === null) {
                   cls += 'border-gray-200 bg-white text-gray-700 hover:border-blue-300 hover:bg-blue-50 cursor-pointer';
@@ -396,18 +382,6 @@ export default function QuizApp({ allQuestions }: Props) {
               );
             })}
           </div>
-        )}
-
-        {/* Flashcard hide after reveal */}
-        {mode === 'flashcard' && revealed && (
-          <button
-            onClick={() => setRevealed(false)}
-            className="text-gray-400 hover:text-gray-600 text-sm flex items-center justify-center gap-1 py-2"
-          >
-            <EyeOff className="w-4 h-4" />
-            Yashirish
-          </button>
-        )}
       </div>
 
       {/* Navigation */}
