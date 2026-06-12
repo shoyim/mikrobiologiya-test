@@ -1,0 +1,3303 @@
+? 90 – chi raqamli ob`ektiv bilan ishlaganda nima maqsadda immersion yog' tomiziladi?
+- a. surtma ko'rinmasligi uchun
+- b. hech qanday ahamiyati yo'q
++ c. yorug'lik nurini yig'ib ob`ektiv linzasiga jo`natish uchun
+- d. hujayrani hajmini kattalashtirish uchun
+
+? Bakterioskopik tekshirish usuli nima?
++ a. bo`yalgan surtmani o'rganish
+- b. immun moddalarni qon zardobi tarkibidan topish
+- c. tekshiriluvchi materialdan tayyorlangan surtmani o'rganish
+- d. kasallik qo'zg'atuvchisini oziq muhitga ekib ajratish va o'rganish
+
+? Bakteriya kulturasidan tayyorlangan surtmani quritib spirtovka alangasi ustida qizdirishdan maqsad nima?
+- a. oqsilni eritib, protoplazma bilan bo`yoqni birikishini osonlashtirish
++ b. bakteriyani o'ldirish, mikrob hujayrasini shishaga yopishtirish, bo`yalishni yaxshlash
+- c. bakteriyalarni o'ldirib, surtmani zararsizlantirish
+- d. mikrobning hujayra devorini buzib, bo`yoq kirishni engilashtirish
+
+? Bakteriyalardan tayyorlangan surtmani bo`yashdan maqsad nima?
+- a. bo`yoqlar yordamida miroorganizmlarni o'ldirish
+- b. bakteriyaning o'lchamini kattalashtirish
+- c. surtmani zararsizlantirish uchun
++ d. bakteriyaning morfologiyasini o'rganish
+
+? Bakteriyaning kasallik chaqarish xususiyati:
+- a. muhitga talabchanligi
+- b. spora hosil qilishi
+- c. xivchin hosil qilishi
++ d. patogenligi
+
+? Bakteriyaning vegetativ shaklini sporaga aylanishi uchun zarur bo'lgan vaqt:
+- a. 10 – 12 soat
+- b. 8 – 10 soat
+- c. 2 – 4 soat
++ d. 18 – 20 soat
+
+? Bakteroidlar qanday mikrorganizmlar:
+- a. sporasiz aeroblar
+- b. sporali aeroblar
+- c. sporali anaeroblar
++ d. sporasiz anaeroblar
+
+? Bezgak plazmodiylarini qaysi hasharot yuqtiradi?
++ a. anofeles pashshasi
+- b. Chivin
+- c. Bit
+- d. Kana
+
+? Bir tomonda bir tutam xivchini bo'lgan bakteriyaning nomlanishi.
++ a. lofotrix
+- b. amfitrix
+- c. monotrix
+- d. peritrix
+
+? Bir tomonda bitta xivchini bo'lgan bakteriyaning nomlanishi.
++ a. monotrix
+- b. lofotrix
+- c. peritrix
+- d. amfitrix
+
+? Eukariot mikroorganizmlar:
+- a. viruslar
+- b. rikketsiyalar
+- c. stafilokokklar
++ d. leyshamaniya
+
+? Gram usulida bo`yashda ishlatiladigan bo`yoqlardan qaysi biri birinchi navbatda ishlatiladi?
++ a. gensian violet
+- b. fuksin
+- c. lyugol eritmasi
+- d. etil spirti
+
+? Har tomonda ko'plab xivchini bo'lgan bakteriyaning nomlanishi.
+- a. lofotrix
+- b. monotrix
+- c. amfitrix
++ d. peritrix
+
+? Leyshmaniyalar preparati qaysi usulda bo`yaladi?
+- a. Neysser usulida
+- b. Ojeshko
+- c. Gram usulida
++ d. Romanovskiy – Gimza
+
+? Leyshmaniyaning xivchinli shakli qachon va qaerga uchraydi.
+- a. itning organizmida
+- b. kasal organizmida
++ c. yuqtiruvchining oshqozonida va sun'iy oziq muhitilarda
+- d. kemiruvchilar organizmida
+
+? Mog'or zamburuglari sporasining ahamiyati.
+- a. oziqlanishda
+- b. zahar ishlab chiqarishda
++ c. ko'payishda
+- d. ferment ishlab chiqarishda
+
+? Qanday mikroorganizmlar mikoplazmalar deb ataladi?
+- a. virus
+- b. bir xil nuklein kislotasiga ega mikroorganizm
+- c. virion
++ d. hujayra qobig'isiz bakteriyalar
+
+? Rikketsiyalar qanday mikroorganizmlar xisoblanadi?
+- a. hujayra qobig'isiz bakteriya
+- b. hujayra qobig'i qisman buzilgan bakteriya
+- c. bir turdagi nukleyn kislotasiga ega bo'lgan bakteriya
++ d. hujayra ichi paraziti bo'lgan mikrob
+
+? Sharsimon bakteriyalarni ko'rsating?
+- a. lyambliyalar
+- b. diplobakteriyalar
++ c. streptokokklar
+- d. vibrionlar
+
+? Sodda hayvonlar sinfiga kirmaydigan mikroblarni ko'rsating?
+- a. xivchinlilar
++ b. sporali bakteriyalar
+- c. ildiz oyoqlilar
+- d. kipriklilar
+
+? Spora hosil qilmaydigan anaerob mikroblar avlodini ko'rsating?
++ a. bakteroid
+- b. salmonella
+- c. shigella
+- d. vibrion
+
+? Balg'amdan mikroskopik tekshiruv uchun tayyorlangan surtma Gram usulida bo'yalganda lansetsimon, juft-juft joylashgan grammusbat mikroorganizmlar aniqlandi. Bu qaysi mikroorganizmlar?
+- a. stafilokokk
+- b. gonokokk
+- c. meningokokk
++ d. pnevmokokk
+
+? Bo'yalmagan, tabiiy holdagi hujayralar va mikroorganizmlarni o`rganishimiz kerak. Qanday mikroskopda bunday imkoniyat yuqori.
+- a. Yorug'lik mikroskopida
+- b. Lyumenssent mikroskopida
++ c. Fazokontrast mikroskopida
+- d. Elektron mikroskopida
+
+? Jinsiy a'zolar ajratmasidan tayyorlangan surtmada ko'p miqdorda leykotsitlar (tugallanmagan fagositoz) ichida juft juft bo'lib joylashgan kofe doniga o'xshash, grammanfiy diplokokklar aniqlandi. Qanday mikroorganizmlar aniqlanganligini ko'rsating?
+- a. stafilokokklar
+- b. meningokokklar
++ c. gonokokklar
+- d. pnevmokoklar
+
+? Orqa miya suyuqligidan tayyorlangan surtma laboratoriya tekshiruvida ko'p miqdorda leykositlar (tugallanmagan fagositoz) ichida juft juft bo'lib joylashgan kofe doniga o'xshash, grammanfiy diplokokklar aniqlandi. Qanday mikroorganizmlar aniqlanganligini ko'rsating?
+- a. stafilokokklar
+- b. monokokk
++ c. meningokokklar
+- d. pnevmokoklar
+
+? Qin ajratmasidan tayyorlangan surtmada ko'p miqdorda to'rtta - to'rtta bo'lib joylashgan kokklar aniqlandi. Qanday mikroorganizmlar aniqlanganligini ko'rsating?
+- a. pnevmokokklar
+- b. gonokokklar
+- c. stafilokokklar
++ d. tetrakokklar
+
+? Surtma Gram usulida bo'yaldi va mikroskopik tekshirishga tayyorlandi. Bu preparatni ko'rishimiz uchun bizga qanday mikroskop kerak.
+- a. Qorong'ulashtirilgan maydonli mikroskop
+- b. Lyumenssent mikroskop
+- c. Elektron mikroskop
++ d. Yorug'lik mikroskopi
+
+? Surtma Gram usulida bo'yalganda, Gr +, shakli lansetsimon juft joylashgan kokklar ko'rindi. Surtmada qaysi bakteriyalar borligini toping.
+- a. Tetrakokklar
++ b. Pnevmokokk
+- c. Streptokokklar
+- d. Stafilokokklar
+
+? Tayyorlangan surtma Gram usulida bo'yalganda, Gr +, shaklli zanjirsimon joylashgan kokklar ko'rindi. Surtmada qaysi bakteriyalar borligini toping.
+- a. Tetrakokklar
+- b. Stafilokokklar
++ c. Streptokokklar
+- d. Monokokklar
+
+? Tirik xarakatchan bakteriyalarni bo'yamasdan o`rganishimiz kerak. Qanday mikroskopda bunday imkoniyat yuqori.
+- a. Elektron mikroskopida
+- b. Lyumenssent mikroskopida
++ c. Qorong'ulashtirilgan maydonli mikroskopida
+- d. Yorug'lik mikroskopida
+
+? Yiring Gram usulida bo'yalganda uzum shingiliga o'xshab joylashgan sharsimon shakldagi Gr+ mikroblar topildi. Qaysi mikrobligini aniqlang?
++ a. Stafilokokk
+- b. Esherixiy
+- c. Tetrakokk
+- d. Mikrokokk
+? Bakteriyalarda yadro ko'rinadimi?
+- a. Yaqqol ko'rinadi
++ b. Tarqoq bo'lganligi uchun ko'rinmaydi
+- c. Yashash sharoitiga qarab ko'rinadi
+- d. Yadrosi yo'q
+
+? Bakteriyalarning xivchinlari hujayraning qaysi qismlari bilan bog'langan.
+- a. yadro
+- b. lizosoma
+- c. sitoplazma
++ d. hujayra devori, sitoplazma
+
+? Gram usilida surtma bo'yalganda 96 C spirt nima uchun ishlatiladi?
+- a. mikrobni o'ldirish uchun
+- b. gensianvioletni protoplazmaga biriktirish uchun
+- c. surtmani shishaga yopishtirish uchun
++ d. surtmani rangsizlantirish uchun
+
+? Gram usulida bo'yash bakteriyalarni Gr – va Gr+ ajratadi. Bu esa ularning tuzilishi va kimyoviy tarkibiga bog'liq. Javoblarning to'g'riligini aniqlang.
+- a. Gr+ protoplazmasida ko'p miqdorda yog'simon moddalar bor.
+- b. Gr – teyxol kislotasi bor.
++ c. Gr+ protoplazmasida ko'p miqdorda glikoproteidlar va teyxol kislotasi bor.
+- d. Gr – protoplazmasiga ko'p miqdorda glikoproteidlar bor.
+
+? Gram usulida surtma bo'yalganda Lyugol eritmasi nima maqsadda ishlatiladi?
+- a. surtmadagi mikroblarni o'ldirish uchun
+- b. fuksinni protoplazmaga bog'lash uchun
+- c. surtmani shishaga yopishtirish uchun
++ d. gensianvioletni mikrob protoplazmasi bilan mustahkam bog'lanishi uchun
+
+? Har ikkala tomonda bir tutam xivchini bo'lgan bakteriyaning nomlanishi.
++ a. amfitrix
+- b. peritrix
+- c. monotrix
+- d. lofotrix
+
+? Klostridiyalar qanday mikroorganizmlar?
++ a. spora o'lchami tanasidan kattaroq, anaerob bakteriyalar
+- b. sun'iy oziq muhitlarda kapsula hosil qiluvchi mikroorganizm
+- c. sporasi tanasidan katta, aerob bakteriyalar
+- d. mikroorganizmda kapsula hosil qiluvchi mikroorganizm
+
+? Monotrix bakteriyalarga misol.
+- a. gonokokk
++ b. vabo vibrioni
+- c. ichak tayoqchasi
+- d. kuydirgi tayoqchasi
+
+? Neysser usulida nimani bo'yash mumkin?
++ a. volyutin donachalarini
+- b. sporani
+- c. qobiq pardani
+- d. kapsulani
+
+? Ojeshko usulida bo'yash qachon ishlatiladi?
+- a. volyutin donachasini bo'yashda
+- b. kapsulani bo'yashda
+- c. xivchinlarni bo'yashda
++ d. sporani bo'yashda
+
+? Patogen bakteriyalar qaerda kapsula hosil qiladi?
++ a. makroorganizmga tushganda
+- b. oziq muhit yetishmaganda
+- c. ko'p miqdordagi O2 ta'sirida
+- d. tuproqqa tushganda
+
+? Qanday mikroorganizmlar batsillalar deb ataladi?
++ a. sporasi tanasidan kichik bo'lgan aerob bakteriyalar
+- b. organizmda kapsula hosil qiladigan bakteriyalar
+- c. sporasi tanasidan katta bo'lgan anaerob bakteriyalar
+- d. xivchinli bakteriyalar
+
+? Qaysi bakteriya peritrix?
+- a. stafilokokk
++ b. ichak tayoqchasi
+- c. vabo vibrioni
+- d. sarsina
+
+? Qaysi bo`yoq Gram usulida ishlatiladi?
++ a. gensian violet
+- b. brilliant yashili
+- c. Leffler ko`ki
+- d. vezuvin
+
+? Qaysi mikrob spora hosil qilish xususiyatiga ega?
+- a. streptokokk
+- b. pnevmokokk
++ c. kuydirgi tayoqchasi
+- d. gonokokk
+
+? Qaysi mikrobda volyutin donachasi bo'ladi?
+- a. sarsinada
+- b. streptokokkda
++ c. difteriya tayoqchasida
+- d. qorin tifi bakteriyasida
+
+? Qaysi mikroorganizmlar xivchinga ega?
++ a. tayoqchasimonlar
+- b. kokklar
+- c. rikketsiyalar
+- d. achitqi zamburug'i
+
+? Qaysi vaqtda mikroblar spora hosil qilmaydi?
+- a. kislorod etishmaganda
+- b. oziq muhit yetishmaganda
+- c. mikrobga sovuqlik, issiqlik, tuzlar, kislotalar ta'sir etganda
++ d. odam organizmida
+
+? Spora hosil qiluvchi mikroblar qanday nomlanadi?
+- a. aniq nomi yo'q
+- b. streptobakteriya deyiladi
+- c. bakteriya deyiladi
++ d. batsilla deyiladi
+
+? Surtma Gram usilida bo'yalganda gensianviolet nima uchun ishlatiladi?
+- a. Gr. « – » lar qizilga bo'yalishi uchun
+- b. Gr. «+» larni gensianviolet bilan mustahkamlash uchun
++ c. Gr. «+» larni bo'yash uchun
+- d. Gensianvioletni Gr. « – » lardan yuvib chiqarish uchun
+
+? Surtma Gram usilida bo'yalganda suv nima uchun ishlatiladi?
++ a. Hujayradan tashqari maydonni yuvish uchun
+- b. Gr. «+» larni gensianviolet bilan mustahkamlash uchun
+- c. Gensianvioletni Gr. « – » lardan yuvib chiqarish uchun
+- d. Gr. « – » lar qizilga bo'yalishi uchun
+
+? Surtma Gram usulida bo'yalganda Lyugol eritmasi nima uchun ishlatiladi?
++ a. Gr. «+» larga gensianvioletni mustahkamlash uchun
+- b. Hujayradan tashqari maydonni yuvish uchun
+- c. Gr. « – » lar qizilga bo'yalishi uchun
+- d. Gensianvioletni Gr. « – » lardan yuvib chiqarish uchun
+
+? Surtma Neysser usilida bo'yalganda xrizoidin bo`yog'i nima uchun ishlatiladi?
+- a. Fiksatsiya qilish uchun
+- b. Hujayra protaplazmasidan ko'k rangni yuvish uchun
+- c. Volyutin donachalarini ko'kka bo'yash uchun
++ d. Protaplazmani sariqqa bo'yash uchun
+
+? Surtma Neysser usulida bo'yalganda metil ko'ki bo`yog'i nima uchun ishlatiladi?
+- a. Protaplazmani sariqqa bo'yash uchun
+- b. Fiksatsiya qilish uchun
+- c. Hujayra protaplazmasidan ko'k rangni yuvish uchun
++ d. Volyutin donachalarini bo'yash uchun
+
+? Surtma Sil – Nelson usilida bo'yalganda nima uchun surtma qizdiriladi?
++ a. Kislotaga chidamli bakteriyalarni qizilga bo'yash uchun
+- b. Hujayra protaplazmasidan qizil rangni yuvish uchun
+- c. Fiksatsiya qilish uchun
+- d. Kislotaga chidamsiz bakteriyalarni ko'kka bo'yash uchun
+
+? Volyutin donachasining ahamiyati nimadan iborat?
+- a. bakteriyani harakatida ishtirok etadi
++ b. zahira ozuqa
+- c. yog'lar almashinishida ishtirok etadi
+- d. favqulotda paydo bo'ladigan keraksiz narsa
+
+? Bemordan olingan patologik materiallardan surtma tayyorlanib Buri-Gins usuli bo'yicha bo'yalganda kapsulaga ega bakteriyalar ma'lum bo'ldi. Bunda bakteriyalarning kapsulaları qanday ko'rinadi?
++ a. Rangsiz
+- b. Qizil rang
+- c. Qora rang
+- d. Binafsha rang
+- e. Moviy rang
+
+? laboratoriyaga kelgan patoligik materiallardan surtma tayyorlanib, gram usulida bo'yalganda Lyugol eritmasini qo'llaganimizdan so'ng nima bilan ishlov berasiz?
+- a. Fuksin
+- b. Gensianviolet
+- c. Suv
+- d. Sulfat kislota
++ e. Spirt
+
+? Patologik bakteriyalar kulturasidan tayyorlangan surtmani quritib, spirtovka alangasi ustida qizdirildi. Bundan asosiy maqsad:
++ a. Bakteriyani o'ldirib, surtmani zararsizlantirish, mikrob hujayrasini buyum oynachasiga yopishtirish
+- b. To'g'ri javob keltirilmagan
+- c. Bakteriya hujayrasini devorini zararlash
+- d. Yog'simon moddalarni eritish
+- e. Bundan biror maqsad yo'q
+
+? Patologik materiallardan surtma tayyorlab Gram usulida bo'yash kerak. Buning uchun bo'yoqlardan qaysi biri birinchi navbatda ishlatiladi:
++ a. Gensian violet
+- b. Lyugol eritmasi
+- c. Fuksin
+- d. Etil spirit
+- e. Metilen ko'ki
+
+? Patologik materiallardan surtma tayyorlandi va surtmada markaziy sporaga ega bakteriyalar ko'rindi. Bu qaysi kasallik qo'zg'atuvchisi:
+- a. Sil qo'zg'atuvchisi
+- b. Tularemiya qo'zg'atuvchisi
++ c. Kuydirgi qo'zg'atuvchisi
+- d. Botulizm qo'zg'atuvchisi
+- e. Qoqshol qo'zg'atuvchisi
+
+? Surtma Gram usulida bo'yaldi. Bunda grammusbat mikroorganizmlar qanday rangda ko'rinadi:
+- a. Ko'k
+- b. Qizil
+- c. Qora
+- d. Sariq
++ e. Binafsha
+
+? Surtmalarni Gram usulida bo'yab o'rganmoqchimiz. Bu usulda qanday bo'yoq ishlatilmaydi:
+- a. Barchasi ishlatiladi
+- b. Lyugol eritmasi
+- c. Spirt eritmasi
++ d. Metilen ko'ki
+- e. Pfeiffer fuksini
+
+? Tayyorlangan surtma Gram usulida bo'yalganda 96% li spirt ishlatiladi. Nima uchun spirt ishlatildi:
+- a. Surtmani oynachaga yopishtirish uchun
++ b. Surtmani rangsizlantirish uchun
+- c. Aniq sababi yo'q
+- d. Barchasi to'g'ri
+- e. Gensianvioletni protoplazmaga biriktirish uchun
+
+? Tayyorlangan surtmada kislotaga chidamli bakteriyalar borligi taxmin qilindi va Sil-Nelson usuli bilan bo'yaldi. Surtmadagi kislotaga chidamli bakteriyalar qanday rangga kiradi?
+- a. Rangsiz
+- b. Moviy
++ c. Qizil
+- d. Sariq
+- e. Binafsha rang
+
+? Volyutin granulalariga ega bakteriyalardan surtma tayyorlandi va Neysser usulida bo'yaldi. Bakteriyalarning volyutin donachalari qanday rangda ko'rinadi:
+- a. Qizil rang
++ b. To'q ko'k rangda
+- c. Rangsiz
+- d. Binafsha rang
+- e. To'q olcha rang
+? Absolyut parazit hisoblangan mikroorganizmlar guruhini ayting
++ xlamidiyalar
+- zamburug'lar
+- mikoplazmalar
+- bakteriyalar
+
+? Absolyut parazit hisoblangan mikroorganizmlar guruhini ayting
+- mikoplazmalar
+- bakteriyalar
+- zamburug'lar
++ rikketsiyalar
+
+? Balantidiy koli sodda jonvorlar tipining qaysi sinfiga kiradi?
+- ildiz oyoqlilar
++ kipriklilar
+- sporalilar
+- xivchinlar
+
+? Dizenteriya amyobasi ichak amyobasidan qaysi belgisi bilan farqlanadi
+- Spora hosil qilish bilan
++ Yolg'on oyoqlarining kaltaligi bilan
+- Kapsula hosil qilish bilan
+- Sista hosil qilish bilan
+
+? Hujayra ichi parazit mikroblarni ko'rsating?
++ viruslar, xlamidiyalar va rikketsiyalar
+- stafilokokklar, streptokokklar, pnevmokokklar
+- salmonella, meningokokk, viruslar
+- shigellalar streptokokklar, stafilokokklar
+
+? Qaysi moddalar xlamidiyalarni o'sish faktori sifatida qo'llaniladi:
+- Zardob
++ Vitaminlar
+- Uglevodlar
+- Oqsillar
+
+? Qaysi parazitning xivchini yo'q?
+- Lyambliya
+-Leyshmaniya
++ Toksoplazma
+- Trixomonada
+
+? Quyidagi qaysi zamburug'dan dori moddalari olinadi?
++ penitsil
+- kandida
+- asperegilla
+- trixofitiya
+
+? Rikketsiyalar nimada o'smaydi?
+- laboratoriya hayvonlarida
+- tovuq tuxumi embrionida
+- tirik o'suvchi to'qimalarda
++ sun'iy oziq muhitlarida
+
+? Rikketsiyalar qanday mikroorganizmlar?
+- hujayra qobig'i yo'q bakteriyalar
+- fakul'tativ aerob bakteriyalar
+- obligat anaerob mikroblar
++ obligat hujayra ichi parazitlari
+
+? Rikketsiyalar qanday yo'l bilan ko'payadi?
++ bo'linish yo'li bilan
+- xivchin hosil qilib
+- spora hosil qilib
+- kapsula hosil qilib
+
+? Rikketsiyalarni Koks usulida o'stirib ko'paytirish qanday amalga oshiriladi?
+- to'qima kul'turasiga yuqtirish
+- tovuq embrionining sariq qopchasiga yuqtirish
++ tovuq embrionining amnioniga yuqtirish
+- bitlarga yuqtirish
+
+? Rikketsiyalarning bakteriyalardan asosiy farqlari
+- mikrokapsula hosil qilishi
+- elektiv muhitlarda ko'payishi
+- tuzilishi
++ hujayra kulturalarda ko'payishi
+
+? Rikketsiyalarning bakteriyalarga aynan o'xshash xususiyatlari
+- harakati
+- ovqatlanishi
++ morfologik shakllari
+- sintetik muhitlarda o'sishi
+
+? Roxa – Lima ochgan mikrob avlodini ko'rsating
++ rikketsiyalar
+- mikoplazmalar
+- viruslar
+- zambrug'lar
+
+? Spiroxetalarning asosiy ko'payish usulini ayting
+- kurtaklanish
++ ko'ndalang bo'linish
+- kon'yugatsiya
+- spora hosil qilish
+
+? Spiroxetlarga kiruvchi mikroorganizmlarni ko'rsating.
++ Leptospira, treponema
+- gonokokk, meningokokk
+- stafilakokk, batsilla
+- E.coli, salmonella
+
+? Spiroxetlarni bo'yash usuli?
+- Ojeshko
+- Sil – Nelson
++ Romanovskiy Gimza
+- Neysser
+
+? Treponema pallidium qaysi kasallikni qo'zg'atadi:
+- Qaytalama tif
++ Zaxm
+- So'zak
+- Toshmali tif
+
+? Tripanosoma qaysi turga kiradi:
+- Prokariotlarga
+- Prionlarga
+- Virislarga
++ Eukariotlarga
+
+? Aktinomisetlar bilan zararlangan to'qimalarda o'ziga xos tuzilishga ega bo'lgan tuzilmalar topildi, bu qanday nomlanadi?
+- sporangiyalar
++ druzalar
+- kopidiyalar
+- sistalar
+
+? Anofeles pashshasi chaqqan o'quvchilar qaysi qo'zg'atuvchi bilan zararlandi?
+- Spiroxitalar
+- Aktinomisetlar
+- Zamburug'lar
++ Bezgak plazmodiylari
+
+? Bemor jinsiy a'zolari - kichik jinsiy lablaridagi yarasidan material olib mikroskop ostida tekshirilganda ingichka, rangsiz, bir xil buramali, nozik spiralsimon, harakatchan mikroorganizm aniqlandi. Bu qaysi miroorganizm bo'lishi mumkin?
+- treponema dentium
++ treponema pallidum
+- treponema refringens
+- borreliya recurrentis
+
+? Patologik materiallardan surtma tayyorlandi va mikroskopiya qilindi. Surtmada oqish treponemalar ko'rindi. Oqish treponemalarning morfologik tuzilishini ko'rsating
+- 3-8 ta xar xil burmaga ega, ingichka spiralsimon mikroorganizmlar
+- 2-3 ta xar xil burmaga ega, ingichka spiralsimon mikroorganizmlar
++ 8-14 ta bir xil burmaga ega, ingichka spiralsimon mikroorganizmlar
+- 12-18 ta mayda burmaga ega, ingichka spiralsimon mikroorganizmlar
+
+? Siydik tanosil a'zolaridan olingan surtmada mikoplazmalar bor, deb shubha qilinmoqda. Mikoplazmalarni ko'rish uchun qaysi usulda bo'yash kerak?
+- Ojeshko
+- Gram
+- Sel-Nelson
++ Romanovskiy-Gimza
+
+? Sizga keltirilgan spiralsimon bakteriyalarning o'lchami va buramalarning soniga ko'ra qanday guruhlarga ajratgan bo'lardingiz:
+- to'g'ri javob keltirilmagan
+- streptobasilla, treponema, boreliya
+- spiroxeta, sarsina, boreliya
++ spiroxeta, treponema, boreliya
+
+? Surtmada xlamidiyalar borligiga taxmin qilinmoqda. Xlamidiyalarni bo'yab o'rganish uchun eng ko'p qo'llaniladigan usulni ko'rsating:
+- Pikarskiy
+- Gram
++ Romanovskiy-Gimza
+- Sel-Nelson
+
+? Tahlilga olib kelingan patologik materialda xlamidiyalar borligi aniqlandi. Xlamidiyalar va viruslarning qanday o'xshashlik tomonlari bor
+- lipidlar va oqsillarni mustaqil sintez qilishi
++ hujayra ichi paraziti
+- hujayra qobig'ini hosil qiladi
+- kislotalari
+
+? Zararlangan to'qimalardan tayyorlangan surtma mikroskopiya qilinganda, surtmada o'ziga xos druzalar borligi aniqlandi. To'qimalar qaysi qo'zg'atuvchi bilan zararlangan?
+- Sodda hayvonlar
+- Zamburug'lar
+- Spiroxitalar
++ Aktinomisetlar
+
+? Zaxm bilan kasallangan bemordan olingan surtma bakterioskopik tekshirildi. Triponema Romanovskiy-Gimza usulida bo'yalganda qaysi rangga kiradi?
+- qizil
++ pushti
+- qora
+- siyohrang
+? ATF sarflanmaydigan moddalar tashilishini ko'rsating.
+- yengillashgan diffuziya
+- passiv transport
++ faol transport
+- passiv diffuziya
+
+? ATF ko'p miqdorda sarflanadigan moddalar tashilishini ko'rsating.
+- passiv transport
+- passiv diffuziya
+- yengillashgan diffuziya
++ faol transport
+
+? Bakteriya hujayrasining hayot faoliyatida uglevodning roli
+- muhit pHni aniqlaydi
+- hujayraning zaryadini belgilaydi
++ energiya manbai hisoblanadi
+- toksinlar sintezini ta'minlaydi
+
+? Bakteriya hujayrasining qaysi o'sish fazasi o'lik va tirik hujayralar soni tengligi bilan xarakterlanadi
+- tugash fazasi
+- logarifmik tezlashish
+- boshlang'ich
++ maksimal statsionar faza
+
+? Bakteriyalar azotni o'zlashtirishiga ko'ra qanday turlarga bo'linadi.
++ prototrof vaauksotrof
+- avtotrof va geterotrof
+- xemolitotrof
+- organotrof
+
+? Bakteriyalar o'sishining to'xtash davri nimaga bog'liq:
+- Barcha turdagi mikroblar uchun bir xil
+- Ekilgan bakteriyalarning koloniyasiga
++ Logarifmik o'sish davridan keyingi holatga
+- Mikrob turiga bog'liq
+
+? Bakteriyalar suyuq oziq muhitda nechta fazada o'sadi.
+- II
+- III
+- I
++ IV
+
+? Bakteriyalarning qaysi fermenti nafas olishda qatnashadi
++ oksidoreduktazalar
+- izomeraza
+- transferezalar
+- ligazalar
+
+? Bakteriyalarning qaysi fermenti oksidlanish jarayonlarida qatnashadi
+- ligazalar
+- izomeraza
+- transferezalar
++ oksidoreduktazalar
+
+? Galofil bakteriyalarga quyidagilardan qaysi biri mansub?
++ Vibrio parahaemolyticus
+- Shigella flexneri
+- Streptococcus pyogenes
+- Staphylococcus aureus
+
+? Kislorodli sharoitda nobud bo'ladigan mikroorganizmlarni ko'rsating
+- qat'iy aeroblar
+- aeroblar
+- shartli anaeroblar
++ qat'iy anaeroblar
+
+? Mikroorganizmlarning ferment hosil qilish xususiyati nima maqsadda o'rganiladi?
+- mikroorganizmlarning toksigenligini aniqlash uchun
+- mikroorganizmlarning kapsula hosil qilishini aniqlash uchun
+- mikroorganizmlarning spora hosil qilishini aniqlash uchun
++ mikroorganizmning turini aniqlash uchun
+
+? Moddalarni tashilishida qaysi ferment ishtirok etadi?
+- izomeraza
+- transferezalar
+- ligazalar
++ permiaza
+
+? Nega kislorod ta'sirida anaeroblar halok bo'ladilar?
+- anaeroblar peroksidaza fermentini sintez qiladi, hosil bo'lgan perekis vodorodni parchalaydi
+- Buning mexanizmi aniqlangan emas
+- aeroblar peroksidaza fermentini sintez qiladi, hosil bo'lgan vodorod perokisidni parchalaydi
++ anaeroblar peroksidaza fermentini sintez qilmaydilar, shu sababli vodorod perokisidi tasirida halok bo'ladilar
+
+? Noorganik birikmalardan uglerodni istemol qiluvchi bakteriyalar oziqlanishi bo'yicha qaysi turga mansub
+- paratroflar
+- geterotroflar
+- auksotroflar
++ autotroflar
+
+? Psixrofil bakteriyalar uchun qanday harorat optimal hisoblanadi?
+- 50-60 C
+- 90-100 C
+- 70-80 C
++ 20-30 C
+
+? Qanday modda o'stiruvchi sifatida qo'llanish mumkin
+- oqsil
+- uglerod
++ vitaminlar
+- uglevodlar
+
+? Termofil bakteriyalar uchun qanday harorat optimal hisoblanadi?
+- 70-80 C
+- 20-30 C
++ 50-60 C
+- 90-100 C
+
+? Vodorod peroksidi anaerob bakteriyalarga qanday ta'sir ko'rsatadi?
+- rag'batlantiruvchi
+- ta'sir qilmaydi
+- ko'payishini tuxtatadi
++ o'ldiruvchi
+
+? Yuqumli kasalliklar qo'zg'atuvchilari oziqlanishi bo'yicha qaysi mikroorganizmlarga kiradi:
+- autotroflar
+- fototroflar
+- xemoautotroflar
++ geterotroflar
+
+? Bakteriyalar erkin kislarodga bo'lgan ehtiyojiga qarab turlicha guruhlarga bo'linadi. Odamlarda kasallik qo'zg'atuvchi mikroorganizmlar "nafas olishi" bo'yicha qaysi toifaga kiradi.
++ Barcha javob to'g'ri
+- Anaeroblar
+- Fakultativlar
+- Aeroblar
+
+? Bakteriyalar erkin kislarodga bo'lgan ehtiyojiga qarab turlicha guruhlarga bo'linadi. Ular suyuq muhitlar yuzasida parda hosil qilib o'sishsa "nafas olishi" bo'yicha qaysi toifaga kiradi.
+- Fakultativlarga
++ Aeroblarga
+- Barcha javob to'g'ri
+- Anaeroblarga
+
+? Bakteriyalar erkin kislarodga bo'lgan ehtiyojiga qarab turlicha guruhlarga bo'linadi. Ular suyuq muhitlarda diffuz loyqa hosil qilib o'sishsa "nafas olishi" bo'yicha qaysi toifaga kiradi.
+- Barcha javob to'g'ri
+- Anaeroblarga
+- Aeroblarga
++ Fakultativlarga
+
+? Bakteriyalar erkin kislarodga bo'lgan ehtiyojiga qarab turlicha guruhlarga bo'linadi. Ular suyuq muhitlarda cho'kmaa hosil qilib o'sishsa "nafas olishi" bo'yicha qaysi toifaga kiradi.
+- Barcha javob to'g'ri
++ Fakultativlarga
+- Aeroblarga
+- Anaeroblarga
+
+? Bakteriyalar oziq muhitlarda o'stirilgandi ma'lum vaqt ko'paymasdan oziq muhitga moslasha boshlaydi. Bunday holat qaysi bosqichda yuz beradi.
+- Maksimal statsionar davrida
+- Logarifmik ko'payish davrida
++ Boshlang'ich statsionar davrida
+- Logarifmik o'lim davrida
+
+? Bakteriyalar oziq muhitlarda o'stirilgandi ma'lum vaqtdan so'ng 2-4-8-16... ga bo'linib ko'paya boshlaydi. Bunday holat qaysi bosqichda yuz beradi.
+- Logarifmik o'lim davrida
+- Maksimal statsionar davrida
++ Logarifmik ko'payish davrida
+- Boshlang'ich statsionar davrida
+
+? Bakteriyalar oziq muhitlarda o'stirilgandi ma'lum vaqtdan so'ng bo'linib ko'payayotgan bakteriyalar soni o'layotgan bakteriyalar soni bilan tenglasha boshlaydi. Bunday holat qaysi bosqichda yuz beradi.
++ Maksimal statsionar davrida
+- Logarifmik ko'payish davrida
+- Boshlang'ich statsionar davrida
+- Logarifmik o'lim davrida
+
+? Bakteriyalar oziqlanish turi bo'yicha turlicha guruhlarga bo'linadi. Odamlarda kasallik qo'zg'atuvchi mikroorganizmlar oziqlanish turi bo'yicha qaysi toifaga kiradi.
+- Litatroflar
+- Saprofitlar
++ Parazitlar
+- Autotroflar
+
+? Bakteriyalarni organizmdan tashqarida o'stirish uchun makro va mikroelementlar va har xil tuzlari muvozanatlashgan muhit yaratilishi lozim. Bunday muhit qanday tayyorlanadi.
+- Baliq suyaklari maydalanib qo'shiladi
++ Lahm go'sht qiymalanib ikki hissa suv qo'shiladi va ekstraksiya qilinadi
+- Har xil sharbatlardan foydalaniladi
+- Muhitlar qon zardobi asosida tayyorlanadi
+
+? Ma'lumki odamlarda kasallik qo'zg'atuvchi mikroorganizmlar oziqlanish turi bo'yicha parazitlar toifasiga kiradi. Ularni oziq muhitlarda o'stirish uchun zarur bo'lgan moddani ko'rsating.
+- Kraxmal va glyukoza
+- O'simlik kletchatkalari
++ Hayvonlar oqsili – pepton
+- Uglevodlar va yog'lar
+? Aerob mikroblarning suyuq oziq muhitlarda qanday o'sishini belgilang
+- a. Cho'kma holida
++ b. Oziq muhit ustida parda hosil qiladi
+- c. Idish devori bo'ylab cho'kma hosil qiladi
+- d. Bir tekis loyqa hosil qiladi
+
+? Anaerob mikroorganizmlar uchun oziq muhitlarni ko'rsating
+- a. Endo, Levin muhiti
++ b. Kitt – Tarotsi, seysler muhiti, sut
+- c. O'tli bulon, Rapoport muhiti
+- d. Ru, Leffler muhiti
+
+? Bakteriyalarning mexanik ajralish qoidasiga asoslangan sof kulturani ajratib olish usuli
+- a. Prays
+- b. Fortner
+- c. Veynberg
++ d. Drigalskiy
+
+? Bakteriyalarning qaysi xususiyatlari ularning oziq muhitlarda o'sishini xarakterlaydi
++ a. kultural
+- b. bioximik
+- c. serologik
+- d. tinktorial
+
+? Bakteriyani turini aniqlashda va qulay sharoit yaratish uchun qaysi oziq muhitlar qo'llaniladi.
+- a. oddiy
+- b. sintetik
+- c. yuqori oziq tutgan
++ d. elektiv
+
+? Elektiv oziq muhitni ko'rsating.
+- a. Giss muhiti
++ b. Lyoffler muhiti
+- c. Endo muhiti
+- d. Levin muhiti
+
+? Endo muhitida o'stirilgan esherixiya koloniyalarining rangi
+- a. Binafsha
+- b. Rangsiz
++ c. Qizil
+- d. Ko'k
+
+? Faqat bir turdagi mikroorganizmlar yig'indisiga nima deyiladi.
+- a. serovar
+- b. fagovar
++ c. sof kultura
+- d. biovar
+
+? Gazli gangrena va qoqshol mikroblari qaysi muhitlarda o'sadi?
+- a. peptonli suvda
++ b. Kitt – Tarotsii muhitida
+- c. sutli agarda
+- d. qandli bulonda
+
+? Giss muhitiga ekilganda qaysi fermentlar aniqlanishini ko'rsating
++ a. saxarolitik
+- b. patogenlik
+- c. lipolitik
+- d. virulentlik
+
+? Mikroorganizmlarning ferment hosil qilish xususiyati nima maqsadda o'rganiladi?
++ a. mikroorganizmning turini aniqlash uchun
+- b. mikroorganizmlarning kapsula hosil qilishini aniqlash uchun
+- c. mikroorganizmlarning toksigenligini aniqlash uchun
+- d. mikroorganizmlarning spora hosil qilishini aniqlash uchun
+
+? Mikroorganizmning bioximik xususiyatlarini o'rganish uchun ishlatiladigan ozuqa muhitini ko'rsating
++ a. differinsial diagnostik
+- b. sintetik
+- c. elektiv
+- d. suyuq
+
+? Mikroorganizmning xususiyatlarini o'rganib identifikatsiya qilishdan maqsad nima
+- a. oilani aniqlash
++ b. turni aniqlash
+- c. klonni aniqlash
+- d. guruhini aniqlash
+
+? Nima sababdan ichak tayoqchasi Endo muhitida qizil koloniya hosil qiladi?
++ a. Laktozani parchalaganligi uchun
+- b. Laktozani parchalamaganligi uchun
+- c. Aerob bo'lgani uchun
+- d. Peptonni parchalaganligi uchun
+
+? Oddiy oziq muhitlarni ko'rsating.
+- a. Shakarli bulon
++ b. Go'sht – peptonli agar
+- c. Shakarli agar
+- d. qonli agar
+
+? Oddiy sun'iy oziq muhitlarini belgilang?
+- a. Qand qo'shilgan muhitlar
+- b. qonli GPA, qonli GPB
++ c. GPA, GPB, GPJ
+- d. Zardobli muhitlar
+
+? Oziq muhitlarga talabchan bo'lgan bakteriyalar qaysi muhitlarda o'stiriladi.
+- a. go'sht peptonli agar
+- b. ishqorli agar
++ c. zardobli agar
+- d. bo'yoqli muhit
+
+? Qaysi muhit differensial diagnostik hisoblanadi?
+- a. Go'sht – peptonli agar
+- b. Ru, Lyoffler muhitlari
+- c. Go'sht – peptonli bulon
++ d. Endo muhiti
+
+? Qaysi muhit selektiv hisoblanadi?
+- a. go'sht – peptonli bulon
+- b. Ru, Lyoffelr muhitlari
+- c. go'sht – peptonli agar
++ d. Tuxum sarig'i qo'shilgan tuzli agar
+
+? Qaysi tekshiruv materialida sporali bakteriyalarni ko'proq aniqlash mumkin
+- a. ovqat qoldiqlarida
+- b. suvda
++ c. tuproqda
+- d. balg'amda
+
+? Umumiy oziq muhitini ko'rsating
++ a. qonli agar
+- b. qotirilgan zardob
+- c. 1% peptonli suv
+- d. GPB
+
+? Bakteriologik tekshirish uchun bemordan olingan ashyo (najas) Endo muhitiga ekildi. 24 soatdan so'ng tekshirilganda ko'plab to'q qizil rangli koloniyalar va kam sonli rangsiz koloniyalar aniqlandi. Bunday holatni qanday izohlaysiz.
++ a. Laktoza musbatlar qizil, laktoza manfiylar rangsiz koloniyalar hosil qilgan
+- b. Gram musbatlar qizil, gram manfiylar rangsiz koloniyalar hosil qilgan
+- c. Laktoza manfiylar qizil, laktoza musbatlar rangsiz koloniyalar hosil qilgan
+- d. Gram manfiylar qizil, gram musbatlar rangsiz koloniyalar hosil qilgan
+
+? Bakteriologik tekshirish uchun bemordan olingan ashyolar (najas)da enterobakteriyalar oilasiga mansub qo'zg'atuvchilar borligi taxmin qilindi. Bunday holatda bakteriyalarni o'stirish uchun qanday oziq muhitlarni tanlashimiz zarur.
+- a. Giss, Ru, Leffler
+- b. GPA, GPB, GPJ
++ c. Endo, Levin, Ploskirev
+- d. TsTA, Saburo, Qonli agar
+
+? Bakteriologik tekshirish uchun bemordan olingan ashyolarda juda ko'plab saprofit bakteriyalar va kam miqdorda kasallik qo'zg'atuvchilari borligi taxmin qilindi. Bunday holatda bakteriyalarni o'stirish uchun qanday oziq muhitlarni tanlashimiz zarur.
+- a. Differensial muhit
+- b. Boyituvchi muhit
++ c. Seliktiv muhit
+- d. Elektiv muhit
+
+? Bakteriologik tekshirish uchun bemordan olingan ashyolarda kam sonli bakteriyalar borligi taxmin qilindi. Bunday holatda bakteriyalarni o'stirish uchun qanday oziq muhitlarni tanlashimiz zarur.
+- a. Elektiv muhit
+- b. Universal muhit
+- c. Differensial muhit
++ d. Boyituvchi muhit
+
+? Bakteriologik tekshirish vaqtida ajratilgan kulturalarning biokimyoviy (uglevodlar va oqsillarni parchalash) xususiyatilarini urganish zarurati tug'ildi. Buning uchun qaysi oziq muhitini tanlashimiz kerak.
+- a. Levin
+- b. Endo
++ c. Giss
+- d. Ploskirev
+
+? Bakteriologik tekshirish vaqtida ajratilgan kulturalarning oqsillarni parchalash xususiyatilarini o'rganish zarurati tug'ildi. Buning uchun qaysi oziq muhitini tanlashimiz kerak.
++ a. GPJ, GPB
+- b. Qonli agar
+- c. GPA, Peptonli bulon
+- d. Sut-Tuzli agar
+
+? Bakteriologik tekshirish vaqtida ajratilgan kulturalarning oqsillarni parchalash xususiyatilarini urganish uchun GPB ekildi va oksalat (shavel) kislotasi shimdirilgan indikator qog'ozi tiqin bilan birga qo'yildi. 24 soatdan so'ng tekshirilganda indikator qog'ozi qizil rangga kirganligi aniqlandi. Bunday holatni qanday izohlaysiz.
++ a. Oqsil parchalanib indol hosil bo'lgan
+- b. Oqsil parchalanib amyak hosil bo'lgan
+- c. Oqsil parchalanmagan
+- d. Oqsil parchalanib vodorod sulfid hosil bo'lgan
+
+? Bakteriologik tekshirish vaqtida ajratilgan kulturalarning oqsillarni parchalash xususiyatilarini urganish uchun GPB ekildi va sirka kislotali qo'rg'oshin tuzi shimdirilgan indikator qog'ozi tiqin bilan birga qo'yildi. 24 soatdan so'ng tekshirilganda indikator qog'ozi qora rangga kirganligi aniqlandi. Bunday holatni qanday izohlaysiz.
+- a. Oqsil parchalanmagan
++ b. Oqsil parchalanib vodorod sulfid hosil bo'lgan
+- c. Oqsil parchalanib indol hosil bo'lgan
+- d. Oqsil parchalanib amyak hosil bo'lgan
+
+? Bakteriyalarni oziq muhitlarda o'stirish uchun makro- va mikroelementlar va har xil tuzlari muvozanatlashgan turlicha muhitlar yaratilgan. Bakteriya uchun eng yaxshi muhit qanday nomlanadi.
+- a. Differensial muhit
+- b. Universal muhit
+- c. Asosiy muhit
++ d. Elektiv muhit
+
+? Bakteriyalarni oziq muhitlarda o'stirish va ularni shu muhitda o'sishiga qarab bir – biridan farqlash imkonini beruvchi muhitlar yaratilgan. Shunday oziq muhitlar qanday nomlanadi.
+- a. Elektiv muhit
++ b. Differensial muhit
+- c. Asosiy muhit
+- d. Universal muhit
+? "Sovuq" sterillash usuliga kiradi.
+- a. qaynatish
++ b. ultrabinafsha nurlari
+- c. gazli sterilizatsiya
+- d. gaz alangasida sterillash
+
+? 100 C dan kam bo'lgan haroratda strelizatsiya qilish usulini ayting
++ a. pasterizatsiya
+- b. bug' orqali
+- c. qaynatish
+- d. quruq issiq
+
+? 100 gradusdan past haroratda sterilizatsiya qilish usullarini ko'rsating:
+- a. Oquvchi bug', pasterizatsiya
+- b. Qaynatish, tindalizatsiya
+- c. quruq issiq bilan, qaynatish
++ d. Tindalizatsiya, pasterizatsiya
+
+? Avtoklavda sterillash qanday olib boriladi:
++ a. bug' va bosimi ostida
+- b. cho'g'lantirish
+- c. qaynatish usullari
+- d. qizdirilgan quruq havo ta'sirida
+
+? Bug' va bosim yordamida sterilizatsiya qaysi apparatda amalga oshiriladi?
++ a. Avtoklavda
+- b. suv hammomida
+- c. Paster pechkasida
+- d. Kox apparatida
+
+? Dezinfeksiya deb nimaga aytiladi:
+- a. quruq issiq havo oqimini o'tkazish.
++ b. mikroorganizmlarni kimyoviy moddalar bilan yo'q qilish
+- c. fizik ta'sirlar bilan mikroorganizmlarni yo'q qilish
+- d. biologik ta'sirlar bilan mikroorganizmlarni yo'q qilish
+
+? Dezinfeksiya nima?
+- a. mikroorganizmlarning sporasini yo'qotish
++ b. patogen mikroblarning vegetativ va spora shaklini kimyoviy modda yordamida yo'qotish
+- c. patogen va saprofit mikroorganizmlarni barchasini yo'qotish
+- d. mikroorganizmlarning kapsulasini yo'qotish
+
+? Dezinfeksiya uchun ishlatiladigan moddalarni ko'rsating:
+- a. kislotali suv
+- b. ultratovush
+- c. pepton
++ d. etil spirti
+
+? Eng mukammal to'liq sterilizatsiya usulini ko'rsating
+- a. paster pechida – quruq issiqlik bilan
+- b. filtirlash
++ c. avtoklavda – bosim ostida
+- d. qaynatish
+
+? Filtirlash yo'li bilan nimalar sterillanadi
++ a. davolash uchun ishlatiladigan immun zardoblar
+- b. vaksinalar
+- c. anatoksinlar
+- d. oddiy oziq muhitlari
+
+? Kumush mikroorganizmga nisbatan qanday ta'sirga ega:
+- a. Yuvuvchi (tozalovchi) ta'sirga ega
+- b. Bakteriostatik
+- c. Metabolizmni buzadi
++ d. Oligodinamik ta'sir
+
+? Ob'ektlaridan mikroorganizmlarni batamom yo'q qilish.
+- a. aseptika
+- b. antiseptika
+- c. dezinfeksiya
++ d. sterilizatsiya
+
+? Qaysi modda dezinfeksiya uchun ishlatilmaydi?
+- a. 2% karbol kislotasi
+- b. 5% yod
++ c. 5% osh tuzi eritmasi
+- d. 96 C spirt
+
+? Quruq issiq havo bilan strelizatsiya qilish uchun qaysi apparat qo'llaniladi
++ a. paster pechi
+- b. spirt lampasi
+- c. avtoklav
+- d. kox apparati
+
+? Shishadan yasalgan asbob – idishlar qaysi usulda sterillanadi?
+- a. Kox apparatida
+- b. termostatda
+- c. 96 C li spirtda
++ d. Paster pechida
+
+? Sterilizatsiya nima?
++ a. mikroorganizmlarning barcha turini yo'qotish usuli
+- b. mikroorganizmlarning sporasini yo'qotish usuli
+- c. mikroorganizmlarning kapsulasini yo'qotish usuli
+- d. mikroorganizmlarning faqat vegetativ turini yo'qotish usuli
+
+? Sterilizatsiya uchun qo'llaniladigan asbob – uskunalar, moslamalar
+- a. Krotov moslamasi
+- b. anoerostat
+- c. Aristovskiy moslamasi
++ d. avtoklav
+
+? Sterilizatsiyaning qaysi usuli "tindalizatsiya" deyiladi
+- a. ultratovushda sterilizatsiyalash
++ b. bo'lib – bo'lib sterilizatsiyalash
+- c. yuqori atmosfera bosmida sterilizatsiyalash
+- d. to'liq bo'lmagan sterilizatsiya
+
+? Termostatda 22 – 27 C temperatura qanday maqsadda qo'llaniladi
+- a. sporali formalarni olish uchun
+- b. mikroorganizmlarni yo'qotish uchun
++ c. psixrofil bakteriyalarni o'stirish maqsadida
+- d. mikrob kulturasini saqlash maqsadida
+
+? Ultrabinafsha nurlarning bakteriyalarga ta'sir mexanizmi
+- a. oqsillarni koagulyasiyalaydi
++ b. letal mutatsiya keltirib chiqaradi
+- c. hujayra devorini shikastlaydi
+- d. suvsizlantiradi
+
+? Vitaminli preparatlar qanday usul bilan sterillanadi
++ a. filtratsiya
+- b. quruq issiqlik bilan
+- c. qaynatish
+- d. pasterizatsiya
+
+? Yuqori bosim ostida bug' yordamida sterillash o'tkaziladi.
+- a. kox apparatida
++ b. avtoklavda
+- c. quritish shkafida
+- d. paster pechida
+
+? B ismli kishining oilasi (uyida) da qorin tifi bilan kasallangan bemor aniqlandi va yuqumli kasalliklar shifoxonasiga yotqizildi. Bemor aniqlangan xonadonda endilikda shu kasallik takrorlanmasligi uchun qanday chora ko'rilishi kerak.
++ a. Yakuniy dezinfeksiya o'tkazilishi kerak
+- b. Xonadonda yashovchilar uydan boshqa joyga ko'chirilishi kerak
+- c. Joriy dezinfeksiya o'tkazilishi kerak
+- d. Profilaktik dezinfeksiya o'tkazilishi kerak
+
+? Bakteriologik tekshirish vaqtida ajratilgan kulturalarni aminokislota va vitaminlar bilan boyitilgan muhitlarga ekish zaruriyati bo'ladi. 100°C haroratda tarkibi o'zgaruvchi oziq muhitlarni sterilizatsiya qilish uchun qaysi usulni tavsiya etasiz.
+- a. Qaynatish orqali sterillash
+- b. Mexanik-filtrlash orqali sterillash
++ c. Tindalizasiya qayta-qayta sterillash
+- d. Avtoklavda bug' va bosim ostida sterillash
+
+? Bakteriologik tekshirish uchun zarur bo'lgan oziq muhitlarning sterilligiga shubha tug'dirdi. Bunday holatda qanday qilib oziq muhitlarning sterilligini aniqlash mumkin.
+- a. Oziq muhitlardan na'muna olib boshqa oziq muhitlarga ekib ko'rish
+- b. Oziq muhitlardan surtma tayorlab bo'yash va mikroskopda tekshirish
++ c. Oziq muhitlarni termostatda qoldirib 24 soatdan keyin tekshirish
+- d. Oziq muhitlardan na'muna olib laboratoriya hayvonlariga yuborish
+
+? Bemordan olingan tekshiruv ashyosi oziq muhitlarga ekildi. 24 soatdan so'ng tekshirilganda tillarang, sariq va oq rangli koloniyalar va kam sonli rangsiz koloniyalar aniqlandi. Bunday holatni qanday izohlaysiz.
++ a. Pigment hosil qilganligi uchun koloniyalar turlicha rangga kirishgan
+- b. Gram musbatlar rangsiz, gram manfiylar tillarang, oq, va sariq koloniyalar hosil qilgan
+- c. Laktoza musbatlar rangli, laktoza manfiylar rangsiz koloniyalar hosil qilgan
+- d. Gram manfiylar rangli, gram musbatlar rangsiz koloniyalar hosil qilgan
+
+? Dorivor moddalar ishlab chiqarayotgan sexda sanitar qoidalar buzilganligi uchun bu moddalarning sterilligi buzilib ularda mikroorganizmlar topildi.
+- a. Antiseptikaga
+- b. Profilaktikaga
+- c. Dezinfeksiyaga
++ d. Aseptikaga
+
+? Jarrohlik muolajalarini o'tkazish zarurati tug'ildi. Jarrolik maydonini dezinfeksiya qilish masalasi qo'yildi. Bu jarayonda qaysi mikroorganizmlarni jarrohlik maydonidan yo'qotish qiyinchilik tug'diradi.
+- a. Yiringli infeksiyalarning qo'zg'atuvchilari
+- b. Shartli patogenlarning vegetativ shakllari
+- c. Aerob bakteriyalar va saprofitlar
++ d. Anaerob bakteriyalarning sporalari
+
+? Ma'lumki antibiotiklar mikroorganizmlardan olingach sterillanishi shart. Biologik qimmatli moddalar har xil ta'sirlarda o'zgaradi. Shunday maxsulotlarni sterillash uchun qanday tavsiya berasiz.
+- a. Pasterilizatsiya qilish
+- b. Avtoklavda bug' va bosim ostida sterillash
++ c. Mexanik- filtrlash orqali sterillash
+- d. Tindalizasiya qilish
+
+? Ma'lumki suv orqali yuquvchi ichak infeksiyalari issiq mavsum - yoz oylarida ortadi va ko'plab muammolar keltirib chiqaradi. Shunday mikroorganizmlar kasallik keltirib chiqarmasligi uchun qanday chora ko'rilishi kerak.
+- a. Joriy dezinfeksiya o'tkazilishi kerak
+- b. Yakuniy dezinfeksiya o'tkazilishi kerak
+- c. Shifoxonadagilar boshqa joyga ko'chirilishi kerak
++ d. Profilaktik dezinfeksiya o'tkazilishi kerak
+
+? Ma'lumki sut 100°C haroratda qaynatilsa tarkibidagi biologik qimmatli moddalar o'zgaradi. Sut, vino va shunday mahsulotlarni saqlash uchun qanday tavsiya berasiz.
++ a. Pasterizasiya qilish
+- b. Mexanik- filtrlash orqali sterillash
+- c. Tindalizatsiya qilish
+- d. Avtoklavda bug' va bosim ostida sterillash
+
+? Shifoxonalarda turli- tuman mikroorganizmlar almashinib, yangilanib turadi. Shunday mikroorganizmlar kasallik keltirib chiqarmasligi uchun qanday chora ko'rilishi kerak.
+- a. Profilaktik dezinfeksiya o'tkazilishi kerak
+- b. Shifoxonadagilar boshqa joyga ko'chirilishi kerak
++ c. Joriy dezinfeksiya o'tkazilishi kerak
+- d. Yakuniy dezinfeksiya o'tkazilishi kerak
+? Antibiotiklar qanday kasalliklarni kelib chiqishiga sababchi bo'lishi mumkin
+- a. sepsis
++ b. kandidomikozlar
+- c. yiringli jarayonlar
+- d. esherixiozlar
+
+? Bakteriostatik antibiotikni ko'rsating
++ a. levometsitin
+- b. streptomitsin
+- c. gentamitsin
+- d. sintomitsin
+
+? Bakteriyalarning antibiotiklarga sezgirligini aniqlash usullarini ko'rsating
++ a. qog'ozli disk yordamida
+- b. aspiratsiya usulda
+- c. membranali filtr yordamida
+- d. sedimentatsion usulda
+
+? Bakteriyalarning antibiotiklarga vaqtincha chidamliligi nimaga bog'liq
+- a. bakteriyalarni erkin joylashishiga
+- b. biotipdagi sharoitga
++ c. R – plazmida borligiga
+- d. fenotipik o'zgaruvchanlikka
+
+? Ba'zi bir o'simliklar ishlab chiqargan antibiotiklarga nima deyiladi:
+- a. polimiksinlar
+- b. ampitsllin
++ c. fitonsidlar
+- d. pensillin
+
+? Bezgakni davolashda ishlatiladigan antibiotikni ko'rsating
+- a. sintomitsin
+- b. streptomitsin
++ c. primaxin
+- d. gentamitsin
+
+? Birinchi bo'lib pensillinni kashf qilgan olimni ko'rsating
+- a. Z.Vaksman
+- b. L.Paster
+- c. I.I.Mechnikov
++ d. A.Fleming
+
+? Disk usulida tekshirilayotgan stafilakokk kulturasi qaysi antibiotiklarga sezgir ekanligini ko'rsating
+- a. streptomitsin 13 mm
+- b. oligamitsin 8 mm
++ c. tetrasiklin 22 mm
+- d. penitsillin 10 mm
+
+? Hayvon mahsulotidan olingan antibiotik moddasini ko'rsating.
+- a. levometsitin
+- b. penitsillin
+- c. gramitsidin
++ d. lizotsim
+
+? Hujayra devori sintezini to'xtatuvchi antibiotikni ko'rsating
++ a. penitsillin
+- b. eritromitsin
+- c. polimiksin
+- d. levometsitin
+
+? Ikki hujayra orasida genlar almashinuvi natijasida yuzaga keladigan o'zgaruvchanlik.
+- a. fenotipik
++ b. rekombinatsion
+- c. dissotsiatsion
+- d. mutatsion
+
+? Mikrob kulturasini antibiotikga sezgirligini aniqlashdan maqsad
+- a. yuqumli kasallikni oldini olish
++ b. yuqumli kasallikni davolash uchun
+- c. yuqumli kasallikni tashxisini aniqlash
+- d. mikroblarni ko'paytirish uchun
+
+? Nasliy axborotni donor bakteriyadan retsepient bakteriyaga bakteriofag yordamida berilishi?
+- a. transformatsiya
+- b. modifikatsiya
+- c. kon'yugatsiya
++ d. transduksiya
+
+? Plazmida nima?
+- a. DNK li virus
+- b. xromasoma ichida joylashgan nasl – nasab faktori
++ c. xromasomadan tashqarida joylashgan nasl – nasab faktori
+- d. RNK li virus
+
+? Qanday preparatning ta'siri ostida protopastlarni hosil qilish mumkin
+- a. nistatin
+- b. rafanin
++ c. penitsilin
+- d. ekmolin
+
+? Qaysi bakteriosid modda uchun peptidoglikan nishon bo'la oladi
+- a. komplement
+- b. interleykin – 2
++ c. lizotsim
+- d. interleykin – 1
+
+? U yoki bu modda bakteriyalarning o'sishi va rivojlanishini to'xtatsa, so'ng bu moddalarning ta'siri to'xtatilsa, o'sish yana rivojlansa, unga nima deyiladi.
+- a. Bakteriotsid ta'sir
++ b. Bakteriostatik ta'sir
+- c. konkurent birlashish
+- d. Oligodinamik ta'sir
+
+? Virusga qarshi qanday preparatlarni bilasiz
+- a. bigumal
+- b. xinin
++ c. interferon
+- d. streptomitsin
+
+? Yuqori rivojlangan o'simliklar qanday antibiotik guruhlarini ajratib chiqaradi
+- a. glikozidlar
+- b. penitsillinlar
++ c. fitonsidlar
+- d. alkaloidlar
+
+? Zamburug'li kasalliklarni davolashda ishlatiladigan antibiotikni ko'rsating?
+- a. tetrasiklin
++ b. nistatin
+- c. penitsillin
+- d. streptomitsin
+
+? Kapsula hosil qiluvchi bakteriyalar o'ldirilgach kapsula hosil qilmaydigan-kasallik qo'zg'atmaydigan tirik bakteriyalarga aralashtirildi. Aralashma tajriba hayvonlariga yuborildi. Hayvonlarda kasallik kelib chiqdi. Bunday o'zgarishning sababi nimada?
+- a. Modifikatsiya yuz bergan
+- b. Transduksiya yuz bergan
++ c. Transformatsiya yuz bergan
+- d. Dissotsiatsiya yuz bergan
+- e. Reversiya yuz bergan
+
+? Kasallik qo'zg'atmaydigan bakteriyalarda konyugatsiya yuz berib kasallik keltirib chiqaruvchi xususiyatni namoyon qilishdi. Bunday o'zgarish qanday amalga oshadi?
+- a. Mu'tadil bakteriofaglar orqali
++ b. F – kiprikchalar orqali
+- c. Antibiotiklar orqali
+- d. Ionlovchi nurlar orqali
+- e. Erkin – ozod DNK iplari orqali
+
+? Kasallik qo'zg'atmaydigan bakteriyalarda transduksiya yuz berib kasallik keltirib chiqaruvchi xususiyatni namoyon qilishdi. Bunday o'zgarish qanday amalga oshadi?
+- a. Antibiotiklar orqali
+- b. Ionlovchi nurlar orqali
+- c. F – kiprikchalar orqali
+- d. Erkin – ozod DNK iplari orqali
++ e. Mu'tadil bakteriofaglar orqali
+
+? Kasallik qo'zg'atmaydigan bakteriyalarda transformatsiya yuz berib kasallik keltirib chiqaruvchi xususiyatni namoyon qilishdi. Bunday o'zgarish qanday amalga oshadi?
+- a. Mu'tadil bakteriofaglar orqali
++ b. Erkin – ozod DNK iplari orqali
+- c. F – kiprikchalar orqali
+- d. Ionlovchi nurlar orqali
+- e. Antibiotiklar orqali
+
+? Kuchsizlangan tirik vaksina bilan bolalar emlandi. Ammo ayrim bolalarda vaksina kasallik keltirib chiqardi. Bunday o'zgarishning sababi nimada?
+- a. Transformatsiya yuz bergan
+- b. Transduksiya yuz bergan
++ c. Reversiya yuz bergan
+- d. Dissotsiatsiya yuz bergan
+- e. Modifikatsiya yuz bergan
+
+? Mikroorganizmlar o'stirilganda turlicha koloniyalar hosil qilishadi. Ammo S koloniya hosil qiluvchi mikroblar R koloniya hosil qilishdi. Bunday o'zgarishning sababi nimada?
+- a. Modifikatsiya yuz bergan
+- b. Transformatsiya yuz bergan
++ c. Dissotsiatsiya yuz bergan
+- d. Reversiya yuz bergan
+- e. Transduksiya yuz bergan
+
+? O'zgaruvchanlikni aniqlash uchun mikroorganizmlarni zich oziq muhitga ekishgach ionlovchi nurlar ta'sir ettirildi. Ma'lum vaqtdan so'ng mikroorganizmlar o'zgaruvchanligi o'rganildi. Bu qanday o'zgaruvchanlikka tegishli?
+- a. mikrobli konversiya
+- b. transduksiya
+- c. rekombinatsiya
+- d. modifikatsiya
++ e. mutatsiya
+
+? Qisqa vaqt va kam xarajat orqali tekshirilayotgan bakteriyaning besh xil antibiotikka nisbatan sezgirligini aniqlashimiz zarur. Qaysi usul maqsadli bo'ladi.
++ a. Disk-diffuz usul
+- b. Ketma-ket suyultirish usul
+- c. Serologik usul
+- d. Bakterioskopik usul
+- e. Biologik usul
+
+? Tekshirilayotgan bakteriyaning o'rganilayotgan antibiotikka nisbatan sezgirligini va antibiotikni minimal ta'sir etuvchi miqdorini aniqlashimiz zarur. Qaysi usul maqsadli bo'ladi.
+- a. Bakterioskopik usul
++ b. Ketma-ket suyultirish usul
+- c. Disk-diffuz usul
+- d. Serologik usul
+- e. Biologik usul
+
+? Tekshirilayotgan bakteriyaning o'rganilayotgan bir necha xil antibiotiklarga nisbatan sezgirligini va antibiotikni minimal ta'sir etuvchi miqdorini aniqlashimiz zarur. Qaysi usul maqsadli bo'ladi.
++ a. E-test usuli
+- b. Serologik usul
+- c. Bakterioskopik usul
+- d. Ketma-ket suyultirish usul
+- e. Disk-diffuz usul
+? Autoinfeksiya nima?
+- a. tashqi muhitdan tushadigan infeksiya
+- b. tashuvchilar yuqtiradigan infeksiya
++ c. organizmda mavjud bo'lgan infeksiya
+- d. bir biotopda aylanib yuradigan infeksiya
+
+? Bakteremiya infeksiyaning qaysi turiga mansub:
++ a. infeksiyaning qon orqali organizmga tarqalishi
+- b. ko infeksiya
+- c. regional infeksiya
+- d. superinfeksiya
+
+? Bakteriyalarning invazion xususiyati qaysi ferment bilan bog'liq
++ a. gialouronidaza, neyrominidaza
+- b. Fosfataza, lipaza
+- c. Katalaza, peroksidaza
+- d. maltaza, DNK – polimeraza
+
+? Bakteriyalarning kasallik chaqira olish xususyati:
++ a. patogenlik
+- b. tolerantlik
+- c. virulentlik
+- d. infeksion doza
+
+? Bakteriyalarning kasallik chaqirish (patogenlik) darajasi:
+- a. tolerantlik
+- b. infeksion doza
+- c. patogenlik
++ d. virulentlik
+
+? Bakteriyalarning virulentligini ta'minlovchi omillarni ko'rsating:
+- a. mezosoma, ribosoma
+- b. metafosfatlar
+- c. lipid va yog'lar
++ d. kapsula, agressin
+
+? Birlamchi infeksiya natijasida boshqa infeksiyaning qo'shilib kasallik chaqirishi nima deyiladi:
+- a. birlamchi infeksiya
+- b. bakteremiya
+- c. superinfeksiya
++ d. ikkilamchi infeksiya
+
+? Ekzotoksinlar endotoksinlardan qanday farqlanadi.
++ a. zaharliligi yuqoriligi
+- b. zaharliligi pastligi
+- c. immunogenligining sustligi
+- d. antigenligininig sustligi
+
+? Ekzotoksinlar qanday tarkibli.
++ a. oqsil
+- b. lipopolisaxarid
+- c. lipid
+- d. polisaxarid
+
+? Infeksion kasallik bilan kasallagandan so'ng kasallik qo'zg'atuvchi organizmda bir necha yil davomida saqlanish shakli nima deb ataladi.
+- a. innapparant
+- b. sekin
+- c. latent
++ d. persistensiyalanuvchi
+
+? Infeksiyaning qanday yuqish yo'li vertikal yuqish deb ataladi:
+- a. havo – tomchi yo'li bilan
+- b. havo – chang yo'li bilan
+- c. iflos qo'llari orqali
++ d. onadan homilaga platsenta orqali
+
+? Kasallik qo'zg'atuvchilarining organizmga kirgandan boshlab kasallikning klinik siptomlari namoyon bo'lguncha o'tadigan davri qanday aytiladi:
++ a. yashirin davr
+- b. kasallikni qo'zishi (qaytalanishi)
+- c. kasallikni avj olishi
+- d. oldindan xabar qiluvchi davr
+
+? Makroorganizm va mikroorganizm o'rtasidagi kurash nima deyiladi?
+- a. superinfeksiya
+- b. bakteremiya
++ c. infeksiya jarayoni
+- d. retsidiv
+
+? Qo'zg'atuvchining "iflos qo'l" orqali yuqishi nima deb ataladi?
+- a. transmissiv
+- b. parenteral
++ c. enteral
+- d. vertikal
+
+? Qo'zg'atuvchining qon orqali yuqishi nima deb ataladi?
+- a. enteral
+- b. vertikal
+- c. transmissiv
++ d. parenteral
+
+? Qo'zg'atuvchining tashuvchilar orqali yuqishi nima deb ataladi?
+- a. vertikal
++ b. transmissiv
+- c. parenteral
+- d. enteral
+
+? Qo'zg'atuvchining qonda bo'lishi.
+- a. septikopiemiya
+- b. toksenemiya
+- c. Atopiya
++ d. bakterimiya
+
+? Septikopiyemiya infeksiyaning qaysi turiga mansub?
++ a. umumiy va tarqoq infeksiya
+- b. ko infeksiya
+- c. regional infeksiya
+- d. superinfeksiya
+
+? Sog'ayish jarayonida kasallik yana rivojlandi, infeksiyaning bu shakli....
+- a. aralash
+- b. superinfeksiya
++ c. retsidiv
+- d. reinfeksiya
+
+? Surunkali infeksiya shakli qancha vaqtdan keyin rivojlanadi?
+- a. 3 oygacha
+- b. 15 kunda
+- c. 1 yildan keyin
++ d. 6 oydan keyin
+
+? Ayrim patogen mikroorganizmlar ekzotoksinlar ishlab chiqishi va kasallik klinikasidagi belgilarning kelib chiqishiga sabab bo'ladi. Bakterialarning ekzotoksinlari uchun xos bo'lmagan belgini ko'rsating.
+- a. Oqsil, termolabil
+- b. Tanlab ta'sir ko'rsatadi
++ c. Umumiy intoksikatsion ta'siri
+- d. Formalin ta'sirida anatoksinga aylanadi
+
+? Ayrim yuqumli kasalliklarning klinik belgilari mikroorganizmlarning ekzotoksinlari ta'siridan kelib chiqadi. Patogenezda ekzotoksinlar katta rol o'ynaydigan yuqumli kasalliklarni tanlang:
+- a. Qoqshol
+- b. Difteriya
++ c. Barcha javoblar to'g'ri
+- d. Botulizm
+
+? Bakteriyalarni identifikatsiya qilishda ularning patogenlik omillari aniqlandi. Shunday maqsadda yangi tug'ilgan chaqaloqlar yo'ldosh - kindik to'qimalaridan foydalanildi. Bunda bakteriyalarning qanday patogen omili o'rganilgan?
+- a. DNK-aza
+- b. Koagulaza
++ c. Gialuronidaza
+- d. Fibrinolizin
+
+? Bemor ich terlama (tif) kasalligi bilan kasallanib sog'ayish davrida shifokor maslahatiga amal qilmaganligi sababli qaytadan shu kasallik belgilari paydo bo'ldi. Kasallikka xos belgilar yo'qolgandan so'ng ma'lum vaqtdan keyin qaytadan takrorlanishi ro'y beradigan holat qanday nomlanadi?
+- a. Superinfeksiya
+- b. Aralash infeksiya
++ c. Residiv
+- d. Reinfeksiya
+
+? Bemor og'iz shilliq qavati mikrofloralari tarkibiga kiruvchi mikroorganizmlar sharoit tug'ilganligi uchun milklarning yiringli yallig'lanishiga sabab bo'lishdi. Bunday kasallik infeksiyaning qaysi turiga mansub?
++ a. Autoinfeksiya
+- b. Superinfeksiyalar
+- c. Ekzogen infeksiya
+- d. Reinfeksiyalar
+
+? Biologik tekshirish usullarida kasallik qo'zg'atuvchilari tajriba (eksperiment) hayvonlariga yuborilib o'rganiladi. Tajriba hayvonlariga kasallik qo'zg'atuvchilarini yuqtirishning qanday usullari bor?
+- a. Teri ichiga
+- b. Mushak ichiga
++ c. Barcha javoblar to'g'ri
+- d. Og'iz orqali
+
+? Brusellyoz (qoraoqsoq) kasalligi kasbga bog'liq holda: veterinar, chorvador, sut sog'uvchilar va qassoblarda ko'p uchraydi. Hayvonlar hamda odamlarda kasallik keltirib chiqaruvchi infeksiyalar qaysi turga mansub:
++ a. Zooantroponoz
+- b. Zoosapronoz
+- c. Zoonozlar
+- d. Antroponoz
+
+? Janubiy va Markaziy Afrika mamlakatlarida sariq isitma bilan kasallanish juda yuqori. Shunday mintaqalarga xos, doimo kuzatilayotgan infeksiyalar qanday nomlanadi:
+- a. Epidemiya
++ b. Endemiya
+- c. Pandemiya
+- d. Sporadik infeksiya
+
+? Shifokor amaliyotida kasallikga tashxis qo'yishning ilk bosqichidayoq bemorda somatik yoki yuqumli kasallik ekanligini aniqlash juda muhimdir. Yuqumli kasalliklarning o'ziga xos xususiyatlarini ko'rsating?
+- a. Qo'zg'atuvchining mavjudligi
+- b. Davriyligi
+- c. Immunitet hosil qilishi (ko'p hollarda)
++ d. Barcha javoblar to'g'ri
+
+? Uzoq vaqtlar davomida latent holda bo'lgan virus tashqi omillar ta'sirida faollashdi, ko'payadi va kasallik keltirib chiqardi. Bemor ahvoli og'irlashdi va o'limga olib keldi. Shunday infeksiyalar qanday nomlanadi?
+- a. Abortiv infeksiya
++ b. Sekin rivojlanuvchi infeksiya
+- c. Superinfeksiya
+- d. Aralash infeksiya
+? Antigenni prezentatsiya qiluvchi hujayralar
+- a. qo'shuvchi to'qima hujayralari
+- b. eritrotsitlar
+- c. trombotsitlar
++ d. makrofaglar
+
+? Bemorga tayyor zardob yuborildi. Bunda qanday immunitet hosil bo'ladi?
+- a. tabiiy faol
+- b. tug'ma
++ c. sun'iy passiv
+- d. sun'iy faol
+
+? Fagotsitoz faolligining ko'rsatgichi.
+- a. yutilgan va parchalangan mikroblarni soni
+- b. 1 ml qondagi leykotsitlarning soni
++ c. sanalayotgan 100 leykotsitdan mikrobni yutganlarining soni
+- d. mikrob yutgan leykotsitlarni har biridagi mikroblar soni
+
+? Fagotsitoz tushunchasi nima?
+- a. 1 ml qondagi leykotsitlarning soni
+- b. yutilgan va parchalangan mikroblar sonining 10/1 nisbati
+- c. mikrob yutgan leykotsitlarning har biridagi mikroblar soni
++ d. makrofag va leykositlarning mikrobni parchalash jarayoni
+
+? Immun sistemasining markaziy a'zosi
++ a. timus, suyak ko'migi
+- b. limfa tomirlari, ayrisimon bez
+- c. to'g'ri javob yo'q
+- d. limfa tugunlari, qalqonsimon bez
+
+? Immun sistemasining periferik a'zolari
++ a. limfa tomirlari
+- b. suyak ko'migi
+- c. timus
+- d. to'g'ri javob yo'q
+
+? Immunitetni shakllanishida makrofaglar antigen to'g'risidagi ma'lumotni qaysi hujayraga uzatadi?
+- a. t - killerga
++ b. t - helperga
+- c. t - supressorga
+- d. t - depressorga
+
+? Immunitetning hujayra teoreyasi asoschisi kim
+- a. P.Erlix
++ b. I.I.Mechnikov
+- c. R.Kox
+- d. R.Medovar
+
+? Keltirilgan hujayralarning qaysi biridan plazmotsitlar hosil bo'ladi.
+- a. eozinofillar
+- b. makrofaglar
+- c. T - limfotsitlar
++ d. B - limfotsitlar
+
+? Keltirilgan oqsillarning qaysi biri organizmning himoyalanishida qatnashadi
+- a. areaktiv oqsil
+- b. miozin
++ c. komplement
+- d. flagellin
+
+? Lizotsim ishlab chiqaruvchilar
+- a. eritrotsitlar
++ b. shilliq qavat hujayralari
+- c. qo'shuvchi to'qima hujayralari
+- d. trombotsitlar
+
+? Nima uchun onadan bolaga berilgan immunitet passiv hisoblanadi?
++ a. bola organizmida hosil bo'lmaganligi uchun
+- b. ma'lum qisqa vaqt davomida faol bo'lgani uchun
+- c. mikrobning ekzotoksiniga ta'sir qilmasligi uchun
+- d. faqat bitta mikrobga ta'sir qilishi sababli
+
+? Nospetsifik himoya omillarini belgilang.
++ a. komplement, lizotsim, makrofaglar
+- b. kompliment, immunglobulin A, makrofaglar
+- c. interferon, agglyutinin, B - lizinlar
+- d. properdin, antitoksin, agglyutinin
+
+? Nosteril immunitet hosil bo'ladigan kasalliklar.
++ a. zaxm, sil
+- b. sil, o'lat
+- c. zaxm, o'lat
+- d. zaxm, qizamiq
+
+? Organizmda nechta to'siq (barer) mavjud?
+- a. 2 ta
+- b. 1 ta
+- c. 4 ta
++ d. 3 ta
+
+? Organizmning nospetsifik gumoral himoya omillarini ko'rsating.
++ a. so'lak
+- b. eritrotsitlar
+- c. buyrak to'qimasi
+- d. ichak epiteliyasi
+
+? Qaysi vaqtda tabiiy ortirilgan immunitet hosil bo'ladi?
+- a. vaksinatsiyadan keyin
+- b. zardob bilan emlangan keyin
++ c. kasallik bilan og'rib tuzalgach
+- d. antibiotikoterapiyadan keyin
+
+? Quyidagi qaysi kasallikdan sung turg'un doimiy immunitet shakllanadi?
++ a. qizamiq, suvchechak.
+- b. gepatit B.
+- c. gripp, sil.
+- d. gonoreyya, bakterial vaginoz.
+
+? So'lak tarkibidagi qaysi modda himoya omili hisoblanadi?
+- a. amilaza
+- b. lipaza
++ c. lizotsim
+- d. ptialin
+
+? Yetilmagan plazmatik hujayralar qaysi hujayradan hosil bo'ladi.
+- a. makrofaglar
++ b. B - limfotsitlar
+- c. eozinofillar
+- d. T - limfotsitlar
+
+? Aholi o'rtasida epidemiya kuzatilishiga qaramasdan ayrim odamlar kasallanmadilar. Buning sababi nimada.
++ a. Orttirilgan immunitet
+- b. Nomaxsus immunitet
+- c. Tabiiy immunitet
+- d. Areaktivlikda
+
+? Ayrim yuqumli kasalliklarni oldini olishda qanday qilib tabiiy faol immunitet hosil qilishimiz mumkin?
+- a. Immunoglobulin tutgan zardoblar yuborish orqali
+- b. Rejali emlash orqali
+- c. Bolalar tug'ilguncha onalarini emlash orqali
++ d. Tabiiy kasallanish va uni muvaffaqiyatli davolash orqali
+
+? Ko'plab yuqumli kasalliklarda yallig'lanish yuz berib, leykotsitlar tomonidan fagotsitoz jarayoni kuzatiladi. Bunday immun himoya qaysi turga mansub.
++ a. Nomaxsus immunitetga mansub
+- b. Orttirilgan immunitetga mansub
+- c. Tabiiy immunitetga mansub
+- d. Maxsus immunitetga mansub
+
+? Ko'plab yuqumli kasalliklarni oldini olishda turlicha himoyalanish usullari mavjud. Qanday qilib bolalarda sun'iy faol immunitet hosil qilishimiz mumkin?
+- a. Tabiiy kasallanishini kutish va uni muvaffaqiyatli davolash orqali
+- b. Immunoglobulin tutgan zardoblar yuborish orqali
+- c. Bolalar tug'ilguncha onalarini emlash orqali
++ d. Rejali emlash orqali
+
+? Nosteril immunitet hosil qiluvchi ayrim yuqumli kasalliklarni oldini olishda qanday qilib faol immunitet hosil qilishimiz mumkin?
++ a. Organizmda shu antigenni doimo saqlab turish orqali
+- b. O'ldirilgan vaksina yuborish orqali
+- c. Buning imkoni yo'q
+- d. Revaksinatsiya o'tkazish orqali
+
+? Organizm noto'g'ri oziqlantirilganda har xil yuqumli kasalliklar bilan kasallanishi yuz beradi. Bunda qaysi turdagi immunitet faoliyati pasaygan bo'ladi.
+- a. Maxsus immunitet
+- b. Tabiiy immunitet
++ c. Nomaxsus immunitet
+- d. Orttirilgan immunitet
+
+? Organizm sovqotganda har xil yuqumli kasalliklar bilan kasallanishi yuz beradi. Bunda qaysi turdagi immunitet faoliyati pasaygan bo'ladi.
+- a. Orttirilgan immunitet
+- b. Tabiiy immunitet
++ c. Nomaxsus immunitet
+- d. Maxsus immunitet
+
+? Organizm uzoq vaqt toliqtiruvchi mehnat bilan shug'ullanganda har xil yuqumli kasalliklar bilan kasallanishi yuz beradi. Bunda qaysi turdagi immunitet faoliyati pasaygan bo'ladi.
+- a. Maxsus immunitet
++ b. Nomaxsus immunitet
+- c. Tabiiy immunitet
+- d. Orttirilgan immunitet
+
+? Tovuqlar fermasida epidemiya kuzatilib tovuqlar ommaviy qirila boshladi. Fermadagi ishchilar bu kasallik bilan kasallanmadilar. Buning sababi nimada.
+- a. Maxsus immunitet
+- b. Nomaxsus immunitet
++ c. Tabiiy immunitet
+- d. Orttirilgan immunitet
+
+? Yuqumli kasalliklarni oldini olishda turlicha himoyalanish usullari mavjud. Qanday qilib bolalarda sun'iy nofaol immunitet hosil qilishimiz mumkin?
+- a. Tabiiy kasallanishini kutish va uni muvaffaqiyatli davolash orqali
+- b. Immunoglobulin tutgan zardoblar yuborish orqali
++ c. Bolalar tug'ilguncha onalarini emlash orqali
+- d. Rejali emlash orqali
+? Antigen bu -....
+- a. Faqat organik tabiatli moddalar
+- b. Organik va noorganik tabiatli moddalar
+- c. Oganizmga tushuvchi har qanday begona moddalardir
++ d. Biopolemerlarning molekulyar tuzilishidagi o'ziga xoslikdir
+
+? Antigen xususiyatlari
+- a. maxsus, yuqori molekulyar, eruvchan anorganik modda
+- b. maxsus bo'lmagan, past molekulyar, eruvchan anorganik modda
+- c. maxsus bo'lmagan, past molekulyar, eruvchan organik modda
++ d. maxsus, yuqori molekulyar, eruvchan organik modda
+
+? Antigenlar qaysi xususiyatlari bilan bir - birlaridan farqlanadi
+- a. immunogenlik
++ b. maxsuslik
+- c. antigenlik
+- d. begonalik
+
+? Bakteriyalarni O va K - antigenini kimyoviy tarkibi
++ a. lipopolisaxarid
+- b. monosaxarid
+- c. yog'lar
+- d. oqsil
+
+? Bakteriyalarning H - antigeni, ekzotoksin va protektiv antigenlarni kimyoviy tarkibi
+- a. lipopolisaxarid
+- b. mono yoki disaxarid
+- c. yog'
++ d. oqsil
+
+? Bakteriyalarning protektiv antigenini ko'rsating
+- a. hujayra devori va sitoplazmatik membranasi
+- b. kapsulasi va hujayra devori
++ c. toksinlari va patogen fermentlari
+- d. xivchinlari va kiprikchalari
+
+? Bakteriyalarning qaysi tuzilmasi K - antigen deb nomlanadi
+- a. Xivchinlari
+- b. Hujayra devori
++ c. Kapsulasi
+- d. Ekzotoksini
+
+? Bakteriyalarning qaysi tuzilmasi O - antigen deb nomlanadi
+- a. Ekzotoksini
++ b. Hujayra devori
+- c. Kapsulasi
+- d. Xivchinlari
+
+? Bakteriyalarning qaysi tuzilmasi Vi - antigen deb nomlanadi
+- a. Hujayra devori
+- b. Kapsulasi
+- c. Xivchinlari
++ d. Hujayra devori yuzasidagi shilliq
+
+? Bakteriyalarning qaysi tuzilmasi H - antigen deb nomlanadi
+- a. Ekzotoksini
+- b. Kapsulasi
++ c. Xivchinlari
+- d. Hujayra devori
+
+? Bakteriyalarning H - antigening tabiati
++ a. oqsil
+- b. uglevod
+- c. lipid
+- d. lipopolisaxarid
+
+? Gaptenlar
+- a. aminokislotalar, nukleyin kislota
+- b. noorganik kislotalar
+- c. ekzo - va endotoksinlar
++ d. murakkab polisaxaridlar
+
+? Gaptenlar keltirilgan antigenlarni qaysi biri bilan birikkanda to'la qimmatli antigenga aylanadi
+- a. ishqorlar
+- b. mono va disaxarid
+- c. noorganik kislotalar
++ d. oqsil va yuqori molekulali polisaxarid
+
+? Gaptenlar qanday holda to'liq sifatli antigenga aylanishi mumkin?
+- a. Kolloid holatiga keltirib yuborilganda
+- b. organizmda 2 - 3 marta yuborilganda
++ c. oqsil bilan qo'shilganda
+- d. organizmga parenteral yo'l bilan kirgizilganda
+
+? Gripp virusi antigenlarini ko'rsating
+- a. O va K
++ b. H va N
+- c. O va Vi
+- d. Vi va K
+
+? Ichak tayoqchasi antigenlarini ko'rsating
+- a. Vi va K
+- b. O va Vi
+- c. O va K
++ d. O, H va K
+
+? Korpuskulyar antigenlarga kirmaydi
+- a. mikroorganizmlar
+- b. eritrotsitlar
+- c. hujayralar
++ d. toksinlar
+
+? Qanday moddalar antigen deb ataladi
+- a. fagotsitlarni faollashtiruv chi
+- b. B - limfotsitlarga ta'sir etuvchi
+- c. T - limfotsitlarga ta'sir etuvchi
++ d. immun javobni shakillantiruvchi
+
+? Qanday moddalar immun javobni keltirib chiqara olmaydi
++ a. gaptenlar
+- b. oqsillar
+- c. toksinlar
+- d. lipopolisaxaridlar
+
+? Viruslarda uchraydigan antigenlarni belgilang
+- a. Vi va K
+- b. O va K
++ c. H va N
+- d. O va Vi
+
+? Alkogolga nisbatan organizmni sensibillash uchun tashuvchilar kerak. Qaysi moddalarni biriktirsak kutilgan natijaga erishamiz:
+- a. Kraxmal bilan qo'shilganda
++ b. Oqsil bilan qo'shilganda
+- c. Polisaxaridlar bilan qo'shilgandi
+- d. Lipidlar bilan qo'shilganda
+
+? Bemorda bo'g'imlaridagi yallig'lanishlar sababli revmatizm kasalligiga shubha qilindi. Bunday holatda qanday antigenlarni aniqlashimiz kerak.
++ a. Autoantigenlarni
+- b. Gaptienlarni
+- c. Geteroantigenlarni
+- d. Izoantigenlarni
+
+? Bemorga antibiotik yuborilganda reaksiya kuzatildi. Bunday begona dorivor moddalar qanday antigenlar deyiladi.
+- a. Geteroantigenlar
+- b. Autoantigenlar
++ c. Gaptienlar
+- d. Izoantigenlar
+
+? Bemorga chuchqalardan olingan insulin yuborilib muvaffaqiyatli natija olindi. Bunday oqsil begona bulishiga qaramasdan organizmga zarar bermasligining sababi nimada.
+- a. Izoantigenligida
+- b. Autoantigenligida
++ c. Geteroantigenligida
+- d. Gaptienligida
+
+? Lipoid moddalardan iborat gaptenlarni to'liq antigenga aylantirish kerak. Qaysi moddalarni biriktirsak to'liq antigen hosil bo'ladi:
++ a. Polisaxaridlar bilan
+- b. Aminokislotalar bilan
+- c. Nuklein kislotalar bilan
+- d. Lipoidlar bilan
+
+? Polisaxarid moddalardan iborat gaptenlarni to'liq antigenga aylantirish kerak. Qaysi moddalarni biriktirsak to'liq antigen hosil bo'ladi:
++ a. Lipoidlar bilan
+- b. Polisaxaridlar bilan
+- c. Nuklein kislotalar bilan
+- d. Aminokislotalar bilan
+
+? Qotillik sodir etishda gumonlanuvchi kiyimidan qon aniqlandi. Bu qon kimga tegishli ekanligini aniqlash uchun qanday antigenlarni aniqlashimiz kerak.
+- a. Geteroantigenlarni
++ b. Izoantigenlarni
+- c. Gaptienlarni
+- d. Autoantigenlarni
+
+? Serologik reaksiya qo'yish uchun antigen kerak. Bakteriya tutuvchi suyuqlikdan O antigen qaysi yo'l orqali olinadi:
+- a. UB nur ta'sir ettirilib
+- b. Formalin ta'sir ettirilib
+- c. Sentrifugalanib
++ d. Qaynatish orqali
+
+? Serologik reaksiya qo'yish uchun antigen kerak. Bakteriya tutuvchi suyuqlikdan H antigen qaysi yo'l orqali olinadi:
+- a. Qaynatish orqali
+- b. Sentrifugalanib
+- c. UB nur ta'sir ettirilib
++ d. Formalin ta'sir ettirilib
+
+? Serologik reaksiya qo'yish uchun ekzotoksin antigeni kerak. Bakteriya tutuvchi suyuqlikdan bu antigen qaysi yo'l orqali olinadi:
+- a. Sentrifugalanib
+- b. Formalin ta'sir ettirilib
+- c. Qaynatish orqali
++ d. Filtirlab olinadi
+? Allergik jarayonning rivojlanishida ishtirok etadigan immunoglobulin
++ a. Ig E
+- b. Ig B
+- c. Ig A
+- d. Ig G
+
+? Antitelo hosil qiladigan hujayralar
+- a. T - eforektorlar
+- b. T - killerlar
++ c. plazmatik hujayralar
+- d. T - limfotsitlar
+
+? Antitelo hosil qiluvchi immunokompetent hujayra qaysi?
+- a. T - limfotsitlar
++ b. plazmatik hujayralar
+- c. O - limfotsitlar
+- d. monotsitlar
+
+? Immun sistemaning qaysi hujayralari antitelo ishlab chiqaradi
+- a. T - limfotsit
+- b. T - helperlar
++ c. plazmotsit
+- d. makrofag
+
+? Immun tizimining qaysi hujayrasi Ag haqidagi axborotni B - limfotsitlarga beradi:
++ a. T - xelperlar
+- b. Plazmotsitlar
+- c. Makrofaglar
+- d. Splenotsitlar
+
+? Immunoglobulin E boshqa immunoglobulinlardan nimasi bilan farq qiladi:
+- a. limfotsitlarda retseptorning borligi bilan
+- b. sedimentatsiya koeffitsenti bilan
+- c. aktiv markazlarning soni bilan
++ d. semiz hujayralarni "yoqtirishi" bilan
+
+? Immunoglobulin G .......antigen hisoblanadi:
+- a. monomer
++ b. dimer
+- c. tetramer
+- d. pentamer
+
+? Immunoglobulin M .......antigen hisoblanadi
++ a. pentomer
+- b. variabel
+- c. dimer
+- d. monomer
+
+? Immunoglobulin nima?
+- a. antigen
+- b. interferon
+- c. bakteriofag
++ d. antitelo
+
+? Kasallikning o'tkir shaklida qonda aniqlanadigan immunoglobulin
+- a. Ig A
+- b. Ig G
++ c. Ig M
+- d. Ig E
+
+? Kasallikning surunkali shaklida qonda aniqlanadigan immunoglobulin
+- a. Ig E
+- b. Ig A
++ c. Ig G
+- d. Ig B
+
+? Keltirilgan immunoglobulinlarning qaysi biri pentomer hisoblanadi
+- a. Ig E
+- b. Ig G
++ c. Ig M
+- d. Ig A
+
+? Orttirilgan immun tanqislik kasalligi virusi qaysi hujayralarni zararlaydi
+- a. C - supressorlarni
+- b. B - limfotsitlarni
+- c. T - limfotsitlarni
++ d. T - helperlarni
+
+? Qonda yuqumli kasallik jarayonida keltirilganlardan qaysi biri eng ko'p miqdorda uchraydi
+- a. Ig A
+- b. Ig E
+- c. Ig M
++ d. Ig G
+
+? Sekretor immunogolubinlarga kiradi
+- a. E
+- b. G
++ c. A
+- d. D
+
+? Semiz hujayrada antitelo antigen kompleksi ta'sirida gistamin va unga o'xshash moddalar ajraladi. Shu kompleksga kiruvchi antitelolar qaysi immunitet sinfiga kiradi.
++ a. Ig E
+- b. Ig A
+- c. Ig S
+- d. Ig D
+
+? Shilliq qavatlarda uchraydigan immunoglobulin
+- a. Ig E
+- b. Ig G
+- c. Ig B
++ d. Ig A
+
+? Sut bezi sekretsiyasi tarkibida uchrovchi antitelalar qaysi sinf immunogolubinlariga kiradi.
+- a. Ig E
+- b. Ig D
++ c. Ig A
+- d. Ig S
+
+? To'liq bo'lmagan antitelo oddiy immunoglobulinlardan qanday xususiyati bilan farq qiladi
+- a. aminokislota tarkibi bilan
++ b. bitta aktiv markazi bo'lishi bilan
+- c. aktiv markaz tuzilishi bilan
+- d. qondagi antitelo miqdori bilan
+
+? Virusga maxsus antitelo qanday ta'sir ko'rsatadi?
+- a. adsorbsiyalaydi
+- b. cho'kmaga tushiriladi
+- c. agglyutinatsiyaladi
++ d. neytrallaydi
+
+? Allergik reaksiya yuzaga chiqishida granulotsitlar va bazofillar yuzasida antitelo va allergen kompleksi hosil bo'lishi kerak. Immunoglobulinlarning qaysi sinfi shunday jarayonda ishtrok etadi?
+- a. IgD
++ b. IgE
+- c. IgA
+- d. IgM
+
+? Antigenlik xususiyatiga ega har qanday biopolimerlarni eslab qolish va ularga qarshi antitelolarni ishlab chiqarilishi immunitet zimmasidadir. Immun tizimning markaziy organini belgilang.
+- a. Taloq
+- b. Limfa tugunlari
++ c. Timus
+- d. Qon
+
+? Gumoral immunitet tizimida antitelolar faol ishlab chiqariladi. Quyidagi hujayralardan qaysi biri immunoglobulinlarni ishlab chiqaradi?
++ a. Plazmotsitlar
+- b. Limfotsitlar
+- c. Monotsitlar
+- d. Makrofaglar
+
+? Immun javob reaksiyasida makrofag hujayralarining roli muhimdir. Makrofaglarga xos bo'lmagan javobni ko'rsating
++ a. Immunoglobulinlarni ishlab chiqarash
+- b. Fagotsitoz qilish
+- c. Antigenni T-yordamchi limfotsitlarga taqdim etish
+- d. Immunostimulyatorlarni ishlab chiqish
+
+? Kasallik qo'zg'atuvchi bakteriyalar to'qimalarga kirgach makrofaglar tomonidan fagotsitlanadi. Immun javob reaksiyasida hujayralarning o'zaro aloqasi davrida makrofaglar qanday rol o'ynaydi?
+- a. Immunoglobulinlarni ishlab chiqaradi
++ b. Antigenni T-yordamchi limfotsitlarga taqdim etish
+- c. Tabiiy qotil limfotsitlarini faollashtirish
+- d. B limfotsitlarni faollashtirish
+
+? Mikroblar va viruslarning ayrim antigenlari organizmdagi to'qimalar yoki organlarni shikastlanishiga olib keluvchi antitelolarning sintezlanishiga olib keladi. Bunday antitelolar qanday nomlanadi:
+- a. Ambotsiptorlar
+- b. Geteroantitelolar
+- c. Izoantitelolar
++ d. Autoantitelolar
+
+? Organizmga begona antigen birinchi bor kirganda antitelalar sintezi bilan javob reaksiyasi yuz beradi. Qaysi immunoglobulinlar sintezi deyarli bir vaqtda sodir bo'lsada, keyinchalik ulardan birining konsentratsiyasi ortib ketadi, ikkinchisiniki esa kamayib ketadi. Ilk davrlarda sintezlanuvchi shunday immunnoglobulinlarni ko'rsating?
++ a. IgM va IgG
+- b. IgE va IgM
+- c. Ig M va IgA
+- d. IgG va IgA
+
+? Sizga ma'lumki allergik reaksiyalarda immunoglobulinlar o'rni muhimdir. Quyida keltirilgan immunoglobulinlardan allergik reaksiyalarda ishtrok etuvchilarini tanlang?
++ a. IgE
+- b. IgD
+- c. IgM
+- d. IgA
+
+? T yordamchi limfotsit hujayralar faollashishi uchun ular fagotsitoz qilingan moddalarni qayta ishlab taqdim etadigan hujayralardan tegishli antigenni olishlari kerak. Quyida keltirilgan hujayralardan T yordamchi limfotsit hujayralarga antigenni taqdim etadigan hujayralarni tanlang.
+- a. T-yordamchi hujayralar, B-limfotsitlar
++ b. Makrofaglar, Dendrit hujayralar
+- c. B-limfotsitlar, T - qotil hujayralar
+- d. Tabiiy qotillar: NK hujayralar
+
+? Tabiiy qotil limfotsitlar (NK) organizmni o'sma kasalliklari va virusli kasalliklardan himoyalovchi asosiy o'rinni egallaydi. NK hujayralar nishonga olingan hujayralar bilan o'zaro birikishi natijasida keraksiz hujayralar yo'q qilinadi. Shunday mexanizmni belgilang.
++ a. Apoptoz
+- b. Fagotsitoz
+- c. Komplement bog'lovchi sitoliz
+- d. O'smalarning nekroz omili
+? Agglyutinatsiya reaksiyasi deyilganda nima tushuniladi:
++ a. antigen antitelo bilan birikishi va cho'kmaga tushishi
+- b. antigen – antitelo – komplement kompleksning hosil bo'lishi
+- c. antigenning lizisi
+- d. flokulyat hosil bo'lishi
+
+? Agglyutinatsiya reaksiyasida qanday antigen ishtirok etadi
++ a. korpuskulyar
+- b. eritrotsit ustiga mindirilgan
+- c. eruvchan
+- d. ferment bilan bog'langan antigen
+
+? Agglyutinatsiya reaksiyasida qaysi Ag larga qarshi At lar aniqlanadi:
++ a. korpuskulyar
+- b. eruvchan
+- c. alloantigenlar
+- d. to'liqsiz antigenlar
+
+? Agglyutinatsiya reaksiyasida xivchinli bakteriyalar ishtirok etsa, cho'kma qanday holatda bo'ladi?
+- a. cho'kma hosil bo'lmaydi
++ b. paxtasimon
+- c. gemoliz
+- d. devor bo'ylab halqa
+
+? Agglyutinatsiya reaksiyasida xivchinsiz bakteriyalar ishtirok etsa, cho'kma qanday holatda bo'ladi?:
++ a. donador, tugmasimon
+- b. paxtasimon
+- c. devor bo'ylab halqa
+- d. cho'kma hosil bo'lmaydi
+
+? Antitela mayda zarrachalardan iborat antigenlar bilan yopishishi natijasida yuzaga keladigan reaksiya.
+- a. pretsipitatsiya
++ b. flokkulyasiya
+- c. agglyutinatsiya
+- d. neytralizatsiya
+
+? Antitela ta'sirida mikroblarni bir – biriga yopishib, cho'kma hosil bo'ladigan immun reaksiyani ko'rsating.
+- a. passiv gemagglyutinatsiya reaksiyasi
++ b. agglyutinatsiya reaksiyasi
+- c. komplementi bog'lash reaksiyasi
+- d. agglyutinatsiyani tormozlanish reaksiyasi
+
+? Antitelani yuqori molekulali – katta zarrachalardan iborat antigenlar bilan uchrashishi natijasiga yuzaga keladigan reaksiya.
+- a. neytralizatsiya
+- b. flokuliyasiya
++ c. agglyutinatsiya
+- d. pretsipitatsiya
+
+? Bakteriya hujayrasining antigenini aniqlash uchun qaysi agglyutinatsiya reaksiyasi qo'yiladi:
+- a. probirkada agglyutinatsiya reaksiyasi
++ b. oynachada agglyutinatsiya reaksiyasi
+- c. Gemagglyutinatsiya reaksiyasi
+- d. bilvosita gemagglyutinatsiya reaksiyasi
+
+? BGAR – bu reaksiyada maxsus tayyorlangan antigenlar bilan antitelalar birikadi. Bu qaysi antigen:
+- a. O – antigenlar
+- b. H – antigenlar
++ c. Eritrotsitlarga adsorbsiyalangan antigen
+- d. K – antigenlar
+
+? Elektrolit ishtirokida antitela bilan antigen birikib cho'kmaga tushadigan reaksiya:
+- a. komplementni bog'lash reaksiyasi
+- b. immunoflyuressensiya reaksiyasi
+- c. pritsipetatsiya reaksiyasi
++ d. agglyutinatsiya reaksiyasi
+
+? Hajmiy agglyutinatsiya reaksiyasini qo'yishda ishlatiladigan komponentlar?
++ a. bemor qon zardobi
+- b. eritrotsit suspenziyasi
+- c. GPB
+- d. NaOH eritmasi
+
+? Passiv gemagglyutinatsiya jarayonlarida spetsifik antigen ishlatildi. Bu qaysi antigen:
+- a. Bariy oksidi
+- b. Eritrotsitlar
+- c. Bakteriya, virus
++ d. Eritrotsitlarga adsorbsiyalangan antigen
+
+? Qanday serologik reaksiyalar sud – tibbiyotida oqsillarning turga mansubligini aniqlash uchun qo'llaniladi
++ a. pretsipitatsiya
+- b. agglyutinatsiya
+- c. Kumbs
+- d. neytralizatsiya
+
+? Serologik reaksiyalar uchun bemordan qanday ashyo olinadi:
+- a. Balg'am
+- b. Najas
++ c. Zardob
+- d. Siydik
+
+? Serologik reaksiyani ko'rsating
+- a. Antibiotiklar teriga qo'yiladigan sinama
+- b. Mantu sinamasi
++ c. Agglyutinatsiya
+- d. Byurne sinamasi
+
+? Suyultirilagan antigenni antitela bilan birikish reaksiyasi qanday nomlanadi
+- a. agglyutinatsiya
++ b. pretsipitatsiya
+- c. lizis
+- d. gemagglyutinatsiya
+
+? Vidal reaksiyasi qanday reaksiya?
+- a. pretsipitatsiya reaksiyasi
++ b. agglyutinatsiya reaksiyasi
+- c. flokulyasiya reaksiyasi
+- d. lizis reaksiyasi
+
+? Yuqumli kasalliklar serologik usulda tekshirilganda kasalda nima aniqlanadi
++ a. mikrobga qarshi antitela
+- b. qonning shaklli elementlari
+- c. mikroorganizmlarning qandni tutishi
+- d. bakteriya antigenlari
+
+? Yuqumli kasalliklarda serologik reaksiyalar nimaga asoslangan?
+- a. bakteriyani topish idenfikatsiya qilishga
+- b. eksperimental hayvonga sinab ko'rishga
+- c. mikroskop ostida tekshirishga
++ d. bakteriyaga qarshi antiteloni aniqlashga
+
+? Bozorda fuqaro A. "mol go'shtidan tayyorlangan" deb cho'chqa go'shtidan tayyorlangan maxsulotlarni sota boshladi. Davlat inspeksiyasi xodimlarida shubha tug'ilganligi uchun taftish o'tkazildi. Qaysi immun reaksiya orqali bu mahsulotning soxtalashtirilganligini aniqlanishi mumkin?
+- a. Lizis reaksiyasi
+- b. Komplementni bog'lash reaksiyasi
+- c. Neytrallash reaksiyasi
++ d. Presipitatsiya reaksiyasi
+
+? Bo'g'ma qo'zg'atuvchisining sof kulturasi ajratilgan. Bakteriyalarning toksigenligini aniqlash uchun qanday immunologik reaksiyadan foydalanish kerak?
+- a. Bilvosita gemagglyutinatsiya reaksiyasi yordamida
+- b. Aglyutinatsiya reaksiyasi
+- c. Komplement bog'lash reaksiyasi yordamida
++ d. Agar gelidagi presipitatsiya reaksiyasi yordamida
+
+? O'tkir gastroenterit bilan og'rigan bemor organizmidan kasallik qo'zg'atuvchilari ajratib olindi. Uning antigenik tuzilishi buyicha identifikatsiya qilinishi kerak. Buning uchun qanday serologik reaksiyadan foydalanish zarur?
++ a. Aglyutinatsiya reaksiyasi
+- b. Lizis reaksiyasi
+- c. Komplementni bog'lash reaksiyasi
+- d. Neytrallash reaksiyasi
+
+? Qotillikda ayblanayotgan shaxsning oyoq kiyimlari qon bilan ifloslangan. Inson qoni ekanligini qanday aniqlashimiz mumkin?
+- a. Neytrallash reaksiyasidan foydalanib
+- b. Kumbs reaksiyasidan foydalanib
++ c. Presipitatsiya reaksiyasidan foydalanib
+- d. Aglyutinatsiya reaksiyasidan foydalanib
+
+? Qotillikda ayblangan odamning kiyimida qon dog'lari topildi. Inson qoni ekanligini isbotlash uchun qanday reaksiyadan foydalanish mumkin?
++ a. Presipitatsiya reaksiyasidan foydalanib
+- b. Aglyutinatsiya reaksiyasidan foydalanib
+- c. Kumbs reaksiyasidan foydalanib
+- d. Neytrallash reaksiyasidan foydalanib
+
+? Serologik diagnostika uchun aglyutinatsiya reaksiyasi ishlatildi. Buning uchun bemordan olingan tekshiruv ashyosi probirkalarga ketma – ket suyultirildi va barchasiga 2 – 3 tomchidan qo'shimcha ingridient qo'shildi. Quyidagi javoblardan mosini tanlang:
++ a. Bemorning zardobi, diagnostikum
+- b. Qon, bakteriyalar
+- c. Qon zardobi, eritrotsitlar
+- d. Antiglobulin va eritrotsit
+
+? Sud-tibbiy ekspertizasi xodimlari qotillik qilingan joydan soch tolasini topishdi. Bu soch tolasi kimga tegishli ekanligi qaysi reaksiya orqali aniqlanadi?
+- a. Neytrallash reaksiyasidan foydalanib
+- b. Kumbs reaksiyasidan foydalanib
++ c. Presipitatsiya reaksiyasidan foydalanib
+- d. Aglyutinatsiya reaksiyasidan foydalanib
+
+? Yuqumli kasalliklarning serologik diagnostikasi antigenlar bilan antitelolarning o'ziga xos o'zaro ta'siriga asoslangan. Elektrolit ishtirokida mikroorganizmlarni spetsifik antitelolar ta'sirida yopishishi bilan kechuvchi serologik reaksiyani aniqlang?
++ a. Aglyutinatsiya reaksiyasi
+- b. Neytrallash reaksiyasi
+- c. Komplementni bog'lash reaksiyasi
+- d. Lizis reaksiyasi
+
+? Zaharlanish bilan kechuvchi yuqumli kasalliklar serologik diagnostikasi ekzotoksinlar bilan maxsus antitelolarning o'zaro ta'siriga asoslangan. Shunday xususiyatga ega serologik reaksiyani aniqlang?
+- a. Lizis reaksiyasi
+- b. Komplementni bog'lash reaksiyasi
+- c. Aglyutinatsiya reaksiyasi
++ d. Neytrallash reaksiyasi
+
+? Zo'raki o'lim sababli vafot etgan murdaning tirnoqlari ostidan biologik ashyo olindi. Qanday reaksiya yordamida bu ashyo qotillik qilgan shaxsga ta'lluqli ekanligini isbotlash mumkin?
+- a. Kumbs reaksiyasidan foydalanib
+- b. Neytrallash reaksiyasidan foydalanib
++ c. Presipitatsiya reaksiyasidan foydalanib
+- d. Aglyutinatsiya reaksiyasidan foydalanib
+? Eritrotsitar diagnostikum nima?
+- a. o'ldirilgan mikroorganizmlarni suspenziyasi
+- b. 1% – li qo'y eritrotsitlarning suspenziyasi
+- c. 3% li qo'y eritrotsitlari suspenziyasi
++ d. eritrotsitlarni yuzasiga antigenlar adsorbsiyalangan preparat
+
+? Gemolitik sistema qo'llaniladigan serologik reaksiyani ko'rsating
+- a. gemagglyutinatsiyani tormozlash reaksiyasi
++ b. komplementni bog'lash reaksiyasi
+- c. bilvosita gemagglyutinatsiya reaksiyasi
+- d. toksinni neytrallash reaksiyasi
+
+? Ho'kiz yuragi kardilipidi ishlatiladigan reaksiyani belgilang
+- a. BilGAR
+- b. RIA
++ c. KBR
+- d. Agglyutinatsiya
+
+? KBR (komplement bog'lash reaksiyasi) qaysi tekshiruv turiga kiradi?
+- a. allergologik
+- b. bakteriologik
++ c. serologik
+- d. biokimyoviy
+
+? KBR (komplement bog'lash reaksiyasi)da qatnashmaydigan javobni belgilang?
+- a. 3% li qo'y eritrotsitlardan iborat suspenziya
++ b. pretsiptatsiyalovchi zardob
+- c. komplement
+- d. gemolitik zardob
+
+? Komplement bog'lanish reaksiyasi (RW) qaysi kasalliklar diagnostikasida qo'llaniladi
+- a. Ichburug'
++ b. Zaxm (sifilis)
+- c. Blennoreya
+- d. OITS
+
+? Komplement bog'lash reaksiyasida nima ishtirok etmaydi?
++ a. pretsiptatsiyalovchi zardob
+- b. gemolitik zardob
+- c. 3% li qo'y eritrotsitlardan iborat suspenziya
+- d. komplement
+
+? Komplement bog'lash reaksiyasida qaysi komponent bakteriologik sistemaga kirmaydi?
++ a. 3% – li qo'y eritrotsitlar suspenziyasi
+- b. fiziologik iritma
+- c. komplement
+- d. bemor zardobi
+
+? Komplement normada inert bo'ladi. Uni nima faollashtiradi:
+- a. gaptenlar
++ b. antigen antitelo kompleksi
+- c. E immunoglobulin
+- d. to'liqsiz antitelolar
+
+? Komplementni bog'lash reaksiyasida antigen va antiteloning bir – biriga mosligi qanday bilinadi
+- a. pretsipitat hosil bo'lishiga qarab
+- b. cho'kmaga qarab
++ c. gemoliz bo'lganiga qarab
+- d. ipir – ipir hosil bo'lganiga qarab
+
+? Komplementni nima faollashtiradi:
+- a. E immunoglobulin
+- b. gaptenlar
+- c. to'liqsiz antitelolar
++ d. antigen antitelo kompleksi
+
+? Komplementning antitela bilan bog'lanish sharoitini ayting
+- a. eritrotsitlar ishtirokida
+- b. antigen ishtirokida
++ c. antitela va antigen ishtirokida
+- d. antitela ishtirokida
+
+? Komplementning asosiy funksiyasi nimadan iborat:
++ a. antigen va antiteloni bir – biriga bog'laydi
+- b. immun komplekslarga birikish
+- c. semiz hujayralarga birikish
+- d. B limfotsitlar sistemasini faollashtirish
+
+? Laboratoriya sharoitida ishlatish uchun komplement nimadan olinadi
+- a. quyondan
+- b. oq sichqondan
+- c. qo'ydan
++ d. dengiz cho'chqachasining erkagidan
+
+? Qanday serologik reaksiyani qo'yishda gemolitik sistema qo'llaniladi
+- a. gemagglyutinatsiyani tormozlash reaksiyasi
+- b. bilvosita gemagglyutinatsiya reaksiyasi
++ c. komplementni bog'lash reaksiyasi
+- d. toksinni neytrallash reaksiyasi
+
+? Qanday sharoitda komplement antitela bilan bog'lanadi
+- a. antitela ishtirokida
++ b. antitela va antigen ishtirokida
+- c. eritrotsitlar ishtirokida
+- d. antigen ishtirokida
+
+? Quyidagi reaksiyalardan qaysi biri ikki bosqichda amalga oshiriladi
+- a. agglyutinatsiya
+- b. BilGAR
+- c. RIA
++ d. KBR
+
+? Serologik reaksiyAdagi komplementning asosiy funksiyasi nimadan iborat:
+- a. semiz hujayralarga birikish
++ b. antigen va antiteloni bir – biriga bog'laydi
+- c. B limfotsitlar sistemasini aktivlashtirish
+- d. immun komplekslarga birikish
+
+? To'liq bo'lmagan antitelalar keltirilgan usullardan qaysi biri bilan aniqlanadi
++ a. Komplementni bog'lash reaksiyasi
+- b. Agglyutinasiya reaksiyasi
+- c. Neytrallash reaksiyasi
+- d. Pretsipitatsiya reaksiyasi
+
+? Zaxm kasalligini aniqlashda quyidagi qaysi reaksiyadan foydalaniladi?
++ a. KBR
+- b. Agglyutinatsiya
+- c. RIA
+- d. BilGAR
+
+? Bemordan olingan tekshiruv ashyosidan kasallik qo'zg'atuvchisining antigenini hamda unga qarshi antitelolarni topish kerak. Bunday holatda qanday serologik reaksiyalardan foydalanish maqsadga muvofiq.
++ a. IFA
+- b. GATR
+- c. BGAR
+- d. KBR
+
+? Bemordan olingan tekshiruv ashyoda o'ta havfli zoonoz infeksiyalar borligiga shubhalanilmoqda. Bunday holatda tezkor qanday serologik reaksiyalardan foydalanish maqsadga muvofiq.
+- a. IFA
++ b. IFR
+- c. GAR
+- d. KBR
+
+? Gemolitik zardob komplement bog'lash reaksiyasining gemolitik indikator tizimidir. Qanday qilib gemolitik zardob olish mumkin?
+- a. Dengiz cho'chqalarini antigen bilan emlash
+- b. Antigen bilan qo'chqor immunizatsiyasi
+- c. Bakteriya bilan quyonlarni emlash
++ d. Quyonlarni eritrotsitlar bilan emlash
+- e. oqsichonlarni eritrotsitlar bilan emlash
+
+? Keltirilgan tekshiruv ashyosida shubhalanilgan infeksiyani aniqlash uchun PZR qo'yildi. Bunday reaksiya yordamida kasallikni tasdiqlovchi qanday dalil topiladi.
+- a. maxsus antitelolar
+- b. maxsus infeksiyalar
+- c. maxsus antigenlar
++ d. maxsus genomlar
+
+? Keltirilgan tekshiruv ashyosida shubhalanilgan infeksiyaning maxsus genomini topish zarur. Bunday holatda qanday zamonaviy reaksiyalardan foydalanish maqsadga muvofiq.
+- a. KBR
++ b. PZR
+- c. IFA
+- d. IFR
+
+? Komplement bog'lanish reaktsiyasida indikator gemolitik tizim bo'lib, uning tarkibiy qismi gemolitik zardobdir. Uni qanday qilib olish mumkin?
+- a. Antigen bilan qo'ylarni emlash
++ b. Quyonlarni eritrotsitlar bilan emlash
+- c. Dengiz cho'chqalarini antigen bilan emlash
+- d. Quyonlarni viruslar bilan emlash
+
+? Komplementni bog'lash reaktsiyasida indikator sifatida gemolitik zardobni o'z ichiga oluvchi gemolitik tizim ishlatiladi. Gemolitik zardob olishning asosiy usuli:
+- a. Quyonlarni bakteriyalar bilan emlash
+- b. Eritrotsitlar bilan qo'yning giperimmunizatsiyasi
+- c. Dengiz cho'chqalariga virus yuborish
++ d. Quyonlarni qo'y eritrotsitlari bilan emlash
+
+? OITSga shubha qilingan bemorda IFA ikki marta musbat chiqdi. Bunday holatda qanday zamonaviy reaksiya yordamida kasallikni tasdiqlash mumkin.
+- a. Immun Ferment Analizi
+- b. Komplement Biriktirish Reaksiyasi
++ c. Immun Bloting Reaksiyasi
+- d. Immun Flyuorossent Reaksiyasi
+
+? Qo'y eritrotsitlariga qarshi gemolitik zardob yuqumli kasalliklarning serologik diagnostikasi o'tkaziladigan laboratoriyada ishlash uchun zarurdir. U nima uchun ishlatiladi?
+- a. Rezus- konflikt bilan yangi tug'ilgan chaqaloqlarning gemolitik kasalligi tashxisi uchun
+- b. Bilvosita gemaglutinatisya reaksiyasi uchun
+- c. Gemaglutinatsiyaning tormozlanish reaksiyasi uchun
++ d. Komplement bog'lash reaksiyasida gemolitik tizim komponenti sifatida
+
+? Yuqumli kasalliklarni tashhislash uchun ko'pincha lizis reaksiyalari ishlatiladi. Qaysi komponentlarsiz hujayralar lizisini amalga oshirish mumkin emas?
+- a. toksinlar
+- b. eritrotsitlar
++ c. komplement
+- d. lizotsim
+? ADS-M preparati nima?
+- a. paratif A, dizenteriya va sil vaksinasi
++ b. adsorbsiyalargan difteriya va qoqshol anatoksini
+- c. adsorbsiyalangan ko'kyo'tal, difteriya va qoqshol vaksinasi
+- d. adsorbsiyalargan dizenteriya va qoqshol anatoksini
+
+? AKDS nima?
++ a. adsorbsiyalangan ko'k yo'tal, difteriya va qoqshol vaksinasi
+- b. adsorbsiyalangan qorin tifi, dizenteriya va sil vaksinasi
+- c. sil va ko'kyo'tal vaksinasi
+- d. paratif A, kolienterit, dizenteriya va qoqshol vaksinasi
+
+? Anatoksin qanday tayyorlanadi?
+- a. bakteriya suspenziyasi qaynatiladi
+- b. ekzotoksini alyuminiy gidrookisga shimdiriladi
+- c. mikroorganizmning suspenziyasiga etil spirti qo'shiladi
++ d. ekzotoksinga 0,3-0,5% formalin qo'shiladi va 39-40 C da 40 kun saqlanadi
+
+? Anatoksin qaysi kasallikni oldini olishda qo'llaniladi.
+- a. sil
+- b. poliomielit
+- c. gripp
++ d. qoqshol
+
+? Anatoksinni tayyorlash uchun mikrobdan nima olinadi?
++ a. ekzotoksin
+- b. bakteriofag
+- c. mikrobning xivchini
+- d. endotoksin
+
+? Bemorga immun zardob kiritildi. Qanday immunitet hosil bo'ladi:
++ a. su'niy passiv
+- b. tabiiy passiv
+- c. su'niy aktiv
+- d. tabiiy aktiv
+
+? Bolaga 1 yoshligida rejali ravishda qilinadigan vaksina turini toping:
+- a. BCG
+- b. AKDS
++ c. KPK
+- d. O'latga qarshi
+
+? Faol (aktiv) immunizatsiya uchun qo'llaniladigan preparatlar?
++ a. tirik vaksina
+- b. immunoglobulin
+- c. bakteriofag
+- d. interferon
+
+? Homilaning rivojlanish davrida hosil bo'ladigan immunitet:
+- a. Sun'iy passiv
+- b. Tabiiy aktiv
++ c. Tabiiy passiv
+- d. Tabiiy orttirilgan
+
+? Immun zardoblar kiritilishi bilan hosil qilinadigan immunitet.
++ a. sun'iy passiv
+- b. sun'iy aktiv
+- c. tug'ma
+- d. tabiiy passiv
+
+? Ko'rsatilgan preparatlardan qaysi biri yuborilgan odamda faol immunitet hosil bo'ladi?
+- a. gamma-globulin
+- b. antitoksinli zardob
++ c. anatoksin
+- d. normal ot zordobi
+
+? Ko'rsatilgan preparatlarning qaysi biri odamga Bezredko usulida yuboriladi?
+- a. anatoksin
+- b. bir guruhli qon
++ c. antitoksinli zardob
+- d. diagnostik zardob
+
+? O'ldirilgan vaksina:
+- a. silga qarshi (BCG)
+- b. kuydirgiga qarshi (STI)
+- c. tounga qarshi EV
++ d. qorin tifiga qarshi
+
+? Qanday moddalar organizmda "depo" Ag ni hosil qilish qobiliyatiga ega
+- a. anatoksin
++ b. ad'yuvantlar
+- c. eritrotsitlar
+- d. vaksinalar
+
+? Qoqsholga qarshi spetsifik faol immunitetni hosil qilishda qo'llaniladigan vaksina
+- a. BCG
+- b. antitoksik zardob
++ c. AKDS
+- d. tirik kuchsizlantirilgan vaksina
+
+? Quyida berilgan infeksiyalardan qaysi biriga qarshi rejali ravishda vaksina qilinadi:
+- a. gripp
++ b. rotavirus
+- c. astrovirus
+- d. vabo
+
+? Quyida berilgan vaksinalardan qaysi biri gen injenerligi yordamida olinadi:
++ a. Gepatit B ga qarshi
+- b. AKDS
+- c. BCG
+- d. O'latga qarshi
+
+? Tirik kuchsizlantirilgan vaksinani ko'rsating.
++ a. quturishga qarshi
+- b. qorin tifiga qarshi
+- c. vaboga qarshi
+- d. ko'kyo'talga qarshi
+
+? Tirik vaksina
+- a. AKDS
+- b. qoqsholga qarshi vaksina
++ c. BCG
+- d. qorasonga qarshi vaksina
+
+? Vaksinalar organizmga qanday yo'llar orqali kiritiladi.
+- a. shilliq pardalar orqali
+- b. parenteral yo'l bilan
++ c. hamma javob to'g'ri
+- d. nafas yo'llari orqali
+
+? Organizmga birinchi bor antigenni yubordik. Qon zardobidan mos antitelolarni ajratib olish uchun qancha vaqtdan so'ng shu organizmdan qon olishimiz kerak?
+- a. 12 soatdan so'ng
+- b. 1 kundan so'ng
+- c. 5 kundan so'ng
++ d. 7 kundan so'ng
+
+? Organizmga birinchi bor antigenni yubordik. Qon zardobidan mos antitelolarni titrini oshirish uchun qancha vaqtdan so'ng shu antigenni qayta yuborishimiz kerak?
+- a. Kamida 12 soatdan so'ng
++ b. Kamida 7 kundan so'ng
+- c. Kamida 1 kundan so'ng
+- d. Kamida 5 kundan so'ng
+
+? Qon zardobida antiinfeksion antitelolar hosil bo'ldi. Qanday holatda bakteriya tanasiga hamda uning zahariga qarshi antitelolar hosil bo'ladi?
+- a. Endotoksin yuborilganda
++ b. Kasallanib o'tganda
+- c. O'ldirilgan vaksina yuborilganda
+- d. Ekzotoksin yuborilganda
+
+? Qon zardobida antitoksik antitelolarni hosil qilishimiz kerak. Bakteriyalarni qaysi antigenini yuborsak shu maqsadimizga erishamiz?
+- a. Ekzotoksin yuborish orqali
+- b. O-antigenini yuborish orqali
+- c. Endotoksin yuborish orqali
++ d. Anatoksin yuborish orqali
+
+? Qon zardobida bakteriya tanasiga qarshi antitelolarni hosil qilishimiz kerak. Bakteriyalarni qaysi antigenini yuborsak shu maqsadimizga erishamiz?
++ a. O-antigenni yuboramiz
+- b. H-antigenni yuborish orqali
+- c. K-antigenni yuborish orqali
+- d. Protektiv antigenni yuborish orqali
+
+? Qon zardobida eng ko'p antitelo (Ig)larni ajratib olish uchun qaysi Ig tanlashimiz kerak
+- a. Ig E
++ b. Ig G
+- c. Ig M
+- d. Ig A
+
+? Qon zardobida ko'p titrdagi antitelo (Ig)larni bo'lishi uchun qanday tabiatli antigen yuborishimiz kerak?
+- a. Glikolipidli
+- b. Lipoidli
++ c. Oqsil tabiatli
+- d. Lipopolisaxaridli
+
+? Tekshirilayotgan qon zardobida Ig E ko'p miqdorda aniqlandi. Qanday holatlarda bu immunoglobulin qonda ortadi?
+- a. Immunoglobulin yuborilganda
++ b. Organizmning sensibilligi ortganda
+- c. Kesar kesish yo'li orqali tug'ilganda
+- d. Ona suti bilan oziqlantirilmaganda
+
+? Yangi tug'ilgan chaqaloqlarga onasidan Ig A berilishini ta'minlashimiz kerak. Buning uchun nima qilamiz?
+- a. Onalariga immunoglobulinlarni yuboramiz
++ b. Ona suti bilan doimo oziqlantiramiz
+- c. Onalarini bir marta emlash orqali
+- d. Onadan bolaga yo'ldosh orqali o'tkizamiz
+
+? Yangi tug'ilgan chaqaloqlarga onasidan Ig G berilishini ta'minlashimiz kerak. Buning uchun nima qilamiz?
+- a. Onalariga immunoglobulinlarni yuboramiz
+- b. Onadan bolaga tug'ruq yo'llari orqali o'tkazish
+- c. Ona suti bilan doimo oziqlantiramiz
++ d. Bolalar tug'ilguncha onalarini emlash orqali
+? Allergen deb nimaga aytiladi?
++ a. Organizmni sezgirligini oshiradigan antigen
+- b. immun modda
+- c. immunitetni kuchaytiradigan antigen
+- d. interferon
+
+? Allergik reaksiyalarning mediatorlaridan birini ko'rsating.
+- a. komplement
+- b. interferon
+- c. lizotsim
++ d. gistamin
+
+? Allergik reaksiyalarning mediatorlariga kiradi.
+- a. komplement
+- b. properdin
++ c. serotonin
+- d. sitokin
+
+? Anafilaksiya rivojlanishida katta ro'l o'ynaydigan hujayralarni tanlang?
+- a. Timositlar
++ b. Semiz hujayralar
+- c. Eozinofillar
+- d. Makrofaglar
+
+? Anafilaktik shokning paydo bo'lishi nimaga bog'liq.
+- a. fagotsitlarning aktivlanishiga
++ b. qonga biologik-aktiv moddalarning chiqishi
+- c. limfotsitlar miqdorining kamayishiga
+- d. opsoninlar titrining oshishiga
+
+? Antigen yuborilgandan so'ng darhol yuzaga chiquvchi o'ta sezuvchanlik belgilarining paydo bo'lish muddati
+- a. 3 kunda
+- b. 6-8 soatda
++ c. bir necha daqiqadan so'ng
+- d. 3 oyda
+
+? Asta-sekin yuzaga chiquvchi allergik reaksiyalarga kiradi
+- a. Kvinke shishi
++ b. brutsillin sinamasi
+- c. anafilaksiya
+- d. zardob kasalligi
+
+? Eng xavfli immunitet tanqisligi turini toping:
+- a. Komplement tizim immun tanqisligi
+- b. Fagotsitoz va komplement tizimining immun tanqisligi
+- c. T-tizimining immun tanqisligi
++ d. T- va B-tizimlar immun tanqisligi
+
+? Ig G antitelolari bilan bog'liq kasallik:
+- a. Revmatizm
+- b. Greyvs kasalligi
++ c. Revmatoid artrit
+- d. Myasteniya gravis
+
+? IgE ishlab chiqarilishi va semiz hujayralar degranulyatsiyasi quyidagi hollarda sodir bo'ladi:
+- a. Ona va homila rezusi mos kelmaganda
+- b. Giyohvandlarda
++ c. Anafilaktik shokda
+- d. A'zolar ko'chirilganda
+
+? Mahalliy teri anafilaksiyasi bu:
+- a. Gul changiga allergiya
++ b. Ari chaqishi
+- c. ich ketishi (diareya)
+- d. Bronxial astma
+
+? Mantu sinamasining ijobiy natijasi misol bo'ladi
+- a. Ekzema
++ b. Sekin rivojlanuvchi yuqori sezuvchanlik
+- c. Sitolitik reaksiya
+- d. Autoimmun patologiya
+
+? Organizmda qaysi immun reaksiyalarda immunoglobulin E ishtirok etadi
+- a. immun tolerantlikka
+- b. ikkilamchi immun javobida
+- c. autoimmun jarayonida
++ d. allergik reaksiyalarda
+
+? O'z antigenlariga immuntolerantlikning yo'qolishi qanday patologik jarayonga olib keladi:
+- a. agammaglobulinemiya
+- b. artyus fenomeni
++ c. autoimmun kasalliklar
+- d. zardob kasalligi
+
+? Polinoz qanday allergenlarga tegishli?
+- a. maishiy
+- b. kontaktli
++ c. nafas olish
+- d. in'eksiya
+
+? Qaysi holat sekin-asta yuzaga chiquvchi o'ta sezuvchanlikga kiradi?
+- a. dam isitmasi
++ b. transplantatsiya (ko'chirib o'tkazish) immuniteti
+- c. pichan isitmasi
+- d. in'eksiyadagi allergik holat
+
+? Sekin-asta yuzaga chiquvchi o'ta sezuvchanlik
+- a. faol bo'lmagan immunitet
+- b. anafilaktik shok
++ c. infeksion allergiya
+- d. pichan isitmasi
+
+? Tez yuzaga chiquvchi o'ta sezuvchanlikni belgilang.
++ a. zardob kasalligi, anaflaksiya, atopiya
+- b. atopiya, infeksion allergiya kontaktli allergiya
+- c. infeksion allergiya, anafilaksiya, atopiya
+- d. anafilaksiya, kontaktli allergiya, zardob kasalligi
+
+? X bilan bog'liq gipogammaglobulinemiya nima bilan bog'liq?
+- a. T hujayralari sonining keskin kamayishi
+- b. Neytrofillarning mikroorganizmlarni o'ldirish qobiliyatidagi nuqson
+- c. B va T hujayralarining yetishmasligi
++ d. B hujayralarining tug'ma yetishmovchiligi
+
+? Yuqori sezuvchanlik reaksiyasi namoyon bo'ladi?
+- a. Immun tizimining patologiyasi bo'lgan odamlarda
+- b. Antigen bilan birinchi aloqada
+- c. Immun tanqisligi bo'lgan odamlarda
++ d. Antigen bilan qayta aloqa qilganda
+
+? 25 yoshli ayol tishida og'riq paydo bo'ldi. Onasi analgin va dimedrol qilib qo'ydi. 10 daqiqadan so'ngra ayolning ko'krak sohasida og'riq kuzatildi. Buning natijasida qon bosimi tushib ketdi va hushini yo'qotdi. Nima bo'lganini izohlang?
+- a. Artyus fenomeni
++ b. Anafilaktik shok
+- c. Pirke reaksiyasi
+- d. Zardob kasalligi
+
+? 40 yoshli erkak Hindistonga dam olishga bordi. Mehmonxona yo'lida ilon chaqib oldi. Ilon chaqqan sohada 10 sekunddan keyin kuchli og'riq, shish, qizarish kuzatildi. Tomoqda kuchli shish va bronxospazm kuzatildi. Bemor hushini yo'qotdi va yiqildi. Bu holatni nomlang?
+- a. Zardob kasalligi
+- b. Artyus fenomeni
++ c. Anafilaktik shok
+- d. Pirke reaksiyasi
+
+? 40 yoshli erkak, 5 hafta oldin restoranda noma'lum ovqat istemol qilgan va terisida oqish rangli pufakchalar paydo bo'ldi va qichish hissini uyg'otdi. Bu yerda qanday immunopatologik reaksiya kuzatilmoqda?
+- a. Artyus fenomeni
++ b. Eshakemi
+- c. Ekzema
+- d. Pirke reaksiyasi
+
+? 5 yoshli bola., Asalari chaqqandan sohada 3 sekunddan so'ng kuchli og'riq, shish, qizarish kuzatildi. Bola hushini yo'qotdi va yiqildi. Bu holatni nomlang?
+- a. Pirke reaksiyasi
+- b. Zardob kasalligi
++ c. Anafilaktik shok
+- d. Artyus fenomeni
+
+? Asalari chaqqan sohada 3 sekunddan so'ng kuchli og'riq, shish, qizarish kuzatildi. Bu qaysi tip reaksiyaga mansub?
+- a. IV
++ b. I
+- c. III
+- d. II
+
+? Bemor bir kurs penitsillin olgandan so'ng 9 kunda ineksiya sohasida giperemiya kuzatildi. Bu holat Artyus fenomeni deyiladi. Qanday holat rivojlangan?
+- a. «Allergen-antitelo» kompleksi sitotoksik hujayra bilan birikkan
+- b. T hujayralar ta'sirlangan va limfokinlarni ajralishiga olib kelgan
++ c. Tomir devorlarida «allergen-antitelo» kompleksi ajralgan
+- d. Antitela yordamida antigen semiz hujayralarga birikkan
+
+? Bolada o'simlik changiga allergiya bor. Bunday tip reaksiyalarda Ig E semiz hujayralarga yopishib oladi. Ikkinchi marta allergen tushganda qanday jarayon yuz beradi.
++ a. Allergen semiz hujayralarga yopishib olgan Ig E bilan birikadi
+- b. Allergen semiz hujayralarga yopishib olgan Ig G bilan birikadi
+- c. Allergen semiz hujayralarga yopishib olgan Ig A bilan birikadi
+- d. Allergen semiz hujayralarga yopishib olgan Ig D bilan birikadi
+
+? Bolada polinoz - o'simlik changiga allergiya kuzatilmoqda. Qaysi tip reaksiyalarda Ig E semiz hujayralarga yopishib oladi
++ a. I
+- b. IV
+- c. III
+- d. II
+
+? Eruvchan antigen presipitatsiyalovchi antitela bilan hujayra yuzasiga emas, balki qonda aylanib yuruvchi immun kompleks (AyIK) hosil qiladigan tip reaksiyasi mavjud. Bu qaysi tip reaksiyaga mansub?
+- a. I
+- b. II
++ c. III
+- d. IV
+
+? Tomoqda kuchli shish va bronxospazm kuzatildi. Bemor hushini yo'qotdi. Bu holat yuz berishidan oldin qanday jarayon bo'lgan
+- a. Ig A semiz hujayralarga yopishib oladi
+- b. Ig G semiz hujayralarga yopishib oladi
++ c. Ig E semiz hujayralarga yopishib oladi
+- d. Ig D semiz hujayralarga yopishib oladi
+? 1 ml yoki 1 g to'qimadagi bakteriyalarning kritik konsentratsiyalarini belgilang?
+- a. 103-104 mikrob hujayralari
+- b. 107-108 mikrob hujayralari
+- c. 102-103 mikrob hujayralari
++ d. 105-106 mikrob hujayralari
+
+? Disbioz nima?
++ a. Mikrofloradagi mikrob populyasiyalari o'rtasidagi muvozanatning miqdoriy va sifat buzilishlari
+- b. Yo'g'on ichakda anaerob bakteriyalar sonini kamayishi
+- c. Teri yuzasida patogen mikroorganizmlar sonining ortishi
+- d. Yo'g'on va ingichka ichak mikroblari orasidagi muvozanatning buzilishi
+
+? Gnotobiontlarning nechta guruhi mavjud?
+- a. monobiot
+- b. polibiot
+- c. dibiot
++ d. yuqoridagilarning barchasi
+
+? Homilador ayolga bakterial vaginal disbioz tashxisi qo'yildi. Bu holatda qaysi preparatni tanlash kerak?
++ a. Eubiotik
+- b. Multivitamin
+- c. Bacteriophag
+- d. antibiotik
+
+? Ichakdagi normal mikrofloraga kiruvchi bakteriyani toping:
+- a. S.enteridis
+- b. S. tiphimurium
++ c. E.coli
+- d. Cl.botilinum
+
+? Inson mikroflorasining asosiy qismi:
+- a. fakultativ, tasodifiy
++ b. doimiy, rezident, avtoxton
+- c. tranzitor, vaqtincha
+- d. alloxton
+
+? Inson tanasida yashaydi:
+- a. Bakteriyalarning 500 turi
++ b. barcha javoblar to'g'ri
+- c. sodda hayvonlarning 20 turi
+- d. Viruslarning 50 turi
+
+? Jarrohlik sohasi terisi va jarroh qo'llarini sterilligi uchun olingan namunalarning natijalarini berish vaqtini belgilang:
+- a. 8 kun
++ b. 3 kun
+- c. 10 kun
+- d. 14 kun
+
+? Nafas yo'llari mikroflorasining asosiy vakili:
+- a. Staphylococcus epidermidis
+- b. Staphylococcus aureus
++ c. Streptococcus viridans
+- d. Staphylocus saprophyticus
+
+? Odam ichagi normobiotsenoziga xos aerob va anaerob mikrofloraning nisbatlarini ko'rsating:
+- a. 1:01
+- b. 10:01
++ c. 1:100
+- d. 1:10
+
+? Odam me'da-ichak traktidagi bakteriyalarning asosiy massasi:
+- a. oshqozonda
+- b. ingichka ichakda
++ c. yo'g'on ichakda
+- d. sigmasimon ichakda
+
+? Odam mikroflorasi tarkibi juda barqaror. Mikrofloraga ta'sir ko'rsatadi:
+- a. jinsi
+- b. iqlim
+- c. salomatlik holati
++ d. barcha sanab o'tilgan omillar
+
+? Odam mikroflorasiga xos bo'lgan xususiyat:
+- a. jinsga bog'liq
+- b. qat'iy darajada barqaror
++ c. barcha javoblar to'g'ri
+- d. Individual tarzda qat'iy
+
+? Odam mikroflorasining normal fiziologik qiymatini ko'rsating?
+- a. metabolizmning barcha turlarini, immunitetni rag'batlantiradi, bir qator vitaminlarni sintez qiladi
+- b. erkin temirning bog'lanishini faollashtiradi, leykopoezni rag'batlantiradi
+- c. oshqozon-ichak trakti sekretor faoliyatini rag'batlantiradi
++ d. Barcha javoblar to'g'ri
+
+? Og'iz bo'shlig'ida asosiy mikroflorani tashkil qiladi.
++ a. bakteriyalar
+- b. zamburug'lar
+- c. viruslar
+- d. sodda hayvonlar
+
+? Og'iz bo'shlig'i spiroxetalari orasida ko'pincha.....uchraydi:
+- a. Spirochaeta refringens
+- b. Treponema pallidum
+- c. Spirochaeta plicatelis
++ d. Treponema denticola
+
+? Qinda doderlyen tayoqchalari kamaygan, leykositlar va stafilokokklar mavjudligi, zararlanishning qaysi bosqichiga mansub:
++ a. IV
+- b. to'g'ri javob yo'q
+- c. II
+- d. I
+
+? Qindagi normal mikrofloraga kiruvchi bakteriyani toping:
+- a. Cl.botilinum
++ b. Doderlyen tayoqchalari
+- c. S. tiphimurium
+- d. S.enteridis
+
+? So'lakda quyidagi bakteritsid moddalar bor, quyidagidan tashqari:
+- a. lizotsim
+- b. sekretor immunoglobulin A
++ c. sut kislota
+- d. komplement
+
+? Terida mikrofloraning to'planish joylari:
+- a. soch xaltasida
++ b. barchasi to'g'ri
+- c. yog' bezlarida
+- d. ter bezlarida
+
+? Bemordan namuna olindi va miqdor hamda sifat jihatdan o'rganildi. Odam ichagi normobiotsenoziga xos aerob va anaerob mikrofloraning nisbatlarini ko'rsating:
+- a. 10:01
+- b. 1:10
+- c. 1:01
++ d. 1:100
+
+? Homilador ayolga bakterial vaginal disbioz tashxisi qo'yildi. Bu holatda qaysi preparatni tanlash kerak?
+- a. Bacteriophag
+- b. Antibiotik
++ c. Eubiotik
+- d. Multivitamin
+
+? Infeksiya tarqalishini oldini olish uchun sterillikga tekshirilmoqda. Jarrohlik sohasi terisi va jarroh qo'llarini sterilligi uchun olingan namunalarning natijalarini berish vaqtini belgilang:
++ a. 3 kun
+- b. 8 kun
+- c. 10 kun
+- d. 14 kun
+
+? Ko'p miqdorda antibiotik olgan bemorda disbioz rivojlandi. Disbioz nima?
+- a. Yo'g'on ichakda anaerob bakteriyalar sonini kamayishi
+- b. Yo'g'on va ingichka ichak mikroblari orasidagi muvozanatning buzilishi
++ c. Makroorganizmdagi mikrob populyasiyalari o'rtasidagi muvozanatning miqdoriy va sifatiy buzilishlari
+- d. Teri yuzasida patogen mikroorganizmlar sonining ortishi
+
+? Normal mikrofloraning holatini tekshirish uchun namunalar olindi. 1 ml yoki 1 g to'qimadagi bakteriyalarning kritik konsentratsiyalarini belgilang?
+- a. 103-104 mikrob hujayralari
+- b. 102-103 mikrob hujayralari
+- c. 107-108 mikrob hujayralari
++ d. 105-106 mikrob hujayralari
+
+? Odam me'da-ichak traktidagi bakteriyalarning asosiy massasi qaysi a'zoda joylashgan:
+- a. sigmasimon ichakda
+- b. ingichka ichakda
+- c. oshqozonda
++ d. yo'g'on ichakda
+
+? Odam mikroflorasi tarkibi juda barqaror. Mikrofloraga ta'sir ko'rsatuvchi omillarni ko'rsating:
+- a. jinsi
++ b. barcha sanab o'tilgan omillar
+- c. salomatlik holati
+- d. iqlim
+
+? Odam organizmidagi barcha mikroorganizmlar fiziologik holatlarda ishtirok etishadi. Odam mikroflorasining normal fiziologik qiymatini ko'rsating?
+- a. oshqozon-ichak trakti sekretor faoliyatini rag'batlantiradi
+- b. erkin temirning bog'lanishini faollashtiradi, leykopoezni rag'batlantiradi
+- c. metabolizmning barcha turlarini, immunitetni rag'batlantiradi, bir qator vitaminlarni sintez qiladi
++ d. Barcha javoblar to'g'ri
+
+? Odam organizmining barcha a'zolarida mikroflora mavjud va quyidagi xususiyatlarga ega:
+- a. Individual tarzda qat'iy
++ b. barcha javoblar to'g'ri
+- c. qat'iy darajada barqaror
+- d. jinsga bog'liq
+
+? Og'izdan olingan surtmada ko'pchilik bakteriyalar singari spiroxetalar aniqlandi. Ular orasida ko'pincha.....uchraydi:
+- a. Treponema pallidum
++ b. Treponema denticola
+- c. Spirochaeta refringens
+- d. Spirochaeta plicatelis
+? Bitta ichak tayoqchasi uchraydigan suvning eng kam hajmi nima deb ataladi
+- koli – indeks
+- mikrob soni
+- bijg'ish titri
++ koli – titr
+
+? Doimo tuproqda bo'ladigan mikrobni ko'rsating
+- mikobakteriyalar
+- mikoplazmalar
++ aktinomitsetlar
+- esherixilar
+
+? Ekologiya fani nimani o'rganadi
+- zamburug'lar hayotini
+- mikroorganizmlar hayotini
+- simbiozning parazitlik qiluvchi shaklini
++ organizmlarning yashayotgan muhitdagi o'zaro munosabatlarni
+
+? Havo mikroflorasini aspiratsion tekshirish usulini ko'rsating
+- Paster usuli
+- Mikroblarni cho'ktirish (sediimentatsiya) usuli
+- Kox usuli
++ Krotov usuli
+
+? Havo orqali qaysi infeksiya tarqalishi mumkin
+- vabo
+- botulizm
+- qoqshol
++ ko'kyо'tal
+
+? Havodagi mikrob miqdorini mikrobiologik tekshirish uchun qaysi usuldan foydalaniladi
++ aspiratsion
+- Kox usuli
+- membranali filtr
+- titratsion
+
+? Ichak tayoqchasi suvdan ko'p miqdorda topilsa qaysi infeksiyaning tarqalish ehtimoli bor
+- transmissiv infeksiyalarining
+- teri infeksiyalarining
++ ichak infeksiyalarining
+- respirator infeksiyalarining
+
+? Jarrohlik va tug'ruqxonalar havosining tozaligini aniqlashda izlanadigan mikrobni ko'rsating
+- gonokokk
+- ichak tayoqchasi
++ stafilakokk
+- pnevmakokk
+
+? Koli – indeks deb nimaga aytiladi
+- 100 ml suvdagi ichak tayoqchasi miqdoriga aytiladi
+- 300 ml suvdagi ichak tayoqchasi miqdoriga aytiladi
++ 1000 ml suvdagi ichak tayoqchasi miqdoriga aytiladi
+- 1 dona ichak tayoqchasi uchraydigan suvning eng kam miqdoriga
+
+? Koli – titrni aniqlanganda qaysi mikrobni tekshiruv materialida aniqlaymiz
++ ichak tayoqchasi
+- brutsellez mikroblari
+- stafilokokk
+- zaxm spiroxetasi
+
+? Operatsion tikuv materiali sterillikka tekshirilganda bakteriologik tekshirish o'tkaziladi. Bunda ko'pincha qaysi mikroorganizmlar topilishi mumkin
++ ichak tayoqchasi
+- klebsiellalar
+- salmonellalar
+- sut achitqi batsillalari
+
+? Suvni ifloslanganlik ko'rsatkichi (koli indeksi)ni aniqlash uchun suv qaysi ozuqa muhitga ekiladi
+- Giss muhitiga
+- Qonli muhitga
++ Endo muhitga
+- Vilson Bleer muhitiga
+
+? Suvni ifloslanganlik ko'rsatkichi nima
+- zamburug'lar miqdori
+- enterokoklar ko'rsatkichi
+- stafilokoklar ko'rsatkichi
++ koli indeks
+
+? Suvning koli – indeksini aniqlash uchun qanday usuldan foydalaniladi
+- mikroskopik
+- sedimentatsion
++ membranali filtr
+- serologik
+
+? Suvning tozaligini ko'rsatuvchi mikrob
+- salmonella
+- vibrion
+- shigella
++ esherixiya
+
+? Tuproq ifloslanganligining sanitar ko'rsatgich mikrobi
+- stafillokokk
+- Cl. botulinus
++ perfringens
+- Cl. tetani
+
+? Tuproqda qaysi patogen mikroblar doim uchraydi
+- viruslar
+- difteriya qo'zg'atuvchisi
+- spiroxetalar
++ gazli gangrena mikroblari, qoqshol
+
+? Tuproqni eski ifloslaganlik ko'rsatkichini aniqlang
++ perfringens titr
+- stafilakoklar ko'rsatkichi
+- koli titr
+- enterokoklar
+
+? Tuproqni tekshirishda Endo muhitida unib chiqqan qizil koloniyalar nimadan dalolat beradi
+- tekshirilayotgan tuproqda E coli yo'q
+- tekshirilayotgan tuproqda S tiphi yo'q
++ tekshirilayotgan tuproqda E coli bor
+- tekshirilayotgan tuproqda S tiphi bor
+
+? Tuproqni yangi ifloslanganlik ko'rsatkichini aniqlang
+- umumiy mikroblar soni
+- koli indeks
+- perfringens titr
++ koli titr
+
+? Bir guruh talabalar suvning tozaligini tekshirmoqchi bo'lishdi. Suv tozaligining sanitar ko'rsatkich mikrobini belgilang
++ esherixiya
+- vibrion
+- shigella
+- salmonella
+
+? Cho'l zonasi tuproq holati o'rganilmoqda. Tuproqda qaysi patogen mikroblar doim uchraydi
++ gazli gangrena mikroblari, qoqshol
+- spiroxetalar
+- difteriya qo'zg'atuvchisi
+- viruslar
+
+? DSENM xodimlari suvning ifloslanganlik darajasini tekshirishmoqda. Koli – indeks deb nimaga aytiladi
+- 300 ml suvdagi ichak tayoqchasi miqdoriga aytiladi
+- 100 ml suvdagi ichak tayoqchasi miqdoriga aytiladi
++ 1000 ml suvdagi ichak tayoqchasi miqdoriga aytiladi
+- 1 dona ichak tayoqchasi uchraydigan suvning eng kam miqdoriga
+
+? DSENM xodimlari suvning ifloslanganlik darajasini tekshirishmoqda. Koli – titrni aniqlanganda qaysi mikrobni tekshiruv materialida aniqlaymiz
+- spiroxeta
+- stafilokokk
+- brutsellez mikroblari
++ ichak tayoqchasi
+
+? Ichak tayoqchasi suvdan ko'p miqdorda topilsa qaysi infeksiyaning tarqalish ehtimoli bor
+- transmissiv infeksiyalarning
++ ichak infeksiyalarning
+- respirator infeksiyalarning
+- teri infeksiyalarning
+
+? Shahar shifoxonalari havosini tozaligi tekshirilmoqda. Havodagi mikrob miqdorini mikrobiologik tekshirish uchun qaysi usuldan foydalaniladi
+- titratsion
+- membranali filtr
+- Kox usuli
++ aspiratsion
+
+? Shahar yerlarining sanitar holati o'rganilmoqda. Tuproq ifloslanganligining sanitar ko'rsatgich mikrobi
+- Cl. botulinum
+- stafilokokk
+- Cl. tetani
++ perfringens
+
+? Shifoxonada jarrohlik xonasi havosini bakterologik tekshirish lozim. Bunda tekshirish usulini ko'rsating
++ Krotov usuli
+- Mikroblarni cho'ktirish (sediimentatsiya) usuli
+- Kox usuli
+- Paster usuli
+
+? Talabalarga havo-tomchi yo'li orqali yuquvchi infeksiyalar mavzusi o'tilmoqda. Havo orqali qaysi infeksiya tarqalishi mumkin
+- botulizm
+- vabo
+- qoqshol
++ ko'kyо'tal
+
+? Talabalarga mikroorganizmlar sanitariyasi mashg'uloti o'tilmoqda. Xirurgiya va tug'ruqxonalar havosining tozaligini aniqlashda izlanadigan mikrobni ko'rsating
++ stafilokokk
+- pnevmakokk
+- ichak tayoqchasi
+- gonokokk
+? 1 l suv filtrlangandan so'ng 2 ta kulrang va 3 ta qizil koloniyalar hosil bo'ldi. Koli titr va koli indeksni toping
+- 500 va 2
++ 333 va 3
+- 25 va 8
+- 250 va 4
+
+? Ekologiya fani nimani o'rganadi
+- zamburug'lar hayotini
++ organizmlarning yashayotgan muhitdagi o'zaro munosabatlarni
+- simbiozning parazitlik qiluvchi shaklini
+- mikroorganizmlar hayotini
+
+? Havo orqali qaysi infeksiya tarqalishi mumkin
++ ko'kyo'tal
+- qoqshol
+- vabo
+- botulizm
+
+? Odam organizmidagi bakteriyalarning miqdori qancha
+- 106
+- 1010
++ 1014
+- 1020
+
+? Ommaviy cho'milish havzalaridagi qo'shimcha mikrobiologik ko'rsatkichni belgilang
+- Streptokokk
+- Stafilokokk
+- Koli indeks
++ Koli fag
+
+? Quyidagi bakteriyalar uchun tuproq tabiiy biotop hisoblanadi
+- Tr.pallidium
+- St.hemolyticus
++ Clostridium botulinum
+- St.aureus
+
+? Sanitar ko'rsatkich bakteriyalariga qo'yilgan talablar
+- mikroskopik usullarda tezda indikatsiya qilinadi
+- volyutin donachalarini saqlaydi
++ genotipi chidamli, tashqi muhit omillari ta'sirida o'zgarmaydi
+- tarkibida ko'plab o'zgaruvchan plazmidlar tutadi
+
+? Sog'lom odamlarning S. aureusni tashib yurish darajasini ko'rsating
+- 1-2%
+- 2-3%
+- 3-5%
++ 5-10%
+
+? Suv havzalarida aniqlanadigan bakteriya turini ko'rsating
+- bakteroidlar
++ enterobakteriyalar
+- stafilokokklar
+- klostridiyalar
+
+? Suvni membranali filtr orqali tekshirilganda foydalaniladigan muhitini ko'rsating
+- Ploskirev
+- Giss
++ Endo
+- Saburo
+
+? Suvning odatdagi koli-titr miqdorini ko'rsating
+- 100
+- 25
+- 200
++ 333
+
+? Suvning sanitar ko'rsatgich bakteriyasini tanlang
++ ichak guruhi tayoqchasimon bakteriyalari (BGKP)
+- protey
+- klostridiyalar
+- batsillalar
+
+? Tayyor pishirilgan oziq ovqatlar sanitar ko'rsatgich bakteriyasini tanlang
++ ichak guruhi tayoqchasimon bakteriyalari (BGKP)
+- protey
+- batsillalar
+- klostridiyalar
+
+? Tishda karash shakllanishining vaqtini belgilang
+- 8 kun
+- 7 kun
+- 6 kun
++ 5 kun
+
+? Tishdagi pigment dog'larini qaysi bakteriyalar paydo qiladi
+- Fusobacterium, Treponema
+- Streptococcus, Veillonella
++ Porfyromonas, Prevotellla
+- Peptostreptococcus, Leptotrichia
+
+? Tug'ruq xonasidagi 1m3 havoda tug'ruqdan oldin bakteriyalar miqdori......bo'lishi kerak
+- 1000
++ 500
+- 100
+- 2000
+
+? Tuproqdagi asosiy mikroflora quyidagi chuqurlikda aniqlanadi
+- 4-5 m
+- 1-2 m
+- 1-2 mm
++ 10-15 sm
+
+? Tuproqni koli-titri va perfringens-titrini aniqlashda qanday muhitlar qo'llaniladi
+- Endo
+- Myuller
+- Ru
++ Kessler
+
+? Vodoprovod suvida standartga ko'ra koli titr bo'lishi kerak
+- 10 dan kam
++ 3 dan kam
+- 15 dan kam
+- 8 dan kam
+
+? Yuqumli kasalliklarning asosiy manbasi bo'lib hisoblanadi
+- ishlab chiqarish zavodlari
+- hayvonlar va odam
++ suv, havo, tuproq
+- qon so'ruvchi hasharotlar
+
+? Havo-tomchi yo'li orqali yuquvchi infeksiyalar mavzusi o'tilmoqda. Havo orqali qaysi infeksiya tarqalishi mumkin
++ ko'kyo'tal
+- botulizm
+- vabo
+- qoqshol
+
+? Ichimlik suvi holati o'rganildi. Ichak tayoqchasi suvdan ko'p miqdorda topilsa qaysi infeksiyaning tarqalish ehtimoli bor
++ ichak infeksiyalarning
+- respirator infeksiyalarning
+- transmissiv infeksiyalarning
+- teri infeksiyalarning
+
+? Jarohat infeksiyalarining oldini olish uchun shahar yerlarining sanitar holati o'rganilmoqda. Tuproq ifloslanganligini bildiruvchi sanitar ko'rsatgich mikrob?
+- stafilokokk
+- Cl. tetani
+- Cl. botulinus
++ perfringens
+
+? Koli – titrni aniqlanganda qaysi mikrobni tekshiruv materialida aniqlaymiz
+- spiroxeta
++ ichak tayoqchasi
+- brutsellez mikroblari
+- stafilokokk
+
+? Krotov usulida shifoxonada bakterologik tekshirish o'tkazildi. Bunda nima tekshirilgan
+- Sut
+- Suv
++ Havo
+- Tuproq
+
+? Mikroorganizmlar sanitariyasi mashg'uloti: Jarrohlik va tug'ruqxonalar havosini tozaligini aniqlashda izlanadigan mikrobni ko'rsating
+- pnevmokokk
++ stafilokokk
+- gonokokk
+- ichak tayoqchasi
+
+? Shahar shifoxonalari havosini tozaligi tekshirilmoqda. Havodagi mikrob miqdorini mikrobiologik tekshirish uchun qaysi usuldan foydalaniladi
+- membranali filtr
+- titratsion
++ aspiratsion
+- Kox usuli
+
+? Suvning ifloslanganlik darajasi tekshirilmoqda. Koli – indeks deb nimaga aytiladi
+- 300 ml suvdagi ichak tayoqchasi miqdoriga aytiladi
++ 1000 ml suvdagi ichak tayoqchasi miqdoriga aytiladi
+- 1 dona ichak tayoqchasi uchraydigan suvning eng kam miqdoriga
+- 100 ml suvdagi ichak tayoqchasi miqdoriga aytiladi
+
+? Talabalar suvning tozaligini tekshirib ko'rishdi. Suvning tozaligini ko'rsatuvchi mikrob?
++ esherixiya
+- vibrion
+- shigella
+- salmonella
+
+? Tuproqda doimo uchraydigan patogen mikroblarni ko'rsating
+- spiroxetalar
++ gazli gangrena mikroblari, qoqshol
+- viruslar
+- difteriya qo'zg'atuvchisi

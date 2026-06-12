@@ -1,0 +1,3275 @@
+? Ba'zi viruslar qanday fermentlar tutadi?
+- a. katalaza
+- b. gialuronidaza
+- c. gidrolaza
++ d. neyraminidaza
+
+? Eng kichik o'lchamdagi virusni ko'rsating?
+- a. chechak virusi
++ b. poliovirus
+- c. qizamiq virusi
+- d. gripp virusi
+
+? Interferon tarkibi nimadan iborat?
+- a. RNK va oqsil
+- b. lipidlar
++ c. yuqori molekulali oqsil
+- d. DNK va lipidlar
+
+? Nuklein kislotadan iborat yuqumli agent?
++ a. viroid
+- b. prion
+- c. virus
+- d. satellit
+
+? Oqsil bo'lakchasidan iborat yuqumli agent?
+- a. satellit
+- b. viroid
++ c. prion
+- d. virus
+
+? Qat'iy hujayra ichi parazitlariga kiradi?
++ a. viruslar
+- b. zamburug'lar
+- c. bakteriyalar
+- d. protozoylar
+
+? Sanab o'tilgan xususiyatlarning qaysi biri viruslarda bo'lmaydi?
+- a. juda kichik o'lchamda bo'lishi (nm)
+- b. faqat tirik hujayrada ko'payishi
+- c. bitta nuklein kislota tutishi
++ d. xususiy oqsil – sintezlovchi sistemasining borligi
+
+? Virionning tarkibiga kiruvchi qismlarni ko'rsating?
++ a. DNK yoki RNK
+- b. ribosoma va mitoxondriya
+- c. kapsula
+- d. qobiq
+
+? Virus o'zining qaysi xususiyati bilan genetik parazit hisoblanadi?
+- a. sitopatik ta'sir ko'rsatishi
+- b. tovuq embrionida o'sishi
+- c. bitta nuklein kislota tutishi
++ d. hujayra genomi bilan integratsiya bo'lishi
+
+? Virus reproduksiyasi qayerda kechadi?
+- a. tuzli agarda
++ b. hujayra kulturasida
+- c. go'sht – peptonli agarda
+- d. qonli agarda
+
+? Virus va hujayraning o'zaro ta'siri qaysi belgiga asosan aniqlanadi?
+- a. Hujayra elementining morfologik o'zgarishi
++ b. Muhit rangining o'zgarishi
+- c. Neytralizatsiya reaksiyasi
+- d. Hujayrada o'zgarish yo'qligi
+
+? Virus yuqtirilgan hujayrada viruslarning indikatsiya usullarini ko'rsating?
+- a. kultural xususiyat bo'yicha
++ b. sitopatik ta'sir bo'yicha
+- c. fagolizabelligi bo'yicha
+- d. bioximik xususiyati bo'yicha
+
+? Viruslar qanday tuzilgan?
++ a. nuklein kislota va oqsil qobiqdan
+- b. kapsomerdan
+- c. nukleotiddan
+- d. super kapsiddan
+
+? Viruslar quyidagicha ko'payadi?
+- a. Bo'linib
++ b. Reproduktiv
+- c. Kon'yunktiv
+- d. Jinsiy
+
+? Viruslarda irsiy axborot tashuvchisi bo'lib hisoblanadi?
+- a. kapsomerlar
++ b. nuklein kislotalar
+- c. polimerlar
+- d. plazmidlar
+
+? Viruslarni kim birinchi aniqlagan?
+- a. T.Ueller, F.Robbins
+- b. Shubladze A.K., Solovev V.D
+- c. A.Ayzeks va J.Lindeman
++ d. D.I.Ivanovskiy
+
+? Viruslarning ko'payish usullari?
+- a. spora yordami bilan
++ b. sintezlanish yo'li bilan
+- c. kurtaklash
+- d. binar bo'linish yo'li bilan
+
+? Viruslarning hujayra ichida ko'payishi nima deb ataladi?
+- a. konyugatsiya
+- b. binar bo'linish
+- c. kurtaklanish
++ d. reproduksiya
+
+? Virusning qaysi xususiyati genetik parazitlikka xos?
+- a. Bitta nuklein kislota tutadi
+- b. Sitopatik ta'sir qiladi
+- c. Tovuq embrionida ko'payish
++ d. Hujayra genomi bilan integratsiya
+
+? Xo'jayin hujayrasida viruslarning ko'payish usuli qanday nomlanadi?
+- a. binar bo'linishi
+- b. jinsiy
+- c. kurtaklanish
++ d. reproduksiya
+
+? Bakteriyalar undirilgan petri kosachasiga bakteriofag qo'shildi. Termostatda undirilganda steril dog'lar kuzatildi. Sizning xulosangiz.
++ a. Lizogen bakteriofaglar ta'siri
+- b. Noto'gri tekshiruv o'tkazilganda
+- c. Ta'sir etmaganda shunday xolat kuzatildi
+- d. Mo'tadil bakteriofaglar ta'siri
+
+? Gemagglyutinin va neyraminadaza antigenlari bor virus ajratib olindi. Qaysi serologik reaksiya yordamida indikatsiya qilamiz?
+- a. Mikroskopik usul
+- b. Agglyutinatsiya reaksiyasi
++ c. Gemagglyutinatsiya tormozlash reaksiyasi
+- d. Bakteriologik usul
+
+? Gripp bilan kasallangan bemor burnidan surtma olindi. Qaysi usul bilan tekshiramiz?
+- a. Ojeshko usuli
+- b. Gram usuli
++ c. Renotsitoskapiya usuli
+- d. Bakteriologik usul
+
+? Odatda bakteriafaglar bakteriyani lizis qiladi lekin ayrim xolatlarda lizis ro'y bermaydi. Qachon shunday xolat kuzatiladi?
+- a. Lizogen bakterialar ta'sirida
+- b. Ta'sir etmaganda shunday xolat kuzatiladi
++ c. Mo'tadil bakterialar ta'sir qilganda
+- d. Noto'gri tekshirilganda
+
+? Organizm embrion xujayrasidan 199 muxitga ekildi. Unib chiqqan xujayralar qaysi to'qimalar kulturasiga mansub?
+- a. Bir marta undiriluvchi
+- b. Undirilmaydigan kultura
++ c. Yarim undirilgan kultura
+- d. Qayta qayta undiriluvchi
+
+? Organizm o'sma xujayrasidan 199 muxitga ekildi. Unib chiqqan xujayra qaysi to'qimalar kulturasiga mansub?
+- a. Undirilmaydigan kultura
+- b. Yarim undiriluvchi
++ c. Qayta qayta undiriluvchi
+- d. Bir martalik undiriluvchi
+
+? Organizmning oddiy xujayralaridan olinib 199 muxitga ekildi. Unib chiqqan xujayralar qaysi to'qima kulturasiga mansub?
+- a. Qayta qayta undiriluvchi
+- b. Yarim undiriluvchi kultura
+- c. Undirilmaydigan kultura
++ d. Bir marta undiriluvchi kultura
+
+? Virus ko'paytirilgan xujayra kulturasida steril dog'lar kuzatildi. Qanday baxolaysiz?
+- a. Gemoliz bo'lganda
+- b. Oziq muhit yetishmasa
+- c. Kislorod yetishmasa
++ d. Xujayraga patogen ta'sir bo'lganda
+
+? Virusli kasallik bilan kasallangan bemor keldi. Virusologik tekshiruv uchun zarur narsalarni tanlang?
+- a. Qonli agar
++ b. Tirik xujayra kulturasi
+- c. Zardobli agar
+- d. Go'sht peptonli agar
+
+? Virusologik tekshirish uchun viruslarni xujayraga yuqtirish kerak. To'qima kulturalarning qanday turidan foydalanamiz? (Noto'gri javobni ko'rsating)
+- a. Qayta qayta undiriluvchi
+- b. Bir martalik undiriluvchi
+- c. Yarim undiriluvchi
++ d. Qonli, zardobli boyitilgan muhitga
+
+? Epidemik parotit virusi odam organizmida qaysi organni shikastlaydi?
++ a. quloq oldi bezlari
+- b. burun bo'shligi
+- c. tish milklari
+- d. ko'z kosachasi
+
+? Genlar shifti (nuqtali mutatsiya) quyidagi qaysi virusga tegishli?
+- a. RS virus
++ b. gripp
+- c. poliomielit
+- d. qizamiq
+
+? Gripp kasalligi bilan qayta kasallanishga sabab bo'lishi mumkin?
+- a. antitelolar titrining ozligi
+- b. immunitetning qisqaligi
++ c. virusning yangi serovarlarni yuzaga kelishi
+- d. immunitet hujayralarining kamligi
+
+? Gripp kasalligidan keyin postinfeksion immunitetga sabab bo'ladi?
++ a. gemoglyutinin va neyraminadazaga qarshi antitela
+- b. immunitetga qarshi antitelolar
+- c. gemaglyutininga qarshi antitelolar
+- d. neyramindazaga qarshi antitelalar
+
+? Gripp virusi qaysi avlodga mansub?
+- a. morbillivirus
+- b. inflyuensevirus
++ c. ortomiksovirus
+- d. paramiksovirus
+
+? Gripp virusi strukturasiga qaysi ferment kiradi?
+- a. desmolaza
+- b. oksidoreduktaza
++ c. neyraminidaza
+- d. lipaza
+
+? Gripp virusi tuzilishiga kiruvchi fermentlardan biri?
+- a. oksidoreduktaza
+- b. lipaza
++ c. neyraminidaza
+- d. fibrinolizin
+
+? Gripp virusidan himoya qiluvchi organizmdagi nospetsifik himoya omillari?
++ a. interferon
+- b. fagotsitoz
+- c. antibiotiklar
+- d. lizotsim
+
+? Gripp virusining qaysi xususiyati maxsus profilaktikada qiyinchilikni keltirib chiqaradi?
+- a. tovuq embrionida reproduksiyalanishi
++ b. antigen tuzilishining o'zgaruvchanligi
+- c. gemagglyutinin tiplarini ko'p miqdorda bo'lishi
+- d. murakkab tuzilishi
+
+? Bemor organizmidagi parotit virusilari qaerdan ajratib olinadi?
+- a. najasdan
+- b. balg'amdan
+- c. terdan
++ d. so'lakdan
+
+? Klinik kechishi bo'yicha poliomielit qo'yidagi shakllarga bo'linadi?
+- a. o'pka
+- b. teri
+- c. septik
++ d. paralitik
+
+? Parotit viruslari chaqiradi?
+- a. terida toshmalar toshishini
+- b. yurak tomir sistemasining shikastlanishini
++ c. quloq oldi bezlarining yallig'lanishini
+- d. yuqumli tumovni
+
+? Parotitda postinfeksion immunitet qancha vaqt saqlanadi?
+- a. nosteril immunitet
+- b. qisqa muddatli
++ c. umrining oxirigacha
+- d. o'rganilgan emas
+
+? Pikornoviruslar oilasiga qanday viruslar kiradi?
+- a. qizamiq virusi
++ b. poliomielit virusi
+- c. sitomegaliya virusi
+- d. parotit virusi
+
+? Polieomielit diagnostikasida bemorlardan qanday material olinadi?
+- a. so'lak
++ b. orqa miya suyuqligi
+- c. siydik
+- d. balg'am
+
+? Poliomielit kasalligida kasallik manbai bo'lib hisoblanadi?
+- a. tashuvchilar
++ b. bemorlar va tashuvchilar
+- c. rekonvalessentlar
+- d. iflos suv
+
+? Qanday virusli kasalliklarda lunjning shilliq qavatida Filatov dog'chalari hosil bo'ladi?
+- a. sitomegaliyada
+- b. ensefalitda
++ c. qizamiqda
+- d. gerpanginada
+
+? Qizamiq kasalligining asosiy tashxis usuli bo'lib hisoblanadi?
+- a. rinotsitoskopik
++ b. serologik
+- c. allergik
+- d. biologik
+
+? Qizamiq virusi qaysi oilaga mansub?
+- a. morbillivirus
++ b. paramiksoviride
+- c. rabdoviride
+- d. reoviride
+
+? So'lak bezlari qanday virusli kasalliklarda shikastlanishi mumkin?
+- a. paragrippda
++ b. epidemik parotitda
+- c. gepatit A da
+- d. chin chechakda
+
+? "O'RVI - gripp" tashxisi qo'yilgan bemor yuqumli kasalliklar shifoxonasiga yotqizildi. Tashxisni tasdiqlash uchun virusologik tekshirishlar uchun qanday material olish kerak?
+- a. Qon
++ b. Tomoq – burun chaymasi
+- c. Siydik
+- d. Balg'am
+
+? 8 yoshli bolada epidemik virusli tepkti (parotit). Kasallikni tezkor tashxisini qanday o'tkazamiz?
+- a. Vero hujayra kulturalariga yuqtirish
++ b. Bilvosita IFR qo'yish.
+- c. Tovuq embrionilariga so'lakni yuqtirish
+- d. Oq sichqonlarga so'lakni yuqtirish
+
+? Bemorda RS viruslari bor deb gumon qilindi. Virusologik tashxis qanday o'tkiziladi?
++ a. HeLa, Hep -2, KB hujayra kulturalariga yuqtirish
+- b. Keltirilgan har qanday usullar yordamida
+- c. Tovuq embrionlariga yuqtirish
+- d. Dengiz cho'chqachalarini zararlash
+
+? Bemordan olingan tekshiruv ashyosi (nafas yo'llari shilliq qavatlaridan olingan surtma) virusologik laboratoriyaga keltirildi. Tekshiruv ashyosidan virus antigenlarini topish uchun qanday ekspress usulni tavsiya etasiz.
++ a. Bevosita va bilvosita IFR
+- b. GATR
+- c. Bevosita va bilvosita ELISA
+- d. GAdRT
+
+? Bemordan tovuq eritrotsitlarini agglyutinatsiyalovchi viruslar aniqlandi. Qaysi reaksiya orqali bu virusning serotiplarini aniqlash mumkin.
++ a. Gemagglyutinatsiyani tormozlash reaksiyasi (GATR) yordamida
+- b. Gemadsorbsiya reaksiyasi (GAdsR) yordamida
+- c. Gemagglyutinatsiya reaksiyasi (GAR) yordamida
+- d. Bilvosita gemagglyutinatsiya reaksiyasi (BGAR) yordamida
+
+? Paragripp kasalligiga gumon qilingan bemor burun-halqumidan tekshirish uchun chayma olindi. Kasallikning ekspress tashxisini qanday o'tkazish mumkin?
++ a. IFRsi yordamida
+- b. Hujayra kulturasiga yuqtirish yordamida
+- c. GARsi yordamida
+- d. GAdTRsi yordamida
+
+? Poliomielit kasalligiga shubha qilingan bemorlardan olingan ashyolar sentrifugati Hela hujayralariga yuqtirildi. Bunda ijobiy natija qanday ko'rinadi?
++ a. 199 muhit rangi sariqqa o'zgaradi
+- b. Eritrotsitlarining gemolizi kuzatiladi
+- c. "Soyabon" ko'rinishida cho'kma kuzatiladi
+- d. "Tugma" ko'rinishida cho'kma kuzatiladi
+
+? Tekshirilayotgan ashyoda gripp virusi yo'q. Gemagglyutinatsiyani tormozlash reaksiyasi (GATR) natijasi bunday holatda qanday ko'rinishga ega bo'ladi?
+- a. Eritrotsitlarining gemolizi kuzatiladi
++ b. "Soyabon" ko'rinishida cho'kma kuzatiladi
+- c. 199 muhit rangi sariqqa o'zgaradi
+- d. "Tugma" ko'rinishida cho'kma kuzatiladi
+
+? O'rganilayotgan ashyolarda gripp virusini serologik aniqlash uchun gemagglyutinatsiyani tormozlash reaksiyasi (GATR) qo'yildi. Ijobiy natija bo'lganda qanday ko'rinishga ega bo'ladi?
+- a. 199 muhit rangi sariqqa o'zgaradi
+- b. Eritrotsitlarining gemolizi kuzatiladi
++ c. "Tugma" ko'rinishida cho'kma kuzatiladi
+- d. "Soyabon" ko'rinishida cho'kma kuzatiladi
+
+? Virusologiya laboratoriyasiga grippga chalingan bemordan burun chaymasi olib kelindi. Kasallikka bu viruslarning qaysi turi sababchi bo'lganini qanday aniqlash mumkin:
+- a. Viruslarni HPT da o'ziga xosligiga ko'ra
+- b. Gemagglyutinatsiya reaksiyasi yordamida
++ c. Viruslarga qarshi tipospesifik zardoblar yordamida GATR
+- d. Rinositoskopiya yordamida
+
+? 5 yoshgacha bo'lgan bolalarda eng ko'p virusli diareyaga va bolalar o'limiga sababchi bo'luvchi virusni ko'rsating?
+- a. Enterovirus
++ b. Rotovirus
+- c. Poliovirus
+- d. Koksakivirus
+
+? Chin chechak virusi keltirib chiqargan kasalliklarda Alastrim minor uchradi. Bu qanday holat?
+- a. Gripp viruslarning atipik kasalligi
+- b. Tepki viruslarning atipik kasalligi
++ c. Poksviruslarning atipik kasalligi
+- d. Qizamiq viruslarning atipik kasalligi
+
+? Chin chechak virusi keltirib chiqargan kasalliklarda varioloidlar uchradi. Bu qanday holat?
+- a. Gripp viruslarning atipik kasalligi
+- b. Tepki viruslarning atipik kasallig
++ c. Poksviruslarning atipik kasalligi
+- d. Qizamiq viruslarning atipik kasalligi
+
+? DNK ipli virusni ko'rsating?
+- a. Gripp virusi
++ b. Adenaviruslar
+- c. Qizamiq virusi
+- d. Parotit virusi
+
+? DNK ipli virusni ko'rsating
++ a. Chinchechak virusi
+- b. Tepki virusi
+- c. Qizamiq virusi
+- d. Gripp virusi
+
+? DNK ipli virusni ko'rsating
+- a. Gripp virusi
+- b. Qizamiq virusi
++ c. Poksvirus
+- d. Tepki virusi
+
+? Emlash 1980 yildan boshlab to'xtatilgan virusli kasallikni ko'rsating?
++ a. Poksvirus
+- b. Tepki virusi
+- c. Gripp virusi
+- d. Qizamiq virusi
+
+? Gastroenterit yoki enterit, hamda nafas olish tizimlari faoliyati buzilishi bilan kechuvchi virusli kasallikni ko'rsating?
++ a. Rotavirusli infeksiya
+- b. Gerpesvirusli infeksiya
+- c. Adenavirusli infeksiya
+- d. Gepadnovirusli infeksiya
+
+? Havo – tomchi orqali yuquvchi va hid bilish sezgisini pasayishi bilan kechuvchi infeksiyani ko'rsating?
+- a. Gripp kasalligi
+- b. Qizamiq kasalligi
++ c. Koronavirus kasalligi
+- d. Chinchechak kasalligi
+
+? Havo – tomchi, alimentar yo'llar orqali yuquvchi va ichaklaring zararlanishi bilan kechuvchi infeksiyani ko'rsating?
++ a. Rotovirus kasalligi
+- b. Chinchechak kasalligi
+- c. Qizamiq kasalligi
+- d. Gripp kasalligi
+
+? Hid bilish sezgisining pasayishi hamda o'pkaning zararlanishi bilan kechuvchi infeksiyani ko'rsating?
++ a. Koronavirus kasalligi
+- b. Gripp kasalligi
+- c. Chinchechak kasalligi
+- d. Qizamiq kasalligi
+
+? Hujayra kulturasida Gvarneri tanachalarini hosil qiluvchi virusni ko'rsating?
+- a. Parotit virusi
+- b. Qizamiq virusi
+- c. Gripp virusi
++ d. Chinchechak virusi
+
+? Hujayra kulturasida Pashen tanachalarini hosil qiluvchi virusni ko'rsating?
+- a. Qizamiq virusi
++ b. Chinchechak virusi
+- c. Parotit virusi
+- d. Gripp virusi
+
+? Ichaklar va nafas olish tizimlari faoliyatining buzilishi bilan kechuvchi virusli kasallikni ko'rsating?
+- a. Adenavirusli infeksiya
+- b. Gepadnovirusli infeksiya
++ c. Rotavirusli infeksiya
+- d. Gerpesvirusli infeksiya
+
+? Ko'pincha II va IV qon guruhiga mansub odamlarda o'limga sabab bo'luvchi infeksiyani ko'rsating?
+- a. Qizamiq virusi
+- b. Gripp virusi
++ c. Chinchechak virusi
+- d. Tepki virusi
+
+? Qaysi viruslarga qarshi vaksina ilk bor sigirlar organizmidan olingan shtam asosida tayyorlangan?
+- a. Qizamiq kasalligiga
++ b. Chinchechak kasalligiga
+- c. Parotit kasalligiga
+- d. Gripp kasalligiga
+
+? RNK ipli virusni ko'rsating?
+- a. Adenoviruslar
+- b. Gerpesvirus
+- c. Gepadnovirus
++ d. Rotovirus
+
+? RNK ipli virusni ko'rsating
++ a. Koronovirus
+- b. Gepadnovirus
+- c. Adenoviruslar
+- d. Gerpesvirus
+
+? Teri va shilliq qavatlarda suvli pufakchalar hosil qiluvchi virusni ko'rsating?
+- a. Qizamiq virusi
+- b. Tepki virusi
++ c. Chinchechak virusi
+- d. Gripp virusi
+
+? Terida va shilliq qavatlarda sut kabi suvli pufakchalar hosil qiluvchi va yiringli yallig'lanishga olib keluvchi virusni ko'rsating?
+- a. Qizamiq virusi
+- b. Parotit virusi
++ c. Chinchechak virusi
+- d. Gripp virusi
+
+? 2 yoshli bolada rotavirusga shubha qilindi. Rotavirus tashxisini tasdiqlash uchun qaysi tekshiruv usuli qo'llaniladi?
++ a. Serologik
+- b. Biologik
+- c. Bakteriologik
+- d. Bakterioskopik
+
+? Bemor burun bitishi, tam bilmaslik va hid bilmaslik bilan shifoxonaga murojaat qildi. Ikkinchi kuni kuchli intoksikatsiya kuzatildi va ahvoli og'irlashdi. Qaysi virus bu holatga olib kelishi mumkin?
+- a. Kalitsivirus
++ b. Koronavirus
+- c. Astrovirus
+- d. Enterovirus
+
+? Bemorda ich ketishi kuzatildi va Rotavirusga taxmin qilindi. Lekin serologik tekshirilganda rotavirus inkor qilindi. Yana qaysi virus bu holatga olib kelishi mumkin?
+- a. Rabdovirus
++ b. Adenovirus
+- c. ECNO
+- d. Koronavirus
+
+? Bemorda palpatsiya vaqtida limfa bezlari kattalashganligi aniqlandi. Bu holatga qaysi virus sabab bo'lishi mumkin?
++ a. Adenovirus
+- b. Rabdovirus
+- c. Koronavirus
+- d. ECNO
+
+? Bolalar kasallikning profilaktikasi uchun rejali tarzda emlanadi. Quyida keltirilgan qaysi viruslarga qarshi vaksina ishlab chiqarilgan?
+- a. Gepatit C
+- b. Arenovirus
+- c. Qoqshol
++ d. Rotavirus
+
+? Bolalarda asosan sovuq mavsumda viruslar natijasida ich ketish holati sodir bo'ladi. Qo'yida keltirilgan viruslardan diareyaga sabab bo'luvchi viruslarni toping.
+- a. Brtulizm, qoqshol
+- b. Gripp, paragripp
+- c. Difteriya, sil
++ d. Rotavirus, Koronavirus
+
+? Elektoron mikroskopda bemordan ajratib olingan najasda shakli g'ildirakka o'xshash viruslar aniqlandi. Bu shakl qaysi virusga tegishli.
+- a. Qoqshol
++ b. Rotavirus
+- c. Ichak tayoqchasi
+- d. Gepatit B
+
+? Ikki yoshli bolaning isitmasi ko'tarilib, qusish va diareya belgilari kuzatildi. Ich ketishi keskin oshib, bolaning ahvoli yomonlashdi. So'rab-surishtirilganda tabiiy meva sharbatlarini iste'mol qilganligi aniqlandi. Sanab o'tilgan qo'zg'atuvchilarning qaysi biri shu kasallikning sababchisi bo'lishi mumkin:
+- a. Yenterroviruslar
+- b. E. koli
++ c. Rotaviruslar
+- d. Salmonella typhimurium
+
+? Yangi yil bayrami arafasida maktabgacha ta'lim muassasasida ichak infeksiyalari epidemiyasi kuzatildi. Bemorlarning najasi bakteriologik tekshirilganda patogen bakteriyalar ajratilmadi. Electron mikroskopda tekshirilganda tiniq gardishli va chegaralari yaqqol ko'rinuvchi g'ildirakka o'xshash viruslar ko'rindi. Bunday ko'rinishga mos virusni belgilang.
+- a. P. vulgaris
++ b. Rotavirus
+- c. Coxsacki-virus
+- d. Adenovirus
+
+? Yuqumli kasalliklari shifokori huzuriga qish vaqtida 5 yoshli bola diareya bilan murojaat qildi. Qaysi virusga mavsumiylик xos
+- a. Qoqshol
++ b. Rotavirus
+- c. Ichak tayoqchasi
+- d. Gepatit B
+
+? Babesh Negri tanachalari qaysi bo'yash usuli yordamida aniqlanadi?
+- a. Gram usuli
+- b. Seller usuli
++ c. Romanovskiy – Gimza
+- d. Morozov usuli
+
+? Chinchechak virusi qaysi oilaga kiradi?
++ a. poksviridae
+- b. pikornoviridae
+- c. adenoviridae
+- d. togaviridae
+
+? Gemmoragik isitmalar nima orqali yuqadi?
+- a. pashsha orqali
+- b. bit orqali
+- c. qushlar orqali
++ d. kana orqali
+
+? Gerpes virusi qanday kasallik chaqiradi?
+- a. poliomielit
+- b. qizilcha
++ c. suv chechak
+- d. meningoensefalit
+
+? Hozirgi paytda quturish kasalligiga qarshi odamlarni emlash uchun ishlatiladigan antirabik preparat?
+- a. Solk vaksinasi
+- b. Sebin vaksinasi
++ c. Fermi vaksinasi
+- d. Kultural vaksina
+
+? Noma'lum it tishlaganida qanday infeksiyaga qarshi chora ko'rish zarur?
+- a. yiringli infeksiyalarga
+- b. leyshmaniozga
++ c. quturishga
+- d. kuydirgiga
+
+? Qaysi virusli kasallikka qarshi tirik vaksina ishlatiladi?
+- a. paragripp (URVI)
+- b. suv chechak
++ c. quturish
+- d. kana ensefaliti
+
+? Quturish bilan og'rigan itning so'lagi bilan qutirish virusi inkubatsiya davrining qaysi vaqtida ajrala boshlaydi?
++ a. kasallik boshlanishiga 3 – 7 kun qolganida
+- b. kasallik boshlanishiga 40 – 60 kun qolganida
+- c. kasallik boshlanishiga 60 – 90 kun qolganida
+- d. kasallik boshlanishiga 15 – 30 kun qolganida
+
+? Quturish kasalligida quyidagi simptomlar kuzatiladi?
+- a. bo'g'im va mushaklarda og'riq
+- b. depressiya
+- c. xurujli yo'tal
++ d. kuchli so'lak ajralishi va ter ajralishi
+
+? Quturish kasalligini laborotoriya diagnostikasi o'z ichiga oladi?
++ a. miya hujayralarida Babesh – Negri tanachalarini aniqlash
+- b. virusga qarshi antitelolarni aniqlash
+- c. pashen tanachalarini aniqlash
+- d. qondan viruslarni ajratib olish
+
+? Quturish kasalligining maxsus profilaktikasi nimaga asoslangan?
+- a. jarohatni tozalashga
+- b. qonni tozalashga
+- c. gammaglobulin qo'llashga
++ d. antirabik vaksina qo'llashga
+
+? Quturish virusi odam organizmiga yuqqanidan so'ng, qaysi organlarda ko'payadi?
+- a. teri osti kletchatkasida
+- b. oshqozon bezlarida
+- c. ichak epiteliyalarida
++ d. bosh va orqa miya nerv hujayralarida
+
+? Quturish virusi qaysi organda ko'proq to'planadi?
+- a. miya po'stlog'i osti qavatida
++ b. ammon shoxi hujayralarida
+- c. orqa miya hujayralarida
+- d. kulrang moddada
+
+? Quturish virusining morfologiyasi?
+- a. tayoqchasimon
+- b. ipsimon
++ c. o'qsimon
+- d. sharsimon
+
+? Quturish virusining organizmda tarqalishini ko'rsating?
+- a. qon orqali
++ b. neyrogen
+- c. limfogen
+- d. nafas yo'llari orqali
+
+? Quturish kasalligida qanday kiritmalar hujayrada aniqlanadi?
+- a. Morozov – Pashen tanachalari
+- b. yadro ichidagi kiritmalar
++ c. Babesh – Negri tanachalari
+- d. Gvarnieri tanachalari
+
+? Quturishda yashirin davrning davom etishi nima bilan bog'liq?
+- a. organizmning reaktivligi bilan
++ b. tishlangan joyning joylashgan o'rni bilan
+- c. virus virulentligi bilan
+- d. organizmning endokrin sistemasining buzilishi bilan
+
+? Qutirish kasalligida inkubatsion davrni uzaytirish maqsadida nima yuboriladi?
+- a. AKDS
+- b. Antitoksinli zardob
+- c. Antirabik vaksina
++ d. Antirabik immunoglobulin
+
+? Tabiatda quturish virusining aylanib yurishida asosiy rol o'ynaydigan kasallik manbaini ko'rsating?
++ a. yirtqich hayvonlar
+- b. kasal odamlar
+- c. o'simliklar
+- d. bo'g'im oyoqlilar
+
+? Yuz va bo'yin sohasining ko'plab joyi tishlab zararlantirilganda, quturish kasalligining inkubatsion davri qanchaga teng bo'lishi mumkin?
+- a. 30 – 40 kun
++ b. 15 – 20 kun
+- c. 3 oydan kup
+- d. 50 – 60 kun
+
+? 22 yoshli kishi it tishlaganligi uchun poliklinikaga murojat etdi. It tutib olindi va u it quturganligi aniqlandi. Ushbu kishida qanday qilib quturish kasalligini oldi olinadi?
++ a. Kuchsizlantirilgan tirik vaksina orqali
+- b. O'ldirilgan vaksina orqali
+- c. Qutirishga qarshi gammaglobulin yuborish orqali
+- d. Anatoksin va antitoksinlar orqali
+
+? 24 yoshli ayol qo'shnisining iti tishlaganligi uchun poliklinikaga murojat etdi. It quturganligi yoki aksi ekanligini aniqlash uchun kuzatuvga olindi. It so'laklarida virus paydo bo'lgach ko'pi bilan qancha vaqtda o'lishi kerak?
+- a. 1-3 kunda
++ b. 5-7 kunda
+- c. 14-20 kunda
+- d. 10 -12 kunda
+
+? 8 yoshli bolaning yelkasidan quturgan it tishlaganligi sababli mutaxassiga murojat etdi. Quturish kasalligi rivojlanmasligi, inkubatsion davrini cho'zish (oshirish) uchun qanday biologik vositalardan foydalaniladi:
+- a. Uldirilgan vaksina orqalidan
+- b. Kuchsizlantirilgan tirik vaksinadan
+- c. Anatoksin va antitoksinlardan
++ d. Qutirishga qarshi gammaglobulindan
+
+? Bemorda sitomegalovirus infeksiyasi borligiga shubha qilindi. O'tkazilgan serologik va sitologik tadqiqotlar sitomegalovirus borligini isbotladi. Ta'sirlangan hujayralarga sitomegalovirus yuqtirilganda qanday belgilar paydo bo'ladi?
+- a. Retikulyar to'r shakllanadi
++ b. "Boyo'g'li ko'zlari "ga o'xshash kiritmalar topiladi
+- c. Babesh – Negri tanachalari topiladi
+- d. Simplastlar hosil bo'ladi
+
+? Bemorda to'satdan isitmaning ko'tarilishi, holsizlik kuzatildi va ko'kragining o'ng tomonidagi qovurg'alararo nervlar yo'nalishi bo'ylab og'riq paydo bo'ldi. Bir necha kun ichida terida sarg'ish suyuqlik bilan to'lgan pufakchalar paydo bo'ldi. Shifokor o'rab oluvchi temiratki kasalligiga gumon qildi. Bu kasallikning qo'zg'atuvchilari qaysi oilaga mansub?
+- a. rabdoviruslar
+- b. paramiksoviruslar
+- c. flaviviruslar
++ d. gerpesviruslar
+
+? Bemorning lablarida, teri va shilliq pardasida papulyoz toshmalar paydo bo'lib, harorati ko'tarildi. Regional limfa tugunlari shishgan. Shifokor kasallik sababchisi gerpesvirus degan xulosaga keldi. Tashxisni tasdiqlash uchun qanday tekshirish materialini olish kerak?
++ a. Toshma ichidagi suyuqlik
+- b. Qon
+- c. Siydik
+- d. Orqa miya suyuqligi
+
+? Jismoniy toliqtiruvchi ishdan charchagan bemor terisida qovurg'alararo nervlar yo'nalishi bo'ylab og'riqli va kuchli qichishtiruvchi toshmalar paydo bo'ldi. Bu kasallikning qo'zg'atuvchilari qaysi viruslar bo'lishi mumkin?
+- a. Herpes simpleks virus 2
+- b. Adenovirus
++ c. Zoster gerpes virusi
+- d. Sitomegalovirus
+
+? Qrim gemorragik isitmasiga gumon qilingan bemor serologik tekshiruvdan o'tkazildi. KBR da antitelolar titrining to'rt barobar oshganligi aniqlandi. Bu nimani anglatadi?
+- a. Ilgari shu kasallik bilan kasallanib o'tganligidan
++ b. Kasallikning o'tkir davri
+- c. Emlanganligidan
+- d. Kasallikning yo'qligi
+
+? Quturgan it tishlaganda odamlar kasallikning olidini olish uchun kuchsizlantirilgan tirik vaksina bilan emlanadi. Bu vaksina kasallikning rivojlanmasligi uchun qanday ta'sir ko'rsatadi:
+- a. Qutirish viruslarini to'g'ridan – to'g'ri kuchsizlantiradi
+- b. Qutirish viruslarini to'g'ridan – to'g'ri o'ldiradi
+- c. Antitelolar hosil bo'lishiga olib keladi
++ d. Neyrotsitlarni eggalab ko'cha shtammi bilan integratsiyalanadi
+
+? Sitomegaliya yashirin virusli infeksiya hisoblanadi. Virusning odam organizmida faollashuviga qanday omillar sabab bo'lishi mumkin.
+- a. Organ ko'chirib o'tkizilgandan keyin
++ b. Sanab o'tilgan barcha holatlarda
+- c. Tez-tez qon quyishlarda
+- d. Neoplastik operatsiyalaridan keyin
+
+? Bemorda Hbs antigenning topilishi nimadan guvoh beradi?
+- a. Gepatit A tashuvchilik va kasallanib o'tganlik haqida
+- b. Gepatit A
++ c. Gepatit B tashuvchilik
+- d. Salomatlik
+
+? Enteroviruslar qanday kasallikni chaqiradi?
+- a. suv chechak
+- b. gepatit B
++ c. gepatit A
+- d. parotit
+
+? Gepatit A da muhim epidemik jarayon bo'lib hisoblanadi?
+- a. uzoq davom etadigan surunkali tashuvchilik
+- b. immunitetning past darajasi
++ c. mavsumiylik
+- d. kontagiozlik
+
+? Gepatit A da yashirin davr qancha davom etadi?
++ a. 3 - 6 hafta
+- b. bir yil
+- c. 1 - 2 kun
+- d. 1 yil
+
+? Gepatit A infeksiyaning qaysi guruhiga kiradi?
++ a. ichak
+- b. qonli
+- c. jarohat
+- d. venerik
+
+? Gepatit A ning maxsus profilaktikasi?
+- a. anatoksinlar
+- b. antibiotiklar
++ c. gepatit Aga qarshi vaksina
+- d. immun zardob
+
+? Gepatit A virusi qaysi oilaga kiradi?
+- a. poksviruslar
++ b. pikornaviruslar
+- c. miksoviruslar
+- d. gerpesviruslar
+
+? Gepatit B da infeksiyaning yuqish yo'lini ko'rsating?
++ a. parenteral
+- b. alimentar
+- c. havo - tomchi
+- d. fekal - oral
+
+? Gepatit B kasalligi uchraydi?
+- a. bahor - yoz mavsumida
++ b. butun yil davomida
+- c. kuz - qish mavzumida
+- d. yoz oylarida
+
+? Gepatit B ning profilaktikasida qo'llanadi?
+- a. zardoblar qo'llash
++ b. vaksina
+- c. gammaglobulin qo'llash
+- d. bemorlarni boshqalardan ajratish
+
+? Gepatit B virusi qaysi oilaga kiradi?
+- a. togaviruslar
++ b. gepadnoviruslar
+- c. paramiksoviruslar
+- d. poksviruslar
+
+? Gepatit B virusi saqlaydigan ferment?
+- a. Gemaglyutinin
+- b. Rivertaza
+- c. qaytar transkriptaza
++ d. DNK - polimeraza
+
+? OITS kasalligining serologik diagnostikasi usullarini ko'rsating?
+- a. Gelda pretsipitatsiya reaksiyasi
+- b. neytralizatsiya reaksiyasi
+- c. Gemagglytinatsiya tormozlanish reaksiyasi
++ d. IFA va immunoblotting
+
+? OITS virusini kim va qachon kasf qilgan?
+- a. Kaposhi 1980 y
+- b. V.Gashek, 1984 y
++ c. Montanye, 1983 y
+- d. R.V.Petrov 1981 y
+
+? OIV lar qanday oilaga kiradi?
+- a. paramiksoviruslar
+- b. rabdoviruslar
++ c. retroviruslar
+- d. ortomiksoviruslar
+
+? OIV ning asosiy shikastlovchi ta'sir qiladigan hujayrasini ko'rsating?
++ a. T - helperlar
+- b. T - effektorlar
+- c. T - killerlar
+- d. T - supressorlar
+
+? OIV ta'sirida shikastlanuvchi odamning qanday hujayralari "nishon" hisoblanadi?
+- a. plazmatik hujayralar
++ b. T - helperlar
+- c. B - limfotsitlar
+- d. qo'shuvchi to'qima
+
+? OIV virusi qanday limfotsitlar subpopulyasiyasiga tropizmlikka ega?
+- a. T - supressorlarga
+- b. B - limfotsitlarga
++ c. T - helperlarga
+- d. T - killerlarga
+
+? Qon zardobida Deyn bo'lakchalari borligi aniqlanadi?
+- a. gepatit A virusi tashuvchilarida
++ b. gepatit B bilan og'rigan bemor va tashuvchilarida
+- c. faqat gepatit C virusi tashuvchilarida
+- d. gepatit A bilan og'rigan bemorlarda
+
+? Sanab o'tilgan kasallik qo'zg'atuvchilaridan qaysi biri suv orqali yuqadi?
+- a. ko'k yo'tal qo'zg'atuvchisi
++ b. gepatit A virusi
+- c. difteriya qo'zg'atuvchisi
+- d. gripp virusi
+
+? 27 yoshli bemorda jag' osti, qo'ltiq osti va chov sohasi limfa tugunlari kattalashishi kuzatildi. Limfa tugunlardan biopsiya olib tekshirilganda follikulyar giperplaziya aniqlandi. OIV klinik tashxisi qo'yildi. Bu belgilar OIVning qaysi davriga xos
++ a. Generallashgan persistirlovchi limfoadenоpatiya davri
+- b. Yashirin davr
+- c. Klinik davr
+- d. Latent davr
+
+? 29 yoshli bemorda sariqlik, HBsAg, HBeAg, HBc - ga qarshi Ig M va HBc- qarshi Ig G aniqlandi. Ammo HBs - qarshi antitelo va HBE ga qarshi antitelo aniqlanmadi. Taxminiy tashxisingiz:
+- a. gepatit D
+- b. simptomsiz tashuvchanlik
++ c. o'tkir gepatit B
+- d. gepatit B bilan kasallanib o'tgan
+
+? 30 yoshli bemorda zotiljam aniqlandi va balg'ami tekshirilganda pnevmotsistlar mavjudligi ayon bo'ldi. Bu jarayon qaysi kasallikda kuzatilishi mumkin
++ a. OIV-infeksiya
+- b. Legioneloz
+- c. O'lat
+- d. Ornitoz
+
+? Bemor qon zardobi immunoferment reaksiyasi yordamida tekshirilganda HBs-antigen borligi aniqlandi. Bu antigen qaysi virusda aniqlanishi mumkin
+- a. Gepatit A virusida
+- b. Treponemada
++ c. Gepatit B virusida
+- d. OITSda
+
+? Bemorda noaniq etiologiyali tana haroratining ko'tarilishi, immun tanqis holat, nerv va hazm qilish tizimida kasalliklar aniqlandi va birlamchi OITS tashxisi qo'yildi. Tashxisni tasdiqlash uchun qaysi tekshiruvni o'tkazish kerak
+- a. Agglyutinatsiya reaksiyasi
+- b. Komplement bog'lash reaksiyasi
+- c. Gemadsorbsiya reaksiyasi
++ d. polimeraza zanjirli reaksiya, immunobloting, immunoferment tahlil
+
+? Bemorning qon zardobi tekshirilganda immuntanqis holatni ko'rsatuvchi gp120 va gp41 antitela oqsillari aniqlandi. Bu qaysi infeksiya bo'lishi mumkin
++ a. OIV -infeksiya
+- b. NVV - infeksiya
+- c. NLTV -1-infeksiya
+- d. TORCH -infeksiya
+
+? Gepatit B virusining og'ir kechishi sababli bemor qaytadan tahlil qilindi va yo'ldosh holatda boshqa bir qo'zg'atuvchi ham aniqlandi. Bu qaysi virus bo'lishi mumkin
++ a. delta-virus
+- b. gepatitu G virusi
+- c. gepatit C virusi
+- d. gepatit E virusi
+
+? Ixtisoslashtirilgan shifoxonada bemorga OIV infeksiyasini davolash uchun kompleks tarzda dori vositalari berildi. Qaysi dori vositalari qo'llanilgan
+- a. Biseptol
+- b. Interleykin
+- c. Keng ta'sir doirali antibiotiklar
++ d. Nukleozid analoglari
+
+? Markaziy shifoxonada 4 nafar bemor jarroxlik yo'li bilan davolanib chiqqandan so'ngra ularda virusli gepatit aniqlandi. Ularda kasallik asta sekin boshlanib, skleraning, teri va shilliq qavatlarning sarg'ayishi, toshma paydo bo'lishi bilan kechgan. Epidemiologik tekshirishlar o'tkazilganda ularga donor qoni quyilgani ma'lum bo'ldi. Qaysi kasallik bo'lishi mumkin
++ a. Gepatit B, C
+- b. Gepatit A
+- c. Gepatit C
+- d. Gepatit D
+
+? Stomatologlar virusli gepatitga chalinish bo'yicha xavf guruhga mansubdirlar. Quyidagi qaysi guruh vositalar ishonchli profilaktika sanaladi.
+- a. maxsus zardob
++ b. HbsAg dan tashkil topgan rekombinant vaksina
+- c. gepatit B virusiga qarshi tirik vaksina
+- d. maxsus immunoglobulin
+
+? Asosiy qo'zg'atuvchisi stafilokokk bo'lgan kasallik?
+- a. saramas
+- b. zotiljam
+- c. meningit
++ d. panaritsiy
+
+? Grammmusbat kokklarni belgilang?
+- a. gonokokk, meningokokk, pnevmokokk
++ b. pnevmokokk, stafilokokk, streptokokk
+- c. stafilokokk, gonokokk, meningokokk
+- d. stafilokokk, pnevmokokk, meningokokk
+
+? Patogen pnevmokokklarning organizmda himoya faktori?
++ a. kapsula hosil qilishi
+- b. lizotsim
+- c. normal antitela
+- d. interferon
+
+? Patogen stafilokokklarning patogen bo'lmagan stafilokokklardan farq qiluvchi belgilari?
+- a. mannitni aerob sharoitda parchalashi
+- b. indol xosil kilish
+- c. morfologik shakli
++ d. mannitni anaerob sharoitda parchalashi
+
+? Patogen stafilokokklarni patogen bo'lmagan stafilokokklardan farqlash uchun qo'llaniladigan test?
+- a. laktozani parchalashi
++ b. plazmani qotirishi
+- c. morfologik tuzilishi
+- d. jelatinani suyultirishi
+
+? Qanday faktorlar ta'sirida stafilokokklar L - formani hosil qiladi?
+- a. past temperatura
++ b. penitsillin ta'sirida
+- c. sanab o'tilganlarning hammasi
+- d. yuqori temperatura
+
+? Safilokokkli infeksiyalarning mikrobiologik tashxisi uchun qo'llaniladigan usullaridan biri?
+- a. parazitologik
+- b. virusologik
+- c. allergik
++ d. bakterioskopik
+
+? Saramas kasalligining qo'zg'atuvchisi?
+- a. epidermal stafilokokk
+- b. gonokokk
+- c. tilla rang stafilokokk
++ d. b - gemolotik streptokokk
+
+? Skarlatina kasalligining qo'zg'atuvchisi?
++ a. gemolitik - streptokokk
+- b. oq stafilokokk
+- c. limon rangli stafilokokk
+- d. nogemolitik streptokokk
+
+? Stafilokokklar qo'zg'atadigan infeksiya?
++ a. absess
+- b. qizilcha
+- c. vabo
+- d. difteriya
+
+? Stafilokokklar uchun elektiv (tanlangan) muhit?
++ a. tuxum sarig'i qo'shilgan tuzli agar
+- b. Kligler muhiti (Z - qandli agar)
+- c. qonli agar
+- d. go`sht - peptonli bulon
+
+? Stafilokokklarning ko'pgina shtammlari penitsilinga chidamliligi nimaga bog'liq ekanligini ko'rsating?
+- a. hujayra devorining o'ziga xos tuzilishi bilan
+- b. agressiv fermentlar ishlab chiqarishi bilan
++ c. plazmidlarning borligi bilan
+- d. toksinlar ishlab chiqarishi bilan
+
+? Stafilokokkli infeksiyalarning maxsus profilaktikasi uchun qanday vaksina qo'llanilad?
+- a. STI
+- b. tirik kuchsizlantirilgan vaksina
+- c. kimyoviy
++ d. autovaksina
+
+? Stafilokokkli infeksiyalarning maxsus profilaktikasi uchun qo'llaniladigan preparat?
+- a. tirik stafilokokk vaksinasi
++ b. anatoksin
+- c. antibakterial zardob
+- d. antitoksin zardob
+
+? Stafilokokkning fibrinolizini qanday jarayonni rivojlantiradi?
+- a. surunkali shaklga o'tishi
+- b. jarayonning joylashishi
++ c. tarqalgan jarayon
+- d. yallig'lanish o`chog'ini hosil bo'lishi
+
+? Streptokokkning turini belgilang?
+- a. limon rangli
+- b. oq rangli
+- c. to'q sariq
++ d. gemolitik
+
+? Suyuq oziqli muhitda stafilokokklarning o'ziga xos o'sishini belgilang?
+- a. muhit ostida o'sishi
++ b. bir tekis loyqalanish
+- c. parda hosil qilishi
+- d. diffuzli o'sish
+
+? Yiringli - yallig'lanish kasalliklarining qo'zg'atuvchilari belgilang?
+- a. spiroxetalar
++ b. stafilokokklar
+- c. ko'k yo'tal tayoqchasi
+- d. dizenteriya tayoqchasi
+
+? Yuqori konsentratsiyali tuzlar va safro ta'siriga chidamli kokklarni ko'rsating?
+- a. pnevmokokk
++ b. streptokokk
+- c. gonokokk
+- d. meningokokk
+
+? Zotiljamning qo'zg'atuvchisi bo'lgan pnevmokokkning morfologiyasi?
+- a. ovalsimon, zanjir shaklida joylashgan kokk
++ b. gram+, lansetsimon diplokokk
+- c. gram-, mayda tayoqchalar
+- d. gram-, ovalsimon shakldagi diplokokk
+
+? 5 yoshli bola chap yelka soxasining furunkuli tufayli kasalxonaga yotqizilgan. Yiringni bakteriologik tekshirishda stafilokokklar aniqlandi. Bu turga morfologik xususiyatlar xosmi?
+- a. hujayralarning zanjir shaklida joylashishi
++ b. uzum shingili shaklida hujayralarning joylashishi
+- c. hujayralarning juft bo'lib joylashishi
+- d. hujayra tuzilishi bitta
+
+? 9 yoshli bola P.ga o'ng oyog'ining o'tkir osteomiyeliti tashxisi qo'yildi. Laboratoriya diagnostikasi sharsimon mikroblarni aniqladi, ular uzum shingili shaklida joylashgan. Qaysi mikroorganizmlar ekanligini ko'rsating:
+- a. Mikrokokklar
+- b. Diplokokklar
+- c. Streptokokklar
++ d. Stafilokokklar
+
+? Faringit bilan og'rigan bemordan "A" guruhiga mansub streptokokklar ajratib olingan, ularning qaysi antigeni o'ziga xos xususiyatni beradi va qo`zg`atuvchining virulentligini ta'minlashda hal qiluvchi ahamiyatga ega?
+- a. T - antigen
++ b. M - oqsil
+- c. P-antigen
+- d. O - antigen
+
+? Furunkuloz bilan kasalxonada davolanayotgan bemorda, yiringni mikroskopik tekshiruvi uzum shoxiga o'xshash tartibsiz shaklida joylashgan kokklar aniqlandi. Bu mikroorganizmlar qaysi turga mansub?
+- a. Mikrokok
+- b. Streptokok
++ c. Stafilokokklar
+- d. Enterokok
+
+? Furunkulozga shubha qilingan bemorning patologik materialini bakteriologik o'rganishda, uzum shingiliga o`xshash, sharsimon shaklli, gramm-musbat mikroorganizmlar aniqlangan. Qaysi mikroorganizmlar ekanligini ko'rsating:
+- a. Diplokokklar
+- b. Streptokokklar
+- c. Tetrakok
++ d. Stafilokokklar
+
+? Furunkulozga shubha qilingan bemorning patologik materialini bakteriologik o'rganishda, uzum shingiliga o`xshash shaklda, sharsimon ko`rinishda, gramm-musbat mikroorganizmlar aniqlangan. Qaysi mikroorganizmlar ekanligini ko'rsating:
++ a. Stafilokokklar
+- b. Mikrokokklar
+- c. Streptokokklar
+- d. Diplokokklar
+
+? Krupoz pnevmoniya bilan og'rigan bemor balg'amining mikroskopik tekshiruvida kapsula bilan o'ralgan juda ko'p gram-musbat lansetsimon diplokoklar aniqlandi. Qaysi qo`zg`atuvchi aniqlashni mumkin?
+- a. Xlamidiya pnevmoniyasi
++ b. Streptokokk pnevmoniyasi
+- c. Staphylococcus aureus
+- d. Klebsiella pnevmoniyasi
+
+? Pnevmoniyaga gumon qilingan bemorning balg'amini laboratoriyada tekshirish natijasida grammusbat diplokoklar aniqlangan, bir oz cho'zilgan, bir oz qarama-qarshi uchlari bor. Balg'amda qaysi mikroorganizmlar topilgan?
+- a. Staphylococcus aureus
+- b. Streptococcus pyogenes
+- c. Streptococcus agalactiae
++ d. Streptokokk pnevmoniyasi
+
+? Skarlatina kasalligiga gumon qilingan qizning patologik materiali bakteriologik o'rganildi. Zanjirsimon shaklidagi bir xil tekislikda joylashgan, sferik shaklga ega, grammusbat mikroorganizmlar aniqlangan. Ular qanday mikroblar bo'lishi mumkin?
+- a. Meningokok
+- b. Proteus
+- c. Stafilokok
++ d. Streptokokklar
+
+? Yiringli appenditsit tashxisi bilan operatsiyadan so'ng, 22 yoshli bemorda jarrohlik yarasining yiringli asoratlari paydo bo'ldi. Yiringli materialdan surtma tayyorlandi. Bakteriolog mikroskopda ko'p sonli leykotsitlar va koklarni topdi, ular uzumga o'xshash tartibsiz shaklida joylashtirilgan. Bu mikroorganizmlar qaysi jinsga mansub?
+- a. Streptokokk
+- b. Enterokokk
+- c. Pnevmokokk
++ d. Stafilokokk
+
+? Blennoreya profilaktikasida qanday preparat ishlatiladi?
+- a. laktobakterin
++ b. penitsillining 3% li yog'li eritmasi
+- c. brutsellin
+- d. vodorod peroksidi sulfadimetoksin
+
+? Gonokokk o'sishida talab qilinadigan moddani ko'rsating?
++ a. zardob
+- b. laktoza
+- c. tellurit
+- d. uglevodlar
+
+? Gonokokkga xos bo'lgan belgini ko'rsating?
+- a. monotrix bo'lishi
+- b. R - shaklni tez hosil qiladi
++ c. tugallanmagan fagotsitoz hosil bo'lishi
+- d. spora hosil qilish
+
+? Gonokokklarning qaysi belgilari bo'yicha uretra yiringini bakterioskopik tekshirishda so'zak diagnozi qo'yiladi?
+- a. harakatchanligi
+- b. kapsulasining borligi
+- c. hujayralarning zanjir hosil qilib joylashishi
++ d. tugallanmagan fagotsitoz
+
+? Har qanday sharoitda ham spora hosil qilmaydigan mikrob?
+- a. ko'ydirgi tayoqchasi
+- b. qoqshol tayoqchasi
+- c. botulizm tayoqchasi
++ d. gonokokklar
+
+? Meningokokk qaysi oilaga kiradi?
++ a. neysseriatseya
+- b. mikrokokkatsеya
+- c. enterobakteriatsеya
+- d. aktinomitatseya
+
+? Meningokokklar qo'zg'atadigan kasallikni ko'rsating?
++ a. nazofaringit
+- b. zaxm
+- c. so'zak
+- d. OITS
+
+? Meningokokklar o`sishi uchun oziq muhitlarni belgilang?
+- a. tuxum sarig'i qo'shilgan tuzli agar
++ b. assitli agar
+- c. GPA
+- d. shakarli agar
+
+? Meningokokklar qaysi muhitda yaxshi o'sadi?
+- a. qalin muhitida
+- b. shokoladli agarda
++ c. zardobli agarda
+- d. qonli agarda
+
+? Meningokokkli infeksiya formalaridan birini ko`rsating?
++ a. nazofaringit
+- b. enteral
+- c. gerpangina
+- d. pnevmoniya
+
+? Meningokokkli infeksiyalarda tekshirish materiali bo'lib hisoblanadi?
++ a. orqa miya suyuqligi
+- b. najas
+- c. peshob
+- d. o't suyuqligi
+
+? Past haroratga sezgir mikroorganizmlarni ayting?
+- a. qorin tifi salmonellari
+- b. vabo vibrioni
++ c. meningokoklar
+- d. gripp virusi
+
+? Patogen kokklar odamda qanday kasallik chaqiradi?
+- a. difteriya
++ b. so'zak
+- c. tuberkulez
+- d. dizenteriya
+
+? Qanday xususiyati bilan meningokokklar boshqa neysseriyalardan farq qiladi?
+- a. tinktorial
+- b. morfologik
+- c. faglarga sezuvchanlik
++ d. kultural xususiyati
+
+? Qaysi kasallikning qo'zg'atuvchisi meningokokk bo'lishi mumkin?
++ a. nazofaringit
+- b. angina
+- c. skarlatina
+- d. blennoreya
+
+? Sanab o'tilgan kokklarning qaysi biri Gram bo`yicha manfiy bo'yaladi?
+- a. mikrokokklar
+- b. streptokokklar
++ c. meningokokklar
+- d. sarsinalar
+
+? Sanab o'tilgan oziq muhitlardan qaysi birida meningokokklar o'stiriladi?
+- a. Tinsdal muhiti
+- b. Ploskirev muhiti
+- c. KUA muhiti
++ d. zardobli agar
+
+? So'zak kasalligi qo'zg'atuvchisini kim birinchi kashf qilgan?
+- a. Erlix
+- b. Paster
+- c. Kox
++ d. Neysser
+
+? So'zakda asosiy sindromning ko'rinishi qanday?
+- a. toshmalarning ko'rinishi
+- b. dispepsiya
+- c. tana haroratining oshishi
++ d. uretrit
+
+? Tana harorati 41 C, meningokokkli infeksiya deb taxmin qilindi. Tekshirish uchun qanday material olish kerak?
+- a. qindan ajralayotgan suyuqlik
+- b. siydik
+- c. qon
++ d. orqa miya suyuqligi
+
+? 22 yoshli bemorga surunkali gonoreya tashxisi qo'yilgan. Tashxisni tasdiqlash uchun qanday usulda tekshirish kerak?
++ a. Serologik tekshirish
+- b. Allergik tekshirish
+- c. Biologik tekshirish
+- d. Mikroskopik tekshirish
+
+? Bemor 8 yoshda. Unda nafas yo'llari o'tkir yallig'lanishi va terisida petexial toshmalar mavjud. Shpris ignasi yordamida petexiyal toshmalardan kichik qon tomchilari olindi. Metil ko'ki bilan bo'yab ko'rilgan surtmada ko'p miqdorda to'q ko'k rangdagi diplokoklar aniqlandi, ular juft bo'lib joylashgan. Bu qaysi qo'zg'atuvchi bo'lishi mumkin:
++ a. Meningokokklar
+- b. Pnevmokokklar
+- c. Stafilokokklar
+- d. Monokokk
+
+? Bemor jinsiy a'zolardan yiringli ajralmalar chiqishiga, achishish, siyish paytida og'riqqa shikoyat qiladi. Oxirgi 5 kundan buyon kasal. Ajralmalardan olingan surtmalarda, leykotsitlar ichida ham, hujayralar tashqarisida ham juft bo'lib joylashgan, qahva donalari shaklidagi grammanfiy mikroorganizmlar aniqlandi. Topilgan mikroblarni ko'rsating?
++ a. Gonokokklar
+- b. Meningokokklar
+- c. Enterokokklar
+- d. Stafilokokklar
+
+? Bemordan olingan surtmalarda bakteriyalar qahva donalari shaklida bo'lib, grammanfiy, leykotsitlar ichida (tugallanmagan fagotsitoz) va hujayralar tashqarisida juft bo'lib joylashgan. Morfologik xususiyatlariga ko'ra ular meningokokklarga juda o'xshash. Bu mikroorganizmlar nima?
+- a. Enterokokk
+- b. Stafilokokklar
+- c. Meningokokklar
++ d. Gonokokklar
+
+? Bir oylik bolaning onasi bolalar poliklinikasiga bolaning ko'z kon'yunktivasidan yiringli ajralma chiqishi haqidagi shikoyatlar bilan kelgan. Surtmani mikroskopik tekshirish natijasida leykotsitlar o'rtasida joylashgan ko'p miqdordagi leykotsitlar va loviyasimon diplokoklar aniqlandi. Bu qanday mikroorganizm ekanligini ko'rsating.
+- a. Neisseria meningitides
++ b. Neisseria gonorhoeae
+- c. Neisseria subflava
+- d. Neisseria flava
+
+? L. ismli ayolning siydik yo'llari va bachadon bo'ynidan bakteriologik tekshirish uchun namuna olindi. Surtmalarda leykotsitlar o'rtasida qahva donalari shaklida grammanfiy mikroblar (to'liq bo'lmagan fagotsitoz) aniqlangan. Surtmada qaysi mikroorganizmlar topilgan?
+- a. Meningokokklar
+- b. Pnevmokokklar
+- c. Stafilokokklar
++ d. Gonokokklar
+
+? Orqa miya suyuqligining mikroskopiyasida, kofe donalariga o'xshash gram manfiy, juft, tetrada yoki tartibsiz holda (ko'pincha leykotsitlar ichida) joylashgan (to'liq bo'lmagan fagotsitoz) diplokoklar aniqlandi. Bu qaysi qo'zg'atuvchi bo'lishi mumkin:
+- a. Stafilokokklar
++ b. Meningokokklar
+- c. Pnevmokokklar
+- d. Streptokokklar
+
+? Surtmada gram manfiy diplokoklar aniqlandi. Diplokoklar - gonoreya va meningit qo'zg'atuvchilaridir. Bunday kokklarning shakli qanday:
+- a. sferik shaklda
+- b. elliptik shaklda
+- c. lansetsimon
++ d. loviya shaklda
+
+? Surunkali so'zak infeksiyasiga shubha qilingan bemorda provokatsiya sinamasi o'tkizilgach tekshirish uchun ashyo olindi. Surtma tayyorlanib tekshirilganda, gram-manfiy, qahva donalari kabi, juft-juft, ayrimlari leykotsitlar ichida joylashgan diplokoklar aniqlandi. Bu qaysi qo'zg'atuvchi bo'lishi mumkin?
+- a. Meningokokklar
+- b. Stafilokokklar
+- c. Pnevmokokklar
++ d. Gonokokklar
+
+? Yangi tug'ilgan chaqaloqqa gonoblennoreya tashxisi qo'yilgan. Tashxisni tasdiqlash uchun kon'yunktivadan ajralma olingan. Surtmada qahva donalari ko'rinishida gram-manfiy diplokoklar aniqlandi. Qanday mikroorganizmlar topilgan?
+- a. Meningokokklar
++ b. Gonokokklar
+- c. Stafilokokklar
+- d. Pnevmokokklar
+
+? Bakteriologik diagnostika usullarida difteriya qo'zg'atuvchisining qanday xususiyatlarini aniqlash zarur?
+- a. kolitsinogenligi
+- b. bioximik
++ c. toksigenligi
+- d. oddiy muhitda o'sish qobiliyati
+
+? Bemorga "tomoq difteriyasi"deb tashxis qo'yildi. Davolash uchun qo'llaniladigan maxsus preparatlar?
+- a. anatoksin
+- b. qizamiqqa qarshi qo'llaniladigan gamma - globulin
++ c. antitoksik zardob
+- d. AKDS
+
+? Bordatellalar qo'zg'atadigan kasallik?
+- a. Qizamiq
+- b. Tuberkulez
+- c. Brutsellez
++ d. Ko'k yo'tal
+
+? Bo'g'ma qo'zg'atuvchilarining toksin ajratib chiqarish qobiliyati qanday maxsus usulda aniqlanadi?
+- a. teri sinamasi bilan
+- b. Shik reaksiyasida
+- c. agglyutinatsiya reaksiyasi
++ d. pretsipitatsiya reaksiyasi bilan
+
+? Bo`g'ma tayoqchasining kasallik patogenezini aniqlovchi toksin?
+- a. allergen
+- b. enterotoksin
++ c. ekzotoksin
+- d. endotoksin
+
+? Bo`g'mani davolashda qo'llaniladigan eng yaxshi preparat?
+- a. antibiotiklar
+- b. sulfanilamidlar
++ c. antitoksik zardob
+- d. anatoksin
+
+? Difteriya (Bo`g'ma) tayoqchalarining tiplari?
+- a. sariq
+- b. ko'k, qora
++ c. gravis, mitis, intermedius
+- d. qizil, oq
+
+? Difteriya qo`zg`atuvchisi mikroskopda ko'rilganda qanday joylashadi?
+- a. bir - biriga paralell
+- b. juft - juft
++ c. burchak hosil qilib
+- d. zanjirli
+
+? Difteriya qo'zg'atuvchisi uchun qanday morfologik belgi xarakterli hisoblanadi?
+- a. hujayralarning zanjir holida joylashishi
+- b. hujayraning o'tkirlashgan uchlari
+- c. loviyasimon kokklar
++ d. ikki uchida volyutin donachalarining bo'lishi
+
+? Difteriya qo'zg'atuvchisini kim birinchi o'rgangan?
+- a. L.Paster
+- b. Mechnikov
+- c. Ivanovskiy
++ d. Klebs, Leffler
+
+? Difteriya qo'zg'atuvchisining toksigenligini aniqlash uchun qanday reaksiya qo'llaniladi?
+- a. immunoflyuoressensiya reaksiyasi
+- b. agglyutinatsiya reaksiyasi
++ c. gelda pretsipitatsiya reaksiyasi
+- d. komplement bog'lash reaksiyasi
+
+? Difteriyaning maxsus profilaktikasida qanday preparat qo'llaniladi?
+- a. kolibakterin
+- b. gamma - globulin
+- c. ximiyaviy vaksina
++ d. anatoksin
+
+? Korinebakterii difteriya qanday muhitda o'sadi?
++ a. Lefller muhiti
+- b. qandli agar
+- c. Endo muhiti
+- d. go`sht - peptonli bulon
+
+? Korinebakteriya difteriyaning biovarlari qanday xususiyati bo`yicha differensiyalanadi?
+- a. morfologik
+- b. antigen
+- c. faglarga sezuvchanligi bo'yicha
++ d. kultural
+
+? Ko'k yo'tal bakteriyasini o'stirish uchun qo'llaniladigan oziq muhitlar?
+- a. saburo muhiti
++ b. kaziyenli ko`mirli agar
+- c. GPA
+- d. seysler muhiti
+
+? Ko'k yo'tal kasalligining manbai kasal odam. U kasallikning qaysi davrida atrofdagilar uchun xavfli?
+- a. konvulsiv - tirishib yo'talish davrida
+- b. yashirin davrida
+- c. barcha davrlarida xavfli
++ d. kataral - yallig'lanish davrida
+
+? Ko'k yo'tal kasalliginning laborator diagnozini aniqlash uchun olinadigan material?
+- a. qon
+- b. orqa miya suyuqligi
++ c. burun - halqumidan olingan shilliq
+- d. siydik
+
+? Qaysi infeksiyani profilaktikasi uchun AKDS yuboriladi?
++ a. difteriya
+- b. Vabo
+- c. gazli gangrena
+- d. qizamiq
+
+? Qaysi kasallik diagnostikasida yo'tal plastinkalari qo'llaniladi?
++ a. ko'kyo`talda
+- b. difteriyada
+- c. epidemik meningitda
+- d. silda
+
+? Qaysi kasallik qo'zg'atuvchisida xivchinlar bo'lmaydi?
+- a. vabo
+- b. qorin tifi
++ c. difteriya
+- d. ichak tayoqchasi
+
+? 5 yoshli bola ko'k yo'tal bilan kasallanganiga 7 kun bo'lmoqda. Vaqti-vaqti bilan yo'talib turibdi. Bu kasallikning qaysi davri hisoblanadi.
+- a. Inkubatsion
++ b. Kataral
+- c. Sog'ayish
+- d. Konvulsiv
+
+? 6 yoshli bola ko'k yo'tal bilan kasallanganiga 20 kun bo'lmoqda. Yo`tal boshlanganda to`xtovsiz tus olmoqda, asfiksiya alomatlari kuzatilmoqda. Bu kasallikning qaysi davri hioblanadi.
+- a. Inkubatsion
++ b. Konvulsiv
+- c. Sog'ayish
+- d. Kataral
+
+? 7 yoshli bola faringeal bo`g'ma (difteriya) tashxisi bilan yuqumli kasalliklar klinikasiga yotqizilgan. Qo'zg'atuvchini ajratish va tashxisni tasdiqlash uchun qanday tekshiruv ashyosi olinishi kerak?
++ a. Tomoqqan surtma
+- b. Bemor zardobi
+- c. Bemor qoni
+- d. Balg'am
+
+? 7 yoshli qizaloq yuqori tana harorati, tomoq og'rig'i, umumiy holsizlik shikoyatlari bilan yuqumli kasalliklar klinikasiga yotqizilgan. Shifokor bo`g'maga shubhalanib, tomoqdan surtma oldi. Qo'zg'atuvchining sof kulturasi ajratib olganach qaysi xususiyatini aniqlash ahamiyatli?
+- a. Biovarlarini
+- b. Volyutin donachalarini
++ c. Toksigenligini
+- d. Tinktorial xususiyatini
+
+? Bolalar shifoxonasining yuqumli kasalliklar bo'limida difteriya tashxisi qo'yilgan 5 yoshli bola yotqizilgan. Bodomsimon bezdagi kulrang pardadan olingan material oziq muhitiga ekildi. Bu muhitda difteriya qo'zg'atuvchisi chetlari notekis koloniya hosil qildi. Bu qaysi biovar?
+- a. Kichik koloniya - Mitis biovari
+- b. Mayda koloniya - Difteroid biovari
++ c. Yirik koloniya -Gravis biovari
+- d. O'rtacha koloniya - Intermedius biovari
+
+? Difteriyaga shubha qilingan bemor bolaning tamoq shilliq qavatidan surtma olindi. Surtma tayyorlanib bo'yaldi. Mikroskop ostida uchlari qalinlashgan va to'q ko'k rangga bo'yalgan havo rangli tayoqchalar aniqlandi. Yana qanday bo'yash usullaridan foydalanish mumkin?
+- a. Gramm
++ b. Neysser
+- c. Sil-Nilsen
+- d. Ojechko
+
+? Kasalxonaga 12 yoshli bola o'rtacha og'irlikdagi bo`g'ma (difteriya) tashxisi bilan yotqizilgan. Klinik tashxis bakteriologik tekshirish bilan tasdiqlangan: difteriya tayoqchasi, toksigen shtamm ajratilgan. Maxsus davolanish uchun qanday vositalar ishlatiladi?
++ a. Antitoksik zardob
+- b. Sulfanilamid preparatlari
+- c. Dezinfektsiyalovchi eritmalar
+- d. Antibiotiklar
+
+? O'rta maktabning 1-sinfida o'qiyotgan 7 yoshli bola ko'k yo'tal bilan kasal bo'lib qoldi. Bolalarda ko'k yo'talni maxsus oldini olish uchun qanday vosita ishlatiladi?
++ a. AKDS
+- b. TAB
+- c. ADS
+- d. Immunoglobulin
+
+? Yuqumli kasalliklar bo'limida faringeal difteriya tashxisi qo'yilgan 10 yoshli bola davolanmoqda. Ajratilgan difteriya tayoqchasining toksigenligi qanday aniqlanadi?
+- a. Komplementni bog'lash reaksiyasida
++ b. Geldagi presipitatsiya reaksiyasida
+- c. Bilvosita gemagglutinasiya reaksiyasida
+- d. Aglutinasiya reaksiyasida
+
+? Yuqumli kasalliklar shifoxonasiga faringeal bo`g'ma (difteriya) tashxisi qo'yilgan 9 yoshli bola yotqizilgan. Bo`g'ma (difteriya) qo'zg'atuvchilarining yuqush yo'lini ko'rsating?
+- a. Transvissiv
+- b. Fekal-oral
++ c. Havo-tomchi
+- d. Parenteral
+
+? Keltirilgan xossalarning qaysi biri sil mikobakteriyasi uchun xarakterli hisoblanadi?
++ a. kislotaga chidamlilik
+- b. harakatchanligi
+- c. oddiy oziq muhitda o'sishi
+- d. Gram manfiyligi
+
+? Lepromin sinamasi qaysi kasallikda ishlatiladi?
+- a. zaxm
+- b. tulyaramiya
+- c. brutsellez
++ d. moxov
+
+? Mantu sinamasini qo'yish uchun qaysi maxsus preparat qo'llaniladi?
+- a. brutsellin
++ b. tuberkulin
+- c. barchasi
+- d. antratsin
+
+? Mikobakteriakseya oilasiga kiruvchi mikrob chaqirgan kasallik?
+- a. mikoplazma – infeksiya
+- b. difteriyalar
++ c. Sil
+- d. ko'k yo'tal
+
+? Moxov kasalligining bakterioskopik diagnostikasida qanday material ishlatiladi?
+- a. so'lak
++ b. burundan qirma
+- c. najas
+- d. balg'am
+
+? Moxov mikobakteriyasini kim birinchi ta'riflagan?
++ a. Gansen
+- b. Levenshteyn
+- c. Prays
+- d. Kox
+
+? Qaysi mikrooragnizmlar quritishga chidamli bo'ladi?
+- a. gonokoklar
++ b. mikobakteriyalar
+- c. treponemalar
+- d. leptospiralar
+
+? Qaysi qo'zg'atuvchi R. Kox tomonidan kashf qilingan?
+- a. spiroxetalar
++ b. sil qo'zg'atuvchisi
+- c. kuydirgi qo'zg'atuvchisi
+- d. rikketsiyalar
+
+? Sil kasalligi qo'zg'atuvchisini oziq muhitda asta-sekin o'sishi nimaga bog'liq?
+- a. kimyoviy tarkibiga
+- b. chidamliligiga
++ c. bo'linish davri
+- d. tinktorial xususiyatlariga
+
+? Sil kasalligini davolashda ishlatiladigan antibiotikni ko'rsating?
+- a. nistatin, tetrotsiklin
+- b. dekamin
++ c. tubazid, ftivazid
+- d. levorin
+
+? Sil kasalligining maxsus profilaktikasi uchun qo'llanalidigan preparat?
+- a. antitoksik zardob
+- b. anatoksin
+- c. AKDS
++ d. BCG
+
+? Sil kasalliginni aniqlashda qo'llaniladigan allergik sinama?
+- a. Byurne sinamasi
+- b. Shik sinamasi
+- c. penitsilin bilan qo'yiladigan sinama
++ d. Mantu sinamasi
+
+? Sil maxsus profilaktikasi uchun qanday vaksina qo'llaniladi?
+- a. STI
++ b. BCG
+- c. ADS-M
+- d. AKDS
+
+? Sil mikrobakteriyasining koloniyasini tuzilishi?
+- a. silliq, yaltiroq, qabariq
+- b. chetlari tishsimon qalin, yuzasi silliq
+- c. simob tomchisi kabi yaltiroq
++ d. qalin, chetlari notekis burushgan yuzaga ega
+
+? Sil mikrobini kim topgan?
+- a. Mechnikov
+- b. L.Paster
+- c. Bezredka
++ d. R.Kox
+
+? Sil qo'zg'atuvchilari uchun maxsus oziq muhitga kiruvchi komponentlardan biri?
+- a. sitratlar
+- b. safro
++ c. glitserin
+- d. zardob
+
+? Sil qo'zg'atuvchisi qaysi usul bilan bo'yaladi?
+- a. Romanovskiy – Gizma
+- b. Ojeshko
++ c. Sil – Nelsen
+- d. Neysser
+
+? Sil tayoqchalari oziq muhitlarda qanday xaraktarda o'sadi?
+- a. to'qilgan ro'molchaga o'xshash koloniyalar
+- b. koloniyasi qovurilgan tuxumga o'xshaydi
++ c. quruq ushoqlarni eslatadi
+- d. meduza boshiga o'xshash koloniyalar
+
+? Sil uchun immunitetning qaysi turi xarakterli?
++ a. nosteril
+- b. tug'ma
+- c. antitoksik
+- d. steril
+
+? Sil, moxov bakteriyalarini bo'yash uchun qo'llaniladigan usul?
+- a. Gram
+- b. Ojeshko
++ c. Sil Nilsen
+- d. Neysser
+
+? 16 yoshli yigit kasb-hunar kollejiga o'qishga kirdi. Rejalashtirilgan Mantu sinamasi o'tkazilganda uning manfiy ekanligi aniqlandi. Shifokorning eng oqilona taktikasi qaysi?
+- a. To'g'ri javob yo'q
+- b. Sil kasalligi serodiagnostikasini amalga oshirish
+- c. Yigitni o'quv guruhidan zudlik bilan ajratish
++ d. BCG bilan emlash
+
+? 4 yoshli bola. Mantu sinamasidan so'ng 72 soat ichida tuberkulin qo'llangan sohada terining qizarishi kuzatilmadi. O'tkazilgan sinamaning natijasi nimani anglatadi?
+- a. Bola sil kasalligining tashuvchisi hisoblanadi
++ b. Bola sil kasalligiga qarshi emlanmagan
+- c. Bolada sil kasalligi mavjud
+- d. Bola sil kasalligiga qarshi emlangan
+
+? BSG bilan emlangan, ammo Angina (revmatizm) kasalligi tufayli bitsillin bilan davolangan 15 yoshli bolaga Mantu sinamasi qilindi. 72 soatdan so'ng tuberkulin qo'llangan sohada terining qizarishi kuzatilmadi. O'tkazilgan sinamaning natijasi nimani anglatadi?
+- a. Sil kasalligida nosteril immunitet bo'lganligi sababli hamma vaqt manfiy chiqadi
+- b. Angina (revmatizm) kasalligida Mantu sinamasi manfiy chiqadi
++ c. Bitsillin ta'sirida BSG o'lgan-qaytadan emlash kerak
+- d. Bitsillin ta'sirida Mantu sinamasi manfiy chiqadi
+
+? Faol sil kasalligiga shubha qilingan 5 yoshli bolaga Mantu sinamasi qilindi. 30 daqiqadan so'ng, ineksiya joyida terining yengil qizarishi kuzatildi. 24 soatdan keyin terining giperemiyasi yo'qoldi. Reaksiya natijasi nimani anglatadi?
+- a. Yashirin sil kasalligi jarayoni
++ b. Manfiy reaktsiya
+- c. Faol sil kasalligi jarayoni
+- d. Emlashdan keyingi immunitet
+
+? Faol sil kasalligiga shubha qilingan 6 yoshli bolaga Mantu sinamasi qilindi. Qaysi immunobiologik preparat yuborilgan?
+- a. ADS-M vaksinasi
+- b. AKDS vaksinasi
++ c. Tuberkulin
+- d. BCG vaksinasi
+
+? Laboratoriyaga sil kasalligi bo'lgan bemordan tekshirish uchun material olib kelindi. Sil kasalligi qo'zg'atuvchisini aniqlash uchun qanday bo'yash usullarini qo'llash kerak?
++ a. Sil-Nilson usuli
+- b. Gramm usuli
+- c. Oddiy usul
+- d. Old usuli
+
+? Maktab o'quvchilariga sil tashxisi qo'yish uchun Mantu teri allergik sinamasi o'tkazish kerak. Bu holatda nima ishlatiladi?
++ a. Tuberkulin
+- b. Brucillin
+- c. STI vaktsinasi
+- d. BCG vaktsinasi
+
+? Odamlarda faol immunitetni hosil qilish uchun ko'p sonli vaksinalar qo'llaniladi. Qaysi preparat tirik bakteriyalardan iborat?
+- a. Solk vaksinasi
++ b. BCG vaktsinasi
+- c. AKDS vaksinasi
+- d. Gepatit A ga qarshi emlash
+
+? Sil kasalligi bo'lgan bemor davolangach Mantu sinamasi qilindi. 30 daqiqadan so'ng, ineksiya joyida terining yengil qizarishi kuzatildi. 24 soatdan keyin terining giperemiyasi yo'qoldi. Reaksiya natijasi nimani anglatadi?
+- a. To'liq davolanmagan
+- b. Yashirin sil kasalligi jarayoni
+- c. Faol sil kasalligi jarayoni
++ d. Organizmda sil mikroblari qolmagan
+
+? Sil mikobakteriyalari ekzotoksin yoki endotoksin ishlab chiqmaydi. Shunga qaramasdan katta tibbiy muammoga sabab bo'layotgan kasallik keltirib chiqaradi. Sil mikrobining qanday omili patalogik jarayonga sabab bo'ladi?
++ a. Kord (allergen) faktori
+- b. Kislota va ishqorga chidamliligi
+- c. O va Vi antigenlari
+- d. Ekzo- va endofermentlari
+
+? Endo muhitida rangsiz, mayda, yaltiroq, nam, qavariq koloniyalar hosil bo'ldi. Mikroskopda Gr-, mayda, harakatsiz tayoqcha aniqlandi. Qaysi kasallikning qo'zg'utuvchisi bo'lishi mumkin?
+- a. paratif B
+- b. paratif A
++ c. dizenteriya
+- d. qorin tifi
+
+? Enteropatogen ichak tayoqchalarini boshqa turdagi ichak tayoqchalaridan qaysi xususiyatiga qarab farqlash mumkin?
++ a. antigen tuzilishiga
+- b. morfologik tuzilishiga
+- c. biokimyoviy faolligiga
+- d. endo muhitida hosil qilgan koloniyasiga
+
+? Esherixiylar uchun differensial muhitni ayting?
+- a. Kalina
++ b. Endo
+- c. Leffler
+- d. Shakarli agar
+
+? Ichak infeksiyalarida diagnostika uchun olinadigan asosiy material?
++ a. najas
+- b. qusuq moddasi
+- c. peshob
+- d. qon
+
+? Ichak infeksiyalarini qo'zg'atuvchi mikroorganizmlarni ko'rsating?
+- a. difteriya tayoqchasi
+- b. bifidumbakteriya
+- c. brutsellalar
++ d. gemolitik ichak tayoqchalari
+
+? Ichak tayoqchasi uchun qanday muhit differensial-diagnostik hisoblanadi?
+- a. shakarli muhit
+- b. Klauberg muhiti
+- c. vismut – sulfit agar muhiti
++ d. Endo, Ploskirev muhiti
+
+? Koliinfeksiya bilan kimlar ko'p og'riydi?
+- a. qariyalar
++ b. 1 yoshgacha bo'lgan bolalar
+- c. ayollar
+- d. o'smirlar
+
+? Koliinfeksiya qo'zg'atuvchisini o'stirish uchun qo'llaniladigan muhitlar:
+- a. Leffler
+- b. tuzli – sutli agar
+- c. tuzil agar
++ d. Endo, Levin
+
+? Koliinfeksiya qo'zg'atuvchisining biokimyoviy faolligi?
+- a. glyukoza, maltoza K
+- b. glyukoza, maltoza mannit KG, serovodorod va indol +
+- c. glyukoza, maltoza, mannit KG, serovodorod +, indol -
++ d. glyukoza, laktoza, maltoza, mannit KG, serovodorod va indol +
+
+? Koliinfeksiya qo'zg'atuvchisining morfologiyasi?
+- a. Gr –, tayoqcha, monotrix, kapsulasi bor
++ b. Gr –, tayoqcha, peritrix, spora va kapsulasi yo'q
+- c. Gr –, tayoqcha, amfotrix, kapsula va sporasi yo'q
+- d. Gr –, tayoqcha, lofotrix, spora va kapsulasi yo'q
+
+? Ko'pincha salmonellezni keltirib chiqaradigan ovqat mahsuloti?
++ a. go'sht
+- b. mevalar
+- c. ko'katlar
+- d. sabzavot
+
+? Maxsus bo'lmagan yiringli uretritni chaqiruvchi mikrobni ko'rsating?
+- a. meningokokk
++ b. esherixiyalar
+- c. streptokokk
+- d. klostridiyalar
+
+? Nima sababdan ichak tayoqchasi Endo muhitida qizil koloniya hosil qiladi?
++ a. Laktozani parchalaydi
+- b. Endoda yaxshi o'sadi
+- c. Aerob bo'lgani uchun
+- d. Laktozani parchalamaydi
+
+? Ovqat toksikoinfekatsiyasi kasalligini eng ko'p qo'zg'atidigan salmonella?
++ a. salmonella tifimurium
+- b. salmonella partif B
+- c. salmonella para tifi.A
+- d. salmonella tifi
+
+? Ovqat toksikoinfeksiyasi kasalligini qo'zg'atmaydigan mikrobni toping?
+- a. stafilokokklar
+- b. botulizm
+- c. salmonella
++ d. gonokokklar
+
+? Qorin tifi bakteriyasi qanday zahar hosil qiladi?
+- a. ekzotoksin
+- b. Ekzo – endotoksin
+- c. gemolizin
++ d. endotoksin
+
+? Qorin tifi bakteriyasining biokimyoviy faolligi nimaga bog'liq?
+- a. glyukoza, maltoza, manit: KG, serovodorod "+", indol "–"
++ b. glyukoza, maltoza, mannit: K, serovodorod "+", indol "–"
+- c. glyukoza, maltoza mannit: KG, serovodorod va indol "–"
+- d. glyukoza, laktoza, maltoza, manit: KG, serovodorod va indol "+"
+
+? Qorin tifi bilan og'rigan bemordan, kasallikning ikkinchi kuni tekshirish uchun olinadigan material?
++ a. gemokultura uchun qon
+- b. najas
+- c. agglyutinatsiya reaksiyasi uchun qon zardobi
+- d. siydik
+
+? Bemor qorin tifidan 14 kunida tuzala boshladi. Lekin rejim buzilishi natijasida kasallik yana xuruj qilishi hodisasini qanday izohlaysiz?
+- a. superinfeksiya
++ b. retsidiv
+- c. reinfeksiya
+- d. ikkalamchi infeksiya
+
+? Salmonellalar uchun elektiv oziq muhitlar?
+- a. go'sht – peptonli bulon
++ b. o'tli (safroli) bulon
+- c. zardobli muhit
+- d. ishqorli agar
+
+? Salmonellyozni keltirib chiqaruvchi omil?
+- a. sabzovot va mevalar
+- b. bitlar
++ c. go'sht
+- d. pashshalar
+
+? Tez-tez salmonellez kasalligini keltirib chiqaruvchi salmonellalarni ko'rsating?
+- a. S.anatum
+- b. S.paratifi B
+- c. S.paratifi A
++ d. S.tifimurium
+
+? Tif-paratif bakteriyalarni o'stirish uchun ishlatiladigan oziq muhit?
+- a. Ru muhiti
++ b. O'tli bulon
+- c. Sutli – tuzli agar
+- d. Tuzli GPB
+
+? Tif-paratif kasalliklarining laborator diagnostikasi?
+- a. biologik
+- b. bakterioskopik
+- c. allergik
++ d. serologik
+
+? Vidal reaksiyasida O-diagnostikum bilan agglyutinatsiyaning diagnostik titri bolalar uchun qanchaga teng?
+- a. 1:50
+- b. 1:400
+- c. 1:200
++ d. 1:100
+
+? 1.5 yoshli bolada qusish, diareya, tana haroratining ko'tarilishi kuzatildi. Tekshirish uchun najasdan namuna olinib Endo muhitiga ekildi. Mikroskopiyada grammanfiy tayoqchalar aniqlandi. Bu kasallikning qo'zg'atuvchisi bo'lishi mumkin?
+- a. Shigella
++ b. Ichak tayoqchasi
+- c. Salmonella
+- d. Streptokokk
+
+? 60-yoshli erkak 2 hafta oldin shifoxonaga avto halokat jarohatlar bilan gospitalizatsiya qilingan. Uning siydik yo'liga katetr qo'yilgan edi. Siydik ajratish sistemasida infeksion jarayon boshlandi. Bu qaysi mikroorganizm bo'lishi mumkin?
+- a. Streptakokk
+- b. Stafilokokk
++ c. Ichak tayoqchasi
+- d. Gonokokk
+
+? Bemor N. O'tkir ichak infeksiyasi tashxisi bilan gospitalizatsiya qilindi. Laboratoriyada qo'zg'atuvchining sof kulturasi ajratib olindi. Idetifikatsiya qilinganda ichak tayoqchasi ekanligi aniqlandi. Bu mikroorganizmga qanday morfologik xususiyat xarakterli?
+- a. Grammanfiy kokklar
++ b. Grammanfiy tayoqchalar
+- c. Grammusbat tayoqchalar
+- d. Grammusbat kokklar
+
+? Bemor najasidan olingan namuna Endo muhitiga ekilganda bir xildagi qizil rangli yaltiroq koloniyalar o'sdi. Bu qaysi mikroorganizm bo'lishi mumkin?
+- a. Salmonellalar
++ b. Esherixiyalar
+- c. Stafilokokklar
+- d. Dezenteriya
+
+? Bemordan ichak tayoqchasining toza kulurasi ajratib olindi. Quyidagilardan qaysi mikroorganizm bu qo'zg'atuvchiga xarakterli?
+- a. Grammusbat tayoqchalar
++ b. Grammanfiy tayoqchalar
+- c. Grammanfiy kokklar
+- d. Grammusbat kokklar
+
+? Bola 7 yoshda. Vaboga o'xshash kasallik (qusish, diareya) qayd etildi. Bemor najasidan olingan namuna Endo muhitiga ekilganda bir xildagi qizil rangli yaltiroq koloniyalar o'sdi. Surtmada grammanfiy tayoqchalar aniqlandi. Qaysi bakteriya bo'lishi mumkin?
+- a. Salmoella
+- b. Vabo vibrioni
++ c. Ichak tayoqchasi
+- d. Shigella
+
+? Bolada o'tkir ichak infeksiyasi belgilari - suvsizlanish, axlatda qon aniqlandi. Shifokorning datlabki tashxisi kolienterit. Tashxisni tasdiqlash uchun qaysi tekshiruv usuli o'tkaziladi?
+- a. Serologik tekshiruv
+- b. Allergik sinama
+- c. Mikroskopik tekshiruv
++ d. Bakteriologik tekshiruv
+
+? Ichak esherixiozida kasallikning nechinchi kuni bakteriologik tekshiruv o'tkazish uchun najas olinishi kerak?
++ a. Birinchi kun
+- b. Yettinchi kun
+- c. Uchinchi kun
+- d. Beshinchi kun
+
+? Ichak tayoqchasi va salmonella mikroorganizmlar koloniyalari Endo muhitida o'stirilganda ular qanday farqlanadi?
+- a. Koloniyalar ustki yuzasidan
+- b. Koloniyalar konsistetsiyaisdan
++ c. Koloniyalar rangidan
+- d. Koloniyalar qirralaridan
+
+? Sun'iy ovqatlantirishda bo'lgan 6-oylik bola najasidan O-111 antigenli ichak tayoqchasining toza kulturasi ajratib olindi. Bemorning tashxisi?
+- a. Shigella kasalligi
++ b. Kolienterit kasalligi
+- c. Vabo kasalligi
+- d. Salmonellyoz kasalligi
+
+? Bakterial dizenteriya uchun qanday simptomlar tipik hisoblanadi
+- a. yo'tal
++ b. qonli ich ketish, tenezm
+- c. ko'ngil aynish
+- d. isitma
+
+? Dizenteriya bakteriyasi odamga yuqqanidan so'ng, organizmning qayerida ko'payadi
+- a. oshqozon bezlarida
+- b. ingichka ichak hujayralarida
++ c. yo'g'on ichak epiteliyasi ichida
+- d. so`lak bezlarida
+
+? Dizenteriya bakteriyasining boshqa enterobakteriyalardan ajralib turadigan belgisi?
++ a. harakatsiz
+- b. ular spora hosil qiladi
+- c. ular kapsula hosil qiladi
+- d. harakatchan peritrix
+
+? Dizenteriya qo'zg'atuvchilaridan qaysi biri ekzotoksin hosil qiladi?
+- a. Zonne
+- b. Fleksner
++ c. Grigorev Shig
+- d. Shmits – Shtutser
+
+? Dizenteriyada infeksiyadan keyingi immunitetning kuchsiz bo'lishi nima bilan bog'langan
+- a. fagotsitar reaksiyani pasaytirish
+- b. sekretor Ig A ning hosil bo'lishi
+- c. surunkali shaklga o'tishi
++ d. hujayra ichida parazitligi bilan
+
+? H – antigeni yo'q mikrobni ko'rsating
+- a. salmonella
+- b. ko'k yiringli tayoqcha
+- c. protey
++ d. shigella
+
+? Ichburug' laboratoriya diagnostikasida qaysi differinsial diagnostik muhit qo'llaniladi
+- a. GPB
+- b. JSA
+- c. GPA
++ d. Ploskirev
+
+? Ichburug' uchun xarakterli bo'lgan asosiy belgini ko'rsating.
++ a. yolg'on chaqiriq
+- b. isitma
+- c. diareya
+- d. burab og'rish
+
+? Kasalda dizenteriya qo'zg'atuvchisining joylashadigan joyi
+- a. 12 – barmoqli ichak
+- b. qizilo'ngach
+- c. oshqozon
++ d. yo'g'on ichak
+
+? Shigellalarning qaysi turi ekzotoksin ishlab chiqaradi.
++ a. Shig. dizentriya
+- b. Shig Boidi
+- c. Shig. Zone
+- d. Shig. Nyukasl
+
+? Surunkali dizenteriya kasalligini davolashda qo'llaniladigan maxsus preparat
+- a. anatoksin
+- b. antitoksin
++ c. Chernoxvostov vaksinasi
+- d. ot zardobi
+
+? Suverkalov sinamasi qaysi kasallikning diagnostikasida ishlatiladi?
+- a. sil
+- b. difteriya
++ c. dizenteriya
+- d. zaxm
+
+? Tashqi muhitga chidamli shigellani ko'rsating
+- a. Sh.dizenteriya
+- b. Sh.boidi
+- c. Sh.Fleksner
++ d. Sh.Zonne
+
+? Vabo bor yoki yo'qligini aniqlash uchun bemordan qanday material olinadi?
+- a. jinsiy a'zolardan ajralayotgan suyuqlik
+- b. siydik
++ c. axlat
+- d. tomoqdan surtma
+
+? Vabo qo'zg'atuvchisini topish uchun najasni ekishda qo'llaniladigan oziq muhitlar.
+- a. shakarli bulyon
++ b. 1% – pepton suvi
+- c. sut
+- d. GPB
+
+? Vabo vibrioni uchun elektiv muhit
+- a. zardobli muhit
+- b. tuxum sarig'i qo'shilgan – tuzli agar
+- c. Endo muhiti
++ d. ishqorli muhit
+
+? Vabo vibrioning morfologiyasi
+- a. Gr – tayoqcha, peritrix, spora va kapsula hosil qilmaydi
+- b. Gr – harakatsiz tayoqcha spora va kapsula yo'q
++ c. Gr – egilgan tayoqcha, monotrix, spora va kapsula hosil qilmaydi
+- d. Gr – tayoqcha, lofotrix, spora va kapsula hosil qilmaydi
+
+? Vaboda kuchli diareyaning kelib chiqishi nima bilan bog'langan
+- a. gazlarning yig'ilishiga
++ b. adenozinmonofosfatning yig'ilishiga
+- c. enterotsitlarning shikastlanishiga
+- d. peristaltikaning kuchayishiga
+
+? Vaboning eng og'ir shaklini ko`rsating
+- a. tifoidli
+- b. gastroenteritik
+- c. ichak
++ d. algid
+
+? Xaybergning 1 guruh vibrionlari qaysi uglevodlarni parchalaydi
+- a. saxaroza
++ b. saxaroza, mannoza
+- c. saxaroza, mannoza, arabinoza
+- d. saxaroza, arabinoza
+
+? Bakterial ichburug'ni laboratoriya diagnostikasida qaysi differinsial diagnostik oziq muhit qo'llaniladi
+- a. JSA
++ b. Ploskirev
+- c. GPB
+- d. GPA
+
+? Bemor bakterial dizenteriyaga shubha qilindi va buni tashqi muhitga chidamli shigella qo`zg`atgani ma'lum bo`ldi.Qo`zg`atuvchini toping
+- a. Sh.boydi
+- b. Sh.Fleksner
+- c. Sh.dizenteriya
++ d. Sh.Zonne
+
+? Bemor bakterial dizenteriyaga shubha qilindi. Dizenteriya bakteriyasi odamga yuqqanidan so'ng, organizmning qaysi a'zosida ko'payadi
+- a. ingichka ichak hujayralarida
+- b. oshqozon bezlarida
++ c. yo'g'on ichak epiteliyasi ichida
+- d. so`lak bezlarida
+
+? Bemorda qonli ich kelishi kuztildi va bakterial dizenteriyaga shubha qilindi.Kasalda dizenteriya qo'zg'atuvchisining joylashgan joyini ko`rsating
++ a. yo'g'on ichak
+- b. oshqozon
+- c. 12 – barmoqli ichak
+- d. qizilo'ngach
+
+? Chernoxvostov vaksinasi qaysi kasallikni davolashda ishlatiladi
++ a. Shigellyoz
+- b. Esherixioz
+- c. Salmonellyoz
+- d. Amabiyoz
+
+? Dizenteriyaning bir qancha turlari bor.Bakterial dizenteriya uchun qanday simptomlar tipik hisoblanadi
+- a. ko'ngil aynish
++ b. qonli ich ketish, tenezm
+- c. yo'tal
+- d. isitma
+
+? Ma'lumki dizenteriya qo'zg'atuvchilari toksin ajratadi. Qo`zg`atuvchilardan qaysi biri ekzotoksin hosil qiladi?
++ a. Grigorev shig
+- b. shmits – shtutser
+- c. Zonne
+- d. Fleksner
+
+? Shigellyozning o`tkir va surunkali shakllari mavjud. Surunkali dizenteriya kasalligini davolashda qo'llaniladigan maxsus preparat
+- a. antitoksin
+- b. ot zardobi
++ c. Chernoxvostov vaksinasi
+- d. anatoksin
+
+? Tibbiyotda juda ko`plab sinamalar mavjud. Suverkalov sinamasi qaysi kasallikning diagnostikasida ishlatiladi?
+- a. sil
+- b. zaxm
+- c. difteriya
++ d. dizenteriya
+
+? Xivchinli antigeni yo'q qo`zg`atuvchi dizenteriya rivojlantirdi. Bu qaysi infeksiya bo`lishi mumkin
+- a. salmonella
+- b. protey
+- c. ko'k yiringli tayoqcha
++ d. shigella
+
+? Anaerob infeksiyalarning qo'zg'atuvchilari
++ a. Qoqshol tayoqchasi
+- b. bezgak plazmodiyasi
+- c. sil tayoqchasi
+- d. ichak tayoqchasi
+
+? Antitoksik zardob qo'llaniladigan kasallik.
+- a. toshmali tif
+- b. qorin tifi
++ c. botulizm
+- d. meningit
+
+? Avariyaga uchrab jarohatlanganda qaysi infeksiyaga qarshi immun zardob kiritish kerak?
+- a. so`zakka
+- b. qizamiqqa
++ c. qoqsholga
+- d. qorin tifiga
+
+? Gazli gangrena va qoqshol mikroblari qaysi muhitlarda o'sadi?
+- a. qandli bulonda
+- b. sutli agarda
+- c. pepton suvida
++ d. Kitt – Tarotsi muhitida
+
+? Gazli gangrenada infeksiyaning kirish yo'llarini aniqlang
++ a. chuqur jarohat
+- b. ichak
+- c. og'iz
+- d. butunligi buzilmagan teri
+
+? Klostridiyalar qanday mikroorganizmlar?
+- a. sporasi tanasidan katta aerob bakteriyalar
++ b. sporasi tanasidan katta anaerob bakteriyalar
+- c. organzmda kapsula hosil qiluvchi mikroorganzm
+- d. sun'iy oziq muhitlarda kapsula hosil qiluvchi mikroorganizm
+
+? Ko'rsatilgan muhitlarning qaysi birida anaeroblar o'stiriladi
+- a. Mansuro muhiti
+- b. KKA (KUA) muhiti
+- c. Endo muhiti
++ d. Kitta – Tarotssi
+
+? Ko'rsatilgan preparatlardan qaysi biri botulizm kasalligini oldini olish va davolashda ishlatilidi?
+- a. Gamma – globulin
+- b. Anatoksin
+- c. Odam qon zordobi
++ d. Antitoksinli zardob
+
+? Qaysi mikrob anaerob infeksiya hisoblanadi?
+- a. dizenteriya tayoqchasi
+- b. sil tayoqchasi
++ c. qoqshol tayoqchasi
+- d. ichak tayoqchasi
+
+? Qoqshol bilan odam og'riganda qaysi mushaklar guruhi dastlab shikastlanadi?
++ a. bosh, yuz – mimik mushaklari
+- b. panja mushaklari
+- c. qorin mushaklari
+- d. son mushaklari
+
+? Qoqshol diagnostikasi uchun qanday hayvonlardan foydalaniladi
+- a. qurbaqalar
+- b. mushuklar
++ c. oq sichqonlar
+- d. itlar
+
+? Qoqshol kasalligining manbai
+- a. odam, tuproq, hayvonlar
+- b. odam, hayvonlar
++ c. tuproq
+- d. hayvonlar
+
+? Qoqshol mikrobining sporasi qanday joylashadi?
++ a. terminal
+- b. markaziy va superminal
+- c. subterminal
+- d. markaziy
+
+? Qoqshol tayoqchasining morfologiyasi:
+- a. Gr+harakatchan, sporasiz tayoqcha
+- b. Gr+harakatsiz, sporali tayoqcha
++ c. Gr+harakatchan, terminal sporali tayoqcha
+- d. Gr+, harakatsiz, kapsulali tayoqcha
+
+? Qoqsholda asosiy simptom
++ a. ko'ndalang – targ'il mushaklarning qisqarishi
+- b. ichak mushaklarining qisqarishi
+- c. silliq mushaklarning qisqarishi
+- d. tomirlarning qisqarishi
+
+? Qoqsholga qarshi bolalarni immunizatsiya qilish uchun qo'llaniladigan vaksinani ayting
+- a. TABte
+- b. BCG
++ c. AKDS
+- d. STI
+
+? Qoqsholga qarshi maxsus faol immunitetni hosil qilishda qo'llaniladigan vaksina
+- a. tirik kuchsizlantirilgan vaksina
+- b. BCG
++ c. AKDS
+- d. antitoksik zardob
+
+? Qoqsholga qarshi maxsus faol immunitetni hosil qilishda qo'llaniladigan vaksina
+- a. BCG
++ b. AKDS
+- c. antitoksik zardob
+- d. tirik kuchsizlantirilgan vaksina
+
+? Qoqsholga shubha qilinganda kasalga shoshilinch davo uchun qanday preparat yuboriladi
+- a. sulfanilamidlar
++ b. antitoksik zardob, anatoksin
+- c. antibiotiklar
+- d. plazma
+
+? Tuproqdan yuqadigan kasallik
+- a. brutsellyoz
++ b. gazli gangrena
+- c. vabo
+- d. sil
+
+? Bemor 32 yosh. Yuqumli kasalliklar shifoxonasiga gospitalizatsiya qilindi. Shikoyatlari holsizlik, ko'zining xiralashishiga va narsalarning ikkita ko'rinishiga, og'iz qurishi, meteorizm. Bu belgilar qaysi kasallikka xos?
++ a. Botulizm kasalligi
+- b. Qoqshol kasalligi
+- c. Meningit kasalligi
+- d. Dezenteriya kasalligi
+
+? Bemor S. Taxminiy tashxis botulizim. Anamnezidan bemor mehmonda bo'lgan va zamburug'li va baliqli konserva istemol qilagan. Botulizm profilaktikasi uchun qaysi preparat qilinadi.
++ a. Botulizmga qarshi zardob
+- b. Eubiotik
+- c. Gamma-globulin
+- d. Antibiotik
+
+? Bemor D 17 yosh. Botulizm tashxisi qo'yildi. Maxsus davolash uchun qaysi preparat qo'llaniladi.
+- a. Dezintoksikatsion terapiya
+- b. Kortikosteroidlar
+- c. Antibiotik
++ d. Botulizmga qarshi zardob
+
+? Bemor 32 yosh. Yuqumli kasalliklar shifoxonasiga gospitalizatsiya qilindi. Shikoyatlari holsizlik, ko'zining xiralashishiga va narsalarning ikkita ko'rinishiga, og'iz qurishi, meteorizm. Anamnezidan bemor to'yda bo'lgan. Qaysi mahsulotlar bu kasallikga sabab bo'lishi mumkin.
++ a. Dudlangan kolbasa
+- b. Kremli bulochka
+- c. Meva sharbati
+- d. Venegret
+
+? Bemor K 45 yosh. Kasallikning 3 kuni nafas olishning qiyinligi, chaynov mushaklarida og'riq, va qisqarishlar, har 3-5 minutda tonik-klonik talvasalar kuzatilayapti. Sizning tashxisingiz.
+- a. Botulizm
++ b. Qoqshol
+- c. Meningit
+- d. Epilepsiya
+
+? Bemor oilasi yuqumli kasalliklar shifoxonasiga yutinishga qiynalish, afoniya, akkomodatsiya buzilishlari simptomlari bilan gospitalizatsiya qilindi. Kasallik letal holat bilan tugadi. Ular konserva mahsulotini istemol qilgan. Qaysi ovqat toksikoinfeksiyasi bo'lishi mumkin.
++ a. Clostridium botulinum
+- b. Clostridium perfringens
+- c. Clostridium hystolyticum
+- d. Clostridium tetani
+
+? Bemor V 28 yosh, baxtsiz hodisa sababli tananing yuz qismida ikkinchi darajali ko`yishi yuz berdi. Qoqsholga qorshi oldin emlash olmagan. Shoshilinch maxsus profilaktika nima bilan o'tkaziladi.
+- a. AKDS vaksinasi qilinadi
+- b. Qoqshol anatoksini
++ c. 1,0 ml qoqshol anatoksini va 3000 tb qoqsholga qarshi zardobi
+- d. Birlamchi jarrohlik ishlov beriladi
+
+? Shifokor stomatolog bemorni tekshirganda chaynov mushaklarining tortilishini va og`izni ochishni cheklanganligini aniqladi. Bu qaysi kasallikka xos belgilar
++ a. Qoqshol
+- b. Gripp
+- c. Vabo
+- d. Botulizm
+
+? Laboratoriyaga tekshirish uchun jarohatdan namuna keltirildi. Taxminiy tashxis gazli gangrena. Tashxisni tasdiqlash uchun qaysi mikrobiologik tekshiruv o'tkaziliishi kerak.
+- a. Serologik
+- b. Bakterioskopik
+- c. Allergik
++ d. Bakteriologik
+
+? Bakteriologik laboratoriyaga ovqatdan zaharlanish o'chog'idan baliq mahsuloti tekshiruv uchun olib kelindi. Kitt-Tarotsi muhitida ekib o'stirib, ko'rilganda tennis raketkasiga o`xshash mikroorganizm aniqlandi. Bu qaysi kasallik qo'zg'atuvchisi.
++ a. Botulizm
+- b. Qorin tifi
+- c. Stafilokokkli toksikoinfeksiya
+- d. Salmonellyoz
+
+? Brutsellez diagnostikasida ko'pincha qo'llaniladigan serologik reaksiyani ko'rsating
+- a. Borde – Jangu reaksiyasi
+- b. Vidal reaksiyasi
++ c. Rayt reaksiyasi
+- d. Vasserman reaksiyasi
+
+? Brutsellezda tekshiriluvchi material
+- a. balg'am
+- b. yaradan ajratib olingan suyuqlik
+- c. najas
++ d. qon, suyak ko'migi
+
+? Brutsellyoz kasalligi kimlarda ko'p uchraydi?
+- a. kasbga bog'liq emas
+- b. bog'bonlarda
+- c. agronomlarda
++ d. chorvodorlarda
+
+? Brutsellyoz qo'zg'atuvchisining morfologiyasi
+- a. batsillalar
+- b. spiroxetalar
+- c. klostridiyalar
++ d. kokkobakteriyalar
+
+? Brutsellyozni ommaviy aniqlashda qo'llaniladigan usul
+- a. Askoli reaksiyasi
++ b. Xeddlson reaksiyasi
+- c. Vasserman reaksiyasi
+- d. Vidal reaksiyasi
+
+? Brutsellyozning asosiy manbai?
+- a. itlar, mushuklar va sichqonlar
+- b. odamlar, hayvonlar va parrandalar
+- c. qushlar, kemuruvchilar va issiq qonli hayvonlar
++ d. qo'y – echkilar, qoramollar, cho`chqalar
+
+? Brutsellyozning serologik diagnostikasida qo'llaniladigan usul
+- a. Askoli reaksiyasi
+- b. Pretsipitatsiya reaksiyasi
++ c. Rayt agglyutinatsiya reaksiyasi
+- d. Mechnikov reaksiyasi
+
+? Kuydirgi qo'zg'atuvchisi odam va hayvon organizmida nima hosil qiladi
+- a. kiritmalar
+- b. spora
+- c. xivchin
++ d. kapsula
+
+? Kuydirgi yarasining maxsus simptomi
+- a. suvli yara
+- b. ko'k – yashil yiringli yara
++ c. qora rangdagi karbonkul
+- d. qattiq shankr
+
+? O`ta xavfli infeksiyalarni ko`rsating
+- a. tif, zaxm, suvchechak
+- b. o`lat, vabo, gripp
+- c. vabo, chinchechak, qizamiq
++ d. o`lat, vabo, chinchechak
+
+? O'lat (toun) kasalligining asosiy epidemiologik zanjiri?
+- a. kasal odam – hayvon – sog' odam
++ b. kasal kemiruvchi – burga – sog' odam
+- c. kasal tovuq – havo – sog' odam
+- d. kasal cho`chqa – havo – sog' odam
+
+? O'lat (toun) kasalligining qaysi shakli atrofdagilar uchun o'ta xafli hisoblanadi?
+- a. teri – bubon formasi
++ b. o'pka formasi
+- c. septik formasi
+- d. ichak formasi
+
+? O'lat qo'zg'atuvchisi qaysi avlodga kiradi
++ a. iersenia
+- b. salmonella
+- c. klebsiella
+- d. shigella
+
+? O'lat qo'zg'atuvchisining morfologik tuzilishi.
+- a. Gr+tayoqcha
+- b. Gr – egilgan tayoqcha
+- c. diplobakteriya
++ d. bipolyar bo`yalgan tuxumsimon bakteriya
+
+? Qanday tayoqchasimon bakteriyalar zanjir hosil qilib joylashadi
+- a. dizenteriya
+- b. sil
++ c. kuydirgi yarasi
+- d. bo'g'ma
+
+? Qattiq oziq muhitda o'lat qo'zg'atuvchisining xarakterli koloniyalari qanday ko`rinishda bo`ladi.
+- a. juda mayda, tiniq, dumaloq
+- b. dumoloq, qavariq, tiniq, chetlari tekis
++ c. "to'qilgan ro`molcha" ko'rinishidagi koloniya
+- d. dumoloq, yassi, chetlari tekis qattiq
+
+? Qaysi kasallikda infeksiya kirish darvozasida ko'mirsimon karbunkul hosil bo'ladi?
++ a. kuydirgida
+- b. saramasda
+- c. teri leyshmaniozida
+- d. tounda
+
+? Qaysi tayoqchasimon patogen mikrob organizmga tushganda kapsula hosil qiladi
+- a. qorin tifi tayoqchasi
++ b. kuydirgi tayoqchasi
+- c. ko'k – yo'tal
+- d. ichak tayoqchasi
+
+? Rayt hajmiy agglyutinatsiya reaksiyasida 1 – 2 probirkada ipir – ipir cho`kma bor (1:100 va 1:200).Xulosangiz.
+- a. diagnostik titr – reaksiyani 10 kundan so'ng qayta qo'yish kerak
++ b. natija musbat – tekshiriluvchi kasal
+- c. reaksiya noto'g'ri qo'yilgan uni qaytadan qo'yish kerak
+- d. natija manfiy tekshiriluvchi sog'
+
+? Tulyaremiya yuqish yo'liga qarab qanday infeksiyalar qatoriga kiradi? To'g'ri javobini ko'rsating.
++ a. havo – tomchi, alimentar, kontaktli, transmissiv
+- b. transmissiv, kontaktli
+- c. kontaktli, havo – tomchi
+- d. alimentar, transmissiv
+
+? Bemor B. kasalxonada tekshiruv o'tkazilganda: tana harorati ko'tarilgan, balg'amli yo'tal, bo'yin limfa tugunlari kattalashgan.O'latning o'pka shakliga shubha qilindi. Kasallikning yuqish yo'li.
+- a. Transmissiv
+- b. Kontakt
++ c. Havo-tomchi
+- d. Fekal-oral
+
+? Bemor B. tana harorati ko'tarilishi, yo'tal, limfa tugunlarining kattalashishiga, terida yaralar borligiga shikoyat qildi. O'latga shubha qilindi. Tekshirish uchun qanday namuna olinadi.
+- a. Orqa miya suyuqligi
+- b. Siydikdan namuna
++ c. Qon, yaradan va limfa tugundan namuna
+- d. Najasdan namuna
+
+? Bemor K. tana harorati ko'tarilgan, bo'yin limfa tugunlari kattalashgan, konyuktivit, terida petixial toshmalar toshgan. Bu belgilar qaysi kasallik qo'zg'atuvchisiga xos.
+- a. Brucella suis
++ b. Francisella tularensis
+- c. Yersinia enterocolitica
+- d. Yersinia jejuni
+
+? Bemor M qonidan laboratoriyada tulyaremiyaga shubha qilinib tekshiruv o'tkazildi. Biosinama o'tkazilgan. Chepin muhitida tulyaremiyaga xos koloniyalar o'sdi. Bu qo'zg'atuvchi uchun xaraktierli koloniya.
++ a. Nozik, mayda koloniyalar shudring tomchisi kabi
+- b. Qizil, bo'rtgan, chetlari tekis
+- c. Rangsiz xira chetlari notekis koloniya
+- d. Chiziqli, o'rtasi oq koloniya
+
+? Bemor S. tana harorati ko'tarilgan, terida toshma, limfa tugunlari kattalashgan. Tulyaremiyaga shubha qilinib qon tekshiruvi o'tkazilishi kerak. Tashxisni tasdiqlash uchun qaysi serologik reaksiya qo'llaniladi.
++ a. IFR, AR
+- b. AR, KBR
+- c. KBR, PR
+- d. BGAR, PR
+
+? Bemor Sh. tana harorati ko'tarilgan, bo'yin limfa tugunlari kattalashgan. Tulyaremiyaga allergik proba qo'yilgan. Kasallikning nechinchi kunidan boshlab sinama musbat bo'ladi.
+- a. 1-2- kun
+- b. 5-6- kun
++ c. 3-5-kun
+- d. 4-5-kun
+
+? Bemor T. Bo'ynida korbonkul, og'riqsiz qora yara paydo bo'lgan. Anamnezidan bir hafta oldin mo'ynali shapka kiygan. Laboratoriyada mo'ynada qo'zg'atuvchi borligini aniqlash uchun qaysi tekshiruv usulli o'tkazilishi kerak.
+- a. Immunoflyuressent reaksiyasi
++ b. Pretsipitatsiya reaksiyasi
+- c. Biologik tekshiruv
+- d. Allergik reaksiyasi
+
+? Bemor X. tana harorati ko'tarilgan, bo'yin limfa tugunlari kattalashgan, terisida gemorragik toshmalar toshgan. Bu belgilar qaysi kasallik qo'zg'atuvchisiga xos.
++ a. Yersinia pestis
+- b. Francisella pestis
+- c. Brucella suis
+- d. Yersinia enterocolitica
+
+? Brutsellyoz bilan kasallangan bemorda Byurne teri allergik sinamasi musbat. Bu jarayonda qaysi hujayralar ishtirok etadi?
+- a. IgG
++ b. Sensibillangan T-limfotsit
+- c. IgE
+- d. IgA
+
+? Shifokor cho'ponda brutsellyoz kasalligiga gumon qildi. Tashxisni tasdiqlash uchun qaysi tekshiruv usuli qo'llaniladi.
++ a. Seralogik (Rayt va Xedellson reaksiyasi)
+- b. Qonda qo'zg'atuvchini aniqlash
+- c. Bakterioskopik tekshiruv
+- d. Najasdan qo'zg'atuvchini ajratib olish
+
+? Borellioz (epidemik) kasalligini qanday hashorat yuqtiradi?
+- a. pashsha
+- b. burga
+- c. chivin
++ d. bit
+
+? Borelliozni nima qozgatadi?
+- a. trixomonadalar
+- b. bakteriyalar
++ c. spiroxetalar
+- d. viruslar
+
+? Ikki uchlari ilgaksimon egilgan mayda burmalarga ega, spiralsimon ipcha shakldagi mikroorganizm qanday mikrob?
++ a. leptospira
+- b. rangsiz treponemma
+- c. borelliya
+- d. vibrion
+
+? Ikkilamchi zaxmda xarakterli simptomlar
+- a. karbonkul
++ b. teri va shilliq qavatda toshmalar
+- c. bubon
+- d. yaralar
+
+? Leptospiroz kasilligining laborator diagnostika usuli?
+- a. biokimyoviy
+- b. toksikologik
++ c. bakterioskopik
+- d. allergik
+
+? Ozbekistonda uchraydigan tabiiy ochoqli tranmissiv infeksiyani korsating?
+- a. brutsellez
+- b. tuberkulez
+- c. trixomanioz
++ d. borrelioz
+
+? Patogen va saprofit spiroxetalarni farqlash uchun qaysi xususiyat qollaniladi
+- a. kultural
++ b. morfologik
+- c. antigen
+- d. biologik
+
+? Quyidagi qaysi patogen jigarni zararlaydi?
+- a. borelliya
+- b. vibrion
+- c. rangsiz treponemma
++ d. leptospira
+
+? Spiroxetalar qanday harakatlanadi?
++ a. bukilish, oz oqi atrofida aylanish bilan
+- b. ular harakat qilmaydi
+- c. xivchinlar yordamida
+- d. maxsus kiprikachalar yordamida
+
+? Spiroxetlarni boyash usuli?
+- a. Neysser
+- b. Ojeshko
+- c. Sil - Nilsen
++ d. Romanovskiy Gimza
+
+? Toshmali tif odamga bit orqali yuqish mexanizmini korsating.
+- a. zararlangan bit chaqqanda
+- b. bit teri boylab harakatlaganda
++ c. qozgatuvchi bitning najasi bilan teriga tushadi va qashish natijasida yuqadi
+- d. bitni tanaga ezganda
+
+? Vasserman reaksiyasi qaysi kasallikning serologik diagnostikasida ishlatiladi?
+- a. qorin tifi
++ b. zaxm
+- c. gonoreya
+- d. OITS
+
+? Vasserman reaksiyasi yordamida kasalning qon zardobi tarkibida nima aniqlanadi?
++ a. antitana
+- b. rangsiz tropenema
+- c. maxsus antigen
+- d. kardioantigen
+
+? Vasserman reaksiyasida gemolitik sistemadan qanday maqsadda foydalaniladi?
++ a. antigen+antitelo+kompliment brikmasi hosil bolganini bilish uchun
+- b. komplementni faolashtirish uchun
+- c. gemolitik sistema qoshilmasa antitelo antigen bilan boglanmaydi.
+- d. reaksiyani tezlashtirish uchun
+
+? Zaxm I - davrining 2 - yarmida boladigan klinik belgi
+- a. yaraning tezlik bilan bitishi
+- b. yiring oqishi
++ c. regional limfa tugunida shish, kuchli ogriq
+- d. yirik yara, tagida togaysimon qattiqlashish
+
+? Zaxmning 2 - davriga xos bolgan klinik belgi
++ a. tananing barcha joyida toshmalar paydo bolishi
+- b. regional limfa tugunida shish, kuchli ogriq
+- c. yaraning tezlik bilan bitishi
+- d. yirik yara, tagida togaysimon qattiqlashish
+
+? Zaxmning 1 davriga xos bolgan klinik belgi
+- a. kuchli ogriq
+- b. yaraning tezlik bilan bitishi
++ c. yirik yara, togaysimon qattiqlashish
+- d. yiring oqishi
+
+? Zaxmning 3 - davriga xos bolgan klinik belgi
+- a. regional limfa tugunida shish, kuchli ogriq
+- b. yirik yara, tagida togaysimon qattiqlashish
+- c. tananing barcha joyida toshmalar paydo bolishi
++ d. gummalar paydo bolishi
+
+? Zaxmning birinchi davrida laboratoriyada tekshirish usullari?
+- a. serologik
++ b. bakterioskopik
+- c. bakteriologik
+- d. biologik
+
+? Zaxmning tashxisini aniqlash uchun qollaniladigan laboratoriya usuli:
+- a. bakteriologik
++ b. serologik
+- c. kimyoviy
+- d. biologik
+
+? Leptospirozning boshlangich davrida qanday laborator tekshirishlar otkazish zarur
+- a. Toqimalar biopsiyasi
++ b. Qon va likvordan nativ preparatlar tayyorlab tekshirish
+- c. Laborator tekshiruv otkazilmaydi
+- d. Leptospirani borligin aniqlash uchun duodenal tekshirishlar
+
+? Biologik sinama uchun qaysi hayvondan foydalaniladi?
++ a. Oq sichqon
+- b. Quyon
+- c. Yumronqoziq
+- d. Dengiz cochqachasi
+
+? Endemik qaytalama tifga shubha qilingan bemor. Qaysi usulda boyab organgan maqul?
+- a. Sil -Nilsen
+- b. Buri
++ c. Romanovskiy-Gimza
+- d. Gram
+
+? Qaytalama tifga shubha qilingan bemor. Qanday mikrobiologik usul yordamida tashxisni tasdiqlash mumkin?
+- a. Bakteriologik tekshirish
++ b. Qondan preparatlar tayyorlab tekshirish
+- c. Gram usulida boyab mikroskopda korish
+- d. Biologik sinama
+
+? Zaxm kasalligini davolash uchun qaysi dori vositasidan foydalaniladi?
++ a. penitsillin va margimushning organik birikmalari
+- b. levomitsetin va antiparazitar vositalar
+- c. streptomitsin va sulfanilamidlar
+- d. tetratsiklin va metronidazol
+
+? Qattiq shankrdagi qozgatuvchini qanday aniqlash mumkin?
+- a. Gram usulida boyab mikroskop ostida
+- b. Toza kulturani ajratish orqali
++ c. Qorongilashtirilgan mikroskop bilan
+- d. Vassermann reaksiyasi orqali
+
+? Leptospirozga shubha qilindi. Qaysi ozuqa muhit ishlatiladi?
+- a. Ploskirev muhiti
+- b. Kitt-Tarossi muhiti
+- c. Endo muhiti
++ d. Fervort-Volf muhiti
+
+? Bemor zaxm kasalligiga taxmin qilindi. Qozgatuvchini aniqlash uchun qaysi tekshiruv usulidan foydalanasiz?
+- a. elektron mikroskopiya
++ b. qorongilashtirilgan mikroskopiya
+- c. Metilen koki bilan boyash
+- d. Gram usulida boyash orqali
+
+? Endemik qaytalama tifga shubha qildi. Qanday qilib kasallikni yuqtirib olgan bolishi mumkin?
+- a. Kemiruvchilar tishlagan
++ b. Kana chaqqan
+- c. Burga chaqishi natijasida
+- d. Kiyim biti chaqishi natijasida
+
+? Qaysi qozgatuvchi bu kasallikga sabab bolgan bolishi mumkin?
+- a. Vabo
+- b. Klebsiella
++ c. Leptospira
+- d. Salmonella
+
+? Berdji klasifikatsiyasi byicha bakteriyalarning hujayra ichi paraziti turlariga kirgizilgan mikrob turini ko'rsating?
++ a. rikketsiya
+- b. spirilla
+- c. virus
+- d. spiroxeta
+
+? Brill-Sensor kasalligining qo'zg'atuvchisini korsating.
+- a. R. sibirika
+- b. R. rikketsi
++ c. R. Provachek
+- d. R. konori
+
+? Epidemik va endemik qaytalama tif qo'zg'atuvchilarini farqlash usuli
+- a. teri – allergik sinama
++ b. dengiz cho'chqasida biosinama
+- c. mushuklarga biosinama
+- d. oq kalamushlarga biosinama
+
+? Hujayra ichi parazit mikroblarini ko'rsating?
+- a. shigalllar streptokokklar, stafilokokklar
+- b. salmonella, meningokokk, viruslar
+- c. stafilokokklar, streptokokklar, pnevmakokklar
++ d. riketsiya, viruslar, shigellalar
+
+? Hujayra ichi paraziti bo'lgan provachek rikketsiyalari odam organizmining qayerida ko'payadi
+- a. ichak shilliq qavatida
+- b. taloqda
+- c. jigarda
++ d. tomir endoteliyasida
+
+? Koksella Berneta qanday kasallik keltirib chiqaradi
+- a. epidemik toshmali tif
+- b. endemik toshmali tif
++ c. Ku - isitma
+- d. dog'li isitma
+
+? Mikoplazmalar go'sht - peptonli agarda qanday ko'rinishda o'sadi
+- a. "arslon yoli" shaklida
+- b. "to'qilgan ro'molcha" shaklida
+- c. "meduza boshi" shaklida
++ d. o'smaydi
+
+? Patogen rikketsiyalar qo'zg'atadigan kasalliklar
+- a. ornitoz
+- b. linfogranulematoz
++ c. toshmali tif
+- d. traxoma
+
+? Patogen xlamidiyalar odamlarda qanday kasallik chaqiradi
+- a. stomatit
+- b. endemik toshmali tif
+- c. marsel isitmasi
++ d. ornitoz
+
+? Provachek rikketsiyalari odam organizmining qanday hujayralarida ko'payadi
+- a. eritrotsitlarda
++ b. tomir endoteliyalarida
+- c. nafas yo'llari shilliq qavatida
+- d. jigarda
+
+? Qanday mikroorganizmlar mikoplazmalar deb ataladi?
+- a. virion
++ b. hujayra qobig'isiz bakteriyalar
+- c. virus
+- d. bir xil nuklein kislotasiga ega mikroorganizm
+
+? Riketsioz kasalliklarining tarqalishida qatnashmaydigan hasharotlarni ko'rsating?
+- a. burgalar
+- b. bitlar
+- c. kanalar
++ d. pashshalar
+
+? Riketsiya va viruslar nimada o'smaydi?
+- a. laboratoriya hayvonlarida
+- b. tovuq tuxumi embrionida
+- c. tirik, o'suvchi to'qimalarda
++ d. suniy oziq muhitlarida
+
+? Rikketsiozlarning asosiy yuqish yo'llari
+- a. suv orqali
+- b. parenteral
++ c. transmissiv
+- d. kontakt
+
+? Rikketsiyalar qanday organzmlar?
+- a. hujayra qobig'i qisman buzilgan bakteriya
++ b. hujayra ichi paraziti bo'lgan mikrob
+- c. hujayra qobig'isiz bakteriya
+- d. bir turdagi nukleyn kislotasiga ega bo'lgan bakteriya
+
+? Rikketsiyalarni o'stirish usullari
++ a. hujayra kulturasida
+- b. Kitta - Tarotssi muhitida
+- c. zardobli bulonda
+- d. qonli agarda
+
+? Tif rikketsiyasi bemordan sog'lom odamga qanday yuqadi?
++ a. bit orqali
+- b. pashsha orqali
+- c. chivin orqali
+- d. burga orqali
+
+? Uretritlarni gonokokklardan boshqa qaysi guruh mikroorganizmlar chaqiradi
++ a. mikoplazmalar
+- b. riketsiyalar
+- c. paragripp viruslari
+- d. salmonella tayoqchalari
+
+? Xlamidiya ko'rinishlaridan (formalaridan) biri
+- a. sferoplastlar
+- b. protoplastlar
++ c. elementar tanachalar
+- d. spora
+
+? Yiringli uretritda mikoplazma nima bilan differensiatsiyalanadi
++ a. gonokokklar bilan
+- b. stafilokokk bilan
+- c. ichak tayoqchasi bilan
+- d. aktinomitsetlar bilan
+
+? Ayol qinidan namuna olib surtma tayyorlangan va mikroskopda ko'rilganda sitoplazmasida kiritmalar mavjud hujayralar aniqlandi. Shifokor xlamidioz tashxisini quydi. Tashxisni tasdiqlash uchun qanday usuldan foydalaniladi?
+- a. Vidal reaksiyasi
+- b. Presipitatsiya reaksiyasi
++ c. Immunoferment tahlil
+- d. Agglyutinatsiya reaksiyasi
+
+? Mikoplazma / ureaplazma erkaklarda zararlaydi, quyidagidan tashqari:
+- a. moyak ortiqlari
+- b. prostata bezi
+- c. urug' pufakchalari
++ d. Ko'z kon'yuktivasi
+
+? Mikroskopik tekshirilganda mikoplazmalarning boshqa turdagi bakteriyalar, rikketsiya, xlamidiylardan farqli tomonini ko'rish mumkin. Qanday farqi bor?
+- a. DNK va RNK
++ b. Uch qavatli sitoplazmatik membrana mavjud, hujayra devori yo'q
+- c. Polimorfizm
+- d. Harakat qilmaydi
+
+? Quyida keltirilgan rikketsiyalardan qaysi birini sun'iy ozuqa muhitlarida o'stirish mumkin?
+- a. Coxiella burnetii
++ b. Bartonella quintana
+- c. Rickettsia prowazeki
+- d. Barch javob to'g'ri
+
+? Rikketsiya Provachekni topish uchun sistien bilan ishlov berilgan tekshirilayotgan zardob KBR yordamida quyildi: bundan maqsad nima?
++ a. Brill-Sinsser kasalligini epidemik toshmali tif bilan farqlash uchun
+- b. maxsus antitelalar titrini oshirish uchun
+- c. rikketsiyalarni serotiplashtda
+- d. epidemik va endemik toshmali tiflarni differensiatsiyalash uchun
+
+? Shifoxonaga 67 yoshli bemor bosh og'rig'i, tana haroratining ko'tarilishi, umumiy holsizlik bilan murojaat qildi. Talog'i kattalashgan. Serologik tahlil o'tkazilganda Provachek rikketsiyalari 1:160 nisbatda musbat natija berdi. Shifokor qanday tashxis qo'yish kerak?
+- a. Vezikulyoz rikketsioz
+- b. Toshmali tif
+- c. Volin isitmasi
++ d. Brill kasalligi
+
+? Shifoxonaga Brily-Sinser tashxisi bilan bemor davolangani keldi. Bu kasallikka nima sabab bo'lgan bo'lishi mumkin?
+- a. Rikketsiyalar bilan zaralangan kiyim bitlari
+- b. Boshqa bemorlar bilan aloqada bo'lganda
++ c. Organizmda latent shaklda bo'lgan rikketsiyalar
+- d. Sog'lom tashuvchilar bilan aloqada bo'lganda
+
+? Shifoxonaga Ku-isitmasi tashxisi bilan bemor yotqizildi. Bu kasallikka nima sabab bo'lgan bo'lishi mumkin?
+- a. balantidiylar
+- b. esherixiylar
++ c. rikketsiyalar
+- d. borellialar
+
+? Turli tanacha shakllari uchraydi?
+- a. Amebiazda
++ b. Xlamidiyyali infeksiyalarda
+- c. Rikketsiozlarda
+- d. Kandidozda
+
+? Yuqumli kasalliklar shifoxonasi baklaboratoriyasiga o'pkasida zararlanish bilan murojaat qilgan bemor qoni olib kelindi va birlamchi ornitoz tashxisi quyildi. Kasallikning asosiy manbaini ko'rsating?
+- a. Kanalar
++ b. Qushlar
+- c. Kemiruvchilar
+- d. Bemor
+
+? Balantidiy koli sodda jonvorlar tipining qaysi sinfiga kiradi?
++ a. kipriklilar
+- b. ildiz oyoqlilar
+- c. sporalilar
+- d. xivchinlar
+
+? Bezgak kasalligi tashxisi qaysi usullar bilan qo'yiladi?
++ a. mikroskopik va serologik
+- b. bakteriologik va bakterioskopik
+- c. allergik va biologik
+- d. immunologik va allergik
+
+? Bezgak plazmodiylarini qaysi hasharot yuqtiradi?
+- a. chivin
++ b. anofeles pashshasi
+- c. Bit
+- d. kana
+
+? Bezgakning tashxisi uchun qanday material tekshiriladi
+- a. najas
+- b. balg'am
++ c. qon
+- d. siydik
+
+? Bezgakning tashxisini aniqlash uchun qo'llaniladigan usul?
+- a. bakteriologik
+- b. allergik
+- c. serologik
++ d. mikroskopik
+
+? Dizenteriya amyobasi ichak amyobasidan qaysi belgisi bilan farqlanadi
+- a. kapsula hosil qilish bilan
++ b. protoplazmasidagi eritrotsitlar bilan
+- c. sista hosil qilish bilan
+- d. spora hosil qilish bilan
+
+? Dizenteriya amyobasi ichak amyobasidan qaysi belgisi bilan farqlanadi
+- a. spora hosil qilish bilan
+- b. kapsula hosil qilish bilan
++ c. tez harakatchanligi bilan
+- d. sista hosil qilish bilan
+
+? Iskabtoparlar tarafidan yuqadigan bir hujayralini toping?
++ a. leyshmaniya
+- b. bezgak
+- c. tripanosama
+- d. lyambliya
+
+? Keltirilgan bir hujayralilar ichida xivchinsiz turni toping:
+- a. leyshmaniya
+- b. tripanosama
+- c. lyambliya
++ d. bezgak
+
+? Leyshmaniya qaysi muhitda o'sadi?
++ a. fibrinsizlantirilgan qon qo'shilgan GPA
+- b. atsitli agar
+- c. oddiy muhitlar
+- d. zardobli agar
+
+? Leyshmaniyalar preparati qaysi usulda bo'yaladi?
+- a. Ojeshko
+- b. Gram usulida
++ c. Romanovskiy - Gimza
+- d. Neysser usulida
+
+? Leyshmaniyanining xivchinli shakli qachon va qaerda uchraydi.
++ a. yuqtiruvchining oshqozonida va sun'iy oziq muhitilarda
+- b. kemiruvchilar organizmida
+- c. kasal organizmida
+- d. itning organizmida
+
+? Lyambliozda qanday tekshirish materiali olinadi?
++ a. najas
+- b. qon
+- c. balg'am
+- d. siydik
+
+? Lyambliozning tashxisi uchun bemordan tekshirish uchun olinadigan material.
+- a. balg'am
+- b. qon
+- c. siydik
++ d. najas
+
+? Qaysi parazitning xivchini yo'q?
+- a. lyambliya
+- b. leyshmaniya
+- c. tripanosama
++ d. toksoplazma
+
+? Qaysi yuqumli kasallikning tashxisida allergik sinama ishlatilmaydi?
++ a. leyshmanioz
+- b. dizenteriya
+- c. tuberkulyoz
+- d. brutsellyoz
+
+? Quyidagilardan qaysi bir kasallik qo'zg'atuvchi Romanovskiy - Gimza usulida bo'yaladi?
+- a. stafilokokk
+- b. o'lat qo'zg'atuvchisi
+- c. ichak tayoqchasi
++ d. trixomonada
+
+? Sodda jonivorlardan qaysi biri jinsiy a'zolarda parazitlik qiladi?
++ a. trixomonada
+- b. lyambliya
+- c. tripanosoma
+- d. leyshmaniya
+
+? Tripanosoma qaysi turga kiradi:
+- a. Prokariotlarga
+- b. Virislarga
++ c. Eukariotlarga
+- d. Prionlarga
+
+? Tripanosomozda tekshirish uchun qanday material olinadi?
+- a. najas
+- b. siydik
++ c. qon
+- d. balg'am
+
+? Bemor yo'g'on ichagida patologik holat aniqlandi va Balantidiy koli ekanligiga shubha qilindi. Bu parazit sodda jonvorlar tipining qaysi sinfiga kiradi?
++ a. kipriklilar
+- b. ildiz oyoqlilar
+- c. sporalilar
+- d. xivchinlar
+
+? 32 yoshli bemorda tana haroratining oshishi kuzatildi va Bezgakga shubha qilindi. Tashxisini aniqlash uchun qo'llaniladigan usul?
++ a. mikroskopik
+- b. serologik
+- c. allergik
+- d. bakteriologik
+
+? Afrikada sayohat qilgan bemorda uyqu kasalligi kuzatildi va qo'zg'atuvchisi tripanosoma ekanligi aniqlandi. Tripanosomozda tekshirish uchun qanday material olinadi?
++ a. qon
+- b. Siydik
+- c. Balg'am
+- d. Najas
+
+? Ingichka ichakda sodda parazit aniqlandi va lyambliya ekanligi shubha qilindi. Lyambliozda qanday tekshirish materiali olinadi?
+- a. balg'am
+- b. siydik
++ c. najas
+- d. qon
+
+? Terida yara paydo bo'ldi va teksirish uchun namuna olindi. Leyshmaniya qaysi muhitda o'sadi?
++ a. fibrinsizlantirilgan qon qo'shilgan GPA
+- b. assitli agar
+- c. zardobli agar
+- d. oddiy muhitlar
+
+? Terida yara aniqlandi va leyshmaniyalarga shubha qilindi. Preparat qaysi usulda bo'yaladi?
+- a. Gram usulida
++ b. Romanovskiy - Gimza
+- c. Neysser usulida
+- d. Ojeshko
+
+? Bemorga ichburug' tashxisi qo'yildi. Dizenteriya amyobasi ichak amyobasidan qaysi belgisi bilan farqlanadi
+- a. sista hosil qilish bilan
++ b. protoplazmasidagi eritrotsitlar bilan
+- c. spora hosil qilish bilan
+- d. kapsula hosil qilish bilan
+
+? Quyida keltirilgan qaysi yuqumli kasallikning diagnostikasida allergik sinama ishlatilmaydi?
+- a. dizenteriya
+- b. brutsellez
+- c. tuberkulez
++ d. leyshmanioz
+
+? Bemorda lyamblioz tashxisi qo'yildi. Tekshirish uchun olingan materialni ko'rsating.
+- a. balg'am
++ b. najas
+- c. siydik
+- d. qon
+
+? Bemorda tana haroratining oshishi kuzatildi. Agar bezgakga shubha qilinsa, tashxis qaysi usullar bilan qo'yiladi?
+- a. immunologik va allergik
+- b. bakteriologik va bakterioskopik
++ c. mikroskopik va serologik
+- d. allergik va biologik
+
+? Achitqilarning o'ziga xos morfologik xususiyatlarini ko'rasating.
+- a. ichida joylashgan endosporali sporalar
+- b. mitseliysi septirlagan
++ c. mitseliy hosil qilmaydi
+- d. "mo'yqalam" ko'rinishidagi kandidalar
+
+? Aktinomikoz (surunkali yiringli oqma) kasalligida preparatda nima topiladi?
+- a. achitqilar mitseliyasi
++ b. nursimon zamburug'lar druzasi
+- c. achitqilar sporasi
+- d. mog'or zamburug'i mitseliyasi
+
+? Aktinomitsetlar qaysi yo'l bilan ko'payadi?
+- a. jinsiy yo'l bilan
+- b. mitseliyasidan ko'payadi
++ c. vegetativ va spora hosil qilib
+- d. konyugatsiya yo'li bilan
+
+? Aktinomitsetlar sporasi bakteriyalar sporasidan qanday farq qiladi:
+- a. organizmda hosil bo'ladi
++ b. ko'payishi uchun xizmat qiladi
+- c. oval shakliga ega
+- d. nisbatan chidamli
+
+? Aktinomitsetlar tibbiyot uchun qanday foydali ahamiyatga ega
++ a. antibiotik mahsulotlarini ishlab chiqaradi
+- b. vitamin mahsulotlari
+- c. sulfanilamid preparat mahsulotlari ishlab chiqarish
+- d. oqsil mahsulotlari
+
+? Kal – yara kasalligida nima zararlanadi?
++ a. soch
+- b. buyrak
+- c. jigar
+- d. o'pka
+
+? Mitseliy ichida joylashgan zamburug'larning sporalari nima deb ataladi.
+- a. druza
+- b. zoospora
++ c. endospora
+- d. konidiya
+
+? Mog'or zamburug'lari sporasining ahamiyati.
+- a. oziqlanishda kerak
++ b. ko'payishda kerak
+- c. ferment ishlab chiqarishda kerak
+- d. zahar ishlab chiqarishda kerak
+
+? Mog'or zamburug'lari vakilini ko'rsating
+- a. aktinomitsetlar
+- b. kandida
+- c. achitqi
++ d. pensillium
+
+? Mog'or zamburug'lari vakillarini ayting.
+- a. Strepomyces
+- b. Actinomycetae
++ c. Aspergillus
+- d. Cocciodes immitie
+
+? Nursimon zamburug'lar qanday kasallikni qo'zg'atadi?
+- a. leyshmanioz
++ b. aktinomikoz
+- c. dizenteriya
+- d. lepra
+
+? Og'iz bo'shlig'ida kasallik chaqirivchi patogen zamburug'ni toping.
+- a. Actinomycetae
++ b. Kandida
+- c. Cocciodes immitie
+- d. Strepomyces
+
+? Patogen zamburug'li kasalliklarni davolashda ishlatiladigan antibiotik.
+- a. Levomitsitin
++ b. Polimiksin B
+- c. Eritromitsin
+- d. Sefazolin
+
+? Qanday sharoitlarda aktinomitsetlarda druzalar paydo bo'ladi.
+- a. suvda
+- b. tuproqda
+- c. o'simliklarda
++ d. aktinomikozlar bilan kasallanganda
+
+? Surtmada turli kattalikdagi ovalsimon yoki sharsimon ko'rinishda uchraydigan mikroorganizmni belgilang.
+- a. Strepomyces
+- b. Actinomycetae
++ c. Kandida
+- d. Cocciodes immitie
+
+? Yuqori rivojlangan aktinomitsetlarning ko'payish yo'llarini ko'rsating.
++ a. kurtaklanish bilan
+- b. fragment bilan
+- c. sporalar bilan
+- d. druzalar bilan
+
+? Zamburug'lar yadro tuzilishiga qarab qanday mikroorganizmlarga kiradi
+- a. mikoplazmalarga
+- b. aktinomitsetlarga
+- c. prokariotlarga
++ d. eukariotlarga
+
+? Zamburug'li kasalliklarda olingan namuna qaysi oziq muhitga ekiladi.
+- a. Giss
++ b. Saburo
+- c. JSA
+- d. Endo
+
+? Zamburug' iplari nima deb ataladi.
+- a. zoosporalar
+- b. druzalar
++ c. giflar
+- d. sporalar
+
+? Zamburug'lar qaysi kasalliklarni qo'zg'atmaydi?
++ a. amyobiaz
+- b. Kal - yara (favus)
+- c. epidermofitiya
+- d. qirma temiratki (trixofitiya)
+
+? Zamburug'li kasallik aktinomikozda (surunkali yiringli oqma) preparatda nima topiladi?
++ a. nursimon zamburug'lar druzasi
+- b. achitqilar mitseliyasi
+- c. mog'orlar mitseliyasi
+- d. achitqilar sporasi
+
+? 31 yoshli bemorda zamburug'li kasallik kuzatildi. Bu Kal - yara kasalligi ekanligi aniqlandi. Bunda nima zararlanadi?
++ a. soch
+- b. o'pka
+- c. jigar
+- d. buyrak
+
+? 48 yoshli kishida kasallik aniqlandi va buni aktinimitsetlar qo'zg'atdi. Aktinomitsetlarnig tibbiyot uchun qanday foydali ahamiyati bor
+- a. oqsil mahsulotlari
+- b. vitamin mahsulotlari
++ c. antibiotik mahsulotlarini ishlab chiqaradi
+- d. sulfanilamid preparat mahsulotlari ishlab chiqarish
+
+? Aktinomitsetlar meditsina uchun qanday foydali ahamiyatga ega.
+- a. aminokislota mahsulotlari
++ b. antibiotik mahsulotlari olinadi
+- c. vitamin mahsulotlari
+- d. oqsil mahsulotlari
+
+? Antibiotiklarni olishda zamburug'lardan ham foydalaniladi. Mog'or zamburug'larining vakilini ko'rsating
+- a. aktinomitsetlar
++ b. pensillium
+- c. kandida
+- d. achitqi
+
+? Antibiotiklarni olishda zamburug'lardan ham foydalaniladi. Mog'or zamburug'lari vakilini ko'rsating
+- a. Strepomyces
++ b. Aspergillus
+- c. Cocciodes immitie
+- d. Actinomycetae
+
+? Kasallikni rivojlanishida zamburug'lar turli yo'llar bilan ko'payadi. Yuqori rivojlangan aktinomitsetlarni ko'payish yo'llarini ko'rsating.
+- a. fragment bilan
+- b. druzalar bilan
++ c. kurtaklar bilan
+- d. sporalar bilan
+
+? Ma'lumki mikroorganizmlar irsiyatiga ko'ra bo'linadi. Zamburg'lar yadro tuzilishiga qarab qanday mikroorganizmlarga kiradi.
+- a. mikoplazmalarga
+- b. prokariotalarga
+- c. aktinomitsetlarga
++ d. eukariotlarga
+
+? Odatda zamburug'lar kasallik chaqirganda organizmda patologik o'zgarishlar kuzatiladi va unda iplar paydo bo'ladi. Zamburug' iplari nima deb ataladi.
++ a. giflar
+- b. sporalar
+- c. druzalar
+- d. zoosporalar
+
+? Tuzilishiga ko'ra zamburug'lar turlicha bo'ladi. Achitqilarning o'ziga xos morfologik xususiyatlarini ko'rsating.
+- a. ichida joylashgan endosporali sporalar
+- b. mitseliysi septirlagan
++ c. mitseliy hosil qilmaydi
+- d. "mo'yqalam" ko'rinishidagi kandidalar
+
+? Yosh bolada kasallikni bir hujayrali organizmlar qo'zg'atganligi aniqlandi. Zambrug'lar yadro tuzilishiga qarab qanday mikroorganizmlarga kiradi
+- a. prokariotlarga
+- b. mikoplazmalarga
+- c. aktinomitsetlarga
++ d. eukariotlarga
+
+? 45 yoshli erkak sepsisga gumon qilindi va klinikaga yotqizildi. Tekshirish uchun qanday namuna olinadi?
+- a. Siydik
+- b. Likvor
++ c. Qon
+- d. Yiring
+
+? Bakteremiyada mikroorganizmlar:
++ a. qonda mavjud bo'ladi, lekin unda ko'paymaydi
+- b. faqat qizil qon hujayralarini zararlaydi
+- c. faqat limfa va limfa tugunlarida bo'ladi
+- d. faqat fagotsitlar va makrofaglarga ta'sir qiladi
+
+? Bakteremiyada qon quyidagi usulda bo'yaladi:
+- a. Romanovskiy-Gimza usulida
+- b. Sel-Nilson usulida
++ c. Odatda qon bo'yalmaydi
+- d. Gramm bo'yicha
+
+? Bakteriologik laboratoriyaga nativ najas namunasini maksimal yetkazib berish vaqtini belgilang:
+- a. 6 soat
+- b. 8 soat
+- c. 12 soat
++ d. 2 soat
+
+? Bakteriyalar ko'paymasdan, qonda mavjud bo'lishi nima deyiladi:
+- a. septitsemiya
+- b. viremiya
+- c. piemiya
++ d. bakteremiya
+
+? Faringitga sabab bo'lishi mumkin
+- a. Gripp virusi
++ b. Barchasi to'g'ri
+- c. Rinovirus
+- d. Paragripp virusi
+
+? Havo orqali yuquvchi kasallik qo'zg'atuvchilarini tanlang:
+- a. anaerob gazli infeksiya
+- b. gepatit A
+- c. dizenteriya, qoqshol
++ d. qizilcha, sil, gripp
+
+? Ichak infeksiyalarida namuna ekiladi:
+- a. tioglikolli bulion
+- b. Boyitilgan muhit
++ c. yuqoridagilarning barchasi
+- d. Endo agar va qonli MA
+
+? Kasalxonada ichak infeksiyalarining eng samarali oldini olish usuli:
+- a. bemorlarni ziyorat qilishni to'xtatish
+- b. mahsulot uzatishni taqiqlash
++ c. oziq-ovqatni berishda epidemiyaga qarshi qat'iy rejim
+- d. antibiotik bilan profilaktika qilish
+
+? Konservantda saqlangan najasni bakteriologik laboratoriyaga yetkazishning maksimal muddatini belgilang:
++ a. 12 soat
+- b. 8 soat
+- c. 2 soat
+- d. 6 soat
+
+? Ko'k-yiringli tayoqcha hosil qiladigan pigmentni belgilang?
+- a. Piovezdin
++ b. Piotsinin
+- c. Pirubin
+- d. Piomelanin
+
+? Opportunistik infeksiyalarni tashxislashning asosiy usulini nomlang:
+- a. Ekspress diagnostik
+- b. Serodiagnostik
+- c. Biologik
++ d. Bakteriologik
+
+? Qaysi viruslar rinitga olib kelishi mumkin:
+- a. adenovirus
+- b. rinovirus
++ c. barchasi
+- d. koronavirus
+
+? Sepsisning laboratoriya tashxisida ekiladi:
+- a. yiring
+- b. jarohat suyuqligi
+- c. burun yuvindisi
++ d. qon
+
+? Septitsemiyaga ko'pincha sabab bo'ladi:
+- a. Escherichia, seria, protey
+- b. bakteroid va clostridium
++ c. stafilokokk va streptokokk
+- d. pseudomonas va klebsiella
+
+? Shifoxonada nafas yo'llari infeksiyalari orasida, quyidagilar keng tarqalgan:
+- a. o'pkada o'ziga xos neoplazmalar
+- b. o'pka absseslari va gangrenasi
+- c. tonzillit va rinit
++ d. pnevmoniya
+
+? Yangi tug'ilgan chaqaloqlarda diareyaga eng ko'p sabab bo'ladigan viruslarni ko'rsating?
+- a. Norwalk virus
+- b. Enterovirus 70
+- c. Astrovirus
++ d. rotavirus
+
+? Yara va kuyish jarohatlarining yiringlashiga ko'pincha sabab bo'ladi:
+- a. Staphylococcus simulans
+- b. Yersinia enterocolitica
+- c. Serratia marcescens
++ d. Pseudomonas aeruginosa
+
+? Yuqoriga ko'tariluvchi siydik yo'li infeksiyalariga sababchi bakteriyalarni belgilang
+- a. Serratia marcescens
+- b. Enterobacter cloacae
+- c. Klebsiella pneumoniae
++ d. Escherichia coli
+
+? Yuqumli endokarditning eng ko'p tarqalgan sababi?
+- a. Staphylococcus epidermidis
+- b. Candida spp
+- c. E. coli
++ d. Streptococcus viridans guruhi bakteriyalari
+
+? 14 yoshli bolada subfebril isitma, umumiy intoksikatsiya belgilari bo'lganligi uchun bakteriemiyaga gumon qilindi. Tekshirish uchun qanday namuna olinadi?
++ a. Qon
+- b. Yiring
+- c. Likvor
+- d. Siydik
+
+? 35 yoshli ayolda nomaxsus bakterial vaginit kasalligi gumon qilindi. Tekshirish uchun qanday namuna olinadi?
+- a. Qon
+- b. Siydik
++ c. Qin ajratmasidan surtma
+- d. Yiring
+
+? 45 yoshli erkak sepsisga gumon qilindi va klinikaga yotqizildi. Tekshirish uchun qanday namuna olinadi?
+- a. Siydik
++ b. Qon
+- c. Yiring
+- d. Likvor
+
+? 5 yoshli bolada meningit belgilari bo'lganligi uchun serebrospinal meningakokkli meningitga gumon qilindi. Tekshirish uchun qanday namuna olinadi?
+- a. Siydik
++ b. Orqa miya suyuqligi
+- c. Yiring
+- d. Qon
+
+? Bemorda ikki oydan buyon subfebril harorat, bo'g'imlarda og'riq, anemiya holati kuzatilmoqda. Bu holat qaysi kasallik qo'zg'atuvchisiga va qaysi kasallik klinikasaga mos keladi?
+- a. Leptospira - leptospiroz kasalligi
+- b. Salmonellalar - Qorin tifi
+- c. Gripp virusi va gripp kasalligi
++ d. Brusella - Qoraoqsoq kasalligi
+
+? Bemorda ikkinchi hafta bo'lishiga qaramasdan yuqori harorat, alahsirash, badanida toshmalar kuzatilmoqda. Bu holat qaysi kasallik qo'zg'atuvchisiga va qaysi kasallik klinikasaga mos keladi?
+- a. Brusella - Qoraoqsoq kasalligi.
+- b. Gripp virusi va gripp kasalligi
+- c. Leptospira - leptospiroz kasalligi
++ d. Salmonellalar - Qorin tifi
+
+? Bemorda qusish, ich ketish, varaja qilish kabi belgilar bo'lganligi uchun ovqatdan zaharlanishga gumon qilindi. Tekshirish uchun qanday namuna olinadi?
+- a. Axlat va Siydik
+- b. Axlat va qusuq massasi
+- c. Bilak venasidan 10 ml qon
++ d. Ovqat qoldiqlari va oshqozon chayindisi
+
+? Bemorda qusish, ikkita bo'lib ko'rinish, diplopiya, afoniya kabi belgilar bo'lganligi uchun ovqatdan zaharlanishga gumon qilindi. Bu holat qaysi kasallik klinikasaga mos keladi?
+- a. Iersinioz
++ b. Botulizm
+- c. Stafilakokkli ovqatdan zaharlanish
+- d. Salmonellyoz
+
+? Bemorda tez - tez ich ketish, qorinda burab og'rish, subfebril harorat, kabi belgilar 3 kundan buyon kuzatilmoqda. Bu holat qaysi kasallik qo'zg'atuvchisiga va qaysi kasallik klinikasaga mos keladi?
+- a. Vibrionlar - Vabo kasalligi
++ b. Shigellalar - Ichburug' kasalligi
+- c. Salmonellalar - Qorin tifi
+- d. Brusella - Qoraoqsoq kasalligi
+
+? Bemorda yo'tal, tana vazinining kamayishi ishtahasizlik, subfebril harorat, kabi belgilar bir necha oydan buyon kuzatilmoqda. Bu holat qaysi kasallik qo'zg'atuvchisiga va qaysi kasallik klinikasaga mos keladi?
+- a. Brusella - Qoraoqsoq kasalligi
+- b. Salmonellalar - Qorin tifi
++ c. Mikobakteriyalar - Sil kasalligi
+- d. Gripp virusi va gripp kasalligi

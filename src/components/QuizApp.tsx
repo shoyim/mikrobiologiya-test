@@ -13,11 +13,22 @@ import {
   Trophy,
   ListChecks,
   Microscope,
+  Layers,
 } from 'lucide-react';
 import { Question } from '@/lib/parseQuestions';
 
 type Mode = 'quiz' | 'flashcard';
-type Screen = 'start' | 'quiz' | 'result' | 'review';
+type Screen = 'start' | 'quiz' | 'result';
+
+interface ModuleData {
+  id: string;
+  name: string;
+  questions: Question[];
+}
+
+interface Props {
+  modules: ModuleData[];
+}
 
 function shuffleArray<T>(arr: T[]): T[] {
   const a = [...arr];
@@ -28,47 +39,67 @@ function shuffleArray<T>(arr: T[]): T[] {
   return a;
 }
 
-interface Props {
-  allQuestions: Question[];
-}
+const MODULE_COLORS: Record<string, { ring: string; bg: string; text: string; badge: string; bar: string }> = {
+  modul1: {
+    ring: 'ring-blue-500',
+    bg: 'bg-blue-500/10',
+    text: 'text-blue-400',
+    badge: 'bg-blue-500/20 text-blue-400',
+    bar: 'from-blue-500 to-blue-400',
+  },
+  modul2: {
+    ring: 'ring-purple-500',
+    bg: 'bg-purple-500/10',
+    text: 'text-purple-400',
+    badge: 'bg-purple-500/20 text-purple-400',
+    bar: 'from-purple-500 to-purple-400',
+  },
+  toliq: {
+    ring: 'ring-emerald-500',
+    bg: 'bg-emerald-500/10',
+    text: 'text-emerald-400',
+    badge: 'bg-emerald-500/20 text-emerald-400',
+    bar: 'from-emerald-500 to-emerald-400',
+  },
+};
 
-export default function QuizApp({ allQuestions }: Props) {
+export default function QuizApp({ modules }: Props) {
   const [screen, setScreen] = useState<Screen>('start');
   const [mode, setMode] = useState<Mode>('quiz');
+  const [selectedModule, setSelectedModule] = useState<ModuleData>(modules[0]);
   const [questions, setQuestions] = useState<Question[]>([]);
   const [current, setCurrent] = useState(0);
   const [selected, setSelected] = useState<number | null>(null);
-  const [revealed, setRevealed] = useState(false);
   const [score, setScore] = useState(0);
   const [wrongIds, setWrongIds] = useState<number[]>([]);
   const [answeredCount, setAnsweredCount] = useState(0);
   const [shuffleEnabled, setShuffleEnabled] = useState(false);
-  const [reviewMode, setReviewMode] = useState(false);
+  const [wrongOnly, setWrongOnly] = useState(false);
+
+  const colors = MODULE_COLORS[selectedModule.id] ?? MODULE_COLORS.modul1;
 
   const startQuiz = useCallback(
-    (shuffled: boolean, wrongOnly = false) => {
-      let qs = wrongOnly ? allQuestions.filter((q) => wrongIds.includes(q.id)) : [...allQuestions];
+    (shuffled: boolean, onlyWrong = false) => {
+      let qs = onlyWrong
+        ? selectedModule.questions.filter((q) => wrongIds.includes(q.id))
+        : [...selectedModule.questions];
       if (shuffled) qs = shuffleArray(qs);
       setQuestions(qs);
       setCurrent(0);
       setSelected(null);
-      setRevealed(false);
       setScore(0);
       setWrongIds([]);
       setAnsweredCount(0);
-      setReviewMode(wrongOnly);
+      setWrongOnly(onlyWrong);
       setScreen('quiz');
     },
-    [allQuestions, wrongIds]
+    [selectedModule, wrongIds]
   );
 
   const handleAnswer = (index: number) => {
-    if (selected !== null || (mode === 'flashcard' && revealed)) return;
-    if (mode === 'flashcard') return;
-
+    if (selected !== null) return;
     setSelected(index);
-    const isCorrect = questions[current].answers[index].isCorrect;
-    if (isCorrect) {
+    if (questions[current].answers[index].isCorrect) {
       setScore((s) => s + 1);
     } else {
       setWrongIds((ids) => [...ids, questions[current].id]);
@@ -76,99 +107,117 @@ export default function QuizApp({ allQuestions }: Props) {
     setAnsweredCount((c) => c + 1);
   };
 
-  const handleReveal = () => {
-    if (revealed) return;
-    setRevealed(true);
-    setAnsweredCount((c) => c + 1);
-  };
-
-  const goNext = () => {
+  const goNext = useCallback(() => {
     if (current + 1 >= questions.length) {
       setScreen('result');
       return;
     }
     setCurrent((c) => c + 1);
     setSelected(null);
-    setRevealed(false);
-  };
+  }, [current, questions.length]);
 
-  const goPrev = () => {
+  const goPrev = useCallback(() => {
     if (current === 0) return;
     setCurrent((c) => c - 1);
     setSelected(null);
-    setRevealed(false);
-  };
+  }, [current]);
 
   useEffect(() => {
     const handler = (e: KeyboardEvent) => {
       if (screen !== 'quiz') return;
-      if (e.key === 'ArrowRight' || e.key === ' ') goNext();
+      if (e.key === 'ArrowRight') goNext();
       if (e.key === 'ArrowLeft') goPrev();
-      if (e.key === 'Enter' && mode === 'flashcard' && !revealed) handleReveal();
     };
     window.addEventListener('keydown', handler);
     return () => window.removeEventListener('keydown', handler);
-  });
+  }, [screen, goNext, goPrev]);
 
   const q = questions[current];
   const progress = questions.length > 0 ? ((current + 1) / questions.length) * 100 : 0;
 
-  // START SCREEN
+  /* ─── START SCREEN ─── */
   if (screen === 'start') {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 flex items-center justify-center p-4">
-        <div className="bg-white rounded-3xl shadow-2xl p-8 max-w-md w-full text-center">
-          <div className="flex justify-center mb-4">
-            <div className="bg-blue-100 rounded-full p-4">
-              <Microscope className="w-12 h-12 text-blue-600" />
+      <div className="min-h-screen bg-gray-950 flex items-center justify-center p-4">
+        <div className="bg-gray-900 border border-gray-800 rounded-3xl shadow-2xl p-7 max-w-md w-full">
+          {/* Logo */}
+          <div className="flex justify-center mb-5">
+            <div className="bg-gray-800 rounded-2xl p-4">
+              <Microscope className="w-10 h-10 text-gray-300" />
             </div>
           </div>
-          <h1 className="text-3xl font-bold text-gray-800 mb-2">Mikrobiologiya</h1>
-          <p className="text-gray-500 mb-1">Imtihonga tayyorgarlik</p>
-          <p className="text-blue-600 font-semibold mb-8">{allQuestions.length} ta savol</p>
+          <h1 className="text-2xl font-bold text-white text-center mb-1">Mikrobiologiya</h1>
+          <p className="text-gray-500 text-center text-sm mb-6">Imtihonga tayyorgarlik</p>
 
-          <div className="flex gap-3 mb-6">
+          {/* Module selection */}
+          <p className="text-gray-400 text-xs font-semibold uppercase tracking-wider mb-2 flex items-center gap-1">
+            <Layers className="w-3.5 h-3.5" /> Modul tanlang
+          </p>
+          <div className="flex gap-2 mb-5">
+            {modules.map((m) => {
+              const c = MODULE_COLORS[m.id] ?? MODULE_COLORS.modul1;
+              const active = selectedModule.id === m.id;
+              return (
+                <button
+                  key={m.id}
+                  onClick={() => setSelectedModule(m)}
+                  className={`flex-1 flex flex-col items-center gap-1.5 py-3 px-2 rounded-2xl border transition-all text-sm font-semibold ${
+                    active
+                      ? `ring-2 ${c.ring} ${c.bg} ${c.text} border-transparent`
+                      : 'border-gray-700 text-gray-500 hover:border-gray-600'
+                  }`}
+                >
+                  <span className="text-lg font-bold">{m.name === "To'liq" ? '📚' : m.id === 'modul1' ? '①' : '②'}</span>
+                  <span>{m.name}</span>
+                  <span className="text-xs opacity-60">{m.questions.length} ta</span>
+                </button>
+              );
+            })}
+          </div>
+
+          {/* Mode selection */}
+          <p className="text-gray-400 text-xs font-semibold uppercase tracking-wider mb-2 flex items-center gap-1">
+            <Brain className="w-3.5 h-3.5" /> Rejim
+          </p>
+          <div className="flex gap-2 mb-5">
             <button
               onClick={() => setMode('quiz')}
-              className={`flex-1 flex flex-col items-center gap-2 p-4 rounded-2xl border-2 transition-all ${
+              className={`flex-1 flex items-center justify-center gap-2 py-3 rounded-2xl border transition-all text-sm font-semibold ${
                 mode === 'quiz'
-                  ? 'border-blue-500 bg-blue-50 text-blue-700'
-                  : 'border-gray-200 text-gray-500 hover:border-gray-300'
+                  ? `ring-2 ${colors.ring} ${colors.bg} ${colors.text} border-transparent`
+                  : 'border-gray-700 text-gray-500 hover:border-gray-600'
               }`}
             >
-              <Brain className="w-6 h-6" />
-              <span className="font-semibold text-sm">Test rejimi</span>
-              <span className="text-xs opacity-70">Javob tanlang</span>
+              <Brain className="w-4 h-4" />
+              Test
             </button>
             <button
               onClick={() => setMode('flashcard')}
-              className={`flex-1 flex flex-col items-center gap-2 p-4 rounded-2xl border-2 transition-all ${
+              className={`flex-1 flex items-center justify-center gap-2 py-3 rounded-2xl border transition-all text-sm font-semibold ${
                 mode === 'flashcard'
-                  ? 'border-indigo-500 bg-indigo-50 text-indigo-700'
-                  : 'border-gray-200 text-gray-500 hover:border-gray-300'
+                  ? `ring-2 ${colors.ring} ${colors.bg} ${colors.text} border-transparent`
+                  : 'border-gray-700 text-gray-500 hover:border-gray-600'
               }`}
             >
-              <BookOpen className="w-6 h-6" />
-              <span className="font-semibold text-sm">Fleshkart</span>
-              <span className="text-xs opacity-70">To&apos;g&apos;ri javob ko&apos;rinadi</span>
+              <BookOpen className="w-4 h-4" />
+              Fleshkart
             </button>
           </div>
 
+          {/* Shuffle toggle */}
           <div
             onClick={() => setShuffleEnabled((s) => !s)}
-            className={`flex items-center justify-between p-3 rounded-xl border-2 cursor-pointer mb-6 transition-all ${
-              shuffleEnabled ? 'border-purple-400 bg-purple-50' : 'border-gray-200 bg-gray-50'
+            className={`flex items-center justify-between p-3.5 rounded-2xl border cursor-pointer mb-5 transition-all ${
+              shuffleEnabled ? `${colors.bg} border-transparent ring-1 ${colors.ring}` : 'border-gray-700 bg-gray-800/50'
             }`}
           >
             <div className="flex items-center gap-2">
-              <Shuffle className={`w-5 h-5 ${shuffleEnabled ? 'text-purple-600' : 'text-gray-400'}`} />
-              <span className={`font-medium text-sm ${shuffleEnabled ? 'text-purple-700' : 'text-gray-600'}`}>
+              <Shuffle className={`w-4 h-4 ${shuffleEnabled ? colors.text : 'text-gray-500'}`} />
+              <span className={`text-sm font-medium ${shuffleEnabled ? colors.text : 'text-gray-400'}`}>
                 Tartibsiz aralash
               </span>
             </div>
-            <div
-              className={`relative w-10 h-6 rounded-full transition-all ${shuffleEnabled ? 'bg-purple-500' : 'bg-gray-300'}`}
-            >
+            <div className={`relative w-10 h-6 rounded-full transition-all ${shuffleEnabled ? 'bg-blue-500' : 'bg-gray-700'}`}>
               <div
                 className={`absolute top-0.5 w-5 h-5 bg-white rounded-full shadow transition-all duration-200 ${
                   shuffleEnabled ? 'left-[18px]' : 'left-[2px]'
@@ -179,7 +228,7 @@ export default function QuizApp({ allQuestions }: Props) {
 
           <button
             onClick={() => startQuiz(shuffleEnabled)}
-            className="w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-4 rounded-2xl transition-all shadow-lg shadow-blue-200 text-lg"
+            className={`w-full text-white font-bold py-4 rounded-2xl transition-all text-base bg-gradient-to-r ${colors.bar} hover:opacity-90 shadow-lg`}
           >
             Boshlash
           </button>
@@ -187,9 +236,9 @@ export default function QuizApp({ allQuestions }: Props) {
           {wrongIds.length > 0 && (
             <button
               onClick={() => startQuiz(shuffleEnabled, true)}
-              className="mt-3 w-full bg-red-50 hover:bg-red-100 text-red-600 font-semibold py-3 rounded-2xl transition-all border border-red-200 text-sm"
+              className="mt-3 w-full bg-red-500/10 hover:bg-red-500/20 text-red-400 font-semibold py-3 rounded-2xl transition-all border border-red-500/30 text-sm"
             >
-              Xato javoblarni qayta ishlash ({wrongIds.length} ta)
+              Xatolarni qayta ishlash ({wrongIds.length} ta)
             </button>
           )}
         </div>
@@ -197,68 +246,65 @@ export default function QuizApp({ allQuestions }: Props) {
     );
   }
 
-  // RESULT SCREEN
+  /* ─── RESULT SCREEN ─── */
   if (screen === 'result') {
-    const pct = Math.round((score / questions.length) * 100);
+    const pct = mode === 'quiz' ? Math.round((score / questions.length) * 100) : 100;
     const isPassing = pct >= 55;
     return (
-      <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 flex items-center justify-center p-4">
-        <div className="bg-white rounded-3xl shadow-2xl p-8 max-w-md w-full text-center">
-          <div className="flex justify-center mb-4">
-            <div className={`rounded-full p-4 ${isPassing ? 'bg-green-100' : 'bg-red-100'}`}>
-              <Trophy className={`w-12 h-12 ${isPassing ? 'text-green-600' : 'text-red-600'}`} />
-            </div>
+      <div className="min-h-screen bg-gray-950 flex items-center justify-center p-4">
+        <div className="bg-gray-900 border border-gray-800 rounded-3xl shadow-2xl p-7 max-w-md w-full text-center">
+          <div className={`inline-flex rounded-full p-4 mb-4 ${isPassing ? 'bg-emerald-500/10' : 'bg-red-500/10'}`}>
+            <Trophy className={`w-10 h-10 ${isPassing ? 'text-emerald-400' : 'text-red-400'}`} />
           </div>
+
           {mode === 'quiz' ? (
             <>
-              <h2 className="text-3xl font-bold text-gray-800 mb-1">{pct}%</h2>
-              <p className={`text-lg font-semibold mb-6 ${isPassing ? 'text-green-600' : 'text-red-500'}`}>
-                {isPassing ? "A'lo! Siz o'tdingiz!" : "Ko'proq mashq kerak"}
-              </p>
-              <div className="flex gap-4 mb-8">
-                <div className="flex-1 bg-green-50 rounded-2xl p-4">
-                  <CheckCircle2 className="w-6 h-6 text-green-500 mx-auto mb-1" />
-                  <div className="text-2xl font-bold text-green-700">{score}</div>
-                  <div className="text-xs text-green-600">To&apos;g&apos;ri</div>
+              <div className={`text-5xl font-black mb-1 ${isPassing ? 'text-emerald-400' : 'text-red-400'}`}>{pct}%</div>
+              <p className="text-gray-400 mb-6 text-sm">{isPassing ? "Tabriklaymiz, siz o'tdingiz!" : "Ko'proq mashq kerak"}</p>
+              <div className="grid grid-cols-3 gap-3 mb-7">
+                <div className="bg-emerald-500/10 border border-emerald-500/20 rounded-2xl p-4">
+                  <CheckCircle2 className="w-5 h-5 text-emerald-400 mx-auto mb-1" />
+                  <div className="text-2xl font-bold text-emerald-400">{score}</div>
+                  <div className="text-xs text-gray-500">To&apos;g&apos;ri</div>
                 </div>
-                <div className="flex-1 bg-red-50 rounded-2xl p-4">
-                  <XCircle className="w-6 h-6 text-red-500 mx-auto mb-1" />
-                  <div className="text-2xl font-bold text-red-700">{questions.length - score}</div>
-                  <div className="text-xs text-red-600">Noto&apos;g&apos;ri</div>
+                <div className="bg-red-500/10 border border-red-500/20 rounded-2xl p-4">
+                  <XCircle className="w-5 h-5 text-red-400 mx-auto mb-1" />
+                  <div className="text-2xl font-bold text-red-400">{questions.length - score}</div>
+                  <div className="text-xs text-gray-500">Xato</div>
                 </div>
-                <div className="flex-1 bg-blue-50 rounded-2xl p-4">
-                  <ListChecks className="w-6 h-6 text-blue-500 mx-auto mb-1" />
-                  <div className="text-2xl font-bold text-blue-700">{questions.length}</div>
-                  <div className="text-xs text-blue-600">Jami</div>
+                <div className="bg-gray-800 border border-gray-700 rounded-2xl p-4">
+                  <ListChecks className="w-5 h-5 text-gray-400 mx-auto mb-1" />
+                  <div className="text-2xl font-bold text-gray-300">{questions.length}</div>
+                  <div className="text-xs text-gray-500">Jami</div>
                 </div>
               </div>
             </>
           ) : (
             <>
-              <h2 className="text-3xl font-bold text-gray-800 mb-1">Barakalla!</h2>
-              <p className="text-gray-500 mb-8">{questions.length} ta kartochkani ko&apos;rib chiqdingiz</p>
+              <div className="text-3xl font-bold text-white mb-1">Barakalla!</div>
+              <p className="text-gray-400 mb-7 text-sm">{questions.length} ta kartochkani ko&apos;rib chiqdingiz</p>
             </>
           )}
 
           <div className="flex flex-col gap-3">
             <button
-              onClick={() => startQuiz(shuffleEnabled)}
-              className="w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-4 rounded-2xl transition-all shadow-lg shadow-blue-200"
+              onClick={() => startQuiz(shuffleEnabled, wrongOnly)}
+              className={`w-full text-white font-bold py-4 rounded-2xl bg-gradient-to-r ${colors.bar} hover:opacity-90 transition-all flex items-center justify-center gap-2`}
             >
-              <RotateCcw className="w-4 h-4 inline mr-2" />
+              <RotateCcw className="w-4 h-4" />
               Qayta boshlash
             </button>
             {wrongIds.length > 0 && mode === 'quiz' && (
               <button
                 onClick={() => startQuiz(true, true)}
-                className="w-full bg-red-50 hover:bg-red-100 text-red-600 font-semibold py-3 rounded-2xl transition-all border border-red-200"
+                className="w-full bg-red-500/10 hover:bg-red-500/20 text-red-400 font-semibold py-3 rounded-2xl border border-red-500/30 text-sm"
               >
                 Xatolarni qayta ishlash ({wrongIds.length} ta)
               </button>
             )}
             <button
               onClick={() => setScreen('start')}
-              className="w-full bg-gray-100 hover:bg-gray-200 text-gray-700 font-semibold py-3 rounded-2xl transition-all"
+              className="w-full bg-gray-800 hover:bg-gray-700 text-gray-300 font-semibold py-3 rounded-2xl transition-all"
             >
               Bosh menu
             </button>
@@ -268,137 +314,143 @@ export default function QuizApp({ allQuestions }: Props) {
     );
   }
 
-  // QUIZ SCREEN
+  /* ─── QUIZ SCREEN ─── */
   if (!q) return null;
 
+  const isFlashcard = mode === 'flashcard';
+
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 flex flex-col">
+    <div className="min-h-screen bg-gray-950 flex flex-col">
       {/* Header */}
-      <div className="bg-white shadow-sm px-4 py-3">
+      <div className="bg-gray-900 border-b border-gray-800 px-4 py-3">
         <div className="max-w-2xl mx-auto">
-          <div className="flex items-center justify-between mb-2">
+          <div className="flex items-center justify-between mb-2.5">
             <div className="flex items-center gap-2">
               <button
                 onClick={() => setScreen('start')}
-                className="text-gray-400 hover:text-gray-600 transition-colors"
+                className="text-gray-600 hover:text-gray-400 transition-colors"
               >
                 <ChevronLeft className="w-5 h-5" />
               </button>
-              <span className="font-bold text-gray-800 text-sm">
-                {mode === 'quiz' ? 'Test rejimi' : 'Fleshkart'}
-                {reviewMode && <span className="ml-1 text-red-500">(Xatolar)</span>}
+              <span className={`font-bold text-sm ${colors.text}`}>
+                {selectedModule.name}
+                {wrongOnly && <span className="ml-1 text-red-400">(Xatolar)</span>}
               </span>
+              <span className="text-gray-700 text-sm">·</span>
+              <span className="text-gray-500 text-sm">{isFlashcard ? 'Fleshkart' : 'Test'}</span>
             </div>
             <div className="flex items-center gap-3">
-              {mode === 'quiz' && (
+              {!isFlashcard && (
                 <>
-                  <div className="flex items-center gap-1 text-sm">
-                    <CheckCircle2 className="w-4 h-4 text-green-500" />
-                    <span className="font-semibold text-green-600">{score}</span>
+                  <div className="flex items-center gap-1">
+                    <CheckCircle2 className="w-4 h-4 text-emerald-500" />
+                    <span className="font-bold text-emerald-400 text-sm">{score}</span>
                   </div>
-                  <div className="flex items-center gap-1 text-sm">
-                    <XCircle className="w-4 h-4 text-red-400" />
-                    <span className="font-semibold text-red-500">{answeredCount - score}</span>
+                  <div className="flex items-center gap-1">
+                    <XCircle className="w-4 h-4 text-red-500" />
+                    <span className="font-bold text-red-400 text-sm">{answeredCount - score}</span>
                   </div>
                 </>
               )}
-              <span className="text-gray-400 text-sm font-medium">
-                {current + 1}/{questions.length}
+              <span className="text-gray-500 text-sm font-medium">
+                {current + 1}<span className="text-gray-700">/</span>{questions.length}
               </span>
             </div>
           </div>
-          {/* Progress bar */}
-          <div className="h-2 bg-gray-100 rounded-full overflow-hidden">
+          <div className="h-1.5 bg-gray-800 rounded-full overflow-hidden">
             <div
-              className="h-full bg-gradient-to-r from-blue-500 to-indigo-500 rounded-full transition-all duration-300"
+              className={`h-full bg-gradient-to-r ${colors.bar} rounded-full transition-all duration-300`}
               style={{ width: `${progress}%` }}
             />
           </div>
         </div>
       </div>
 
-      {/* Question */}
-      <div className="flex-1 flex flex-col max-w-2xl w-full mx-auto p-4 gap-4">
-        <div className="bg-white rounded-2xl shadow-sm p-6 flex-shrink-0">
+      {/* Content */}
+      <div className="flex-1 flex flex-col max-w-2xl w-full mx-auto p-4 gap-4 overflow-y-auto">
+        {/* Question card */}
+        <div className="bg-gray-900 border border-gray-800 rounded-2xl p-6">
           <div className="flex items-start gap-3">
-            <span className="bg-blue-100 text-blue-600 font-bold text-sm px-2 py-1 rounded-lg flex-shrink-0">
+            <span className={`text-xs font-bold px-2 py-1 rounded-lg flex-shrink-0 ${colors.badge}`}>
               #{q.id}
             </span>
-            <p className="text-gray-800 font-semibold leading-relaxed text-xl">{q.question}</p>
+            <p className="text-white font-semibold leading-relaxed text-xl">{q.question}</p>
           </div>
         </div>
 
         {/* Answers */}
         <div className="flex flex-col gap-3">
-            {q.answers.map((ans, idx) => {
-              let cls =
-                'w-full text-left p-4 rounded-2xl border-2 transition-all duration-200 font-medium text-base leading-relaxed ';
-              if (mode === 'quiz') {
-                if (selected === null) {
-                  cls += 'border-gray-200 bg-white text-gray-700 hover:border-blue-300 hover:bg-blue-50 cursor-pointer';
-                } else if (ans.isCorrect) {
-                  cls += 'border-green-400 bg-green-50 text-green-800';
-                } else if (idx === selected && !ans.isCorrect) {
-                  cls += 'border-red-400 bg-red-50 text-red-800';
-                } else {
-                  cls += 'border-gray-100 bg-gray-50 text-gray-400';
-                }
-              } else {
-                // flashcard
-                if (ans.isCorrect) {
-                  cls += 'border-green-400 bg-green-50 text-green-800';
-                } else {
-                  cls += 'border-gray-100 bg-gray-50 text-gray-400';
-                }
-              }
+          {q.answers.map((ans, idx) => {
+            let cls = 'w-full text-left p-4 rounded-2xl border-2 transition-all duration-150 font-medium text-base leading-relaxed ';
 
-              return (
-                <button key={idx} className={cls} onClick={() => handleAnswer(idx)}>
-                  <div className="flex items-start gap-3">
-                    <span className="flex-shrink-0 flex items-center justify-center">
-                      {mode === 'quiz' && selected !== null && ans.isCorrect && (
-                        <CheckCircle2 className="w-5 h-5 text-green-500" />
-                      )}
-                      {mode === 'quiz' && selected === idx && !ans.isCorrect && (
-                        <XCircle className="w-5 h-5 text-red-500" />
-                      )}
-                      {mode === 'quiz' && selected === null && (
-                        <span className="w-5 h-5 rounded-full border-2 border-current flex items-center justify-center text-xs font-bold">
-                          {String.fromCharCode(65 + idx)}
-                        </span>
-                      )}
-                      {mode === 'flashcard' && ans.isCorrect && (
-                        <CheckCircle2 className="w-5 h-5 text-green-500" />
-                      )}
-                      {mode === 'flashcard' && !ans.isCorrect && (
-                        <span className="w-5 h-5 rounded-full border-2 border-current flex items-center justify-center text-xs font-bold opacity-40">
-                          {String.fromCharCode(65 + idx)}
-                        </span>
-                      )}
-                    </span>
-                    <span>{ans.text}</span>
-                  </div>
-                </button>
-              );
-            })}
-          </div>
+            if (isFlashcard) {
+              if (ans.isCorrect) {
+                cls += 'border-emerald-500/50 bg-emerald-500/10 text-emerald-300';
+              } else {
+                cls += 'border-gray-800 bg-gray-900/50 text-gray-600';
+              }
+            } else {
+              if (selected === null) {
+                cls += 'border-gray-700 bg-gray-900 text-gray-200 hover:border-gray-500 hover:bg-gray-800 cursor-pointer';
+              } else if (ans.isCorrect) {
+                cls += 'border-emerald-500/50 bg-emerald-500/10 text-emerald-300';
+              } else if (idx === selected && !ans.isCorrect) {
+                cls += 'border-red-500/50 bg-red-500/10 text-red-300';
+              } else {
+                cls += 'border-gray-800 bg-gray-900/30 text-gray-700';
+              }
+            }
+
+            return (
+              <button key={idx} className={cls} onClick={() => handleAnswer(idx)}>
+                <div className="flex items-start gap-3">
+                  <span className="flex-shrink-0 mt-0.5">
+                    {!isFlashcard && selected === null && (
+                      <span className="inline-flex w-6 h-6 rounded-full border-2 border-current items-center justify-center text-xs font-bold">
+                        {String.fromCharCode(65 + idx)}
+                      </span>
+                    )}
+                    {!isFlashcard && selected !== null && ans.isCorrect && (
+                      <CheckCircle2 className="w-6 h-6 text-emerald-400" />
+                    )}
+                    {!isFlashcard && selected === idx && !ans.isCorrect && (
+                      <XCircle className="w-6 h-6 text-red-400" />
+                    )}
+                    {!isFlashcard && selected !== null && !ans.isCorrect && idx !== selected && (
+                      <span className="inline-flex w-6 h-6 rounded-full border-2 border-current items-center justify-center text-xs font-bold opacity-30">
+                        {String.fromCharCode(65 + idx)}
+                      </span>
+                    )}
+                    {isFlashcard && ans.isCorrect && <CheckCircle2 className="w-6 h-6 text-emerald-400" />}
+                    {isFlashcard && !ans.isCorrect && (
+                      <span className="inline-flex w-6 h-6 rounded-full border-2 border-current items-center justify-center text-xs font-bold opacity-30">
+                        {String.fromCharCode(65 + idx)}
+                      </span>
+                    )}
+                  </span>
+                  <span>{ans.text}</span>
+                </div>
+              </button>
+            );
+          })}
+        </div>
       </div>
 
       {/* Navigation */}
-      <div className="bg-white border-t border-gray-100 px-4 py-3">
+      <div className="bg-gray-900 border-t border-gray-800 px-4 py-3">
         <div className="max-w-2xl mx-auto flex gap-3">
           <button
             onClick={goPrev}
             disabled={current === 0}
-            className="flex-1 flex items-center justify-center gap-2 py-3 rounded-2xl border-2 border-gray-200 text-gray-500 font-semibold disabled:opacity-30 disabled:cursor-not-allowed hover:border-gray-300 hover:bg-gray-50 transition-all"
+            className="flex-1 flex items-center justify-center gap-2 py-3.5 rounded-2xl border-2 border-gray-700 text-gray-400 font-semibold disabled:opacity-20 disabled:cursor-not-allowed hover:border-gray-600 hover:text-gray-300 transition-all"
           >
             <ChevronLeft className="w-5 h-5" />
             Oldingi
           </button>
           <button
             onClick={goNext}
-            disabled={mode === 'quiz' && selected === null && !revealed}
-            className="flex-1 flex items-center justify-center gap-2 py-3 rounded-2xl bg-blue-600 text-white font-semibold disabled:opacity-40 disabled:cursor-not-allowed hover:bg-blue-700 transition-all shadow-sm"
+            disabled={!isFlashcard && selected === null}
+            className={`flex-1 flex items-center justify-center gap-2 py-3.5 rounded-2xl text-white font-bold bg-gradient-to-r ${colors.bar} disabled:opacity-30 disabled:cursor-not-allowed hover:opacity-90 transition-all shadow-lg`}
           >
             {current + 1 >= questions.length ? 'Tugatish' : 'Keyingi'}
             <ChevronRight className="w-5 h-5" />

@@ -4,9 +4,15 @@ import { parseQuestions } from '@/lib/parseQuestions';
 import QuizApp from '@/components/QuizApp';
 
 export default function Home() {
-  const filePath = path.join(process.cwd(), 'src', 'data', 'questions.txt');
-  const content = fs.readFileSync(filePath, 'utf-8');
-  const questions = parseQuestions(content);
+  const cwd = process.cwd();
+  const read = (file: string) =>
+    fs.readFileSync(path.join(cwd, 'src', 'data', file), 'utf-8');
 
-  return <QuizApp allQuestions={questions} />;
+  const modules = [
+    { id: 'modul1', name: 'I Modul', questions: parseQuestions(read('modul1.txt')) },
+    { id: 'modul2', name: 'II Modul', questions: parseQuestions(read('modul2.txt')) },
+    { id: 'toliq', name: "To'liq", questions: parseQuestions(read('questions.txt')) },
+  ];
+
+  return <QuizApp modules={modules} />;
 }
