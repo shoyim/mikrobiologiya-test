@@ -61,6 +61,13 @@ const MODULE_COLORS: Record<string, { ring: string; bg: string; text: string; ba
     badge: 'bg-emerald-500/20 text-emerald-400',
     bar: 'from-emerald-500 to-emerald-400',
   },
+  patfiz: {
+    ring: 'ring-orange-500',
+    bg: 'bg-orange-500/10',
+    text: 'text-orange-400',
+    badge: 'bg-orange-500/20 text-orange-400',
+    bar: 'from-orange-500 to-orange-400',
+  },
 };
 
 export default function QuizApp({ modules }: Props) {
@@ -146,14 +153,14 @@ export default function QuizApp({ modules }: Props) {
               <Microscope className="w-10 h-10 text-gray-300" />
             </div>
           </div>
-          <h1 className="text-2xl font-bold text-white text-center mb-1">Mikrobiologiya</h1>
+          <h1 className="text-2xl font-bold text-white text-center mb-1">Tibbiy Testlar</h1>
           <p className="text-gray-500 text-center text-sm mb-6">Imtihonga tayyorgarlik</p>
 
           {/* Module selection */}
           <p className="text-gray-400 text-xs font-semibold uppercase tracking-wider mb-2 flex items-center gap-1">
             <Layers className="w-3.5 h-3.5" /> Modul tanlang
           </p>
-          <div className="flex gap-2 mb-5">
+          <div className="grid grid-cols-2 gap-2 mb-5">
             {modules.map((m) => {
               const c = MODULE_COLORS[m.id] ?? MODULE_COLORS.modul1;
               const active = selectedModule.id === m.id;
@@ -161,13 +168,15 @@ export default function QuizApp({ modules }: Props) {
                 <button
                   key={m.id}
                   onClick={() => setSelectedModule(m)}
-                  className={`flex-1 flex flex-col items-center gap-1.5 py-3 px-2 rounded-2xl border transition-all text-sm font-semibold ${
+                  className={`flex flex-col items-center gap-1.5 py-3 px-2 rounded-2xl border transition-all text-sm font-semibold ${
                     active
                       ? `ring-2 ${c.ring} ${c.bg} ${c.text} border-transparent`
                       : 'border-gray-700 text-gray-500 hover:border-gray-600'
                   }`}
                 >
-                  <span className="text-lg font-bold">{m.name === "To'liq" ? '📚' : m.id === 'modul1' ? '①' : '②'}</span>
+                  <span className="text-lg font-bold">
+                    {m.id === 'modul1' ? '①' : m.id === 'modul2' ? '②' : m.id === 'toliq' ? '📚' : '🔬'}
+                  </span>
                   <span>{m.name}</span>
                   <span className="text-xs opacity-60">{m.questions.length} ta</span>
                 </button>
