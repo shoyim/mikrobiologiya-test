@@ -1,0 +1,3811 @@
+﻿? "Sabab" tushunchasini "sharoitlar yig'indisi" tushunchasi bilan ta'riflanadigan etiologiya ta'limotidagi yo'nalish nomi?
+- Freydizm
+- Psixosomatika
+- Polietiologizm
++ Konditsionalizm
+- Monokauzalizm
+
+? 19 km balandlikda kabina germetizatsiyasi buzilishi natijasida uchuvchilar darhol vafot etdi. Bu avariyada o'limning sababi nima?
++ Portlovchi dekompressiya
+- Nafas markazining falaji
+- Asfiksiya
+- Miyaga qon kuyilishi
+- Miokard infarkti
+
+? Atmosfera bosimining o’zgarishlariga chiniqtirish uchun kosmonavtlarda nima qo’llaniladi?
+- Sun’iy shamol
+- Karusel
++ Barokamera
+- Batut
+- Sentrifuga
+
+? Ayrim kasalliklar asosida biriktiruvchi to'qima tolali tuzilmalari (elastin, kollagen, retikulin)ning zararlanishi yotadi. Bu birlamchi shiqastlanishning qaysi darajasi hisoblanadi?
+- Moddalar
+- A’zo
+- Hujayralar
++ To’qima
+- Molekulalar
+
+? Ba'zida bosh miya po’stlog’ida qo'zg'alishning ustunlik qiluvchi o'chog’i paydo bo'ladi, u boshqa barcha markazlarni o'ziga bo'ysundiradi. Ushbu patogenez faktori nima deb ataladi?
+- Stress
+- Nevroz
+- Parabioz
+- Anabioz
++ Dominanta
+
+? Balandlik kasalligida organizmdagi patologik o'zgarishlarning asosiy sababi?
++ Havodagi O2 partsial bosimining pasayishi
+- Frontal sinuslarda bosimning oshishi
+- Ichaklarda havoning kengayishi
+- Havodagi CO2 bosimining oshishi
+- Havodagi O2 partsial bosimining oshishi
+
+? Balandlik kasalligining patogenezida muhim rol o’ynaydi?
+- Burundan qon oqishi
+- Quloqdan qon oqishi
++ Qonda O2 partsial bosimining pasayishi
+- Qonda O2 partsial bosimining oshishi
+- Ichaklarda havo kengayishi
+
+? Balandlikka chiqqanda organizmga ta’sir ko’rsatadi?
+- Alkaloz
+- Barotravma
+- Gipotermiya
+- Giperbariya
++ Gipobariya
+
+? Bog'chadan qaytgan 4 yoshli bola kuchsizlikni, bosh og'rig'ini his qildi, uning tana harorati 37,3o C-ga ko'tarildi. Bu kasallik rivojlanishining qaysi davriga xos?
+- Yaqqol klinik belgilar davri
+- Inkubatsion
+- Latent
+- Kasallikning avj olish davri
++ Prodromal
+
+? Etiologiya nimani o’rganuvchi ta'limot?
+- Kasallik paydo bo'lish shakllarini
+- Kasallik sabablarini
+- Kasallik rivojlanishini
++ Kasallikning sabablari va shart-sharoitlarini
+- Kasallik kelib chiqish sharoitlarini
+
+? Geteroхroniyaning namoyon bo'lishi?
+- Qandli diabetda metabolik atsidoz
+- Leykemiyada ekstramedululyar gematopoez
+- Nur kasallikdagi eritropeniya
+- Toksik gemolitik anemiyada eritropeniya
++ Pernitsioz anemiyada megaloblastoz
+
+? Giperbariya holatida kesson ishlari olib borilganda g’avvoslarning qonida quyidagilar ro’y beradi?
+- Metabolik alkaloz
+- O2-ga nisbatan arterio-venoz farqning oshishi
+- Respirator alkaloz
++ O2-ga nisbatan arterio-venoz farqning qamayishi
+- HbO2 qamayishi
+
+? Giperbariya patogenezida qaysi gaz katta axamiyatga ega?
+- CO2
+- CO
++ O2
+- N2
+- HbO2
+
+? Giperbariyada O2 toksik ta’siri birinchi navbatda bog’lik?
+- Erkin radikallar hosil bo’lishiga
++ HbO2 dissotsiatsiyasi qiyinlashishiga
+- Tsirkulyatsiyadagi qon hajmining kamayishiga
+- Xemoretseptorlar qo’zg’aluvchanligi pasayishiga
+- Bosh miya tomirlari torayishiga
+
+? Gipobariyada gipoksiyani qaysi turi rivojlanadi?
+- Gemik
++ Gipoksik
+- Gistotoksik
+- Tsirkulyator
+- Respirator
+
+? Gipobariyada yurak tomonidan rivojlanadi?
+- Pulsus alternans
+- AV blokada
++ Sinusli taxikardiya
+- Paroksizmal taxikardiya
+- Bradikardiya
+
+? Gomeostaz nima ekanligini ko'rsating?
+- Kompensator mexanizmlar to'plami
+- Individual reaktivlik
++ Organizm fiziologik parametrlarining barqarorligi
+- Qonning ivish jarayoni
+- Patologik ta'sirlarga chidamlilik
+
+? G’avvos cho’qqan kemani tekshirayotganda unda sababsiz kulgi, isteriya belgilari, e’tiborlikni pasayishi kuzatildi. Kema tahminan qanday chuqurlikda edi?
+- 100 m
+- 300 m
+- 115 m
+- 30 m
++ 65 m
+
+? G’avvoslarda suv ostiga chuqurlikka tushganda “to’qima bugilishi” hodisasining rivojlanishi nimani oqibati hisoblanadi?
+- Atmosfera bosimining pasayishini
+- N2 ko’pligini
++ O2 ko’pligini
+- O2 yetishmovchiligining
+- Erkin radikallar kamayishining
+
+? G’avvoslarning nafas olish uchun aralashmasiga N2 o’rniga qaysi gaz ko’shiladi?
++ Geliy
+- Neon
+- Argon
+- O2
+- H2
+
+? Ishni tugatgandan keyin g‘avvosda bug’imlarda og’riq, teri qichishishi, ko’ruv qobiliyatining pasayishi, bosh aylanishi kuzatildi. Bular nima natijasida rivojlandi?
+- Kompressiya
+- Saturatsiya
++ Emboliya
+- Tromboz
+- Gipoksiya
+
+? Itda o'tkazilgan tajribada talabalarga reanimasiya usullari ko'rsatildi. Qaysi organning vazifasini tiklash hayotga qaytish mezoni hisoblanadi?
+- Jigar
+- O’pka
+- Yurak
++ Bosh miya
+- Buyrak
+
+? Kasallik bosqichlari (davrlari) ning to'g'ri ketma-ketligini belgilang?
+- Prodromal, yashirin, avj olishi, tugashi
++ Yashirin, prodromal, avj olishi, tugashi
+- Latent, inkubatsiya, pro-dromal, tugashi
+- Latent, inkubatsiya, avj olishi, tugashi
+- Inkubatsiоn, latent, avj olishi, tugashi
+
+? Kasalliklarni tasniflashda ekologik printsip quyidagi umumiylashtiruvchi belgilarda asoslanadi?
+- Patogenetik mexanizmlar
+- Kasallik davomiyligi
+- Etiologik omil
+- Kasallikning uzoq muddatli ta'siri
++ Mintaqaning tabiiy xususiyatlari
+
+? Kasallikning etiologik omillari orasida odamda kaysi biri ustunlik qiladi?
+- Kimyoviy
+- Fizikaviy
+- Biologik
+- Mexanik
++ Ijtimoiy
+
+? Kasallikning kelib chiqishida shart-sharoitlarning o'rni haqidagi quyidagi gaplarning qaysi biri to'g'ri?
+- Kasallik kelib chiqishi uchun sharoit bulishi zarur
+- Kasallikning o'ziga xosligi sharoitga bog'liq
+- Sharoit bitta bo'lib, sabablari ko'p
+- Sabab ta'siri butunlay sharoitlar bilan belgilanadi
++ Kasallikning o'ziga xosligi sharoitga bog'liq emas
+
+? Kasallikning o'ziga xosligini asosan nima belgilaydi?
+- Ichki muhit omillari
++ Etiologik omil
+- Irsiyat
+- Organizmning reaktivligi
+- Tashki muxit omillari
+
+? Katta ch’uqurlikda ishlaydigan g’avvoslarning organizmida ko’p miqdorda to’planuvchi va atsidozga olib keluvchi modda nima?
+- Pirouzum kislota
+- Atseton
++ HbO2
+- Sut kislotasi
+- N2
+
+? Klinik o'lim paytida organizmning qanday jarayonlarining mavjudligi uning qaytarilishiga sabab bo'ladi?
+- Alveolalar ochilichi
+- Neyronlar faollashishi
+- Koptokchalar filtrasiyasi
++ Metabolizm
+- Yurak avtomatizmi
+
+? Klinik o'limda to'qimalarning metabolizmi o'zgaradi. Organizmda kaysi modda yetishmovchiligi bu o'zgarishlarni belgilaydi?
+- CO2
+- H2O2
+- Glyukoza
++ O2
+- ATF
+
+? Mering va Minkovskiy diabetning birinchi eksperimental modelini qaysi usul yordamida yaratdilar?
++ Ekstirpatsiya
+- Solishtirma patologiya
+- Parabioz
+- Qo’zg’atish
+- Ttransplantatsiya usuli
+
+? O'tkazilgan keratitdan keyin bemorda belmo paydo bo'ldi, bu?
+- Surunkali kasallik
+- Patologik reaktsiya
+- Patologik jarayon
+- Spetsifik reaktsiya
++ Patologik holat
+
+? O'tkir pankreatitda patogenezning asosiy halqasi nima hisoblanadi?
+- Duodenumda fermentlarni ajralishning kamayishi
+- Proteolitik fermentlarning kech faollashishi
+- Yog'lar so’rilishinig buzilishi
+- Yog'lar hazm bulishining buzilishi
++ Proteolitik fermentlarning erta faollashishi
+
+? Odamlarda kasallikning eng doimiy mezonlari?
+- Moslashuvning cheklanishi
+- Ulimdan qo'rqish
+- Darmonsizlik
++ Ishlash kobiliyatining yo'qolishi
+- Bosh og’riq
+
+? Patogenetik terapiya quyidagi kasallik uchun asosiy hisoblanadi?
+- Jigar ehinokokkozi
+- Pnevmoniya
+- Poliomielit
+- O'tkir bronxit
++ Gipertoniya kasalligi
+
+? Patologik fiziologiyaning asosiy usuli nima?
++ Eksperiment
+- Epidemiologik usul
+- Anatomik usul
+- Kuzatish
+- Klinik usul
+
+? Portlash dekompressiyasi sindromi rivojlanadi?
+- G’avvos 50 m chuqurlikka tushganda
+- G’avvos 500 m chuqurlikka tushganda
+- Chuqurlikdan tezlikda chiqishda
+- G’avvos 100 m chuqurlikka tushganda
++ To’satdan uchuvchi apparat germetizatsiyasi buzilganda
+
+? Portlash dekompressiyasi sindromida tomirlar qaysi gaz bilan berkitiladi?
+- CO2
+- Geliy
+- O2
+- CO
++ N2
+
+? Qanday balandlikda organism suyuqliklari tana haroratida qaynab ketadi?
+- 5000 m
+- 10 km
++ 19 km
+- 7 km
+- 11000 m
+
+? Qaysi kasallik uchun davolash faqat latent davrda samarali bo'ladi?
+- Bronxit
++ Quturish
+- Оtit
+- Stomatit
+- Bezgak
+
+? Quyidagi hodisalarning qaysi biri geterometriya belgisidir?
+- Jismoniy mehnatdan keyingi charchoq
+- Jarrohlikdan keyingi og'riq
++ Nur kasallikdagi eritropeniya
+- Tireotoksikozdagi titroq
+- Pernitsioz anemiyada megaloblastoz
+
+? Quyidagi omillardan qaysi biri gipobariyani chaqiradi?
++ Xavo atmosfera bosimining pasayishi
+- Ultra binafsha nurlarning quchli ta’siri
+- Xavo xaroratining pasayishi
+- Xavo xaroratining oshishi
+- Xavo atmosfera bosimining oshishi
+
+? Quyidagi omillardan qaysi biri pnevmoniya kelib chikishiga imkon beruvchi sharoitdir?
++ Sovuk kotish
+- Viruslar
+- Dori preparatlari
+- Alkagol
+- Pnevmokokk
+
+? Quyidagilardan qaysi biri geterotopiyaning namoyonidir?
+- Toksik gemolitik anemiyada eritropeniya
+- Balandlik kasalligidagi gipoksiya
+- Yurak etishmovchiligidagi eritrotsitoz
++ Leykemiyada ekstramedulyar gemopoez uchoqlarining paydo bulishi
+- Miyelomadagi makroglobulinemiya
+
+? Reanimatsiya tadbirlarining muvaffaqiyati qaysi hujayralarning hayotini saqlab qolishi bilan bog'liq?
+- Gepatotsitlar
+- Eritrositlar
+- Kardiomiotsitlar
++ Neyronlar
+- Leykotsitlar
+
+? Stress paytida ajraluvchi asosiy gormonni belgilang?
+- Lyuliberin
++ Kortikotropin
+- Melanotropin
+- Vazopressin
+- Somatotropin
+
+? Suv osti chuqurlikda O2 partsial bosimining toksik effekti bog’lik?
+- Bosh miya po’stlog’i tormozlanishiga
++ HbO2 dissotsiatsiyasi qiyinlashishiga
+- Nafas fermentlari inaktivatsiyasiga
+- Mushaklarda og’riq rivojlanishiga
+- Qoronar tomirlar torayishiga
+
+? Suv osti chuqurlikdan tez chiqarilganda g’avvos hushini yo’qotdi, unda nafas va yurak-qon tomir sistemalari tomonidan buzulishlar rivojlandi. Bu qaysi kasallikka hos?
+- Kinetoz
+- Kollaps
+- Shok
++ Kesson
+- To’qima emboliyasi
+
+? Suv ostiga 60 m chuqurlikka g’avvos tushkahda unda MAT buzililishiga hos simptomlar kuzatildi: qo’zg’alish, eyforiya, e’tiborsizlik, professional hatoliklar.Bular neyronlarga nimani toksik ta’siri bilan bog’lik?
+- CO2
+- Ammiak
+- Laktat
++ N2
+- O2
+
+? Tog’da yashovchilar uchun eritotsitoz nima hisoblanadi?
+- Patologik holat
+- Patologik reaktsiya
+- Patologik jarayon
+- Kompensatsiya
++ Moslashuv reaktsiyasi
+
+? Tog’da yashovchilarda gipoksiyaga qarshi faol rezistentlik o’z ichiga oladi?
+- Anabioz holati
+- Metabolism aktivlashuvi
++ Hb va eritrotsitlarning oshishi
+- Antitanalar sintezining oshishi
+- Fagotsitoz faollashuvi
+
+? Tog’ga chiquvchi turistlarda nafas tezlashdi va chuqurlashdi. Buning sababi nimani stimulatsiyasi?
+- Koptokchalar filtrasiyasi
+- Alveolalar mexano-retseptorlarining
+- Orqa miya motoneyron-larining
+- Bosh miya neyronlarining
++ Sinus caroticus xemo-retseptorlarining
+
+? Tog’ga chiquvchi turistlarda tog’ kasalligi simptomlari rivojlandi. Uning sababi nima?
+- Quyosh nurlari
+- Havo xaroratining tushishi
++ O2 partsial bosiminig pasayishi
+- Moslashuvning cheklanishi
+- Jismoniy zo’riqish
+
+? Xavf omillari tushunchasi quyidagi kasalliklarning sababini tushunishda qo'llaniladi?
+- Anemiya
++ Gipertoniya
+- Faringit
+- Artrit
+- Otit
+
+? Yuqori atmosfera bosimidan tezlikda normal yoki past atmosfera bosimiga chiqishda qonda qanday o’zgarishlar yuz beradi?
+- Havo emboliyasi
+- Molekulyar emboliya
+- To’qima emboliyasi
++ Gazli emboliya
+- Tromboemboliya
+
+? Yuqumli jarayon rivojlanishining qaysi davri bosh og'rig'i, kuchsizlik, bezovtalik, isitma kabi bir qator kasalliklar uchun xos umumiy simptomlarning mavjudligi bilan tavsiflanadi?
+- Yashirin
+- Kasallikning oxiri
+- Inkubatsion
+- Avj olishi
++ Prodromal
+
+? “To’qima asfiksiyasi” deganda nima tushuniladi?
+- HbO2 kamayishi
++ Hb molekulasini O2 bilan bloklanishi
+- Nafas fermentlarining inaktivatsiyasi
+- Metabolism susayishi
+- Glikoliz fermentlarining aktivlashuvi
+
+? Albinizmni tashxislash uchun qanday usullarni qo'llash kerak?
+- Tsitogenetik, egizak
+- Populyatsion-statistik, xromosoma
+- Jarrohlik, statistic
+- Parabioz, angiostomiya
++ Genealogik, biokimyoviy
+
+? Autosom trisomiyalardan qaysi biri eng qo’p uchraydigan?
++ 21 juft
+- 15 juft
+- 18 juft
+- 13 juft
+- 14 juft
+
+? Baraban tayoqchalarni aniqlash uchun qaysi hujayralar tekshiriladi?
+- Limfotsitlar
+- Trombotsitlar
++ Neytrofillar
+- Monotsitlar
+- Eritrotsitlar
+
+? Bemorning karyotipini tekshirganda 21-chi juft xromosomalarda trisomiya aniqlandi. Bu qaysi kasallik uchun xarakterlidir?
+- Klaynfelter sindromi
+- Trisomiya X
++ Daun
+- Bruton
+- Lui-Bar
+
+? Braxidaktiliya autosom-dominant yuli bilan irsiylanadi. Sog'lom ona va braxidaktiliya buyicha gomozigotali otadan tug'ilgan bolalarning nechi foyizi shu kasallik bilan tug'iladi?
+- 25%
+- 50%
+- 10%
++ 100%
+- 75%
+
+? Bunday klinik ko'rinish uchun inson kariotipining formulasi qanday: keng qalqonsimon ko'krak qafasi, qanotsimon katlam bo’yinda, amenoreya, saqlanib qolgan intellekt, rivojlanmagan gonadalar?
+- 47, XXY
+- 46, XX
++ 45, X0
+- 47, XY, + 21
+- 46, XY
+
+? Daun sindromi bilan kasallangan bemor erkakda nechta Barr tanachasi aniqlanadi?
+- 4
+- 1
+- 3
++ 0
+- 2
+
+? Irsiy kasalliklarning namoyon bo'lishi ba'zan bemorning yoshi bilan belgilanadi. Qaysi yoshda Gentington xoreyasi tashxisi qo'yiladi?
+- 10-15
++ 35-40
+- 45-50
+- 15-20
+- Tug'ilganda
+
+? Kasalliklardan qaysi biri jinsiy X-xromosoma bilan bog'liq xolda irsiylanadi?
+- Polidaktiliya
+- Daun
+- Terner
+- Albinizm
++ Daltonizm
+
+? Klaynfelter sindromi bilan kasallangan va kariotipi 47, XXY bo'lgan bemorda nechta Barr tanachasi aniqlanadi?
++ 1
+- 3
+- 4
+- 2
+- 0
+
+? Normada ayollarda nechta Barr tanachasi aniqlanadi?
++ 1
+- 4
+- 3
+- 2
+- 0
+
+? Normada erkaklarda nechta Barr tanachasi aniqlanadi?
+- 4
+- 3
+- 2
++ 0
+- 1
+
+? Otasi sog'lom, onasi - gemofiliya genining konduktori. Ularning qizlarining necha foizi bu genning tashuvchisi bo'ladi?
+- 75%
++ 50%
+- 25%
+- 100%
+- 10%
+
+? Poligen irsiylanish quyidagi kasalliklarning qaysi biri uchun xos?
+- Daun kasalligi
++ Ateroskleroz
+- Polidaktiliy
+- Kamqonlik
+- Gripp
+
+? Qanday kasallik jinsiy X-xromosoma bilan bog'liq xolda irsiylanadi?
+- Gentington xoreyasi
+- Terner
+- Polidaktiliya
++ Gemofiliya
+- Neyrofibromatoz
+
+? Qaysi kasallikda bemorning bo’yinda qanotsimon katlam aniqlanadi?
+- Klaynfelter
+- X-trisomiya
++ Terner
+- Patau
+- Daun
+
+? Qizning genetik tekshiruvi bukkal epiteliysida jinsiy xromatin yo'qligini aniqladi. Bu qanday irsiy sindromga to'g'ri keladi?
+- Bruton
+- Klaynfelter
+- Di Djordji
+- Daun
++ Terner
+
+? Quyidagi irsiy kasalliklardan qaysi biri irsiylanmaydi?
+- Gemofiliya
+- Albinizm
++ Klaynfelter kasalligi
+- Braxidaktiliya
+- Fenilketonuriya
+
+? Quyidagi kariotiplardan qaysi biri Daun sindromiga hos?
+- 47, XXY
+- 47, XXX
+- 47, XY, + 15
+- 46, XY
++ 47, XY, + 21
+
+? Quyidagi kariotiplardan qaysi biri Edvards sindromiga hos?
++ 47, XX+18
+- 47, XX+13
+- 47, XX+21
+- 46, XY
+- 45, X0
+
+? Quyidagi kariotiplardan qaysi biri Klaynfelter sindromiga hos?
+- 47, XY, + 21
+- 47, XX, + 21
+- 47, XXX
+- 46, XY
++ 47, XXY
+
+? Quyidagi kariotiplardan qaysi biri Patau sindromiga hos?
+- 47, XX+21
+- 47, XX+18
+- 47, XY+21
++ 47, XX+13
+- 47, XX+15
+
+? Quyidagi kasalliklardan qaysi biri anormal molekulaning sintezi bilan bog'liq?
+- Terner sindromi
++ O'roqsimonxujayrali anemiya
+- Daun
+- Fenilketonuriya
+- Podagra
+
+? Quyidagi kasalliklardan qaysi biri autosom-dominant yo’li bilan nasldan-naslga beriladi?
+- Albinizm
+- Daun
+- Fenilketonuriya
+- Alkaptonuriya
++ Axondroplaziya
+
+? Quyidagi misollardan qaysi biri autosom-retsessiv yul bilan irsiylanuvchi kasallik?
++ Albinizm
+- Polidaktiliya
+- Terner sindromi
+- Axondroplaziya
+- Daun sindromi
+
+? Terner sindromi bilan kasallangan bemorda nechta Barr tanachasi aniqlanadi?
++ 0
+- 2
+- 3
+- 1
+- 4
+
+? Trisomiya-X sindromi bilan kasallangan bemorda nechta Barr tanachasi aniqlanadi?
+- 0
+- 1
++ 2
+- 3
+- 4
+
+? Xromosoma aberratsiyalaridan qaysi birida xromosomaning biron qismi taqrorlanadi?
+- Inversiya
++ Duplikatsiya
+- Translokatsiya
+- Transversiya
+- Deletsiya
+
+? Xromosoma biron qismining yo'qolishi bilan bog'liq xromosomali mutatsiya turini toping.
+- Translokatsiya
+- Duplicatsiya
+- Inversiya
++ Deletsiya
+- Aberratsiya
+
+? “Maymun qo’li” belgisi qaysi kasallik uchun hos?
++ Daun
+- Patau
+- Klaynfelter
+- Terner
+- Edvards
+
+? Arterial giperemiya qaysi kasalliklarda kuzatiladi?
+- Flegmona
+- Skarlatina
++ Sanab o'tilgan barcha kasalliklarda
+- Furunkulyoz
+- Toshmali tif
+
+? Arterial giperemiya rivojlangan to‘qimada haroratning ko‘tarilishi qanday omillarga bog‘liq?
+- Modda almashinuvining sekinlashishi bilan
++ Oksidlanish jarayonlarning kuchayishi bilan
+- Passiv giperemiya rivojlanishi
+- Limfaning oqimi tezlashishi
+- Limfa hosil bo‘lishining ortishi
+
+? Arterial giperemiya uchun xarakterli emas?
+- Organ yoki to'qima hajmini oshishi
+- Organ yoki to'qimalarning to'laqonligi
+- A'zo yoki to'qimalarning qizarishi
++ Arterial tomirlar orqali qon oqimining kamayishi
+- Mahalliy harorat oshishi
+
+? Arterial giperemiyaga xos bo’lmagan holat?
+- To’qima tarangligining oshishi
++ Vena va limfa tomirlari orqali qon oqimining kamayishi
+- A’zo, to’qima hajmining kattalashishi
+- Arteriyalarning kengayishi
+- Limfa hosil bo’lishining kuchayishi
+
+? Arterial tomirdan ligaturani olib tashlash qon oqimining kuchayishiga olib keldi, bu giperemiyaning qaysi turi?
+- Neyroparalitik arterial giperemiya
+- Ishchi giperemiya
+- Venoz giperemiya
++ Reaktiv giperemiya
+- Vakat giperemiyasi
+
+? A`zoga qon oqib kelishining kuchayishi uning funktsiyasining ortishi bilan birga kuzatilsa nima deyiladi?
+- Neyroparalitik arterial giperemiya
+- Venoz giperemiya
+- Vakat giperemiyasi
++ Ishchi giperemiya
+- Reaktiv giperemiya
+
+? Bemorda neyroparalitik turdagi arterial giperemiya aniqlandi. U quyidagi hollarda rivojlanadi?
+- Vazodilatator nervlarning ta’sirlanishi
++ Simpatik innervatsiyani kamaytirish
+- Mikrosirkulyator tomir trombozi
+- Isitmada
+- Noradrenalinning ortiqcha ishlab chiqarilishi
+
+? Bemorda jigar sirrozi aniqlandi. Venoz qon dimlanishidan kelib chiqqan jigar sirrozi quyidagi hollarda rivojlanadi?
+- Jigar o’smasida
+- Sulema bilan zaharlanishda
++ Yurak etishmovchiligida
+- Buyrak etishmovchiligida
+- Ko'p miqdorda natriy ishlatilganda
+
+? Endotelial hujayralardan ajraladigan arginin hosilasi hisoblanadigan qaysi moddaning ta’sirida qon tomirlar bazal tonusi pasayishi natijasida metabolik mexanizmda arterial giperemiya yuzaga keladi ?
+- NH3
++ NO
+- CO2
+- Na+
+- CO
+
+? Gipertonik krizni bartaraf etish uchun bemorga ganglioblokator yuborildi. Bunday holda periferik qon aylanishi o'zgarishining qaysi turi rivojlanadi?
+- Staz
+- Ishemiya
+- Venoz giperemiya
++ Arterial giperemiya
+- Tromboz
+
+? Gipertoniya kasalligini davolash uchun arterial giperemiya rivojlanishiga olib keladigan vazodilatator preparatlar an'anaviy ravishda qo'llaniladi. Arterial giperemiya oqibatlari qaysi organ uchun ayniqsa xavfli?
++ Miya
+- Jigar
+- O’pka
+- taloq
+- Yurak
+
+? Kim birinchi marta tajribada neyrogen arterial giperemiyani o`tkazgan?
+- Alpern
++ Bernard
+- Galen
+- Pashutin
+- Bogomolets
+
+? Mahalliy qon aylanishi buzilishining qaysi turi qizarish, kichik arteriyalarning pulsatsiyasi, mahalliy haroratning oshishi, to'qima turgorligining oshishi bilan tavsiflanadi?
+- Ishemiya
+- Venoz giperemiya
+- Staz
+- Tromboz
++ Arterial giperemiya
+
+? Mahalliy qon aylanishining buzilishi qaysi turi uchun mahalliy haroratning pasayishi, siyanoz, qon oqimining sekinlashishi, eritrotsitlar diapedezi bilan tavsiflanadi?
+- Ishemik staz
+- Arterial giperemiya
+- Tromboz
++ Venoz staz
+- Vakant giperemiya
+
+? Nimalar venoz giperemiyaning oqibatlari bo‘lishi mumkin?
+- Hujayra membranalari o‘tkazuvchanligining pasayishi
++ Biriktiruvchi to‘qimani o‘sib ketishi
+- ATFning to‘planishi
+- To‘qima hujayralarida modda almashunivining kuchayishi
+- Haroratning oshishi
+
+? Operatsiya paytida vazokonstriktor nervlari tasodifan kesilgan. Bemorda periferik qon aylanishi buzilishining qaysi turi rivojlanadi?
++ Neyroparalitik arterial giperemiya
+- Venoz giperemiya
+- Ishemiya
+- Neyrotonik arterial giperemiya
+- Reaktiv giperemiya
+
+? Patologik fiziologiya darsida talabalar eksperiment davomida arterial giperemiyani kuzatdilar, u qanday yuzaga keladi?
++ Qon oqib kelishining kuchayishi
+- Qon oqimining to'liq to'xtatishi
+- Sovuq ta’sirida
+- Qon oqib kelishining qiyinlashuvi
+- Qon oqib kelishining kamayshi
+
+? Patologik giperemiya quyidagi hollarda rivojlanadi?
+- Jismoniy zo’riqishda
+- Ovqat hazm qilish jarayonida
+- G'azablanganda
++ Yallig'lanishda
+- Aqliy mehnat vaqtida
+
+? Periferik qon aylanishining quyidagi buzilishlaridan qaysi birida metabolizm tezlashadi?
+- Tromboz
++ Arterial giperemiya
+- Staz
+- Emboliya
+- Ishemiya
+
+? Pnevmoniyaga chalingan bemorga bankalar qo'yildi. Ushbu muolaja o’rnida rivojlanishga periferik qon aylanishi buzilishining qaysi turi rivojlanadi?
+- Staz
+- Venoz giperemiya
++ Arterial giperemiya
+- Tromboz
+- Ishemiya
+
+? Qaysi kasallikda yuzning yarmida arterial giperemiya kuzatiladi?
+- Toshmali tif
+- Skarlatina
+- Tizimli qizil yuguruk
+- Gripp
++ Uch shoxli nerv nevralgiyasi
+
+? Qaysi omil arterial giperemiyani chaqiradi?
+- Gipotenziya
++ Maxalliy modda almashinuvining maxsuloti- sut kislotasi H+
+- Haroratning pasayishi
+- Og‘riq
+- Adrenalin, vazopressin
+
+? Qisqa muddatli cheklovdan keyin a`zoga qon oqib kelishining kuchayishiga nima deyiladi?
+- Venoz giperemiya
++ Reaktiv giperemiya
+- Neyroparalitik arterial giperemiya
+- Ishchi giperemiya
+- Vakat giperemiyasi
+
+? Qon tomir devorining miyotsitlarida qaysi ionning to'planishi vazoaktiv peptidlarga nisbatan sezuvchanligini oshiradi?
+- K+
++ Na+
+- Ca++
+- H+
+- Cl-
+
+? Qon tomirlarining kengayishi va arterial giperemiyaning rivojlanishi metabolik buzilishlar sharoitida yuzaga keladi. Qon va to'qimalar tarkibidagi qaysi modda pasayishi bunday buzilishga olib keladi?
+- Azot
+- pCO2
+- Adenozin
++ pO2
+- Laktat
+
+? Qon tomirlarini kengaytirish ta’siriga ega bo‘lgan moddalarni ko‘rsating?
++ Atsetilxolin, prostaglandinlar A, E, kininlar
+- Atsetilxolin, aldosteron, prostaglandin F2
+- Prostaglandin F2, aldosteron, kininlar
+- Atsetilxolin, prostaglandin F2, aldosteron
+- Prostaglandin F2, prostaglandinlar A, E, kininlar
+
+? Qonning pH qiymati qancha bo`lganda patologik tipdagi arterial giperemiyaga olib keladi?
++ 7,25
+- 7,52
+- 7,50
+- 7,63
+- 7,56
+
+? Skelet mushaklarida uning qisqarishi paytida paydo bo'ladigan mahalliy qon aylanishining buzilishi qanday nomlanadi?
+- Venoz giperemiya
+- Vakat giperemiyasi
+- Reaktiv giperemiya
+- Neyroparalitik arterial giperemiya
++ Ishchi giperemiya
+
+? Venoz giperemiya uchun xarakterli emas?
+- Shish
+- Siyanoz
+- Vena tomirlari va kapillyarlar kengayishi
+- Induratsiyalanish
++ Organ yoki to'qima orqali oqib o`tayotgan qon hajmining oshishi
+
+? Venoz giperemiyaning sababiga ko‘ra turlarini ko‘rsating:?
+- Kardiogen, neyroparalitik, mioparalitik
++ Kardiogen, obturatsion, kompression
+- Kardiogen, mioparalitik, kompression
+- Mioparalitik, neyroparalitik, kompression
+- Mioparalitik, obturatsion k, neyroparalitik
+
+? 10000 m balandlikda samolyot kabinasining favqulodda razgermetizatsiyasi sodir bo'ldi. Uchuvchida bir vaqtning o'zida qaysi emboliya turi paydo bo'ladi?
+- Yot jism emboliyasi
+- Yog ' emboliyasi
+- Havo emboliyasi
+- Tromboemboliya
++ Gaz emboliyasi
+
+? Agar pastki kovak venada tromboz bo‘lsa qaerda retrograd emboliya bo‘lishi mumkin?
+- Miya tomirlarida
+- Yurak toj tomirlarida
+- O‘pka venalarida
++ Buyrak venalarida
+- Taloq venalarida
+
+? Asoratli tug’ruqdan keyin ayol DVS sindromi bilan reanimatsiya bo’limiga yotqizildi. Ko’rsatilganlardan qaysi biri bu asorat bilan bog'liq emas?
++ Semizlik
+- Metroragiya
+- Mikrotrombozlar
+- Qon ketish
+- Gemorragik toshma
+
+? A’zo yoki to’qimaga oqib keluvchi qon hajmining kamayishi bilan xarakterlanuvchi periferik qon aylanishi buzilishi turini ko’rsating?
+- Arterial giperemiya
++ Ishemiya
+- Tromboz
+- Venoz giperemiya
+- Staz
+
+? Bemorda reaktiv turdagi arterial giperemiya aniqlandi. U quyidagi hollarda rivojlanadi:?
++ Ishemiyadan keyin
+- Mahalliy haroratning ortishi
+- Metabolizmning faollashini
+- Venoz giperemiya
+- Regeneratsiya kuchayishi
+
+? Bosh miya qon tomirlari trombozidan so’ng, trombozga uchragan tomir havzasida nima rivojlanishi mumkin?
++ Infarkt
+- Yurak nuqsoni
+- Venoz giperemiya
+- Arterial giperemiya
+- O’sma
+
+? Bosh miya yarim sharlari ishemiyasida salbiy oqibatlar yuzaga kelishi nimaga bog`liq?
+- Yurak ishiga
++ Ishemiyaning davomiyligiga
+- Qon bosimiga
+- Arteriollarning holatiga
+- Kollaterallarning qay darajada rivojlanganligiga
+
+? Chin stazda eritrotsitlar agregatsiyasi qanday xarakterda bo’ladi?
+- Stazda eritrotsitlar agregatsiyasi kuzatilmaydi
+- Fibrin aralash koptokchalar
+- Leykotsit va eritrotsitdan iborat konglomerantlar
++ Tangachali ustunlar(sladj fenomeni)
+- Gemolizlangan eritrotsitlar cho’kmasi ko’rinishida
+
+? Endoteliya shikastlanganda endoteliyotsitlar tomonidan qaysi modda sintezi etishmasligi tufayli qon tomir trombozi uchun sharoitlar paydo bo'ladi?
+- Tromboksanlar
+- Gistamin
+- Araxidon kislotasi
++ Prostatiklin
+- Prostaglandin E
+
+? G’avvoslarda qaysi emboliya rivojlanish xavfi yuqori?
+- Yot jism emboliyasi
+- Yog’ emboliyasi
++ Gaz emboliyasi
+- Bakterial emboliyasi
+- Havo emboliyasi
+
+? Havo emboliyasi qaysi qon tomirlar shikastlanganda kuzatiladi?
+- Son venasi
+- Aorta
++ Bo‘yinturug‘ vena
+- Uyqu arteriyasi
+- Son arteriyasi
+
+? Ishemik stazni modellashtirish uchun ko'ngilli yelkasiga turniket qo'yildi. Shu bilan birga, tomirlar va arteriyalar siqildi. Ushbu alomatlardan qaysi biri o'rganuvchining bilagida tezroq paydo bo'ladi?
+- To'qimalarning shishishi
+- siyanoz
+- Qizarish
++ Paresteziya
+- Kichik tomirlarning pulsatsiyasi
+
+? Ishemiya oqibati asosan nimaga bog’liq bo’ladi?
+- Limfa oqimi tezligiga
+- Nerv va gumoral tizimga bog’liq
++ Ishemiya sohasi va davomiyligi
+- Vena qon tomirlari tonusi
+- Bemornig yoshi va jinsiga
+
+? Ishemiya uchun xarakterli emas?
+- Mahalliy harorat oshishi
+- Organ yoki to'qimalarning qon bilan to'lishuvining kamayishi
+- Arterial tomirlarning torayishi
++ Limfa hosil bo`lishining ruchayishi
+- To`qima rangi oqarishi
+
+? Ishemiya uchun xos belgini ko’rsating:?
+- Venalardan qon oqib ketishini qiyinlashishi
+- Venalardan qon oqib ketishining tezlashishi
+- Ishemiya rivojlangan joyda qon bosimining ortishi
+- Limfa hosil bo‘lishining ko‘payishi
++ To‘qima va organning qon bilan ta’minlanishining kamayishi
+
+? Ishemiya zonasida qanday o‘zgarishlar yuzaga kelishi mumkin?
+- Nekroz, alkaloz, funksiyaning kuchayishi
+- Modda almashinuvining tezlashishi, alkaloz,funksiyaning susayishi
+- Alkaloz modda almashinuvining tezlashishi, funksiyaning kuchayishi
+- Nekroz, alkaloz, modda almashinuvining tezlashishi
++ Nekroz,atsidoz,funksiyaning susayishi
+
+? Ishemiyada qaysi hujayra tuzilmalari qaysi biri birinchi bo’lib zarar ko'radi?
++ Mitoxondriyalar
+- Xromosomalar
+- Ribosomalar
+- Lizozomlar
+- Sitoplazma
+
+? Ishemiyada to'qimalarda metabolik, funktsional va tizimli buzilishlarning tabiati qanday aniqlanadi?
+- Giperoksiya darajasiga qarab
+- Iishemiya turiga qarab
+- Funktsional holatga qarab
+- Lokalizatsiyaga ko`ra
++ Gipoksiya darajasiga qarab
+
+? Ishemiyaga xos belgilarni ko’rsating?
+- A’zo tarangligi oshishi , funktsional kapillyarlar soning kamayishi
++ A’zo hajmining kichrayishi, funktsional kapillyarlar soning kamayishi
+- Kollaterallar soni kamayishi
+- Mahalliy harorat oshishi
+- funktsional kapillyarlar soning kamayishi, metabolism tezlashishi
+
+? Ishemiyaning turlari:?
+- Neyroparalitik, postanemik obturatsion
+- Kompression, neyroparalitik , yallig‘lanishdagi
++ Kompression, reflektor, obturatsion
+- Kompression, yallig‘lanishdagi , postanemik
+- Postanemik, reflektor, neyroparalitik
+
+? Itdan qo'rqib, qiz to'satdan oqardi. Periferik qon aylanishi buzilishning qaysi turi sababli yuzining rangi o'zgargan?
++ Angiospastik ishemiya
+- Compression ishemiya
+- Reaktiv giperemiya
+- Obturatsion ishemiya
+- Chin staz
+
+? Jarrohlik amaliyoti vaqtida tromboz shakllanishi uchun sharoit yaratiladi. Bu jarayon tomirnining endoteliyasiga zarar etkazish va undan qaysi modda ajralishi bilan boshlanadi?
+- Bradikinin
+- Adenozintrifosfat
+- Serotonin
++ Trombotsitlarni faollashtiruvchi omil
+- Gistamin
+
+? Koronar ateroskleroz chalingan 65 yoshli bemor, miokard infarkti tashxisi bilan kasalxonaga yotqizildi.Ko’rsatib o’tilganlardan qaysi biri bunga olib keldi?
+- Reaktiv giperemia
+- Venastaz
++ Obstruktiv ishemiya
+- Venoz giperemia
+- Chin staz
+
+? Mikrosirkulyator o`zanda qonning suspenziyali barqarorligi nima ta'minlanadi?
+- Eritrotsitlarining disk shaklida bo`lishi
++ Eritrotsitlarining manfiy zaryadlari
+- Trombotsitlarning manfiy zaryadlanishi
+- Qon oqimi tezligi
+- Eritrotsitlarining musbat zaryadlari
+
+? Mikrosirkulyatsion o`zan tomirlar diametri o`lchami qanchadan kichik bo`lishi kerak?
++ 100 mkmdan
+- 500 mikrondan
+- 200 mkmdan
+- 10 mmdan
+- 1000 mmdan
+
+? Mikroskop ostidagi qurbaqani o'rganish davomida qon aylanishining buzilishlarini aniqladi. Unda eritrotsitlarni tanga ustunlariga yopishtirish hodisasi aniqlandi. Bu periferik qon aylanishi buzilishining qaysi turi uchun xarakterli?
+- Angiospastik ishemiya
++ Chin staz
+- Venoz giperemiya
+- Arterial giperemiya
+- Compression ishemiyasi
+
+? Mikrotomirlardagi staz agar qon reologiyasi o’zgarishsiz bo’lsa oqibat qanday bo’ladi?
+- Gangrena rivojlanadi
+- Qaytmas bo’ladi
+- Tromboz rivojlanadi
++ Qaytar bo’ladi
+- Nekroz rivojlanadi
+
+? Miokard ishemiyasida etakchi belgini ko’rsating?
+- Qo’rquv
+- Aritmiya
+- Rangparlik
+- Hushdan ketish
++ Og’riq
+
+? Nima tromb xosil bo‘lishini rag‘batlantiradi?
+- Qon-tomir devori shikastlansa
+- Qon ivishi va ivishiga qarshi tizimlar faolligi buzilsa
+- Qon tomir devorida fibrinolitik faollik pasayib, elektron potensial o‘zgarsa
+- Qon oqishi sekinlashishi, qon tomir anevrizmasida,qon aylanib qolsa
++ Hamma javoblar to‘g‘ri
+
+? Nima trombozning nisbatin asoratsiz tugashiga ko‘maklashadi:?
+- Tromboflebit
+- Trombni infeksiyalanishi
+- Organni atrofiyasi
+- Trombni parchalanib ketishi
++ Kollateral qon aylanishining kuchayishi
+
+? Normal holatda qon va limfa tarkibiy qismida bo'lmagan zarralar bilan qon yoki limfa tomirlarining to`silib qolishiga nima deyiladi?
+- Ishemiya
+- Giperemiya
+- Fibrinoliz
+- Tromboz
++ Emboliya
+
+? Obturatsion ishemiya kelib chiqish sababi:?
++ Tomir bo`shlig`ining tromb yoki embol bilan qisman yoki to'liq yopilishi
+- tomirlarni ligatura, chandiq yoki o`sma bilan tashqi tomondan bosilishi
+- Staz
+- Qon tomirlar reflektor spazmi
+- Tomir tonusining oshishi
+
+? Oyoq venalari tomirlarning trombozi bo'lgan bemorlarda miya tomirlarining emboliyasini rivojlantirish imkoniyatini nima yaratadi?
+- Aorta stenozi
+- Mitral stenoz
++ Bo’lmachalar aro to’siq nuqsoni
+- Mitral qopqoq etishmovchiligi
+- Septik endokardit
+
+? Periferik qon aylanishning mahalliy buzulishlarida, quyida keltirilgan ko'rsatkichlardan qaysi biri o`zgarmaydi?
+- To’qima mahalliy harorati
++ Qondagi lipoproteinlar miqdori
+- Qon oqimi tezligi
+- A’zoga oqib keluvchi qon hajmi
+- Qon tomir tonusi
+
+? Qaysi bir ko‘rsatkich tromboz rivojlanishida etakchi hisoblanadi:?
+- Qon ivituvchi sistema omillarining aktivlashishi
+- Qon oqimining sekinlashishi
+- Qon ivituvchi sistemaning o‘zgarishi
++ Tomir devorining shikastlanishi
+- Qon oqimining tezlashishi
+
+? Qaysi ion qon tomirlarining mushak tolalarida to'planishi ishemiya rivojlanish ehtimolini oshiradi?
+- Cl-
++ Na+
+- Fe+
+- H+
+- K+
+
+? Qaysi jarayon trombozning nisbatan asoratsiz tugashiga ko‘maklashadi?
++ Kollateral qon aylanishining kuchayishi
+- Tromboflebit
+- Trombning yiringlashi
+- Trombning parchalanishi
+- Organning atrofiyasi
+
+? Qaysi patologik xolat sladj rivojlanishi bilan kechadi?
+- Alkoloz
+- Qonda NO2 miqdori ortishi
+- Gemodelyusiya
++ Organizmning umumiy degidratatsiyasi
+- Qonda endoteliin miqdori ortishi
+
+? Qaysi qon tomirning emboliyasi oyoq venalari trombozi bo`lgan bemorlarda asorat sifatida ko`p uchraydi?
+- O’pka venasi
+- Koronar arteriya
++ O’pka arteriyasi
+- O’pka venasi
+- Portal vena
+
+? Kichik doirasiqon aylanishining  tomirlari emboliyasida o'lim sababi nima?
+- Tizimli arterial gipotenziya
+- O’tkir chap qorincha etishmovchiligi
+- O’'tkir o`pka gipertenziyasi
+- Surunkali o'ng qorincha etishmovchiligi
++ O’tkir o'ng qorincha etishmovchiligi
+
+? Qon fibrinolitik tizimining faollashishi va leykotsitlarning proteolitik fermentlari tufayli trombozning tarqalishi jarayoni nima deyiladi?
+- Organizatsiya
+- Rekanalizatsiya
+- Tromboemboliya
++ Aseptik autoliz
+- Septik autoliz
+
+? Qon tomirlarining endoteliyasida patologik omillar ta'sirida arteriollarni kengaytiradigan va trombotsitlarni agregatsiyalashni kamaytiradigan to'yinmagan yog'li kislotaning hosilasi hosil bo'ladi. Bu modda nima?
+- Interkeykin-1
+- Leykotrien D4
+- Prostaglandin A
+- Prostaglandin E
++ Prostaglandin I2
+
+? Quyida sanab o'tilganlar orasida ekzogen emboliya turi qaysi?
+- Amniotik suyuqlik
+- Yog’ emboliyasi
+- Tromboemboliya
++ Bakterial
+- To`qima emboliyasi
+
+? Quyida sanalganlardan qaysi biri portal vena emboliyasining asoratlariga kirmayadi?
+- Splenomegaliya
+- Qorin old devori venalarining kengaytirish
+- Aastsit
++ Gepatit
+- Qizilo’ngach venalarining varikoz kehgayishi
+
+? Quyidagi kasalliklardan qaysi birida staz kuzatiladi?
+- skarlatina
+- Nevralgiya
++ Pnevmoniya
+- Sklerodermiya
+- Gripp
+
+? Quyidagilardan qaysi biri kelib chiqishiga ko`ra endogen emboliyaga tegishli?
+- Yot jism
+- Gaz
+- Parazitar
+- Havo
++ Yog'
+
+? Quyidagilardan qaysi biri tromboz shakllanishi uchun zarur shart sanaladi?
+- Fibrinolizning faollashishi
+- Vegetativ disfunktsiya
+- Qon oqimining tezlashishi
+- Qon tomir devorining regeneratsiyasi
++ Qon tomir devorining shikastlanishi
+
+? Quyidagilarning qaysi birida tromboz xavfli oqibat bilan yakulanadi?
+- Rekanalizatsiya
++ Septik autoliz
+- Organizatsiya
+- Tromb organisatsiyasi
+- Aseptik autoliz
+
+? Sanab o’tilganlardan qaysi biri qo’l va oyoq muchalarida ishemiyaga sabab bo'lmaydi?
+- Qon tomirlar tonusining kamayishi
+- Og'riq
++ Venulalar bosilishi
+- Arteriolalar obliteratsiyasi
+- Arteriya emboliyasi
+
+? Sladj fenomeni nima?
+- Leykotsitlarning konglomeratlar hosil qilishi
+- Mikrotsirkulyator tomirlarda qon oqsillarining koagulyatsiyasi
+- Tomir devorlarida, kapillyarlarda, arteriollarda trombolitik agregatlarning umumiy shakllanishi
++ Bu mikrotsirkulyato rtomirlar ichida qon hujayralarining hayotiy agregatsiyasi bo'lib, qon yopishqoqligining oshishi va qon separatsiyasi bilan birga kechadi
+- Bu kapillyar zararlanganda qon ivishining birinchi bosqichidir
+
+? Sovuq harorat ta`sirida yuzaga keladigan chin stazning asosiy mexanizmini ko`rsating:
++ Intrakapillyar eritrotsitlar agregatsiyasi
+- fibrin iplarining shakllanishi
+- Eritrotsitlar gemolizi kuchayishi
+- Kapillyarlarda qonning quyuqlashishi
+- Kapillyarlarda qon oqimining sekinlashishi
+
+? Staz turlarini ko’rsating?
++ Kapillyar, venoz,ishemik
+- Cin staz, ishenik staz
+- Kapillyar, arterial, limfatik
+- Venastaz, compression
+- Chin staz va qaytar staz
+
+? Stazning qaysi turi qaytmas xarakterda bo'ladi.?
+- Venoz
+- Ishemik
++ Kapillyar
+- Staz qaytar xarakterga ega
+- Arterial
+
+? Tomirlarning patologik jarayonlar (ateroskleroz, anevrizma) bilan zararlanganda, tromboz ko'pincha qaysi tomirlarda yuzaga keladi?
++ Oyoq venalarida
+- Qo`l venalarida
+- Bilak arteriyalari
+- Qo`l arteriyalarida
+- Oyoq arteriyalarida
+
+? Tromboliz nima ta'siri ostida sodir bo'ladi?
+- Peroksidaza
+- Katalaza
++ Streptokinaza
+- Gistaminazalar
+- Superoksid dismutaza
+
+? Trombozning asosiy omillarining uchta guruhi kim tomonidan aniqlangan?
+- Amosov
++ Virxov
+- Sirotinin
+- Mechnikov
+- Virsungov
+
+? Trombozning hujayra fazasini rivojlanishida omillar orasida qaysi biri asosiy rol o'ynaydi?
++ Tromboksan A2
+- Fibrinogen
+- Noradrenalin
+- Adrenalin
+- Trombotsitlarni agregatsiya qilish omili
+
+? Ushbu emboliyalardan qaysi biri kelib chiqishiga ko’ra ekzogen emboliya?
+- To’qima
+- Homila oldi suvi
+- Yog'li
++ Gazli
+- Tromboemboliya
+
+? Uzoq muddatli ishemiyada eng kam funktsional va morfologik o'zgarishlar qaysi a`z ova to`qimalarda yuzaga keladi?
+- Miyokard va jigar
++ Teri va suyaklar
+- Miya va ichak
+- Skelet mushaklari va buyraklar
+- Yurakda
+
+? Yog‘ emboliyasi natijasida ko‘pincha qaysi organ jaroxatlanadi?
+- Yurak
+- Jigar
+- Bosh miya
++ O‘pka
+- Taloq
+
+? 28 yoshli bemorda, qo'lidagi furunkul ochilgach, yara chandiqsiz tez bitib ketdi. Qaysi hujayralar proliferatsiya jarayonida yetakchi rol o'ynashini ko'rsating?
+- neytrofillar
+- limfotsitlar
++ fibroblastlar
+- eozinofillar
+
+? 45 yoshli ayolda o’simliklar gullashi davrida yuqori nafas yo'llari va ko'zning o'tkir yallig'lanish kasalligi rivojlanishi aniqlandi: giperemiya, shish, shilliq ajralishi. Buning uchun qaysi turdagi leykotsitoz xos bo'ladi?
++ Eozinofiliya
+- Neytrofiliya
+- Bazofiliya
+- Monotsitoz
+
+? 6 yoshlik bolada yuqori nafas yo'llarining yallig'lanishining giperergik shakli rivojlangan. Jiddiy nafas yetishmovchiligi xavfi bor edi, shuning uchun gormonal terapiyani qo'llash zarur bo'ldi. Gormonlar orasida yallig'lanishga qarshi ta'sirga ega?
++ kortizol
+- o'sish gormoni
+- adrenalin
+- testosteron
+
+? 63 yoshli ayolda revmatoid artrit belgilari bor. Tashxisni aniqlash uchun quyidagi qon parametrlaridan qaysi biri eng muhim bo'ladi?
++ Umumiy glyukozaaminoglikanlar
+- Kislotali fosfataza
+- Umumiy xolesterin
+- Lipoproteinlar
+
+? Interferon keltirib chiqarmaydi:?
++ Sitokin sintezining ko'payishi
+- Sitotoksiklik
+- Sitostatik
+- Sitokin sintezini ingibitsiya qilish
+- Isitma
+
+? Ekssudatsiyani kamaytirish uchun qaysi yallig'lanish mediatori tormozlanishi kerakligini ko'rsating?
+- Prostoglandin
+- Katexolaminlar
+- Tromboksan
+- Geparin
++ Gistamin
+
+? Eozinofillarda yallig'lanish mediatorlari - leykotrienlarni yo'q qiladigan ferment mavjud. Ushbu ferment qaysi?
+- Glikosiltransferaza
++ Arilsulfataza
+- Prolin gidroksilaza
+- Prolagen peptidaza
+- Gidroksilaza
+
+? Faol kislorod radikalining fagotsit avlodlari faollashuvi bilan nima boshlanadi?
+- Aldolaza
++ Oksidaza
+- Gidrogenaza
+- Peroksidaza
+- Reduktaza
+
+? Giperergik yallig'lanish organizmda o'zgaruvchan reaktivlik holatida bo'ladi. Bu qanday jarayon?
++ Allergiya
+- Stress
+- Fermentopatiya
+- Immunitet tanqisligi
+- Immunosupressiya
+
+? GKS fosforilaza A2 ni hosil qiladigan va prostaglandinlar hosil bo'lishini kamaytiradigan ma'lum bir oqsil sintezini rag'batlantiradi. Ushbu proteinni nomlang?
+- Vesikulin
+- Transferrin
+- Mikroglobulin
++ Lipomodulin
+- Makroglobulin
+
+? Leykotsitlarning yallig'lanish o'chog'iga tushishiga olib keladi?
+- Qon oqimining sekinlashishi
++ Qirg’oqda turishi
+- Osmotik bosimning oshishi
+- Qon bosimining ko'tarilishi
+- Qon bosimining pasayishi
+
+? Ma'lumki, prostatsiklinlar sintetazasi ta'sirida prostatsiklin flogenogen agentning ta'sir doirasi atrofida hosil bo'ladi. Ushbu jarayon qayerda sodir bo'ladi?
+- Qizil qon hujayralari
+- Leykotsitlar
+- Osteotsitlar
++ Endoteliotsitlar
+- Gepatotsitla
+
+? Ma'lumki, qon tomirlaridan leykotsitlar yallig'lanish markaziga ma'lum bir ketma-ketlikda ko'chib o'tadi. Oxirgi bosqichlarda yallig'lanish o'chog'iga nima yetib boradi?
+- Bazofillar
++ Limfotsitlar
+- Eozinofillar
+- Monotsitlar
+- Neytrofillar
+
+? Moddaning izolatsiyasi yallig'lanishning dastlabki belgilari, xususan, isitma, qo'shma og'riq, leykotsitoz, qonda oqsil ko'payishiga olib keladi?
++ Interleykin 1
+- Prostatsiklin
+- Tromboksan A
+- Gistamin
+- Geparin
+
+? Monotsitlarning yallig'lanish markaziga keyinchalik chiqishi nima bilan bog'liq?
+- Katta hujayralar
+- Katta elektr zaryadi
+- Transtselulyar chiqish
++ Kamroq kimyoviy ta'sirchanlik
+- Kichik elektr zaryadi
+
+? Nima yallig'lanish markazida interferonni chiqarmaydi?
+- Makrofaglar
+- Monotsitlar
+- T- yordamchisi
+- T- killer
++ Eozinofillar
+
+? O'tkir yiringli yallig'lanish markazida har xil turdagi leykosit hujayralarining emigratsiya ketma-ketligini ko'rsating?
+- Monotsitlar, neytrofillar, limfotsitlar
++ Neytrofillar, monotsitlar, limfotsitlar
+- Limfotsitlar, monotsitlar, neytrofillar Limfotsitlar, monotsitlar, neytrofillar
+- Bazofillar, monotsitlar, neytrofill
+- Bazofillar, monotsitlar, neytrofillar
+
+? Sifilisning yaralaridan olingan yiringli ekssudat katta miqdorda nimani o'z ichiga oladi?
++ Monotsitlar
+- Bazofillar
+- Neytrofillar
+- Eozinofillar
+- Fibroblastlar
+
+? Siklooksigenazaning yallig'lanish sharoitida araxidon kislotasiga ta'sir qilishi natijasida qaysi mediator to'planadi?
+- Serotonin
++ Prostaglandin
+- Interleykin
+- Lizosomal ferment
+- Gistamin
+
+? Somatomedin qaysi organda hosil bo'ladi?
++ Jigarda
+- Suyak ko’migida
+- Taloq ichida
+- Buyraklarda
+- Ingichka ichakda
+
+? Xageman omilining faollashishi natijasida biokimyoviy reaksiyalar kaskadi yuzaga keladi, bu fokusda yallig'lanishning paydo bo'lishiga olib keladi?
+- Lizosomal fermentlar
+- Statinlar
+- Leykotrienlar
+- Tromboksan A2
++ Kininlar
+
+? Yallig'lanish hujayralarining o'rtasida nima erkin radikallarni zararsizlantiradi?
+- Katepsin
++ Superoksid dismutazasi
+- Elanaza
+- Aldolaza
+- Arilsulfataza
+
+? Yallig'lanish markazining hujayradan tashqari bo'sh joyida erkin radikallar neytrallanadi?
++ Seruloplasmin
+- Tokoferol
+- Tiamin
+- Ubixinon
+- Askorbat
+
+? Yallig'lanish o'chog'idagi atsidoz asosan nimaning to'planib qolishidan kelib chiqadi?
+- Yog’ kislotalari
+- Fosfor kislotasi
+- Azot kislotasi
++ Sut kislotasi
+- Aminokislotalar
+
+? Yallig'lanish paytida neytrofillarning himoya funksiyasi azurofil granulalarida fermentlarning mavjudligi bilan ta'minlanadi. Biroq, ular o'z ichiga nimani olmaydi?
+- Peroksidaza
+- Lizotsim
++ Ishqorli fosfataza
+- Kislota gidrolazalari
+- Miyeloperoksidaza
+
+? Yallig'lanish paytida og'riq keltirmaydigan omillarni ko'rsating?
+- H+ giperion
+- Nerv uchlarini mexanik ta’sirlanish xususiyati
++ To'qimalar haroratining oshishi
+- Gistamin
+- Bradikinin
+
+? Yallig'lanish reaksiyasi bilan birga keladigan qon tomirlari o'zgarishining qaysi bosqichida tomirlardan suyuqlikning yallig'lanish o'chog'iga maksimal chiqishi uchun zarur shart-sharoitlar yaratiladi?
+- Arterial giperemiya
+- Prestaz
++ Venoz giperemiya
+- Staz
+- Qontomir o’tkazuvchanligining yo’qolishi
+
+? Yallig'lanish sohasidagi fibroblastlarning asosiy roli nimani sibtez qilishdan iborat?
+- To'ldiruvchi
+- Mediatorlar
++ Kollagen
+- Immunoglobulin
+- Tarkibiy oqsillar
+
+? Yallig'lanishning biogen amin-vositachisi, serotonin qachon ajralib chiqariladi?
++ Trombotsitlarni faollashishi
+- Qon tomirlari shikastlanishi
+- Nervni ta’sirlanish xususiyati
+- Kapillyarlarning toraishi
+- Kapillyarlarning kengayishi
+
+? Yalliglanish markazida mahalliy qon aylanishining qaysi bosqichida mayatnikka o'xshash qon harakati bor?
+- Arteriolalarning spazmi
+- Arterial giperemiya
++ Prestaz
+- Staz
+- Venoz giperemiya
+
+? Yalliglanishning oxirgi bosqichida H2 leykotsitlari retseptorlariga ta'sir qiluvchi gistamin nimani hosil qiladi?
+- Membrana o'tkazuvchanligi
+- Lizosoma harakatchanligi
+- CO2 is’temoli
+- Kislorod iste'moli
++ Proteazalarni izolyatsiyasi
+
+? Araxidon kislotasiga siklooksigenazning yallig'lanish sharoitida ta'siri natijasida mediator to'planib, u nima deb ataladi?
+- Serotonin
+- Gistamin
++ Prostaglandin
+- Lizosomal ferment
+
+? Artrit bilan og'rigan bemor bug'imlardagi og'riqlar, shish va qizarishdan shikoyat qiladi.Kasallikning tabiatini aniqlash uchun qanday ferment faolligini tekshirish kerak?
+- Kislotali fosfataza
++ Gialuronidaza
+- Kreatinkinaza
+- Ishqoriy fosfataza
+
+? Bemorda chap tizza bo'g'imining shikastlanishi va o'tkir gemorragik bursit rivojlanishi tufayli chandiq hosil bo'ldi va bu bo'g'imdagi harakat doirasi cheklandi. Bunday asoratning rivojlanishiga yallig'lanishning qaysi komponenti asos bo'lgan?
+- Birlamchi alteratsiya
++ Proliferatsiya
+- Ikkilamchi alteratsiya
+- Ekssudatsiya
+
+? Bemorda kuyishdan bir necha soat o'tgach, terining giperemiya va shishishi sohasida nekroz o’chog’i paydo bo'ldi. Yallig'lanish o’chog’i da shikastlanish hodisalarni kuchaytiruvchi asosiy mexanizm nima?
++ Ikkilamchi alteratsiya
+- Eritrotsitlar diapedezi
+- Limfotsitlar emigratsiyasi
+- Birlamchi alteratsiya
+
+? Bemorda umumiy qon taxlilida leykotsitoz va leykotsitlar formulasining chapga siljishi aniqlandi. Bu nima haqida bildiradi?
+- Surunkali yallig'lanish jarayoni haqida
++ O'tkir yallig'lanish jarayoni haqida
+- Allergiya haqida
+- Gelmintoz haqida
+
+? Ekzema bilan og'rigan bemorda yallig'lanishning 5 ta belgisi aniq ko'rinadi, ular Cels-Galen pentadasi deb ataladi. Quyidagi belgilarning qaysi biri bu pentadaga tegishli ekanligini ko'rsating?
+- Depigmentatsiya
+- Pigmentatsiya
++ Qizarish
+- Sariqlik
+
+? Endoteliyotsitlar yallig'lanish markaziga ko'chib ketadi., ular nimada ishtiroq etadi?
+- Elastin sintezida
+- Kollagen sintezida
++ Qon tomir shakllanishida
+- To'qimalarning ko'payishi da
+
+? Enterit bilan og'rigan bemorda trombotsitlar agregatsiyasi, bronxospazm, arteriolalarning kengayishi, tomirlar o'tkazuvchanligining oshishi, shikastlangan tomirlarning spazmi aniqlandi. Bu buzilishlar nimaning ta’siri bilan bog'liq?
++ serotonin
+- atsetilxolin
+- gistamin
+- epinefrin
+
+? Eozinofillar tarkibida yallig'lanish mediatorlari - leykotrienlarni yo'q qiladigan ferment mavjud. Bu ferment nima?
+- Glikoziltransferaza
++ Arilsulfataza
+- Prokollagenpeptidaza
+- Prolingidroksilaza
+
+? Eozinofillar yallig'lanish joyida paydo bo'lgan. Buning oqibati?
++ Gistaminning yo'q qilinishi
+- Xemotaksisning tormozlanishi
+- Gistaminning chiqarilishi
+- Xemotaksisning faollashishi
+
+? Leykotsitlarning yallig'lanish o'chog'iga chiqishiga yordam beradi?
+- Osmotik bosimning oshishi
+- Qon aylanishining sekinlashishi
++ Ularning qirg'oqda to’planishi
+- Qon bosimining oshishi
+
+? Ma'lumki, qon tomirlaridan leykotsitlar ma'lum bir ketma-ketlikda yallig'lanish o'chog'iga chiqib ketadi.Oxirgi bosqichda yallig'lanish markaziga quyidagilar chiqadi?
+- Neytrofillar
+- Eozinofillar
++ Limfotsitlar
+- Monotsitlar
+
+? Monotsitlarni yallig'lanish o'chog'iga kechroq chiqishi nimaga bog’lik?
+- Hujayralar kattaroq
++ Xemotaksik sezuvchanligi pastroq
+- Metabolik faolligi pastroq
+- Transcellular chiqishi
+
+? Qaysi moddaning chiqishi yallig'lanishning dastlabki alomatlari kompleksini keltirib chiqaradi: isitma, bo'g'imlarda og'riq, leykotsitoz, qon oqsilining ko'payishi?
+- Prostatsiklin
+- Tromboksan A2
+- Gistamin
++ Interleykin 1
+
+? Revmatizmga chalingan ayolni laboratoriya tekshiruvi natijasida qondagi "yallig'lanishning o'tkir bosqichi oqsillari" ko'payganligi aniqlandi. Qaysi modda ularni o'tkir yallig'lanish jarayonida jigarda hosil bo'lishini rag'batlantiradi?
+- prostaglandin E
+- bradikinin
+- gistamin
++ interleykin-1
+
+? Serotonin yallig'lanishining biogen amin mediatori bo’lib qachon ajraladi?
+- Qon tomirlar shikastlanishida
+- Kapillyarlarning kengayishida
++ Trombotsitlar faollashishida
+- To'qimalarning shikastlanishida
+
+? Sil kasalligi bilan og'rigan bemorda yallig'lanish joyida bo'shliq paydo bo'ldi. Yallig'lanish reaktsiyasining qaysi komponenti bu hodisaning rivojlanishiga asos bo'lgan?
+- Proliferatsiya
+- Emigratsiya
++ Alteratsiya
+- Ekssudatsiya
+
+? Yallig'lanish markazida kortizol nimani hosil bo'lishini tormozlaydi?
+- plazmin
++ gistamin
+- bradikinin
+- serotonin
+
+? Yallig'lanish markazida mikrovaskulyar tomirlarining o'tkazuvchanligi kuchayadi va ulardagi gidrostatik bosim oshadi. Hujayralararo suyuqlikda oqsil tuzilmalarining osmotik kontsentratsiyasi va dispersiyasi oshadi.Bu holda qanday turdagi shish kuzatiladi?
+- Limfogen
++ Aralash
+- Membranogen
+- Gidrodinamik
+
+? Yallig'lanish o'chog'ida Xageman omilining faollashishi natijasida biokimyoviy reaktsiyalar kaskadi paydo bo'ladi va bu nimani hosil bo’lishiga olib keladi?
+- Lizosomal fermentlar
+- Leykotrienlar
++ Kininlar
+- Tromboksan A2
+
+? Yallig'lanish o'chog'ining hujayradan tashqari bo'shlig'ida erkin radikallar nima bilan neytrallanadi?
+- Ubixinone
+- Tokoferol
++ Seruloplasmin
+- Askorbat
+
+? Yallig'lanish o’chog’ida atsidoz rivojlanishi asosan nimani to’planishiga bog’lik?
+- fosfor kislotasi
+- aminokislotalar
++ sut kislotasi
+- yog' kislotalari
+
+? Yallig'lanish paytida qon tomir devorining o'tkazuvchanligini oshirish mexanizmlari bilan bog'liq emas?
+- Mikrovezikulyar transportning faollashishi
+- Interendotelial yoriqlar kamayishi
+- Interendotelial yoriqlar ko'payishi
++ Ionllarning transmembranli transport i
+
+? Yallig'lanishda "respirator portlash" bu?
+- ATFning ortiqcha ishlab chiqarilishi
+- Mitoxondriyalarning faollashishi
++ Kislorod o’zlashtirilishining oshishi
+- Hujayralarning shikastlanishi
+
+? Yallig'lanishda hujayralari ichida erkin radikallar nima bilan neytrallashtiriladi?
+- Glutatyon peroksidaza
+- Katalaza
+- Arilsulfataza
++ Superoksid dismutaza
+
+? H2 gistamin retseptorlari ta'sirida yallig'lanish markazida to'plangan limfotsitlarda nima paydo bo'lishini tormozlaydi?
+- Interleykin-1 sekretsiyasi
+- T-yordamchilarining shakllanishi
+- T-qotil faoliyati
+- limfoblastning faolligi
++ limfokinlarning sekretsiyasi
+
+? Bazofillardagi granulalarda gistamin nima bilan birikib  kompleks hosil qiladi?
+- adrenalin
+- serotonin
+- elastin
+- kollagen
++ geparin
+
+? Birinchi marta yallig'lanish markazida mahalliy qon aylanishining buzilishini kim o'rgangan?
+- V. Voronin
+- C. Bernard
+- D. Alpern
+- I. Mechnikov
++ J.Kongame
+
+? Bu yallig'lanishning halokatli ta'sirini to'xtatadi, hujayradan tashqari bosqichda erkin radikallarni yo'q qiladi?
+- glutatyon
+- tokoferol
+- askorbat
++ ceruloplasmin
+- glutamat
+
+? Ekssudatsiyani rag'batlantirmaydi?
+- to'qimalarda onkotik bosimning oshishi
+- endoteliyotsit membranalarining o'tkazuvchanligi oshishi
+- tomirlardagi osmotik bosimning oshishi
+- tomirlarda gidrostatik bosimning oshishi
++ tomirlardagi onkotik bosimning oshishi
+
+? Kapillyar endoteliyotsitlarda H2 gistamin retseptorlarining ustunligi aniqlanadi. Buning yallig'lanish bilan natijasi quyidagicha bo'ladi?
+- o'tkazuvchanlikning oshishi
++ o'tkazuvchanlikning pasayishi
+- to'satdan vazodilatatsiya
+- doimiy o'tkazuvchanlik
+- o'tkazuvchanlikni barqarorlashtirish
+
+? Leykotsitlarning ko'chishi paytida ular qon tomir bazal membranasini unga ta'sir qilish natijasida yengishadi?
++ proteazlar
+- fosfolipazalar
+- arilfosfataza
+- lipazalar
+- kislota fosfataza
+
+? Leykotsitlarning tomir devoriga birikishi, ularning mavjudligi tufayli?
+- globulin
+- lipoproteinlar
+- albumin
+- glyukoza
++ proteinlar
+
+? Mikroselsellarning yuqori o'tkazuvchanligi tufayli yallig'lanishning mahalliy belgisi nima?
++ shish
+- mahalliy haroratning oshishi
+- og'riq
+- qizarish
+- disfunktsiya
+
+? Mikrosirkulyator tomirlarning kengayishi va ularning o'tkazuvchanligining oshishi gistaminni H2 retseptorlari bilan o'zaro ta'sir o'tkazish orqali keltirib chiqaradi?
+- makrofaglar
+- mast hujayralar
+- asab tugashlari
+- silliq mushak
++ endotelial hujayralar
+
+? Organizmdagi yallig'lanish jarayonlarida "o'tkir davr" oqsillari sintezlanadi.Ularni sintez qilish uchun qanday moddalar stimulyator hisoblanadi?
+- Immunoglobulinlar
+- angiotensin
+- katekolaminlar
++ Interleykinlar
+- Interferonlar
+
+? Qaysi olim,quyonning qulog'ini artib, yallig'lanish o'choqlari tomirlarida qon aylanishini o'rganishni taklif qilgan?
++ Kongeym
+- Virxov
+- Pashutin
+- Mechnikov
+- Menkin
+
+? Tuberkulyoz yallig'lanishi bilan ekssudat tarkibida juda ko'p miqdorda bo'ladi?
++ limfotsitlar
+- bazofillar
+- neytrofillar
+- fibroblastlar
+- plazmotsitlar
+
+? Yallig'lanishda lizosomalardan ajraladigan fermentlarga kiradi?
+- transferaza
++ gidrolazalar
+- polimeraza
+- fosforilazala
+- geksokinaza
+
+? Yallig'lanish ekssudatidagi giperkaliioniyaning sababi quydagilardan tashqari hammasi?
+- yallig'lanish joyida hujayralarda glikogenolizning kuchayishi
+- hujayradan tashqari atsidoz va K + ning bog'lanishdan H + oqsillariga o'tish
++ proliferativ jarayonlarning faollashishi
+- shikastlangan hujayralarni intensiv yo'q qilish
+- yallig'lanish sohasidagi hujayralarni energiya bilan ta'minlashdagi buzilishlar
+
+? Yallig'lanish jarayonida ekssudatsiyaning asosiy sababi nima?
+- tomir elastikligining pasayishi
++ qon tomir o'tkazuvchanligining oshishi
+- qon tomirlarini tashqi tomondan qisilishi
+- limfa oqimining pasayishi
+- tomirlardagi bosimning oshishi
+
+? Yallig'lanish markazida arterial giperemiya rivojlanishiga hissa qo'shadigan hujayraviy omilni toping?
++ gistamin
+- kalidin
+- bradikinin
+- kallikrein
+- norepinefrin
+
+? Yallig'lanish markazida giperosmiya nima sabab bo'ladi?
+- yallig'lanish vositachilarining ta'siri
+- glikolizni faollashtirish
++ kaliyning zararlangan hujayralardan chiqishi
+- katabolik jarayonlarning ustunligi
+- qondan oqsillarni olish
+
+? Yallig'lanish markazida mikrosirkulyatsiya buzilishining asosiy bosqichlarini kim tasvirlangan?
+- Sels
+- Mechnikov
++ Kongeym
+- Klark
+- Galen
+
+? Yallig'lanish markazida qon tomir devorining o'tkazuvchanligini oshirmaydigan moddani toping?
+- gialuronidaza
+- kollagenaza
+- fibrinopeptidaza
++ fosforilaza
+- elastaza
+
+? Yallig'lanish paytida qon tomir devorining o'tkazuvchanligini oshirish mexanizmlari kuzatilmaydi?
+- transklit kanallarni shakllantirish
+- mikrovezikulyar transportni faollashtirish
+- endoteliylararo kattalashgan yoriqlar
++ ionlarni transmembran bilan tashish
+- endoteliyni ko'chib tushishi
+
+? Yallig'lanish sohasidagi onkotik bosimni oshishi tufayli yuzaga keladi?
+- Oqsil tuzilmalarini yo'q qilish
+- Antikor tuzilishi
+- Oqsil sintezining ko'payishi
+- Protein tarkibidagi o'zgarishlar
++ Qon tomirlaridan oqsil chiqishi
+
+? Yallig'lanishga qarshi gistamin mediatorlarining qanday ta'siri uning H2 retseptorlariga ta'siri bilan bog'liq emas?
+- Ekzotsitoz
+- arteriolalarning kengayishi
+- bronxodilatatsiya
++ bronxospazm
+- Ximotaksisni susayishi
+
+? Yallig'lanishning klassik belgisiga nima xos emas?
+- Disfunktsiya
+- og'riq
+- Issiqlik
+- qizarish
++ shish
+
+? Yallig'lanishning rivojlanishida ishtirok etadigan lizosomal omillarga taalluqli emas?
+- erkin radikallar
+- nonenzymatik kationik oqsillar
+- peroksidaz
++ fosfolipaza A2
+- nordon gidrolazalar
+
+? Yalliglanish mediatorlaridan qaysi biri bir vaqtning o'zida mahalliy vazodilatatsiya, ularning devorlarining o'tkazuvchanligi oshishi, og'riqni keltirib chiqaradi?
++ gistamin
+- Tromboksan A2
+- Leykotrienlar
+- Lizosomal fermentlar
+- Geparin
+
+? Yalliglanishda transudat va yiringli ekssudat o'rtasidagi asosiy farq shundaki, ikkinchisida ular bor?
+- oz miqdordagi protein
+- oz miqdordagi qon hujayralari (oq qon tanachalari va boshqalar)
+- shikastlangan to'qima elementlarining oz miqdori
+- ko'p miqdorda vitaminlar
++ ko'p miqdorda protein
+
+? Yiring tayoqchalari va to'qimani shikastlangan tarkibiy qismlarga ega bo'lgan ekssudat qanday nomlanadi?
+- seroz
+- gemorragik
++ yiringli
+- kataral
+- aralash
+
+? Bemor kuchsizlik, tomoq og'rig'i, tana haroratining 38 ° s ga ko'tarilishi haqida shikoyat qildi. Ushbu moddalardan qaysi biri ekzogen pirogen bo'lishi mumkin va bemorda isitma keltirib chiqaradi?
+- To'yinmagan yog' kislotalari
++ Lipopolisaxarid
+- Fosfolipidlar
+- To'yingan yog' kislotalari
+- Nuklein kislotalar
+
+? O'pka yallig'lanishi bo'lgan bemorda tana haroratining oshishi kuzatildi. Qaysi biologik faol modda isitma paydo bo'lishida yetakchi rol o'ynaydi?
++ Interleukin 1
+- Melatonin
+- Bradikinin
+- Serotonin
+- Prostaglandin E
+
+? Ikki yoshli bolani tekshirganda, pediatr qon tomir reaktsiyalarining labilligini, adinamiyani qayd etdi. Qanday diatez haqida o'ylash mumkin?
+- Ekssudativ-kataral
++ Astenik
+- Nerv-artritik
+- Giperstenik
+- Limfatiko-hipoplastik
+
+? Alder kasalligida fagotsitoz buzilishining irsiy nuqsoni asosida nima yotadi?
+- Miyeloperoksidaza yetishmovchiligi
+- Glyukoza -6-fosfatdegidrogenaza yetishmovchiligi
++ Polisaharidlar metabolizmining buzilishi
+- Superoksiddismutaza yetishmovchiligi
+- NADF - oksidaza yetishmovchiligi
+
+? Alkogol fagotsitozning qaysi bosqichiga salbiy ta'sir ko'irsatad?
+- Yopishish
++ Hemotaxis
+- Qamrab olish
+- Hazm qilish
+- Yutish
+
+? Antigenning organismga kirishiga javoban antitanalarning shakllanishi qanday reaktivlikni o'z ichiga oladi?
+- Jinsiy
+- Organik
+- Anorganik
+- Nospetsifik
++ Spetsifik
+
+? Ayol miyokard infarkti belgilari bilan kasalxonaga yotqizildi. Kasallik tarixidan ma'lumki, 13 yildan buyon buyrak usti bezlarining gipersektsiyasi kuzatiladi. O'tkir miyokard ishemiyasida reaktivlikning ganday o'zgarishlari kelib chiqadi?
+- Patologik spetsifik reaktivlik, giperergiya holati
+- Patologik spetsifik reaktivlik, gipoergiya holati
+- Patologik nospetsifik reaktivlik, gipoergiya holati
++ Patologik nospetsifik reaktivlik, giperergiya holati
+- Patologik spetsifik reaktivlik, dizergiya holati
+
+? Diatezning quyidagi turlari mavjud. Faqat, bundan tashqari:
+- Nerv – artritik
+- Astenik
+- Eksudativ-kataral
++ Hipertonik
+- Limfatiko-hipoplastik
+
+? Emlash natijasida bolaning tana harorati 40 0С. ga oshdi. Reaktivlikning o'ziga xos xususiyatlaridan qaysi biri kuzatiladi?
+- Patologik spetsifik reaktivlik, normergiya holati
+- Patologik nospetsifik reaktivlik, giperergiya holati
++ Patologik spetsifik reaktivlik, giperergiya holati
+- Patologik nospetsifik reaktivlik, normergiya holati
+- Patologik spetsifik reaktivlik, hipoerergiya holati
+
+? Fagotsitlardagi lizozomal fermentlarning faoliyati sezilarli darajada qachon kamayadi?
+- Anemiya
+- Uremiya
+- Tromboz
+- O'sma
++ Leykemiya
+
+? Fagotsitlarining yutilgan zarrachalarni hazm qilishi uchun optimal pH qiymatini toping:
+- 2
++ 5
+- 3
+- 4
+- 1
+
+? Fagotsitoz bosqichlarining ketma-ketligi to'g'ri aks ettirilgan javobni tanlang:
+- Yopishish , yaqinlashish, hazm qilish, yutish
+- Yutish, yopishish, yaqinlashish, hazm qilish
+- Hemotaxis, yaqinlashish, hazm qilish, yutish
++ Yaqinlashish, yopishish, yutish, hazm qilish
+- Yopishish, hemotaxis, yaqinlashish, hazm qilish
+
+? Fagotsitozning kislorod bilan boqliq mexanizmi qachon boshlanadi?
+- To'liq hazm bo'lmaganda
+- To'liq hazm bo'lgandan keyin
+- Yutish vaqtida
+- Hazm qilish boshida
++ Yopishish vaqtida
+
+? Fagotsitozning qaysi bosqichi uchun opsoninlar juda muhim rol o'ynaydi?
+- Hazm qilish
+- Yutish
+- Qamrab olish
+- Hemotaxisis
++ Yopishish
+
+? Fagotsitozning qaysi bosqichida fagolizosoma hosil bo'ladi?
++ Yutish
+- Hemotaxisis
+- Yaqinlashish
+- Hazm qilish
+- Yopishish
+
+? Gematoenstefalik to'siqning tarkibiga kirmaydi:
+- Endoteliyotsit
+- Bazal membrana
+- Kapillyar
+- Astrosit
++ Neyron
+
+? Gipoksiyaga nisbatan organizmning faol qarshiligi nima bilan bog'liq emas?
+- O'pka ventilyasiyasining oshishi
++ Alveolalar sonining oshishi
+- Gemoglobin miqdorining oshishi
+- Qon oqimining tezlashishi
+- Eritrotsit miqdorining oshishi
+
+? Glial hujayralar qaysi gisto-gematik to'siq tarkibiga kiradi?
++ Gematoentsefalik
+- Gematotestikulyar
+- Gematotiroidit
+- Gematoftalmik
+- Gematolabirint
+
+? I. I. Mechnikov leykotsitlar to'qimalarning proteoliz mahsuloti bo'lishi mumkin bo'lgan kimyoviy tasirlovchilarga nisbatan faol harakatini tasvirlab berdi. Bu hodisa qanday nomlanadi?
+- Yopishish
+- Qamrab olish
+- Yutish
+- Hazm qilish
++ Hemotaxis
+
+? Inson bosh miya yarim sharlar po'stlog'ida qo'zg'alish va tormozlanish jarayonlarining muvozanati buzilishi bilan bog'liq bo'lgan konstitutsional tuplarining muallifini ayting:
+- Bogomolets
+- Sigo
+- Gippokrat
++ Pavlov
+- Mechnikov
+
+? Inson organismining reaktivligiga quyidagilar ta'sir qiladi:
+- Yosh, jins, irsiyat, konstitutsiyonal tuzilishi, asab va endokrin tizimlarning holati, tashqi muhit
+- Yosh, jins, irsiyat, konstitutsiyonal tuzilishi , boshqaruvchi tizimlarining holati, tashqi muhit, oziqlanish tabiati
+- Jins, irsiyat, konstitutsiyonal tuzilishi , boshqaruvchi tizimlarining holati
++ Yosh, jins, irsiyat, konstitutsiyonal tuzilishi, boshqaruvchi tizimlarining holati, tashqi muhit
+- Yosh , jins, irsiyat, konstitutsiyonal tuzilishi, boshqaruvchi tizimlarining holati, tashqi muhit, ijtimoiy sharoitlar
+
+? Jismoniy zo'riqishdan so'ng, shifokor bemorning hayot faoliyatini nazorat qildi va quyidagi natijalarni kuzatdi: nafas soni 24 / min, yurak qisqarishlar soni - 104 / min, qon bosimi - 170/95 mm sim.ust. Reaktivlik nuqtai nazaridan o'rganilayotgan shaxsning ko'rsatkichlarini qanday tavsiflash mumkin?
+- Patologik immunologik reaktivlik
+- Patologik spetsifik reaktivlik
++ Patologik nospetsifik reaktivlik
+- Fiziologik nospetsifik reaktivlik
+- Fiziologik spetsifik reaktivlik
+
+? Kupfer hujayralari qaysi gisto-gematik to'siq tarkibiga kiradi?
+- Teri
+- Buyrak
++ Jigar
+- Moyak
+- Miya
+
+? Leykotsitlarda polisaharidlarning irsiy metabolizmi buzilganda qanday kasallik paydo bo'ladi?
+- Di Djorji sindromi
+- Chediak – Higasi sindromi
+- Dresler sindromi
++ Alder kasalligi
+- Granulomatoz
+
+? Leykotsitlarning to'qima proteoliz mahsuloti bo'lgan kimyoviy tasirlovchilarga nisbatan faol harakati kim tomonidan tasvirlangan?
+- Sirotinin
+- Pavlov
++ Mechnikov
+- Bogomolets
+- Sechenov
+
+? Ma'lumki, I (0) qon guruhi bo'lgan insonlar oshqozon yara kasalligi bilan kasallanish ehtimoli ko'proq. Bu qanday reaktivlik bilan bog'liq?
+- Fiziologik reaktivlik
++ Guruh reaktivligi
+- Spetsifik reaktivlik
+- Individual reaktivlik
+- Nospetsifik reaktivlik
+
+? Nonspesifik reaktivlik barcha qayd qilingan mexanizmlarni o'z ichiga oladi, faqat bundan tashqari:
++ Antitana hosil bo'lishi
+- Stress
+- Narkoz
+- Parabioz
+- Fagotsitoz
+
+? Onto - va filogenez ma'lumotlariga asosan reaktivlikning shakllanishini tartibga solish qaysi tizimlar bilan bog'liqligini ko'rsatadi:
+- Asab, endokrin, immune
+- Asab, ANT, immun, endokrin
+- ANT, immun, endokrin
+- MAT, ANT, immun, endokrin
++ Asab, endokrin
+
+? Opsoninlar orasida fagotsitoz uchun katta ahamiyatga ega bo'lganlarni tanlang:
+- Fibronektin
+- C-reaktiv oqsili
+- IgE
+- Taftsin
++ Ig G va C3b
+
+? Organismda antitanalarning ortiqcha shakllanishi reaktivlikning qaysi turiga tegishli?
+- Nospetsifik fiziologik
+- Spetsifik fiziologik
+- Fiziologik spetsifik
++ Spetsifik patologik
+- Nospetsifik patologik
+
+? Organizmdagi biriktiruvchi to'qimalarning tuzilishi va funktsiyalarining xususiyatlari asosida yaratilgan konstitutsiyaviy tuplarining avtori kim?
+- Gippokrat
++ Bogomolets
+- Sigo
+- Krechmer
+- Mechnikov
+
+? Organizmga qaysi moddalarni kiritish biologik to'siqlarning o'tkazuvchanligini oshiradi?
+- Asetilholin, vitamin P, gialuronidaza, gistamin
+- Asetilholin, gialuronidaza, adrenalin, gistamin
+- Asetilholin, gialuronidaza, gistamin, kaltsiy tuzlari
++ Asetilholin, gialuronidaza, gistamin
+- Kaltsiy tuzlari, gialuronidaza, adrenalin
+
+? Organizmning giperergiyasi asosida yuzaga keladigan spetsifik patologik reaktivlikka misol keltiring:
++ Allergiya
+- Narkoz
+- Shok
+- Parabioz
+- Immunitet tanqisligi holati
+
+? Qanday sharoitlarda organizmning reaktivligi va uning patogen ta'sirlarga rezistentliligi pasayadi?
+- Issiq ta'sir qilganda
++ Immunitet tanqisligi holatlarida
+- Kuyish vaqtida
+- Yallig'lanish vaqtida
+- Sovuq ta'sir qilganda
+
+? Qanday sharoitlarda organizmning reaktivligi pasayadi va kislorod yetishmovchiligiga rezistentlik kuchayadi?
++ Chuqur hipotermiya vaqtida
+- Ionlashtiruvchi nurlar ta'sirida
+- Sovuq ta'sir qilganda
+- Quyosh radiatsiyasi ta'sirida
+- Issiq ta'sir qilganda
+
+? Qaysi jarayon buzilishi natijasida fagotsitoz aktivligi pasayadi?
+- Erkin radikalli oksidlanish
+- Radikalli oksidlanish
+- Oksidlanish-fosforlanish
+- Aerob glikoliz
++ Anaerob glikoliz
+
+? Reaktivlikni oshirsh bilan organzmning rezistentligini oshiradigan patologik jarayonni ko'rsating:
+- Shok
+- Immun tanqislik
+- Haddan tashqari qizish
++ Isitma
+- Allergiya
+
+? Reaktivlikning quyidagi turlari mavjud:
+- Turga hos, guruhli, individual; nospetsifik, spetsifik; fiziologik, patologik; giperergiya, normergiya, gipoergiya
++ Turga hos, guruhli, individual; nospetsifik, spetsifik; fiziologik, patologik; giperergiya, dizergiya, gipoergiya
+- Spetsifik; faol, passiv; fiziologik, patologik; giperergiya, normergiya, gipoergiya
+- Turga hos, guruhli, individual; nospetsifik, spetsifik; faol, passiv; fiziologik, patologik; giperergiya, normergiya, gipoergiya
+- Turga hos, individual; nospetsifik, spetsifik; fiziologik, patologik; giperergiya, dizergiya, gipoergiya
+
+? Reaktivlikning ontogenetik rivojlanishining o'ziga xos xususiyatlari natijasida inson homilasi qaysi mikroorganizm toksinlarining patogen ta'siriga mutlaqo sezgir emas?
+- Brutsellyoz
++ Gorin tifi
+- Qizamiq
+- Sifilis
+- Qizilcha
+
+? Sifiliz kasalligi bilan faqat insonlar kasallanadi. Bu reaktivlikning qanday ko'rinishi bilan namoyon bo'ladi?
+- Individual spetsifik reaktivlik
+- Individual nospetsifik reaktivlik
+- Biologic nospetsifik reaktivlik
++ Biologik spetsifik reaktivlik
+- Nospetsifik reaktivlik
+
+? Skelet mushaklarida to'siq vazifasini nima bajaradi
+- Epimisiy
+- Fatsiya
+- Perimisiy
+- Mushak
++ Sarkolemma
+
+? Spirtli ichimliklar fagotsitoz jarayonining qaysi bosqichini susaytiradi?
+- Qamrab olish
+- Yutish
+- Hazm qilish
++ Hemotaksis
+- Yopishish
+
+? Stress reaktsiyasi jarayonida simpatoadrenal tizimi faollashadi. Qaysi a`zoning reaktivligi oshadi:
++ Bosh miya
+- Jigar
+- Yurak
+- O'pka
+- Buyrak
+
+? Surunkali granulomatoz bilan kasallangan bemorlarda bakteriyalarning hujayra ichida nobud bo'lishi uchun zarur bo'lgan qaysi fermentning yetishmasligi aniqlanadi:
+- Glyukoza -6-fosfatdegidrogenaza
+- Sitoxromoksidaza
+- Superoksiddismutaza
+- Miyeloperoksidaza
++ NADF – oksidaza
+
+? Surunkali granulomatozda fagotsitozning buzilishiga olib keladigan irsiy nuqson nima?
+- Lizosoma hosil bo'lishining nuqsoni
++ NADF oksidaza yetishmovchiligi
+- Glyukoza -6-fosfatdegidrogenaza yetishmovchiligi
+- Lizosoma hosil bo'lmasligi
+- Miyeloperoksidaza yetishmovchiligi
+
+? Tajribada leykotsitlarda polisaharidlarning metabolizmi buzilishi bilan kechadigan kasallikni yaratishdi. Bu kasallik qaysi irsiy patologiya uchun xarakterli?
+- Mushuk chinqirig'i kasalligi
+- Daun sindromi
+- Di Djorji kasalligi
++ Alder kasalligi
+- Granulomatoz
+
+? Taloqda ishlab chiqariladigan va fagotsitoz ob'ektiga fagotsitozning musbat hemotaxisni faollashtiradigan moddaga nom bering:
+- Lipofussin
+- Bradikinin
++ Tаftsin
+- Gistamin
+- Gipoksantin
+
+? Tashqi biologik (gisto-gematik) to'siqlarga tegishli emas:
++ Gematolabirintli
+- Jigar
+- Taloq
+- Teri
+- Limfa tugunlari
+
+? To'qima makrofaglari qanday qon hujayralaridan hosil bo'ladi?
+- T-limfotsitlar
+- Eritrotsitlar
++ Monotsitlar
+- B-limfotsitlar
+- Bazofillar
+
+? Umumiy adaptatsiya sindromining morfologik xususiyatlaridan biri:
+- Limfa tugunlarining gipertrofiyasi
+- Buyrak usti bezi atrofiyasi
+- Ayrisimon bezining gipertrofiyasi
++ Oshqozonda yara hosil bo'lishi
+- Limfa tugunlarining giperplaziyasi
+
+? Umumiy narkoz ostida bo'lgan ayol bachadondan qon ketishi tufayli operatsiya qilindi. Quyidagilardan qaysi biri uning reaktivligi holatini belgilaydi?
+- Patologik spetsifik reaktivlik, gipoergiya holati
+- Fiziologik nospetsifik reaktivlik, normergiya holati
+- Fiziologik spetsifik reaktivlik, normergiya holati
+- Fiziologik immunologik reaktivlik, normergiya holati
++ Patologik nospetsifik reaktivlik, gipoergiya holati
+
+? Ushbu hujayralardan qaysi biri taloqda joylashgan erkin va fiksirlangan makrofaglarning o'tmishdosh hujayrasi hisoblanadi?
++ Monositlar
+- Gistiotsitlar
+- Trombotsitlar
+- Endoteliyotsitlar
+- Limfotsitlar
+
+? Ushbu kasalliklarning qaysi biri tugallanmagan fagotsitoz bilan kechadi. Bu kasallik asosida lizozomalar shakllanishining buzilishi yuzaga keladi
+- Leykoz
+- Qandli diabet
++ Chediak –Higasi sindromi
+- Alder kasalligi
+- Gangrena
+
+? Ushbu reaktsiyalardan qaysi biri nospetsifik (xos bo'lmagan) reaktsiyalarga kiradi ?
++ Tugallanmagan fagotsitoz
+- Antigen –antitana reaktsiyasi
+- Tugallangan fagotsitoz
+- Transplantatning ko'chib tushishi
+- Komplementning boq'lanishi
+
+? Yallig'lanish vaqtida to'qima bazofillarining degranulyatsiyasi kuzatiladi, keyin qonga gistamin ajraladi. Reaktivlikning qaysi ko'rinishini aks etadi:
+- Anorganik spetsifik reaktivlik
+- Fiziologik spetsifik reaktivlik
+- Fiziologik nospetsifik reaktivlik
++ Organik nospetsifik reaktivlik
+- Organik spetsifik reaktivlik
+
+? 15 yoshli qiz kasalxonaga yotqizilgan. Kvinke shishi tashxisi qo'yilgan. Bemorning qonida qanday immunoglobulinlar sinfi ustunlik qiladi?
+- Ig D, Ig N
+- Ig F, Ig A
++ Ig E, Ig G
+- Ig D, Ig A
+- Ig M, Ig G
+
+? 36 yoshli ayol hayz paytida og'riq qoldiruvchi vositalarni qabul qilgandan keyin krapivnitsa holatidan shikoyat qiladi. Qonni tekshirishda gistamin kontsentratsiyasining ortishi aniqlandi. Gistamin manbai
++ Bazofillar
+- Trombotsitlar
+- Limfotsitlar
+- Eritritsitlar
+- Monotsitlar
+
+? 9 yoshli qiz hayotining birinchi yilida tabiiy ravishda oziqlantirilgan. Birinchi yil oxirida u uzoq davom etgan og'ir pnevmoniya bilan kasallangan. Kech yura boshlagan. Qadami ravon bo’lmagan. Harakatlar koordinasiyasi buzilishi mavjud. Terida va kon'yunktivada teleangioektaziyalar kuzatiladi. Qonda - Ig A yo'q, T-limfotsitlar miqdori kamaygan. Qiz immunitet tanqisligi kasalliklaridan qaysi biriga chalingan?
+- Chediak Xigashi sindromi
+- Di Djorj sindromi
++ Lui Bar sindromi
+- Viskot-Oldrich sindromi
+- OITS
+
+? Allergen birinchi marta organizmga kirganda
+- Qon tomirlarining o'tkazuvchanligi kamayadi
+- Biologik faol moddalar ajraladi
+- Qon tomirlarining o'tkazuvchanligi oshadi
+- Immun komplekslar hosil bo’ladi
++ Antitelolar sintezlanadi
+
+? Anafilaktik allergik reaktsiyalar o'z ichiga oladi
+- Shok
++ Zardob kasalligi
+- Immun agranulotsitoz
+- Miasteniya
+- O'tkir glomerulonefrit
+
+? Antibiotiklarga sezgirlikni aniqlash uchun 0,2 ml penitsillin eritmasi bemorga tomir ichiga yuborilgan. In'ektsiya joyida 10 daqiqadan keyin giperemiya, shish paydo bo'ldi. Reaksiya Koombs va Jell tasnifiga ko’ra qaysi turga kiradi?
+- Artyus fenomeni
++ Anafilaktik reaktsiya
+- Sitotoksik reaktsiya
+- OITS
+- Kechiktirilgan sezgirlik
+
+? Antigenni tanib olish va uni immunokompetent hujayralarga taqdim etish uchun qaysi hujayralar javobgardir?
+- B limfotsitlar
+- S limfotsitlar
++ Monotsitlar
+- T limfotsitlar
+- Fibroblastlar
+
+? Autoallergik reaktsiyaga misol
++ Shikastlanishdan keyingi orxit
+- Felton reaksiyasi
+- Mantu sinamasi
+- Zardob kasalligi
+- Bezredko bo’yicha desensibilizatsiya
+
+? Ayrisimon bez gipoplaziyasi (Di-Djorj sindromi) uchraydi
+- Voyaga yetganda
+- Balog'atga yetganda
+- Qariyalarda
+- Postnatal davrning dastlabki davrida
++ Embrional ontogenez davrida
+
+? B limfotsitlar ta'minlaydi
++ Gumoral immunitet
+- Hujayraviy va nospesifik immunitet
+- Hujayraviy immunitet
+- Nospesifik qarshilik
+- Antigen taqdimoti
+
+? Bemorning immun tizimini o'rganish gumoral immunitetning buzilishini aniqladi, bu ......... soni
+- T-limfotsitlar
+- Eritrotsit
++ B-limfotsitlar
+- Monotsitlar
+- Eozinofillar
+
+? Bir vaqtning o'zida ko'plab antigenlarga qarshi antitelolarni ishlab chiqarishni to’xtatishga ......... preparatni kiritish orqali erishish mumkin
+- Giyohvand moddalar
+- Antioksidantlar
+- Pirogenal
+- Antigistaminlar
++ Anti-limfotsit zardobi
+
+? Birlamchi T-limfotsitlar yetishmovchiligi bo'lgan odamlarda ...... bilan kasallanish ming marta oshadi
++ O’sma
+- Polinoz
+- Kollagenozlar
+- Sirroz
+- Glikogenoz
+
+? Bronxial astmada qaysi patologik jarayon asosiy hisoblanadi?
+- Yallig'lanish
++ Allergiya
+- Ishemiya
+- Tromboz
+- Staz
+
+? Bruton kasalligi naslga berilish turini aniqlang.
+- X-xromosomaga bog'langan, dominant
+- Autosom dominant
++ X-xromosomaga bog'langan, retsessiv
+- Autosom retsessiv
+- Poligen
+
+? Brutonning agammaglobulinemiyasiga xarakterli
+- Ig E ning ko'payishi
+- Faqat IgA darajasining keskin oshishi
+- Ig G ning ko'payishi va IgMning keskin pasayishi
+- Plazma hujayralari ortishi
++ Barcha turdagi plazma hujayralari shakllanishining blokadasi
+
+? Koombs va Djel tasnifiga ko'ra autoimmun tiroidit qanday allergiyaga kiradi?
+- Yuqori sezuvchanlik anafilaktik turi
+- Immunokompleks turiga yuqori sezuvchanlik
+- Sitotoksik turdagi yuqori sezuvchanlik
++ Sekin tipdagi gipersezgirlik
+- Immunokompleks turiga sust sezuvchanlik
+
+? Eksperimental T-limfotsitlar yetishmovchiligi hayvonlarning homilasida ayrisimon bezning yo'q qilinishi natijasida yuzaga kelgan. Jarrohlikdan keyin yuzaga keladigan simptomlar kompleksi qaysi sindrom
++ Nezelof sindromi
+- Nasliy kasallik
+- Immunitet tanqisligi sindromi
+- Bruton sindromi
+- Viskot-Oldrich sindromi
+
+? Gematoensefal to'sig'i buzganda miyada allergik reaktsiyani qanday mexanizmi rivojlanadi?
+- Immunologik bardoshlik
+- Miya yarim sharlari neyronlaridagi mutatsiyalar
+- Qon aylanishi buzilishi
+- Miya to'qimalarining yallig'lanishi
++ Antigenler demaskirovkasi
+
+? Ig-A sintez qiladigan B-limfotsitlarni plazma hujayralariga aylanishining oxirgi bosqichining genetik buzilishi ushbu sinfning immunoglobulinlari darajasining pasayishiga olib keladi. Bu ........ sabab bo'ladi
+- Autoimmun kasalliklar ehtimolligi oshadi
++ Shilliq qavatning zaiflashishi
+- O’smaga qarshi immunitetning pasayishi
+- Eng oddiyga hayvonlarga qarshi tana qarshilikning ortishi
+- Eng oddiyga hayvonlarga qarshi tana qarshilikning pasayishi
+
+? Immunitet tanqisligi kombinirlangan tipiga tegishli
+- Bruton kasalligi
+- Di Djorj sindromi
+- Ig-A ning selektiv tanqisligi
+- Ig-E ning selektiv tanqisligi
++ Lui-Bar sindromi
+
+? Immunitet tanqisligidan aziyat chekadigan, giyohvand moddalarni iste'mol qiluvchilarda yuzaga keladigan pnevmokokkli pnevmoniyadan tuzalish sekinlashadi. Chunki ularda
+- To'qima bazofillarning faolligi yuqori
+- To'qima bazofillarning faolligi past
+- Eozinofil yetishmovchiligi
++ Antitelolar yetishmovchiligi
+- Limfotsitlar yetishmovchiligi
+
+? Immunitet tanqisligining Di-Djorj sindromi qaysi yo’l bilan naslga beriladi?
++ Naslga berilmaydi
+- Y-xromosoma bilan bog'langan
+- Autosom retsessiv
+- Poligen
+- Autosom dominant
+
+? Immunitet tanqisligining qaysi varianti uchun Kaposining sarkoma paydo bo'lishi xarakterlidir?
+- Daun sindromi
+- Lui Bar sindromi
+- Bruton sindromi
+- Shveytsariya immunitet tanqisligi
++ OITS
+
+? Immunitet tizimi markaziy va periferik organlardan iboratligi ma'lum. Quyidagilarning qaysi biri markaziy hisoblanadi?
+- Bodomcha bezlar
+- Qon
+- Limfa tugunlari
+- Taloq
++ Ayrisimon bezi
+
+? Immunitet tizimining asosiy funktsiyasi
+- Gemopoezni qo'zg'atish
+- Asab qo’zg’alishi
+- Osmotik bosimni ushlab turish
+- Issiqlik balansini tartibga solish
++ Antigen gomeostaz bilan ta'minlash
+
+? Immunitet tizimining markaziy organi
+- Taloq
+- Jigar
+- Limfa tugunlari
+- Oshqozon
++ Suyak iligi
+
+? Immunitet tizimining periferik organi
++ Limfa tugunlari
+- Jigar
+- Oshqozon
+- Ayrisimon bez
+- Taloq
+
+? Inson immunitet tanqisligi virusi (OIV) qaysi hujayralarga ta'sir qiladi?
+- B-limfotsitlar, plazmotsitlar
+- T-xelperlar, T-supressorlar
+- T-killerlar
+- B-limfotsitlar
++ Makrofaglar, T-xelperlar
+
+? Kechiktirilgan turdagi allergiyaning birinchi bosqichida qanday immunitet kompleksi hosil bo'ladi?
+- Allergen - antitelo
+- Allergen - H-killer
+- Allergen - T-supressor
+- Allergen - makrofag
++ Allergen - T-killer
+
+? Ko'z gavhari qanday allergenlarga tegishli?
++ Endogen tabiiy
+- Endogen orttirilgan yuqumsiz
+- Ekzogen
+- Endogen orttirilgan yuqumli
+- Poligen
+
+? Kumbs va Djell tasnifiga ko'ra, sitotoksik allergik reaktsiyalarga tegishli
+- Atopik bronxial astma
+- Zardob kasalligi
+- Diffuz toksik bo’qoq
++ Immun agranulotsitoz
+- Sirroz
+
+? Krapivnisa rivojlanishi asosida qaysi allergik reaktsiya yotadi?
+- Rag'batlantiruvchi reaktsiya
++ Reagin reaktsiyasi
+- Shok
+- Sitotoksik reaktsiya
+- Immunokompleks reaktsiyasi
+
+? Lui Bar sindromining qanday turda naslga beriladi?
++ Autosom retsessiv
+- X- xromosomaga bog'langan, retsessiv
+- Y-xromosomaga bog'langan, dominant
+- Autosom dominant
+- Poligen
+
+? Lui-Bar sindromining naslga berilish turini ko'rsating
+- Dominant
+- X-bog'langan, dominant
+- X-bog'langan retsessiv
+- Poligen
++ Autosomal retsessiv
+
+? Mantu sinovi paytida qanday allergik reaktsiya rivojlanadi.
++ Sekin sezgirlik
+- Sitotoksik
+- Anafalaktik
+- Immunokompleks
+- Tez sezgirlik
+
+? Miya to'qimasi allergenlarning qaysi turiga kiradi?
+- Ekzogen
++ Endogen tabiiy
+- Endogen orttirilgan yuqumsiz
+- Poligen
+- Endogen orttirilgan yuqumli
+
+? Nezelof sindromi immunitet tanqisligi holatining qaysi guruhiga kiradi?
+- Nasliy kasallik
+- Komplement tizimining yetishmasligi
+- B-limfotsitlar yetishmovchiligi
++ T-limfotsitlar yetishmovchiligi
+- T va B limfotsitlarning qo'shma yetishmovchiligi
+
+? Nikel qaysi allergenga tegishli?
++ Gapten
+- Endogen orttirilgan yuqumsiz
+- Ekzogen
+- Poligen
+- Endogen orttirilgan yuqumli
+
+? Noma'lum it tishlab olgan kishi jarrohlik xonasiga murojaat qildi. Keng jarohatlar asosan bemor yuzida. Quturishni oldini olish uchun emlash o'tkazildi, uning mohiyati nimadan iborat
++ Organizmning patogenga nisbatan sezgirligini oshirish
+- Biologik faol moddalarni faollashtirish
+- Immun komplekslarining shakllanishi
+- Biologik faol moddalarni kamayishi
+- Oq qon hujayralarini faollashtirish
+
+? Nospesifik desensibilizatsiya ....... dan foydalanishni o'z ichiga oladi
+- Adrenalin
+- Eykozanoidlar
+- Mineralokortikoidlar
++ Glyukokortikoidlar
+- Interferon
+
+? Og'riqsizlantirish uchun jarrohlik muolajalari davomida novokain ishlatilgan. 10 daqiqadan so'ng bemorda terining oqarishi, nafas qisilishi, gipotenziya paydo bo'ldi. Bemorda qanday allergik reaksiya rivojlangan?
+- Normergik
+- Sitotoksik
+- Immunokompleks
+- Hujayra vositasida
++ Anafilaktik
+
+? Oilada uchta bola turli xil lokalizatsiyadagi o'smalaridan vafot etgan. Oila shifokori immunitet tanqisligiga shubha qildi. Aynan qaysi?
++ Hujayraviy immunitetning tug'ma yetishmovchiligi
+- OITS
+- Gumoral immunitetning tug'ma yetishmovchiligi
+- Gumoral immunitet tanqisligi
+- Orttirilgan hujayraviy immunitet tanqisligi
+
+? OITS virusi yuqmaydi
++ Qizil qon hujayralari
+- T-xelperlar
+- Makrofaglar
+- Miya hujayralari
+- Limfotsitlar
+
+? Plazma hujayralari ma'lum bir patogenga antitelolar manbai. Antitelolarni sintez qiluvchi hujayralar nimadan iborat?
+- Makrofag
+- T limfotsit
+- Gistiotsit
++ B limfotsit
+- Eritrotsit
+
+? Qanday gormonlar autoimmun antitelolarning kontsentratsiyasini oshiradi?
+- Glyukokortikoidlar
+- Somatotrop
+- Androgenlar
++ Mineralokortikoidlar
+- Insulin
+
+? Qaysi hujayralar faoliyati buzilishi immunitet tanqisligi yoki immunodepressiv holatning rivojlanishiga olib kelishi mumkin?
+- Endoteliotsitlar
+- Neyronlar
+- Eritrotsit
++ Monotsitlar
+- Gepatotsit
+
+? Sensibilizatsiyalash jarayonida ishtirok etadigan birinchi immunotsitlar
+- Eritrotsit
+- Makrofaglar
+- T-supressorlar
+- T-killerlar
++ T-xelperlar
+
+? Shveytsariya immunitet tanqisligi meros turini ko'rsating
+- X- xromosomaga bog'langan
++ Autosom retsessiv
+- Poligen
+- Y-xromosomaga bog'langan
+- Autosom dominant
+
+? Sichqonlarda o'tkazilgan tajribada turli xil bakterial antigenler kiritilishi bilan immunitet reaksiyasining xususiyatlari o'rganildi. Glyukokortikoidlar bilan qanday immun reaktsiyasini kuzatish mumkin?
+- Dizergik
++ Gipoergik
+- Normergik
+- Giperergik
+- Kuzatilmaydi
+
+? Sitotoksik allergik reaktsiyalarga Kumbs va Jelli tasnifi bo’yicha tegishli
+- Sirroz
++ Immun agranulotsitoz
+- Zardob kasalligi
+- Atopik bronxial astma
+- Diffuz toksik bo’qoq
+
+? Soxta allergik reaktsiyaning qanday asosiy xususiyati uni allergiyadan ajratib turadi?
+- Poligen
++ Immunitet komplekslarining yetishmasligi
+- Immunoglobulinlarning o'ziga xos xususiyati
+- Antigenlarni tanaga kiritishning boshqa yo'nllari
+- Ko'p allergen chaqiradi
+
+? T-limfotsitlar tizimidagi nuqsonlar bilan bog'liq immunitet tanqisligi o'z ichiga oladi
++ Purin-nukleotid fosforilazaning tanqisligi
+- Trombotsitopeniya va ekzema bilan immunitet tanqisligi
+- Telangiektaziya va ataksiyali immunitet tanqisligi
+- Trombotsitopeniya
+- Shveytsariya tipidagi immunitet tanqisligi
+
+? Taqdim etilgan immunitet tanqisligining qaysi biri irsiy kasallik emas?
+- Nezelof sindromi
+- Bruton sindromi
++ Di Djorj sindromi
+- Selektiv Ig A etishmovchiligi
+- Selektiv Ig E etishmovchiligi
+
+? Timus davrda T-limfotsitlarning ko'payishi va differentsiatsiyasining genetik blokadasi ........ olib keladi
++ B-limfotsitlar borligida T-limfotsitlarning yo'qligi
+- T-limfotsitlarning subpopulyatsiyasi shakllanishining buzilishi
+- T va B limfotsitlarining yo'qligi
+- T-limfotsitlar borligida B-limfotsitlarning yo'qligi
+- T-limfotsitlarning subpopulyatsiyasi shakllanishining kuchayishi
+
+? Transplantatsiya qilingan organni yo'q qilish jarayonida immunitetni olgan limfotsitlar va makrofaglar o'rtasidagi vositachi nima?
++ Limfokin
+- Leykotrienlar
+- Bradikinin
+- Gistamin
+- Prostaglandinlar
+
+? Ig A tanqisligi immunodefitsit holatlarining qaysi guruhiga tegishli?
+- Komplement tizimining yetishmasligi
+- Nasliy kasallik
+- T va B limfotsitlarning qo'shma yetishmovchiligi
+- T limfotsitlar yetishmovchiligi
++ B-limfotsitlar yetishmovchiligi
+
+? 45 yoshli ayol Kvinke shishi bilan kasalxonaga yotqizilgan. Klinik belgilar rivojlanishining patogenezida qaysi biologik faol moddalar muhim rol o'ynaydi?
+- Fibrinonektin, o'simta nekrozi omili, sitotoksin
++ Gistamin, bradikinin, prostaglandinlar
+- O'simta nekrozi omili, sitotoksin
+- Asetilxolin, prostatsiklin, adrenalin
+- Interleykin-1, Kallidin, Tromboksan
+
+? Jigar patologiyasida shish yuzaga kelish sababini ayting?
+- Osmotik bosimning kamayishi
+- Koptokcha fil'tratsiyasini o'zgarishi
+- Siydik bilan oqsil yo'qotish
+- Qon yopishqoqligini o'zgarishi
++ Oqsil sintezining buzilishi
+
+? Quyidagilardan qaysi biri nefrotik sindromda shish rivojlanishida muhim rol o’ynaydi?
++ Qon plazma onkotik bosimini kamayishi
+- To’qimada osmotik bosimni oshishi
+- Kapilliyar o’tkazuvchanlugini oshishi
+- Kapilliyarda gidrostatik bosimni oshishi
+- To’qimada onkotik bosimni oshishi
+
+? Allergik shish qaysi mexanizm asosida rivojlanadi?
+- Aralash
+- Onkotik
+- Gidrostatik
++ Membranogen
+- Gemodinamik
+
+? Alpinistlar 1600 m balandlikda respirator alkaloz rivojlandi buning sababi?
+- Quchli terlash
++ O'pka giperventilatsiyasi
+- O'pka giporventilatsiyasi
+- Qo'zg'alish
+- Siydik bilan kislotani ajralishi
+
+? Antidiuretik gormon defitsitida suv-mineral almashinuvini qaysi turi rivojlanadi?
+- Giperosmolyar gipergidratatsiya
+- Gipoosmolyar gipergidratatsiya
+- Izoosmolyar degidratatsiya
++ Giperosmolyar degidratatsiya
+- Gipoosmolyar degidratatsiya
+
+? Ari chaqganda shishni qaysi turi yuzaga kelishi mumkin?
+- Yallig’lanish
+- Kaxektik
++ Allergik
+- Limfogen
+- Toksik
+
+? Atsidoz va alkalozlarning turlari
++ Metobolitik, gazli
+- Gazli, respirator
+- Metobolitik, membranogen
+- Izoosmolyar, giperosmolyar
+- Giperosmolyar, gipoosmolyar
+
+? Degidratatsiyani suv va elektrolit nisbatiga bog’liq holda qanday turlari farqlanadi?
+- Gipoosmolyar,giperosmolyar
+- Izotonik,giperosmolyar
+- Izoosmolyar,gipoosmolyar
++ Izoosmolyar,gipoosmolyar,giperosmolyar
+- Aralash,gipoosmolyar,giperosmolyar
+
+? Gazli alkaloz rivojlanadi
+- Gepatitda
+- Diabetda
+- Xavoda pO2 oshganda
+- Ochlikda
++ O'pka silida
+
+? Gazli atsidoz rivojlanadi
+- Gepatitda
+- Ochlikda
+- Diabetda
+- O'pka giperventilyatsiyasida
++ O'pka gipoventilyatsiyasida
+
+? Gazli atsidoz sababi
+- O'pka giperventilyatsiyasida
+- Qayd qilish
+- Gepatit
++ Bronxial astma
+- Ochlik
+
+? Giperkaliemiya sababini ko’rsating
+- Uzoq muddatli ich ketishi
+- Qandsiz diabet
+- Kuchli qusish
++ Buyrak yetishmovchiligi
+- Saluretiklarni qo’llanilishi
+
+? Giperventilyatsiya keltirib chiqarishi mumkin
++ Giperosmolyar degidratatsiya
+- Izoosmolyar gipogidratatsiya
+- Gipoosmolyar degidratatsiya
+- Izoosmolyar degidratatsiya
+- Gipoosmolyar gipergidratatsiya
+
+? Glomerulonefritda shish rivojlanishining patogenetik faktorlaridan biri bu…..
+- Silindruriya
+- Qonni giperosmiyasi
+- Qonni giperonkiyasi
+- Gipovolemiya
++ Gipervolemiya
+
+? Katta yoshli odam tana massasini necha foizini suv tashkil qiladi?
+- 30-40%
+- 50-55%
+- 80-90%
+- 45-50%
++ 65-70%
+
+? Ko’rsatilganlardan qaysi biri gipokaliemiyaning sababi bulishi mumkin?
+- Buyrak yetishmovchiligi
+- Og’ir jismoniy ish
+- Eritrotsit gemolizi
++ Uzoq muddatli ich ketishi
+- Gipoal’dosteronizm
+
+? Kuyish kasalligida suv-elektrolit almashinuvi buzilishining qaysi turi yuzaga kelishi mumkin?
+- Gipoosmolyar degidratatsiya
+- Giperosmolyar gipergidratatsiya
++ Izoosmolyar degidratatsiya
+- Gipoosmolyar gipogidratatsiya
+- Giperosmolyar gipogidratatsiya
+
+? Metabolik alkaloz rivojlanadi
+- Ochlikda
+- O'pka sili
+- Gepatitda
+- Xavoda pO2 oshganda
++ Qayd qilish
+
+? Metabolik atsidoz  rivojlanadi
+- O'pka giperventilyatsiyasida
+- O'pka sili
+- Qayd qilish
+- Xavoda pO2 oshganda
++ Ochlik
+
+? Ochlikda xususiy oqsillarni utilizatsiyasi va parchalanishi bosqichida yuzaga kelishi mumkin bo’lgan shishni turini nomlang?
+- Limfogen
+- Yallig’lanish
+- Allergik
++ Kaxektik
+- Toksik
+
+? Patogenetik tasnifiga kura shishni quyidagi turlari farqlanadi:.
+- Toksik,kaxektik,neyrogen
+- Allergik, onkotik,membranogen
+- Yurak,buyrak,yallig’lanish
++ Gemodinamik,onkotik,membranogen
+- Gemik,onkotik,membranogen
+
+? Qandsiz diabet simptomi bo’lgan poliuriya natijasida rivojlanishi mumkin:
+- Izoosmolyar degidratatsiya
++ Giperosmolyar degidratatsiya
+- Izoosmolyar gipergidratatsiya
+- Gipoosmolyar degidratatsiya
+- Giperosmolyar gipergidratatsiya
+
+? Qaysi elektrolit almashinuvining buzilishi bevosita suv muvozanatining buzilishi bilan  bog’liq?
+- Fosfor
+- Kaliy
++ Natriy
+- Magniy
+- Kal’tsiy
+
+? Qaysi garmon gipersekretsiyasida gipernatriemiya, gipokaliemiya kuzatiladi?
+- Vazopressin
+- Adrenalin
+- Bo’lmacha natriyuretik faktori
+- Paratgormon
++ Al’dosteron
+
+? Qaysi gormon gipersekretsiyasida giperkal’tsemiya va gipofosfatemiya rivojlanadi?
+- Vasopressin
+- Tiroksin
++ Paratgormon
+- Al’dosteron
+- Oksitotsin
+
+? Qon yo’qotishdan so’ng bemorda rivojlanadi?
+- Gipoosmolyar degidratatsiya
+- Gipoosmolyar gipergidratatsiya
+- Giperosmolyar degidratatsiya
++ Izoosmolyar degidratatsiya
+- Izoosmolyar gipergidratatsiya
+
+? Quyida ko’rsatilganlardan qaysi biri gipokaliemiyaning sababi bulishi mumkin?
+- Gipoal’dosteronizm
+- Eritrotsit gemolizi
+- Buyrak yetishmovchiligi
+- Og’ir jismoniy ish
++ Chuzilgan ich ketishi
+
+? Sanab o’tilganlardan qaysi biri nefrotik sindromda shish rivojlanishida muhim rol o’ynaydi?
+- To’qimada osmotik bosimni oshishi
+- Kapilliyar o’tkazuvchanlugini oshishi
+- To’qimada onkotik bosimni oshishi
+- Kapilliyarda gidrostatik bosimni oshishi
++ Qon plazma onkotik bosimini kamayishi
+
+? Suv muvozanatini buzilishi bilan aynan qaysi ion almashinuvining buzilishi uzviy bog’liq?
+- Magniy
+- Fosfor
+- Kal’tsiy
++ Natriy
+- Kaliy
+
+? Suv va elektrolit defitsitini korrektsiyalashda qaysi formuladan foydalaniladi?
+- Starling
+- Mechnikov
++ Mak Kriston va Miller
+- Kongeym
+- Kann va Miller
+
+? Suv va elektrolit nisbatiga bog’liq holda degidratatsiyaning qanday turlari farqlanadi?
+- Izoosmolyar, gipoosmolyar
++ Izoosmolyar, gipoosmolyar, giperosmolyar
+- Aralash, gipoosmolyar, giperosmolyar
+- Izotonik, giperosmolyar
+- Gipoosmolyar, giperosmolyar
+
+? Tog'ga chiqayotgan alpinistlarda respirator alkaloz rivojlandi. Bunda arterial qondagi pCO2 quyidagicha bo'ladi:
++ 25 мм с.уст.
+- 35 мм с.уст.
+
+? Toksik shish qaysi mexanizm asosida rivojlanadi?
+- Aralash
+- Gidrostatik
+- Gemodinamik
++ Membranogen
+- Onkotik
+
+? To’xtovsiz qusishdan so’ng, suv-tuz almashinuvi buzilishining qaysi turi rivojlanadi?
+- Izooosmolyar gipergidratatsiya
+- Giperosmolyar degidratatsiya
++ Gipoosmolyar degidratatsiya
+- Izooosmolyar degidratatsiya
+- Gipoosmolyar gipergidratatsiya
+
+? Venoz bosimni oshishi, venoz dimlanish natijasida kapilliyardan qon plazmasi fil’tratsiyasini oshishidan qanday shish kelib chiqadi?
+- Allergik shish
+- Kaxektik shish
+- Buyrak shishi
+- Toksik shish
++ Yurak shishi
+
+? Yuqori harorat va namlik sharoitida ishlaganda nafas tezlashib va ko’p ter ajralishidan suv-elektrolit almashinuvi buzilishining qaysi turi yuzaga kelishi mumkin?
+- Gipoosmolyar degidratatsiya
+- Izoosmolyar degidratatsiya
+- Izoosmolyar gipergidratatsiya
+- Giperosmolyar gipergidratatsiya
++ Giperosmolyar degidratatsiya
+
+? Ateroskleroz bo'lgan bemorda erkin yog' kislotalari ortiqcha miqdorda qaerda hosil bo'ladi?
+- Qon plazmasida
+- Endoteliotsitlar membranasida
+- Eritrotsitlarda
++ Monotsit lizosomasida
+- Hujayralararo suyuqlikda
+
+? Bemor A., 42 yoshda, bosh aylanishi, umumiy zaiflik, ochlik, sovuq ter ajralishidan shikoyat qiladi. Ob'ektiv: ko'z qorachig'i kengaygan, qon bosimi - 90/50 mm Hg. Qonning biokimyoviy tekshiruvi:umumiy bilirubin - 16,1 mkmol/l, mochevina - 4,8 mmol /I, kreatinin - 96 mkm/1, glyukoza -2,0 mmol/I.Qanday koma rivojlanishi mumkin?
+- Buyrak usti bezining gipofunktsiyasidagi
+- Jigar komasi
+- Giperglikemik
+- Uremik
++ Gipoglikemik
+
+? Giperglikemik komaning xarakterli alomatlaridan biri patologik Kussmaul nafas olishning paydo bo'lishi. Ushbu nafas olish tizimining buzilishlarini qaysi moddalarning to'planishini tushuntirishi mumkin?
++ Keton tanachalari
+- Murakkab uglevodlar
+- Glyukoza
+- Sut kislotasi
+- Karbon kislotasi
+
+? Gipoglikemik komaning patogenezida birinchi darajali ahamiyatga ega?
+- Qon bosimining oshishi
+- Buyraklar orqali suyuqlik yo'qolishi
+- Yurakning kuchining kamayishi
++ Miya neyronlarining uglevodga nisbatan ochligi
+- Qon bosimini tushishi
+
+? Glyukagon yetishmovchiligi sindromining xarakterli xususiyati bu
+- Giperosmiya
+- Arterial gipertenziya
+- Giperglikemiya
++ Spontan gipoglikemiya
+- Arterial gipotenziya
+
+? Glyukoza uchun buyrak bo'sag'asi nimaga teng?
+- 16-17 mmol/l
+- 4-5 mmol/1
++ 8-10 mmol/1
+- 6-7 mmol/1
+- 10,5-11 mmol/1
+
+? Insulin yetishmovchiligi bo'lsa birinchi navbatda.... metabolizmi buziladi?
+- Protein
+- Elektrolitlar
+- Vitaminlar
+- Yog'lar
++ Uglevodlar
+
+? JSST ekspertlarining tavsiyalariga ko'ra, qandli diabet kasalligini aniqlashda qaysi mezon hal qiluvchi hisoblanadi?
++ Giperglikemiya
+- Polluriya
+- Polifagiya
+- Polidipsiya
+- Glyukozuriya
+
+? Oziq-ovqat bilan birga keladigan glikogen oshqozon-ichak traktida gidrolizlanadi. Ushbu jarayon natijasida qanday yakuniy mahsulot hosil bo'ladi?
++ Glyukoza
+- Laktat
+- Galaktoza
+- Laktoza
+- Fruktoza
+
+? Qandli diabet bilan og'rigan bemorda suv-tuz
+- Anuriya
+- O'pka shishi
+- Astsitlar
++ Poliuriya
+- Gidrotoraks
+
+? Qandli diabetda giperosmolyar komaning patogenezi asosida yotadi:
+- Giperglikemiya
+- Keton tanachalarning to'planishi
+- Arterial gipertenziya
+- To'qimalarning gipergidratatsiyasi
++ To'qimalarning suvsizlanishi
+
+? Qandli diabetda insulinga bog'liq giperglikemiya rivojlanishining yetakchi mexanizmi nima?
+- To'qimadagi glyukoza iste'molining ko'payishi
+- Lipogenezni faollashtirish
+- Glikogen sintezini faollashtirish
++ Glyukoneogenez va glikogenolizni faollashtirish
+- Glyukoneogenezni ingibitsiya qilish
+
+? Qandli diabetda kislota-ishqorli holatining qanday buzilishi rivojlanadi?
+- Gazli alkaloz
+- Hamma javob tugri
++ Gazsiz atsidoz
+- Gazli atsidoz
+- Gazsiz alkaloz
+
+? Qandli diabetda
+- Aterosklerotik pilakchalarning shakllanishi
+- Endoteliyning shikastlanishi
+- Qon tomir
+- Qon tomir
++ Qon tomir devoir bazal membranasining qalinlashishi
+
+? Qandli diabetda poliuriya rivojlanishi mumkin. Bunda suv-elektrolit balansi buzilishining qaysi turi kuzatiladi?
+- Gipoosmolyar gipergidratatsiya
++ Giperosmolyar degidratatsiya
+- Giperosmolyar gipergidratatsiya
+- Izoosmolyar degidratatsiya
+- Izoosmolyar gipergidratatsiya
+
+? Qandli diabetda quyidagi asoratlardan qaysi biri uchraydi?
+- Sariqlik
+- Anemiya
++ Polineyropatiya
+- Eritrositoz
+
+? Qandli diabetda yuqori giperglikemiya (30 mmol / I dan yuqori) giperosmolyar koma bilan murakkablashadi. Uning rivojlanishi nima bilan bog'liq?
+- Gemokontsentratsiya
+- Sut kislotasining to'planishi
++ Miyaning suvsizlanishi
+- Pirouzum kislota to'planishi
+- Keton jismlarning to'planishi
+
+? Qandli diabetga xos bo'lgan suv-tuz metabolizmining buzilishini ko'rsating:
+- Anuriya
+- O'pka shishi
+- Gidrotoraks
+- Oligouriya
++ Poliuriya
+
+? Qandli diabetning tajribaviy modellaridan biri bu ditizon. Ditizonning ta'sir qilish mexanizmi qaysi element bilan boglik
+- Magniy
+- Temir
+- Kaliy
+- Fosfor
++ Rux (Tsink)
+
+? Qandli diabetni tashxislashda hal qiluvchi simptom nima?
++ Giperglikemiya
+- Poliuriya
+- Glyukozuriya
+- Anuriya
+- Polidipsiya
+
+? Qondagi glyukoza miqdorini pasaytiradi
++ Insulin
+- Kortizol
+- Adrenalin
+- Tiroksin
+- Glyukagon
+
+? Quyidagilardan qaysi biri diabetning asoratidir?
+- Anemiya
+- Aldosteronizm
+- Eritrositoz
+- Leykoz
++ Retinopatiya
+
+? Yog 'almashinuvidagi quyidagi o'zgarishlar insulinga bog'liq diabet kasalligi uchun xarakterlidir:
+- Lipogenezni faollashtirish
+- Yog 'kislotalarini kengaytirilgan rezintezi
+- Fermentlar yetishmovchiligi
+- Qonda yog' kislotalarini kamaytirish
++ Lipogenezni ingibitsiya qilish
+
+? Buyrak kasalliklarida proteinuriya paydo bo'lishining asosiy mexanizmi nima?
+- Vazopressin sekretsiyasini kamayishi
+- Jigarda oqsil sintezini oshishi
+- Renin sekretsiyasini oshishi
++ Koptokchalar membranasi shikastlanishi
+
+? Disglobulinemiya uchun xos:
+- Globulinlar va protrombin o'rtasidagi nisbatning o'zgarishi
++ Globulinlar turlari o'rtasidagi nisbatning o'zgarishi
+- Globulinlar va albuminlar o'rtasidagi nisbatning o'zgarishi
+- Globulinlar va fibrinogen o'rtasidagi nisbatning o'zgarishi
+
+? Disproteinemiyaning kelib chiqishiga ko'ra nechta shakli tafovut etiladi?
++ 2ta.
+- 3ta.
+- 5ta
+- 4ta.
+
+? Fenilpiruvat siydikda temir uch xlor bilan birga qanaqa rangni beradi?
+- qizil
+- binafsha
+- sariq
++ yashil
+
+? Gemoglobin molekulasidagi faqat bitta aminokislota qoldig'ini almashinishi (glutaminni valinga) nimaga olib keladi?
+- qandli diabetga.
+- gipertoniyaga.
+- talassemiyaga.
++ o'roqsimon hujayrali anemiyaga.
+
+? Giperproteinemiya - bu?
+- Ayrim yoki hamma lipoproteidlar miqdorining ko'payishi.
++ Ayrim yoki hamma oqsillar miqdorining ko'payishi.
+- Ayrim yoki hamma uglevodlar miqdorining kamayishi.
+- Ayrim yoki hamma oqsillar miqdorining kamayishi.
+
+? Immun gemolitik anemiyada eritrotsitlar membranasini yemirishda qonning qaysi oqsil komponenti ishtirok etadi?
++ A. Komplement
+- B. Spektrin
+- C. Transferrin
+- D. Ceruloplazmi
+
+? Intensivligi 11 g/l selektiv proteinuriyada proteinning eng ishonchli kelib chiqishi qanday?
+- C. Uretradan
++ A. Tubulyar
+- D. Glomerulyar
+- B. Qovuqdan
+
+? Jigar yetishmovchiligi tufayli qonda aminokislotalar oshishi nima bilan bog'liq?
++ Gepatotsitlarni
+- Buyraklar orqali
+- Krebs siklida oksidlanish
+- Oksidli dezaminirlash buzilishi
+
+? Katta yoshli odamlar qonida normadagi oqsillar miqdori
+- 45-55 g/l
+- 70-100 g/l
++ 65-85 g/l
+- 55-85 g/l
+
+? Katta yoshli odamlar uchun mutloq ochlik davomiyligi
+- 0,5-1 oy
+- 7 coat
++ 4-7 kun
+- 1-2 kun
+- O'simlik oqsillarining yetishmovchiligi; bolalarda
+- Hayvonlar oqsillarining yetishmovchiligi, kattalarda
++ Hayvonlar oqsillarining yetishmovchiligi; bolalarda
+- O'simlik oqsillarining yetishmovchiligi; kattalarda
+
+? Ma'lumki, jigar kasalliklarida oqsil almashinuvi buziladi. Shu bilan birga, qonda birinchi navbatda nimani miqdori o'zgaradi?
++ albumin
+- B-globulin
+- fibrinogen
+- y-globulin
+
+? Ochlik paytida o'z oqsillarini parchalash va utilizatsiya qilish bosqichida qanday shish paydo bo'lishi mumkin?
++ A. Kaxektik
+- D. Limfogen
+- C. Toksik
+- B. Allergik
+
+? Ochlikni quyidagi turlari tafovut qilinadi:
+- qisman, umumiy ochlik, to'liq bo'lmagan, nisbiy
++ mutloq, to'liq, to'liq bo'lmagan, qisman.
+- qisman, to'liq bo'lmagan, umumiy ochlik
+- mutloq, to'liq, qisman
+
+? Oqsil almashinuvining oxirgi mahsulotlari bo'lib nima hisoblanadi?
++ Ammiak va mochevina (siydikchil)
+- Nuklein kislotalar
+- Ammiak va albumin
+- Albumin va aminokislotalar
+
+? Oqsil sintezini oshiruvchi gormonlar?
+- somatotrop, tirozin, pepsin
+- insulin, pepsin, tirozin
++ somatotrop, insulin, jinsiy gormonlar
+- somatotrop, ADG, tiroksin
+
+? Protein ochligi natijasida jigar sariqligi nima tufayli rivojlanadi?
+- Glyukuronidaza faoliyatining pasayishi
+- Ortiqcha a - ketoglutarat hosil bo'lishi
++ Gepatotsit bilirubinni biriktirib olishining buzilishi
+- Gepatotsitda energiya yetishmasligi
+
+? Protein ochligida jigar sariqligi patogenezining sxemasini to'ldiring: gepatotsitdagi B va Z oqsillarining kamayishi >?> bilirubin transtortining buzilishi > sitoplazmatik membranadan uni gepatotsitga qondan o'tishi kamayadi > sariqlik
++ energiya yetishmovchiligi
+- bilirubinning albumin bilan kuchli bog'lanishi
+- ligandalar bilan bilirubinni bog'lashning buzilishi
+- jigarda qon aylanishining buzilishi
+
+? Qaysi kasallik bolaning 2-3 yoshida vujudga keluvchi aqliy zaifligi bilan ifodalanadi
+- anuriya
+- alkaptonuriya
++ fenilketonuriya
+- dizuriya
+
+? Qondagi g'ayritabiiy oqsillarga nima kiradi?
+- Globulin
+- Fibrinogen
++ Krioglobulin
+- Albumin
+
+? Qondagi oqsillar fraktsiyalarini nisbatining o'zgarishi nima deyiladi?
+- gipoproteinemiya
+- giperproteinemiya
++ disproteinemiya
+- displaziya.
+
+? Shifokor qabo'liga A. ismli 3 yoshli bemor bola olib kelindi va unda tekshirish olib borilganda uning aqliy zaifligi va siydigi yashil rangligi aniqlandi. Bu bolaga qanday diagnoz qo'yishimiz mumkin?
+- Alkaptonuriya
+- Daun
++ Fenilketonuriya
+- Albinizm
+
+? Shifokor qabo'liga B. nomli bemor keldi, uning teri hujayralarida, sochida, ko'z kamalak pardasida melanin pigmenti yo'qligi va quyosh nuriga ta'sirchanligi aniqlandi, unga shifokor qanday diagnoz qo'yishi mumkin?
++ Albinizm
+- Alkaptonuriya
+- Fenilketonuriya
+- Daltonizm
+
+? Siydik kislota nima metabolizmining oxirgi mahsuloti?
+- Lipoproteidlar
++ Oqsil
+- Yog'
+- Karbonsuv
+
+? Sutka davomida organizmga kiruvchi oqsilning optimal miqdori
++ 1 g/kg tana vazniga
+- 2,5 g/kg tana vazniga
+- 3 g/kg tana vazniga
+- 4 g/kg tana vazniga
+
+? Tarkibida nimani saqlovchi mahsulotlar ko'p istemol qilinganda podagra kelib chiqadi?
++ Siydik kislota
+- Glyukoza
+- Fosfatlar
+- Lipoproteidlar
+
+? To'liq bo'lmagan ochlikning dastlabki ko'rinishlari bu
+- Qon zardobidagi oqsillar miqdori 60-80 g/l gacha pasayishi
++ Qon zardobidagi oqsillar miqdori 50-60 g/l gacha pasayishi
+- Qon zardobidagi oqsillar miqdori 65-85 g/l gacha pasayishi
+- Qon zardobidagi oqsillar miqdori 10-20 g/l gacha pasayishi
+
+? Tubulin oqsili (undan neyronning sitoplazmatik mikronaychalari qurilgan) strukturasining buzilishi qaysi jarayonning buzilishiga olib keladi?
+- Retseptorlar bilan neyrotransmitter o'zaro munosabati
+- Neyrotransmitter sintezi
+- Sinaptik yoriqdan neyromediatorni yo'q qilinishi
++ Presinaptik qismga neyrotransmitter tashilishi
+
+? Uzoq muddatli protein ochligida gumoral immun javobining qanday o'zgarishlarini kutish mumkin?
+- T-limfotsitlar sonini kamayishi
+- Fagotsitoz tormozlanishi
++ Antitanalar sintezining buzilishi
+- NK hujayralari faoliyatini kamayishi
+
+? Antioksidant sistemada buzilish natijasida mitoxondriya shikastlanadi. Mitoxondriyani shikastlanishiga xos belgilarni toping?
+- Glikolizni faollashuvi
+- Oqsil sintezini tormozlanishi
++ Oksidlanish va fosforlanishni ajralishi
+- Hujayra shaklini o‘zgarishi
+- Hujayra autolizi
+
+? Apoptoz mexanizmi bo‘yicha hujayralarni shikastlanishi bildiradi.
+- Mitoxondriyada oksidlovchi fosforillanishning buzilishi
+- Lipidlarni peroksidli oksidlanishini ahamiyatli susayishi
+- Membrana transferazalarini faollashishi
+- Hujayraga glyukoza tashishni faollashtirish
++ Kaspazani faollashuvi
+
+? Apoptoz nekrozga nimasi bilan o‘xshaydi?
+- Fiziologik sharoitda “ortiqcha” hujayrani olib tashlashni ta’minlaydi
+- Gormonal faktorlar tanqisligida yuzaga kelishi mumkin
++ Hujayraning plazmatik membranasi bilan ifodalangan shikastlanishi yuzaga keladi
+- Genetik dasturlangan
+- Hujayralarni massiv nekrozi
+
+? Erkin radikallar ta’siridan hujayrani himoya qiladigan moddani ko‘rsating?
++ Superoksiddismutaza
+- Glyukuronidaza
+- Uridiltransferaza
+- Geksokinaza
+- Peptidaza
+
+? Glikolizning faollashuvi va ko‘p miqdorda laktatning hosil bo‘lishi hujayra shikastlanishini keltirib chiqaradi. Bu vaqtda ustun turuvchi mexanizmni toping?
+- Lipidli
+- Proteinli
+- Kal’tsiyli
++ Atsidotik
+- Nukleinli
+
+? Hujayra membranasini barer funktsiyasini buzilishi ionofor mexanizmi nima bilan ifodalanadi.
+- Pentozofosfat siklini tormozlanishi
+- Yаngi ion kanallarini yuzaga kelishi
++ Ionlar diffuziyasini engillashadi
+- Ion kanallarini yopilishi
+- Ionlar diffuziyasini sekinlashishi
+
+? Hujayra membranasini qolip funktsiyasini buzilishi nima bilan ifodolanadi?
+- Antioksidant fermentlarini tormozlanishi
+- To‘yinmagan yog‘ kislotalarini oksidlanishi
+- Ion kanallarini yopilishi
++ Membrana fermentlarini inaktivatsiyasi
+- Membrana butunligini buzilishi
+
+? Hujayra shikastlanganda yuz beradigan adaptiv o‘zgarishlarga quyidagilar kiradi:
+- Lizosomalardan fermentlarning ajralib chiqishi
+- Hujayrani bo’kishi
+- Hujayraning funktsional faolligini oshishi
++ Glikolitik jarayonlarni faollashuvi
+- Hujayraga Ca2+ tashilishini ortishi
+
+? Hujayra shikastlanishini atsidotik mexanizmining faollashuvi natijasida energiya hosil bo‘lishini buzilishi hujayrani qaysi organellasi shikastlanishi bilan kelib chiqadi.
+- Ribosoma
+- Lizosoma
+- Yadrocha
+- Yadro
++ Mitoxondriya
+
+? Hujayra shikastlanishining elektrolit-osmotik mexanizmining rolini aniqlash uchun qaysi ion balansini aniqlash kerak?
+- Xlor va natriy
+- Kal’tsiy va magniy
+- Xlor va temir
+- Temir va kal’tsiy
++ Natriy va kaliy
+
+? Hujayra shikastlanishining patogenezida asosiy ahamiyatga ega bo‘lgan molekulyar mexanizmlarning barchasi kiradi, quyidagilardan tashqari:
++ Uglevodorod
+- Lipidli
+- Elektrolitik - osmotik
+- Atsidotik
+- Nukleinli
+
+? Hujayra shikastlanishining proteinli mexanizmlariga kiradi:
+- Lipidlarni peroksidli oksidlanishini faollashuvi
+- Membrana fosfolipazalarini faollashuvi
++ Proteoliz
+- Ion kanallarining blokadasi
+- Na+ -K+ ATF azani faollashuvi
+
+? Hujayrani antioksidant himoyasini ta’minlay olmaydigan fermentni ko‘rsating?
+- Katalaza
+- Superoksiddismutaza
+- Glutationreduktaza
++ Fosfolipaza A2
+- Glutationperoksidaza
+
+? Hujayrani antioksidant himoyasini ta’minlaydigan fermentni ko‘rsating?
+- Kaspaza
++ Glutationreduktaza
+- Aldolaza
+- Katepsin
+- Fosfolipaza
+
+? Hujayrani shikastlanishi patogenezida lipidli mexanizm, ayniqsa lipidlarni peroksidli oksidlanishi muhim ahamiyatga ega. Bu jarayonni tormozlovchi faktorni nomlang?
+- Geksokinaza
++ Katalaza
+- Mieloperoksidaza
+- Lipaza
+- Fosfolipaza
+
+? Hujayraning antioksidant sistemasi ferment bo‘lmagan komponent sifatida hisobga olinmaydi
+- S vitamini
+- A vitamini
+- B vitamini
+- Glutation
++ Ikki valentli temir ionlari
+
+? Hujayraning energiya ta’minotining buzilishi bilan birga keladigan shikastlanish uchun bu xos emas:
+- Mitoxondriyada oksidlovchi fosforillanishning buzilishi
+- Hujayrada Na+ ning to‘planishi
+- Adeninnukleotidtransferaza va KFK faolligining pasayishi
++ Na+-K+-ATFaza plazmatik membranasi faolligining oshishi
+- Glikolizni susayishi
+
+? Hujayraning teskari ishemik shikastlanishi uchun xos emas.
++ Sitozolda lizosomal fermentlarning chiqishi
+- K+ miqdorini kamayishi
+- Hujayrada Na+ ning to‘planishi
+- Sitoplazmani xiralashishi
+- Polisomning monosomalarga parchalanishi
+
+? Hujayraning yog‘li distrofiyasida ortiqcha erkin yog‘ kislotalarini cho‘kishi natijasida yuzaga keladi.
+- Xolesterin efirlari
++ Triglitseridlar
+- Fosfolipidlar
+- Lipoproteidlar
+- Yog’ kislotalari
+
+? Ishemiya sohasida qon aylanishi tiklangandan so’ng, kal’tsiy ionini ko’p miqdorda tushishi qaysi fermentni faollashishi natijasida a’zoni shikastlanishini keltirib chiqaradi?
+- Laktatdegidrogenazalar
+- Siklooksigenazalar
+- Lipooksigenazalar
+- Prostaglandinlar
++ Fosfolipaza A2
+
+? Kal’tsiy mexanizmi bilan hujayra shikastlanishini oldini olish uchun, qaysi ferment bloklanadi?
+- Kallmodulin
+- Superoksiddismutazalar
++ Fosfolipazalar
+- Kal’tsiy ATFazalar
+- Na-K-ATF-azalar
+
+? Membrana shikastlanishining kal’tsiyli mexanizmi bilan chambarchas bog‘liq bo‘lgan ionning hujayra ichidagi konsentratsiyasi balansining buzilishi bilan?
+- Xlor
++ Natriy
+- Ftor
+- Kaliy
+- Temir
+
+? Na-K-nasosi ishini buzilishi oqibatida neyronni funktsiyasini buzilishiga nimani tanqisligi asosiy sabab bo‘ladi?
+- ADF
+- Adenilatsiklaza
++ ATF
+- NADFN
+- NADN
+
+? Ortiqcha erkin yog‘ kislotalarini detergent ta’sirida hujayra shikastlanishi nima bilan tugallanadi?
+- Pentozofosfat siklini tormozlanishi
+- Antioksidant fermentlar inaktivatsiyasi
++ Membranani ikki qavatli lipidini buzilishi
+- Fosforilaza A2 ning faollashuvi
+- Na-K-ATFazani faollashuvi
+
+? Qaysi ion tarkibining buzilishida, hujayra shikastlanishining atsidotik mexanizmi yuzaga kelishi mumkin?
++ Natriy
+- Kal’tsiy
+- Xlor
+- Natriy va xlor
+- Kaliy
+
+? Shikastlanishda tiklanish xususiyatiga ega bo‘lmagan hujayrani ko‘rsating?
+- Qoplovchi epiteliy
+- Taloq pulpasi
++ Kardiomiotsitlar
+- Qoplovchi epiteliy
+- Qizil suyak ko‘migi
+
+? Shikastlovchi ta’sirga birinchi o‘rinda va o‘rta darajada sezgir hujayra organellasini ko‘rsating.
+- Endoplazmatik tur
+- Lizosoma
+- Yadro
+- Ribosoma
++ Mitoxondriya
+
+? Sitopatik shikastlanishga sezgir
++ Kardiomiotsitlar
+- Endotelial hujayralar
+- Gepatotsitlar
+- Epidermal hujayralar
+- Nerv hujayralari
+
+? Temir, mis, selen tanqisligi antioksidant fermentlarining ishlashini buzadi. Bunday sharoitda hujayra shikastlanishining qanday molekulyar mexanizmlari faollashadi?
+- Proteinli
+- Nukleinli
++ Lipidli
+- Kal’tsiyli
+- Atsidotik
+
+? To‘qima shikastlanishi reparatsiyasida intensiv proliferatsiya xususiyatiga ega hujayrani ko‘rsating?
+- Qon tomir endoteliysi
+- Pnevmotsitlar
++ Qoplovchi epiteliy
+- Kardiomiotsitlar
+- Skelet mushak tolalari
+
+? Radiatsion shikastlanishda antioksidant himoya tizimidagi sulfgidril guruhlarining donori qaysi moddadir?
+- Dofamin
+- Melatonin
+- Norepinefrin
+- Metionin
++ Glutation
+
+? Atipik isitma bilan
+- Bezgak
+- Angina
++ Revmatizm
+- Brutsellyoz
+- Gripp
+
+? Atrof-muhit haroratining sezilarli darajada oshishi bilan yuzaga keladigan kompensatsion reaktsiyalarga tegishli?
++ Periferik tomirlarning kengayishi
+- Periferik tomirlarning konstriktsiyasi
+- Bradikardiya
+- Ichki organlar tomirlarining kengayishi
+- Taxikardiya
+
+? Birlamchi pirogenlarning harakati nimani faollashuvi orqali amalga oshadi?
+- Gipofiz bezini
+- Serebellum korteksining neyronlarini
+- Teri termoretseptorlari
+- Gipotalamus neyronlarini
++ Makrofaglarni
+
+? Endotoksin ta'sirida bemorlarda miya sifilisining yaxshilanishi kuzatilgan. Bu unga bog'liqmi?
+- Intoksikatsiya xossalari
+- Antigen xususiyatlar
+- Mutagen xususiyatlar
+- Kantserogen xususiyatlar
++ Pirogen xossalar
+
+? Evolyutsiyada isitma tananing reaktsiyasi sifatida nimaga nisbatan sodir bo'ldi?
+- Stress
+- Jismoniy stress
++ Infektsiya
+- Gipotermiya
+- Haddan tashqari qizib ketish
+
+? Febris Intermittens bilan xarakterlanadigan kasallik
++ Bezgak
+- Peritonit
+- Sil
+- Gripp
+- Brutsellyoz
+
+? Gektik isitma bilan xarakterlanadi
+- Appenditsit
+- Bezgak
++ Sepsis
+- Gripp
+- Brutsellyoz
+
+? Gipertermiya paytida kompensatsiya bosqichda tanadagi o'zgarishlarni ko'rsatadi
+- Bradikardiya
++ Taxipnoe
+- Ichki organlar tomirlarining kengayishi
+- Bradipnoe
+- Gipotenziya
+
+? Grammusbat bakteriyalar endotoksinlari birlamchi pirogen bo'lib kimyoviy tuzilishiga ko'ra nima hisoblanadi?
+- Proteinlar
+- Nitrozaminlar
+- Uglevodlar
++ Lipopolisaxaridlar
+- Lipidlar
+
+? Infektsion ekzogen pirogenlar kimyoviy tuzilishiga ko'ra
+- Lipoprotein
+- Oligopeptid
++ Lipopolisaxarid
+- Glikozaminoglikan
+- Lipid
+
+? Infektsion pirogenlarning biologik faolligi ularning tarkibida nimaning bo'lishi bilan belgilanadi?
++ Lipoid A
+- Gammaglobulinlar
+- Leykotrien D
+- Interleykin 1
+- Prostaglandin E
+
+? Isitma bu odatdagi patologik jarayon, u nimani ta'sirida tana haroratining ko'tarilishi bilan namoyon bo'ladi?
+- Jismoniy omillar
++ Pirogen omillar
+- Ruhiy omillar
+- Kimyoviy omillar
+- Pirogen bo'lmagan omillar
+
+? Isitma bilan mushaklar va bug'imlarning og'rig'i ulardagi harakatlar bilan izohlanadi?
+- Serotonin
+- Bradikininlar
++ Interleykin-1
+- Endorfinlar
+- Gistamin
+
+? Isitma etiologiyasida ekzogen pirogenlarning roli nimani sintezini rag'batlantirishda ishtirok etadi?
+- Prostaglandinlar E1
++ Interleykin 1
+- Makrofaglarning xemotaksis omili
+- Immunoglobulin M
+- Geparin sulfat
+
+? Isitma patogenezida termoo'rnatuvchi nuqta nima ta'sirida o'zgaradi?
+- Lipopolisaxarid
+- Interleykin-2
+- Lipoid A
++ Prostaglandinlar E2
+- Interleykin-1
+
+? Isitma paytida interleykin-1 uchun nishon hujayralar
++ Neyronlar
+- Monotsitlar
+- Limfotsitlar
+- Glial hujayralar
+- Endoteliotsitlar
+
+? Isitma rivojlanib borgan sari, organizmning virusli infektsiyalarga rezistentligi kuchayadi. Bu nima bilan bog'liq?
+- Interleykin-1
++ Interferon
+- Immunoglobulin
+- Komplement
+
+? Isitma rivojlanishi paytida interleykin-1 sintezi nima bilan indutsirlanadi?
+- Prostaglandinlar
+- Interferon
+- Serotonin
++ Lipoid A
+- Immunoglobulin
+
+? Isitma rivojlanishida asab tizimining qaysi tuzilmasi yetakchi rol o'ynaydi?
+- Serebellum
+- Gipofiz
+- Medulla oblongata
++ Gipotalamus
+- Substansiya nigra
+
+? Isitmani tushiruvchi faollik nimaga xos?
++ Glyukokortikoidlar
+- Tiroksin
+- Somatostatin
+- Mineralokortikoidlar
+- Interleykin
+
+? Ma'lumki, glyukokortikoidlar isitma rivojlanishiga to'sqinlik qiladi, bunda dominant ta'sir nima?
+- To'qimalarda oksidlanish va fosforillanishning ajralishi
+- Mushaklardagi metabolizmning tormozlanishi
+- Termoregulyatsiya markazining ishdan chiqishi
++ Leykotsitlardagi metabolik jarayonlarning tormozlanishi
+- Terlashning kuchayishi
+
+? Miya sifilisi bilan kasallangan bemorlarning ahvoli yaxshilanishi endotoksinlarni qaysi xususiyatlari bilan bog'liq?
++ Pirogen
+- Mutagen xususiyatlar
+- Intoksikatsion
+- Antigen
+- Kantserogen xususiyatlar
+
+? Qanday mikroorganizmlar pirogenal ishlab chiqarish uchun boshlang'ich material sifatida ishlatiladi?
+- RNK viruslari
++ Gram-manfiy bakteriyalar
+- DNK viruslari
+- Gram-musbat bakteriyalar
+- Zamburug'lar
+
+? Qaysi hujayralar ikkilamchi pirogenlarning eng kuchli ishlab chiqaruvchilari?
++ Monotsitlar
+- Bazofillar
+- Trombotsitlar
+- Neytrofillar
+- Eritrotsitlar
+
+? Qaysi hujayralarda ikkilamchi pirogenlar sintez qilinadi?
+- trombotsitlar
++ monotsitlar
+- eritrotsitlar
+- limfotsitlar
+- endoteliotsitlar
+
+? Qaysi kasallik invertli isitma bilan tavsiflanadi?
++ Bezgak
+- Tuberkulyoz
+- Brutsellyoz
+- Gripp
+- Krupozli pnevmoniya
+
+? Qaytalanuvchi isitma bilan xarakterlanadigan kasallik
+- Gripp
+- Tuberkulyoz
++ Qaytalanuvchi tif
+- Brutsellyoz
+- Bezgak
+
+? Termoregulyatsiya markazi qaerda joylashgan?
++ Gipotalamus
+- Serebellum
+- Orqa miya
+- Uzunchoq miya
+- Limbik tizim
+
+? Termoregulyatsiya markazining neyronlari qaerda joylashgan?
+- Talamusda
+- Orqa gipotalamusda va substansiya nigrada
++ Old va orqa gipotalamusda
+- Striatumda
+- Old gipotalamus va serebellumda
+
+? Yuqori darajada tozalangan ekzogen pirogenlarni olish uchun boshlang'ich material?
+- Protozoa
+- Kokklar
++ Gram-manfiy bakteriyalar
+- Zamburug'lar
+- Rikkettsiya
+
+? 67 yoshli bemor uzoq vaqt davomida oshqozon yarasi bilan kasal bo'lib, o'tkir charchoq (kaxeksiya), terining rangi oqarishi, zaiflik, ishtahaning yo'qolishi, go'shtdan qayt bulish belgilari bor edi. Oshqozon shilliq qavatining biopsiyasida hujayra atipizmi aniqlandi. Ushbu alomatlar qanday patologiyaga xarakterli?
+- Gipertrofik gastrit
++ Oshqozon yomon sifatli o`smasi
+- Polipoz
+- Gijja invaziyasi
+- Oshqozon yaxshi sifatli o`smasi
+
+? Aminoasobirikmalar organotroplik bilan xarakterlanadi va ayrim organlarda o'smaga sabab buladi, beta-naftilamin sabab bo'ladi.
++ Qovuq
+- O'pka
+- Oshqozon
+- Jigar
+- Yurak
+
+? Ba'zi o'smalar boshqa to'qimalarning xususiyatlarini oladi, masalan, bronxial saraton hujayralari ovqat hazm qilish tizimining gormonlarini sintez qila boshlaydi. Ushbu hodisa deyiladi
+- Displaziya
+- Gipoplaziya
+- Giperplaziya
++ Metaplaziya
+- Anaplaziya
+
+? Ba'zi odamlar o'smalari viruslardan kelib chiqqanligi isbotlangan. Inson papilloma virusi (HPV) qanday yomon sifatli o`sma paydo bo'ladi?
+- Oshqozon saratoni
+- Ko'krak saratoni
++ Bachadon bo'yni saratoni
+- Prostata saratoni
+- Oshqozon osti bezi saratoni
+
+? Bir hayvondan ikkinchisiga bir xil turdagi o'simtaning eksperimental transplantatsiyasi.
+- Geterotransplantasiya
+- Eksplantatsiya
+- Isotransplantasiya
++ Gomotransplantasiya
+- Induksiya
+
+? Bir vaqtning o'zida bir nechta kanserogenlarning ta'siri usma paydo bo'lish ehtimolini oshiradi. Kanserogen xususiyatlarning o'zaro mustahkamlanishining bu ta'siri atama bilan belgilanadi
++ Sinkanserogenez
+- Kokanzerogenez
+- Patogenez
+- Mutagenez
+- Onkogenez
+
+? Buyrak usti bezlari miya qatlamidan kelib chiqqan o'sma - feokromositoma bo'lgan bemorlarda qaysi gormonning giperekretsiyasi kuzatiladi
+- Glukagon
+- Somatotropin
+- Noradrenalin
+- Insulin
++ Adrenalin
+
+? Chekish bilan o'sma rivojlanishining yuqori o'zaro bog'liqligi kimyoviy kanserogenning ta'siri bilan bog'liq
+- Metilkolantren
+- Aflatoksin
++ 3,4-benzperen
+- Nitrosamin
+- Dietil nitrosamin
+
+? Eksperimental sichqonlarning bir guruhiga yomon sifatli o`sma kuchirib utkazildi. Atipizm o'sma to'qimalarining muvaffaqiyatli omon qolishiga hissa qo'shadimi
+- Jismoniy
+- Biokimyoviy
+- Funktsional
+- Morfologik
++ Immun
+
+? Gastrinomali bemorda-oshqozon osti bezining o`smasi-gastrin gipersekretsiyasi aniqlandi. Gipersekretsiya qaysi kasallik bilan bog'liq bulishi mumkin.
+- Gastrit
+- Gipertenziya
+- Pankreatit
+- Ezofagit
++ Oshqozon yarasi
+
+? Hujayrali protonkogenlarni faollashtirish omillarini ko'rsating.
+- Makrofagal fagotsitoz
+- Hujayra oqsillari oksidlanishini oshirish
+- Yog' kislotasi beta-oksidlanish fermentlarining faolligini o'zgartirish
+- Virusli DNK genini chiqarish
++ Virusli DNK genini kiritish
+
+? Ichki organlarning ultratovush tekshiruvida ichak tutilishi bilan og'rigan bemorda jigarda, taloqda, buyrakda turli xil konfiguratsiyalar va kattalikdagi o`smalar aniqlandi. Qanday jarayon natijasida qiz o'smalar paydo bo'lishi kuzatiladi?
+- Ekspansiv o'sish
+- To'qima metaplaziyasi
++ Metastazlanish
+- Infiltrativ o'sish
+- To'qimalarning anaplaziyasi
+
+? Ionlashtiruvchi nurlanish yordamida o'smani eksperimental qayta tiklash natijasida yuzaga keladi.
+- Eksplantatsiya
+- Homotransplantasiya
+- Isotransplantasiya
+- Heterotransplantasiya
++ Induksiya
+
+? Jismoniy kanserogenlarga quyidagilar kiradi
++ Ultrabinafsa nurlari
+- Yuqori chastotali elektromagnit to'lqinlar
+- Ultrasonik nurlar
+- Infraqizil nurlari
+- Ultrasonik tebranish
+
+? JSST ekspertlari tomonidan o'tkazilgan tadqiqotlar xavfli o'smalardan aziyat chekadigan ayollarning foizini oshishini ko'rsatdi. Qaysi xususiyat terapevtik chora-tadbirlarning past samaradorligini belgilaydi.
+- Kapsula mavjudligi
++ Metastazlanish
+- Kapsula mavjud emasligi
+- Ekspansiv o'sish
+- Kontaktda bulish
+
+? Kanserogen moddalar tamaki tutunida uchraydi. Ular guruhga tegishli
++ Politsiklik aromatik uglevodorodlar
+- Aromatik amidlar
+- Nitrosaminlar
+- Aromatik aminlar
+- Uglevodorodlar
+
+? Kimyoviy moddalar bilan usmani indüksiyaslash birinchi marta 1775da quvur tozalovchilarda aniqlangan. Ulardan kim birinchi marta yorg`oq terisi rakini tasvirlab berdi
+- Klark
+- Ellerman
++ Percival Pott
+- Yamagiva
+- Ishikawa
+
+? Konchilar tomonidan radioaktiv moddalarni chiqarib yuborish xavfli o'smalar rivojlanishiga olib keladi. Ushbu jarayon orqali ko'pincha ularning organi shikastlanadi.
+- Suyaklar
++ O'pka
+- Teri
+- Oshqozon
+- Yurak
+
+? Laboratoriyada 17 mmol / l glyukoza bulgan eritma o'sma to'qimasidan o'tib, tajriba o'tkazildi. Eritmada glyukoza konsentratsiyasi qanday bo'ladi
+- 10 mmol / l
++ 0 mmol / l
+- 25 mmol / l
+- 16 mmol / l
+- 1,7 mmol / l
+
+? Ma'lumki, o'smalar rivojlanish jarayonida turli moddalarni sintez qiladi. Boshqa turdagi hujayralar uchun o'sish omillarining o'simta hujayralari mahsulotlarining nomi nima
+- Ifodalangan
+- Kuchsiz
+- Autokrin
+- Kuchli
++ Parakrin
+
+? O'sma to'qimalarining ekspansiv o'sishi xarakterli
+- Normal to'qimalar va qon tomir devori o'rtasida o'tqazish
++ Atrofdagi sog'lom to'qimani siljitib o'sishi
+- Atrofdagi sog'lom to'qimani siljitib o'smaslik
+- Q'simta hujayralarini limfa va qon oqimi bilan boshqa organlarga o'tkazish
+- Haddan tashqari o'sish
+
+? O'sma hujayralarida retseptorlarning sintezi va ekspressiyasi bog`liq.
+- Aminokislotalar
+- Gormonlar
+- Neyrotransmitterlar
+- Oqsillar
++ O'sish omillari
+
+? O'sma hujayralarining xususiyatlarini o'rganish uchun organizmdan tashqarida to'qimalarni ushtirish usuli qo'llaniladi. Ushbu usulning nomi nima?
+- Homotransplantatsiya
+- Induksiya
+- Transplantatsiya
+- Izotransplantatsiya
++ Eksplantatsiya
+
+? Sichqonlar qorin bo'shlig'iga Erlixning astsitli karsinomasi ko'chirildi. 20 kundan keyin hayvonda kaxeksi ya kelib chiqdi. O'sma anaplaziyasi turi uning ko'rinishini aks ettiradimi
+- Immunologik
++ Biokimyoviy
+- Kimyoviy
+- Funktsional
+- Fizik-kimyoviy
+
+? Tana tashqarisidagi to'qimada o'simta o'sishi.
+- Endotransplantatsiya
+- Induksiya
+- Homotransplantatsiya
+- Geterotransplantatsiya
++ Eksplantatsiya
+
+? Tekshiruvda bemorda yomon sifatli o`sma aniqlandi. Epiteliyadan kelib chiqqanligi aniqlandi. Uning nomi nima?
+- Sarkoma
+- Fibroma
+- Gemoblastoz
+- Gibernoma
++ Saraton
+
+? Tovuqlarda Rausning eksperimental sarkomasi natijasida yuzaga keladi
+- Homotransplantasiya
+- Gemodializ
+- Isotransplantasiya
++ Induksiyon
+- Heterotransplantasiya
+
+? Usmalarni retsidivlanishi mumkin bo'lgan sabablarini ko'rsating.
++ Mahalliy immunitet omillarini susayishi
+- O'z ichiga olgan o'simta hujayralarining DNK fragmentining kirishi
+- Normal hujayra genomida faol onkogen
+- O'z ichiga olgan o'simta hujayralarining DNK fragmentining chiqishi
+- Organizmning antikanser himoya qilish uchun anti-selular mexanizmlarining yuqori faolligi
+
+? Xavfli o'smalarning yuqori radiorezistentligi ma'lum, utkazilgan nur terapiya ijobiy natijalar foizini kamaytiradi. Xavfli o'smalarning qaysi xususiyati terapevtik chora-tadbirlarning past samaradorligini kursatadi
+- Oqsil sintezining yuqori faolligi
+- Yuqori glikolitik faollik
+- O`rta mitotik faollik
+- Past mitotik faollik
++ Past apoptik faoliyat
+
+? Yuqori saraton xavfi holatini ko'rsating.
+- Tanani isitish
++ Surunkali yallig'lanish jarayonlari
+- O'tkir yallig'lanish jarayonlari
+- Tanani sovutish
+- Balog'atga etish davri

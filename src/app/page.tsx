@@ -9,9 +9,7 @@ export default function Home() {
     fs.readFileSync(path.join(cwd, 'src', 'data', file), 'utf-8');
 
   const modules = [
-    { id: 'modul1', name: 'I Modul', questions: parseQuestions(read('modul1.txt')) },
-    { id: 'modul2', name: 'II Modul', questions: parseQuestions(read('modul2.txt')) },
-    { id: 'toliq', name: "To'liq", questions: parseQuestions(read('questions.txt')) },
+    { id: 'patfiz', name: 'Patfiz', questions: parseQuestions(read('patfiz.txt')) },
   ];
 
   return <QuizApp modules={modules} />;
