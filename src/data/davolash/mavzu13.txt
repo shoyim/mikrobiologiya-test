@@ -1,0 +1,180 @@
+﻿? Almashinmaydigan aminokislotalar deb nimaga aytiladi?
++ Organizmda sintez qilinmaydi
+- Organizmda sintezlanish mexanizmiga ega
+- Organizmda eng ko‘p uchraydi
+- Organizmdagi ba`zi oqsillar tarkibiga kiradi
+
+? Almashinmaydigan aminokislotani ko‘rsating
++ Izoleysin
+- Glitsin
+- Glutamin
+- Alanin
+
+? Argininosuksinat hosil bo`lishi qaysi fermenti yetishmasligi sitrullinuriyaga  olib keladi?
++ Argininosuksinatsintetaza
+- Karbamoilfosfatsintetaza
+- Izotsitratgidrogenaza
+- Ornitinkarbamoiltransferaza
+
+? Toksik birikmalarnini zararsizlantirishda ishtirok etadigan qaysi organda asparagin va glutamin sintezi asosan  sodir bo‘ladi?{
++ Jigarda
+- Yurakda
+- Mushakda
+- Miyada
+
+? Ketogen tipli aminokislotani ko‘rsating
++ Leysin
+- Albumin
+- Globulin
+- Fibrinogen
+
+? Ornitin (mochevina sintezi0 sikli bu-?
++ Tanadagi ammiakni mochevinaga zararsizlantirishning asosiy usuli
+- Siydik kislotasining hosil bo'lish yo'li
+- Aminokislotalarni membrana orqali tashish yo'li
+- ATF hosil bo'lish usuli
+
+? Mochevina (Karbamid) sintezining birinchi reaktsiyasida nima hosil bo’ladi
++ Karbamoil fosfat hosil bo'lishi
+- Sitrat hosil bo'lishi
+- Piruvatning hosil bo'lishi
+- Glutamatni  hosil bo'lishi
+
+? Transmetillanish natijasida qanday xolin tutvchi moddalar hosil bo'ladi?
++ Fosfatidilxolin
+- Karnitin
+- Tiroksin
+- Adrenalin
+
+? Mochevina (Karbamid) qayerda sintezlanadi
++ Jigar
+- Jigar va buyrak
+- Buyrak
+- Buyrak va ichak
+
+? Asab to'qimasida glutamin aminokislotasi hosil bo`lish yo`li orqali ammiakni neytrallash qanday sodir bo`ladi.
++ Alfa-ketoglutarat hisobidan Glutamin sintezi va qaytarilishi
+- Karbamid sintezi
+- Ammoniy tuzlarining hosil bo'lishi
+- Asparagin sintezi
+
+? Quyidagi gormon sintezida metionin ishtirok etmaydi
++ Noradrenalin sintezida
+- Nukleotid metillanishida
+- Xolin sintezida
+- Translyatsiyani boshlashda
+
+? Serinni organizmda quyidagi uglevoddan sintez bo`lishi mumkin
++ Glukoza
+- Atsetoatsetat
+- Atseton
+- Atsetil KoA
+
+? Ichak mikroflorasi ta'sirida tirozindan qanday zaharli modda hosil bo'ladi?{
++ Fenol
+- Alanin
+- Glitsin
+- Albumin
+
+? Chaqaloq siydigida  mochevina sintezi oraliq  mahsuloti bo`lmish sitrulin, qonida ammiak konsentratsiyasining oshishi kuzatiladi. Bu holat qaysi moddaning hosil bo`lishi buzilishi bilan bog`liq?
++ Mochevina
+- Siydik kislota
+- Sitrat
+- Kreatin
+
+? Siydikda Gomogentizinat kislota (alkapton) miqdori oshishi aniqlandi. Havoda siydik qoraydi. Qanday fermentopatiyada bu holat kuzatiladi?{
++ Alkaptonuriya
+- Albinizm
+- Fenilketonuriya
+- Akatalaziya
+
+? Bola siydigida va qonida miyasiga zaharli ta’sir ko‘rsatadigan fenilpiruvatning to‘planishiga sabab?{
++ Fenilalanin-4 gidroksilazaning yetishmovchiligi
+- Tirozinazaning yetishmovchiligi
+- Tripsinning aktivlanishi
+- Oksaloasetatning ortishi
+
+? Ammiakning zararsizlantirlish yo‘llari...
++ Barchasi to‘g‘ri
+- Qaytarishli aminirlanish
+- Mochivena sintezi, Glutamin hosil bo‘lishi
+- Ammoniygenez, Aspargin hosil bo‘lishi
+
+? Tirozinozlar rivojlanishi asosida quyidagi fermentning irsiy yetishmovchiligi yotadi
++ Tirozinoksidaza
+- Oksifenilpiruvat dekarboksilazasi
+- Gomogentizinat kislota oksidazasi
+- DOFA-xroma dekarboksilazasi
+
+? Mochevina sintezida shunday aminokislotalar ishtirok etadiki, ular oqsillar tarkibiga kirmasdan metabolit hisoblanadi. Bu aminokislotalar
++ Ornitin va Sitrullin
+- Aspartat
+- Arginin
+- Alanin
+
+? Leysinoz bilan kasallangan bola ratsionida cheklanishi zarur
++ Leysin, valin,izoleysin
+- Tirozin, triptofan
+- Alanin, glisin
+- Serin, metionin, treonin
+
+? Jigarning ammikdan zararlanishi natijasida jigar komasi rivojlanishi mumkin. Uning rivojlanishi asosida quyidagi jarayon yotadi
++ Giperammoniemiya
+- Giperketonemiya
+- Giperaminoasidomiya
+- Giperurekimiya
+
+? Mochevina sintezi fermentlari nuqsoni tufayli qonda mochevinaning kamayishi, ammiak, glutaminning oshish holatlari bosh miyaga nisbatan  klinik jihatdan qanday namoyon bo‘ladi?
++ Ensefalopatiya
+- Gipoglikemik koma
+- Nevrit
+- Yurak kompensatsiyasi
+
+? Glutamin va qisman asparagin aminokislota sifatida siydik bilan kam ajraladigan ammiakni zaharsiz shaklga o‘tkazishda transport vazifasini bajaradi. Buning isboti
++ Glutamin siydik bilan juda kam ajraladi
+- Mochevina sintezida ishlatiladi
+- Purin sinteziga sarflanadi
+- Ammoniy tuzlari hosil bo‘lishida sarflanadi
+
+? Zaharli ammiakni mochevina sintezi siklidagi oxirgi metabolik mahsuloti nomi?
++ Mochevina
+- Kreatinin
+- Bilirubin
+- Kreatin
+
+? Fenilketanuriyani skrining tekshiruvida siydikda qaysi moddaning konsentratsiyasi aniqlaniladi?
++ Fenilpirouzum kislota
+- Indikan
+- Gippur kislota
+- Laktat va Ornitin
+
+? Fenilketanuriya bola tug`ilishi birinch-uchinchi kunida namoyon bo`lishini inobatga olib  skrining tekshirishlarni bolaning necha yoshda o`tkazilishi tavsiya etiladi?
++ Tug`ilgandan 1-3 sutkadan keyin
+- Hayotining 5-7 kunida
+- Tug`ilganidan 1 oydan keyin
+- Tug`ilganidan 3 oydan keyin
+
+? Biokimyoviy qon tahlilida oqsil almashinuvi oxirgi mahsuloti mochevina kontsentratsiyasi yuqori. Bu holat qanday moddalar almashinuvi buzilishidan darak beradi?
++ Oqsil
+- Yog‘
+- Uglevod
+- Suv-tuz
+
+? Ammiak MNS neyronlari uchun zaharli modda bo`lib, qaysi aminokislota tarkibida ammiak miya hujayrasidan jigarga tashiladi?
++ Glutamin
+- Indikan
+- Putrestsin
+- Kadaverin
+
+? Mochevinaning ikkinchi aminoguruhini aspartatdan akseptorlanishi uning sitrullin bilan bog‘lanishi bilan kechadi, bu jarayonda ishtirok etuvchi ferment
++ Argininosuksinatsintetaza
+- Amilaza
+- Diastaza
+- Laktaza
+
+? Mochevina (ornitin) sikli asosiy funktsiyasi
++ Zaharli ammiakni zararsizlantirish
+- Oqsil biosintezi
+- Uglevod biosintezi
+- Lipid biosintezi
+

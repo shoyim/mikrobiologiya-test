@@ -1,0 +1,180 @@
+﻿? Energiya hosil bo’lishiga olib keluvchi ion
++ H+
+- Mg2+
+- Ca2+
+- Cl-
+
+? Makroergik birikmalarga tegishli
++ ATF
+- Glyukoza 6-fosfat
+- Yog' kislota
+- Kreatinin
+
+? ATF nechta makroergik bog’ saqlaydi?
++ Ikki
+- Besh
+- Olti
+- To'rt
+
+? Odamdagi universal makroergik birikma
++ ATF
+- Glyukoza
+- Glikogen
+- Triglitserid
+
+? Oksidlanishli fosforillanish yo’li  bilan organizmda qancha ATF ishlab chiqoriladi?
++ 90%
+- 10%
+- 7%
+- 5%
+
+? To'qima nafas olish zanjiri joylashgan
++ Mitoxondriyalar ichki membranasida
+- Yadroda
+- Sitoplazmada
+- Lizosomada
+
+? Sitoxromlar tuzulishi bo’yicha hisoblanadi
++ Gemoprotein
+- Uglevod
+- Lipid
+- Oddiy oqsil
+
+? To'qima nafas olishi to’liq zanjirining qismlari ketma-ketligi
++ NAD-FMN-KoQ-sitoxromlar
+- KoQ-sitoxromlar-NAD-NADF
+- Sitoxromlar-FAD-NAD-KoQ
+- FMN-sitoxromlar NAD-KoQ
+
+? Oksidlanishli fosforillanish yo’li bilan ATF sintezi kuzatiladi
++ To'qima nafas olish zanjirida
+- Glyukoneogenezda
+- Triglitseridlar sintezida
+- Aminokislotalar dezaminlanishi
+
+? Hujayrada ATFning asosiy miqdori qayerda sintezlanadi
++ Mitoxondriya
+- Endoplazmatik to’r
+- Yadro
+- Lizosoma
+
+? Hujayrada NAD hosil bo`lishida ishtirok etadigan vitamin
++ Nikotin kislotasi
+- Riboflavin
+- Askorbin kislotasi
+- Tiamin
+
+? Hujayrada NAD hosil bo`lishida nikotin kislotasidan tashqari qaysi nukleotid ishtirok etadi
++ Adenin
+- Guanin
+- Timin
+- Uratsil
+
+? To’qima nafas zanjiri uchun NADH2ning mitoxondriyadan tashqari asosiy manbai
++ Glikoliz
+- Glukoneogenez
+- Pentoz fosfat yo'l
+- Kori sikli
+
+? Oksidlanuvchi fosforillanish mexanizmini tushuntiruvchi Mitchell gipoteza
++ Xemiosmotik Mitchell
+- Kimyoviy sintez
+- Mexanik-kimyoviy
+- Konformatsion mufoiqlik
+
+? Qaysi ferment oksidlanish qaytarilish jarayonida ATF sintezlaydi?
++ ATF sintaza
+- Kreatinkinaza
+- Geksokinaza
+- Fosfataza
+
+? To’qima nafas olishida NADH2 dan kislorodga bir juft elektron o’tkazilganda qancha ATF hosil bo’ladi?
++ 3
+- 4
+- 5
+- 6
+
+? To’qima nafas olishida FADH2 dan kislorodga bir juft elektron o’tkazilganda qancha ATF hosil bo’ladi?
++ 2
+- 4
+- 5
+- 6
+
+? To’qima nafas olish zanjirining ingibitori
++ Sianid (zahar)
+- Glitserin
+- Serin
+- Pirimidin
+
+? Elektronlarni kislorodga o’tishini katalizlaydi
++ Sitoxrom b, c, aa3
+- Amilaza
+- Katalaza
+- Pepsin
+
+? Sianid (zahar) to’qima nafas olishining qaysi komponentini ingibirlaydi?
++ Sitoxrom
+- Amilaza
+- Katalaza
+- Pepsin
+
+? Oksidoreduktazaga tegishli ferment
++ Suksinatdegidrogenaza
+- Amilaza
+- Lipaza
+- Pepsin
+
+? Sitoxromoksidaza nimani tashiydi?
++ H+ Elektronlarini
+- Oqsillarni
+- Uglevodlarni
+- Lipidlarni
+
+? Sitoxromoksidaza qurilishining gemoglobin tuzilishiga o`xshash o’ziga xosligi
++ Gem saqlashi
+- Oddiy oqsil
+- Ftor saqlaydi
+- Rux saqlaydi
+
+? Elektronlar tashish zanjiridagi sitoxromlar roli
++ Elektronlarni o’tkazish
+- Oqsillarni o’tkazish
+- Uglevodlarni o’tkazish
+- Lipidlarni o’tkazish
+
+? ATF hosil bo`lishidagi asosiy ferment bo`lmish Sitoxromoksidazaning hujayrada joylashuvi
++ Mitoxondriya
+- Sitoplazma
+- Yadro
+- Lizosomlar
+
+? Makroergik tuzilishga ega
++ ATF
+- AMF
+- Piruvat
+- Glyukoza
+
+? NAD-degidrigenazalar faolligining susayishi qaysi vitamin etishmaganida kuzatiladi
++ В3 (nikotinamid)
+- В6
+- К
+- С
+
+? FAD-degidrigenazalar faolligining susayishi qaysi vitamin etishmaganida kuzatiladi
++ В2 (riboflavin)
+- В6
+- К
+- С
+
+? FAD-degidrigenazalar birinchi nukleotidi B2 (riboflavin) vitamini bo`lsa, Ikkinchi  nukleotid bo`lib nima xizmat qiladi
++ Adenozin
+- Guanozin
+- Timidin
+- Uridin
+
+? NAD-degidrogenazalar birinchi nukleotidi B3 (nikotinamid) vitamini bo`lsa, ikkinchi  nukleotid bo`lib nima xizmat qiladi?
++ Adenozin
+- Guanozin
+- Timidin
+- Uridin
+

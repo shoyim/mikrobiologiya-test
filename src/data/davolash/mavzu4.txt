@@ -1,0 +1,180 @@
+﻿? Uch karbon kislota siklini kim kashf etgan?
++ Krebs
+- Senger
+- Fisher
+- Mitchell
+
+? Uch karbon kislota sikli-ATF hosil bo`lishi asosiy manbasi hujayraning qaerida kechadi
++ Mitoxondriyada
+- Sitoplazmada
+- Yadroda
+- Ribosomalarda
+
+? Uch karbon kislotalar siklida qaysi metobolit yutiladi?
++ Atsetil KoA
+- Ammiak
+- Bilirubin
+- Siydik kislota
+
+? Katabolizim necha bosqichdan iborat
++ 3
+- 6
+- 7
+- 8
+
+? Izositratdegidrogenaza fermenti tarkibida nikotinamid vitamini bor. Ushbu  kofermentni nomlang
++ NAD
+- FAD
+- Ubixinon
+- Sitoxrom
+
+? Qaysi modda katabolizmining oxirgi mahsuloti siydik kislota hisoblanadi
++ Purin asoslari
+- Aminokislotalar
+- Siklik aminokislotalar
+- Ammiak
+
+? Katabolizm bu
++ Organizmda biopolimerlar gidrolizi
+- Murakkab moddalarning biosintezi
+- Fotosintez
+- Xemosintez
+
+? Krebs sikli uchun eng qulay va zarur organik moddalar?
++ Uglevodlar
+- Vitaminlar
+- Fosfolipidlar
+- Mikroelementlar
+
+? Piruvatdegidrogenaza kompleksining disfunktsiyasini quyidagicha baholash mumkin.
++ Siydikda piruvat miqdorining oshishi
+- Siydikda mochevina miqdori kamayadi
+- Siydikda siydik kislotasi miqdori kamayadi
+- Laktat miqdorining kamayishi
+
+? Piruvatdegidrogenaza kompleksining asosiy kofermenti – tiamin (vitamin B1) ekanligini inobatga olganda, siydikda Piruvat kislota miqdori oshishi sharoitida tanadagi qaysi vitaminlar yetishmaydi?
++ B1
+- A1
+- D3
+- C
+
+? Piruvatning oksidlanishli dekarboksillanishi jarayonida hosil bo'lgan NADH quyidagi o'zgarishlarga uchraydi
++ Nafas olish zanjiriga kiradi
+- Organizmdan chiqariladi
+- FADH2 ga o'tadi
+- Krebs tsiklida ishlatiladi
+
+? Krebs siklida b-ketoglutaratning oksidlanib suksinil CoA ga utishi 1 molekula NADH2 hosil bo`lishini inobatga olsak, undan  nechta ATF molekulasi  shakllanishiga olib keladi
++ 3 ATF
+- 1ATF
+- 4 ATF
+- 6 ATF
+
+? Krebs siklida izotsitratning oksidlanib oksalosuktsinatga utishi 1 molekula NADH2 hosil bo`lishini inobatga olsak, undan  nechta ATF molekulasi  shakllanishiga olib keladi
++ 3 ATF
+- 1ATF
+- 4 ATF
+- 6 ATF
+
+? Krebs siklida malatning oksidlanib oksaloatsetatga utishi 1 molekula NADH2 hosil bo`lishini inobatga olsak, undan  nechta ATF molekulasi  shakllanishiga olib keladi
++ 3 ATF
+- 1ATF
+- 4 ATF
+- 6 ATF
+
+? Krebs  bitta siklida 3 molekula NADH2 hosil bo`lishini inobatga olsak, undan  nechta ATF molekulasi  shakllanishiga olib keladi
++ 9 ATF
+- 1ATF
+- 4 ATF
+- 6 ATF
+
+? B-keto kislotalarning oksidlanishli dekarboksillanishi (masalan Piruvat) qo`yidagi ko'p fermentli kompleks ishtirokida sodir bo'ladi
++ Piruvatdegidrogenaza
+- Yog 'kislotasi sintetazalari
+- Nafas olish zanjiri
+- Malate dehidrogenaza
+
+? Piruvat kislota - bu barcha moddalarning oraliq metabolik mahsuloti, bundan mustasno
++ Yog 'kislotalari
+- Geksozalar
+- Aminokislotalar
+- Pentozalar
+
+? Krebs siklida b-ketoglutaratning to'liq oksidlanishida 2ta NADH, 1ta FADH va 1ta GTF hosil bo`lishini inobatga olsak, jami necha molekula ATF hosil bo`ladi
++ 9 ATF
+- 4 ATF
+- 2 ATF
+- 1 ATF
+
+? Bitta piruvat molekulasi atsetil-CoA gacha oksidlanganda  1ta NADH hosil bo`ladi, bu….. ATF molekulasiga teng
++ 3ATF
+- 1ATF
+- 6ATF
+- 4ATF
+
+? Energiya ajralishi bilan kechadigan jarayoni nima deyiladi
++ Katabolizm
+- Anabolizm
+- Simbioz
+- Entalpiya
+
+? Metabolizmning maxsus yo'llari umumiy yo'llarni boshlaydigan birikma hosil bo'lishi bilan tugaydi. Bu
++ Atsetil-KoA
+- Malonil-KoA
+- Suksinil-KoA
+- Butiril-KoA
+
+? Uch karbon kislota sikli fermentlari (Krebs sikli) mitoxondriyaning…
++ Mitoxondriya matriksida
+- Tashqi membranada
+- Sitoplazmada
+- Lizosomada
+
+? Krebs sikli amfibolik funksiyani bajaradi (katabolizm va anabolizm kombinatsiyasi). Uning katabolik funktsiyasi nimadan iborat?
++ Asetil-KoA oksidlanishi
+- PUK oksidlanishi
+- Aminokislotalar parchalanishi
+- Uglevodlar degradatsiyasi
+
+? Glutamin kislotaning CO2 va H2O ga to'liq oksidlanishida 2mol NADH2, 1mol FADH2 va 1mol GTF hosil bo`lishini inobatga olib, nechta ATF molekulasi hosil bo'lishini hisoblang
++ 9 ta ATF molekulasi;
+- 3 ATF molekulasi;
+- 6 ATF molekulasi;
+- 12 ATF molekulasi;
+
+? Qo`yida keltirilgan barcha omillar oksidlanish jarayonlarini va ATF ishlab chiqarishni rag'batlantiradi, bundan mustasno
++ H2S, CO.
+- Fe va Cu;
+- Mg va P;
+- B guruh vitaminlari;
+
+? Quyidagi qaysi modda mitoxondriyal nafas olish zanjirining substrati bula olmaydi
++ sAMF.
+- NADH;
+- NADFH;
+- (FMN) H2;
+
+? Mitoxondriya uchun energiya substratlari
++ Аsetil-КоА.
+- Fosfolipidlar;
+- Xolesterin;
+- Glikolipidlar;
+
+? Ba`zi degidrogenazalar kofermenti bo`lib B2 vitamini (riboflavin) xizmat qiladi. Ushbu vitamin etishmaganida qaysi degidrogenazalari faolligi pasaydi
++ FAD
+- NAD
+- NADF
+- Barchasiniki
+
+? Ba`zi degidrogenazalar kofermenti bo`lib B3 vitamini (nikotinamid) xizmat qiladi. Ushbu vitamin etishmaganida qaysi degidrogenazalari faolligi pasaydi
++ NAD
+- FAD
+- FMN
+- Barchasiniki
+
+? Krebs  bitta siklida 3ta NADH2 , 1ta FADH2 va 1 ta GTF hosil bo`lishini inobatga olib ATF lar sonini hisoblab bering
++ 12
+- 3
+- 1
+- 6
+

@@ -1,0 +1,180 @@
+﻿? Quyidagilardan qaysi biri gliserofosfolipidlar tarkibiga kiradi
++ Fosfotidilxolin
+- Serebrozid
+- Xolesterin
+- Barcha javoblar to'g'ri
+
+? Oddiy diffuziya yo’li orqali hujayra ichiga qaysi moddalar kiradi?
++ Kislorod
+- Lipid
+- Uglevod
+- Oqsil
+
+? Oddiy diffuziya yo’li orqali hujayra ichiga qaysi modda o’tadi?
++ Karbonat angidrid
+- Oqsil
+- Lipid
+- Uglevod
+
+? Hujayraning asosiy bo`lmagan komponenti
++ Tokoferol
+- Oqsil
+- Uglevod
+- Lipid
+
+? Biomembrana qalinligi eng nozik, mustahkam, qalinligi necha nm ni tashkil qiladi?
++ 1,5-1,8 nm
+- 1,5-1,8 mm
+- 1,5-1,8 sm
+- 1,5-1,8 dm
+
+? Biomembranalar tuzilishida ishtirok etadi…
++ oqsillar, lipidlar, uglevodlar
+- faqat lipidlar
+- faqat oqsillar
+- faqat uglevod
+
+? Polyar "boshcha" va polyar bo’lmagan “dum" ga ega bo'lgan suvda erimaydigan organik molekulalar nima deyiladi
++ xolesterin
+- glyukoza
+- oqsil
+- fruktoza
+
+? Noto'g'ri javobni tanlang.
++ Hujayra membranasi energiya funktsiyasini bajaradi
+- Hujayra membranasi to'siq vazifasini bajaradi
+- Hujayra membranasi tartibga solish funktsiyasini bajaradi
+- Hujayra membranasi transport funktsiyasini bajaradi
+
+? Hujayra membranasi necha qatlamdan iborat?
++ Ikki qatlamdan (bisloy)
+- Bitta qatlamdan(monosloy)
+- To'rt qatlamdan (tetrosloy)
+- Oltidan yuqori (geksosloy)
+
+? Membrananing qalinligi …
++ 7-8 nm
+- 7-8 sm
+- 7-8 dm
+- 7-8 mm
+
+? Qaysi oqsillar biologik membrana tarkibiga kiradi?
++ Integral, yarim integral, yuza
+- Aktin, miozin
+- Kollagen, elastin
+- Globulin
+
+? Qaysi lipidlar membrana tarkibiga kiradi?
++ Fosfolipidlar, glikolipidlar, xolesterol
+- Faqat glikolipid
+- Faqat fosfolipidlar
+- Faqat  xolesterol
+
+? Hujayra membranasining asosini nima tashkil qiladi
++ Lipid molekulalarining ikki qavatliligi
+- Oqsil molekulalarining ikki qavatliligi
+- Uglevod molekulalari ikki qavatliligi
+- Oqsil molekulalarining uch qatori
+
+? Quyidagi organoidlarning qaysi birida membrana bo`lmaydi?
++ Ribosoma
+- Mitoxondriya
+- Goldji apparati
+- Plastidlar
+
+? Quyida ko’rsatilgan qaysi moddalar hujayra ichiga to'g'ridan-to'g'ri kiradi?
++ Ionlar
+- Katta oqsil molekulalari
+- Lipidlarning katta molekulalari
+- Suyuq oziq moddalar
+
+? Membranaga xos xususiyat
++ Yarim o'tkazuvchan
+- Katta oqsil molekulalari o`tadi
+- O`tkazuvchan emas
+- Barcha birikmalarni o`tkazadi
+
+? Hujayra membranasi necha qatlamdan iborat?
++ Ikki qavatdan (bisloy)
+- Bitta qatlamdan (monosloy)
+- To'rt qatlamdan (tetrosloy)
+- Olti va undan ko’p (geksosloy)
+
+? Hujayra membranasi qo`yidagilarning qaysi birida bor?
++ Barcha tirik organizmlarda
+- Faqat o`simliklarda
+- Fagat hayvonot olamida
+- Faqat o`simlik va bakteriyalarda
+
+? Hujayra ichidagi K+ ionining kontsentratsiyasi qancha?
++ Yuqori
+- Past
+- Manfiy
+- Yo'q
+
+? Membran lipidlarining holati qanday?
++ suyuq kristall
+- amorf
+- suyuq
+- qattiq
+
+? Bir membranali organellani ko`rsating
++ Endoplazmatik to`r
+- Ribosoma
+- Mitoxondriya
+- Yadro
+
+? Yengillashgan diffuziya orqali moddalar membranaga qanday o'tkaziladi?
++ Konsentratsiya gradienti bo`yicha
+- Konsentratsiya gradientiga qarama-qarshi
+- Na-K ATF aza ishtirokida
+- ATP energiyasi ishtirokida
+
+? Birlamchi messenjerlar uchun reseptorlar qaerda joylashgan
++ Plazmatik membranada
+- Mitoxondriyal membranasida
+- Yadro membranasida
+- Lizozomal membranada
+
+? Biologik membranalar quyidagi vazifalarni bajaradi
++ Hujayra butunliligini ta`minlash
+- Energetik
+- Qisqruvchanlik
+- Katalitik
+
+? Membranadan moddalar birlamchi faol transport yo’li orqali qanday o’tkaziladi?
++ Konsentratsiya gradientiga qarama-qarshi
+- Konsentratsiya gradienti buyicha
+- Tashuvchi oqsillar membranada ishtirok etmaydi
+- ATP energiyasi ishtirok etadi
+
+? Hujayra membranalariga xos xususiyatlar
++ suyuqliligi
+- suv o'tkazuvchanligi yomon
+- elektr qarshiligi past
+- simmetriyaliligi
+
+? Na-K ATF aza fermenti ishlashi uchun zarur bo`lgan element
++ Natriy
+- Kaltsiy
+- Fosfor
+- Xlor
+
+? Na-K ATF aza fermenti ishlashi uchun zarur bo`lgan element
++ Kaliy
+- Magniy
+- Yod
+- Brom
+
+? Membrana orqali moddalarning tashilishini quyidagilardan qaysi biri amalga oshiradi?
++ Yengillashgan diffuziya
+- lateral diffuziya
+- Dializ
+- Aksonal tok
+
+? Membranadan moddalar faol transportida ishtirok etadigan ferment?
++ Na-K-ATFaza
+- LDG
+- KFK
+- IF
+

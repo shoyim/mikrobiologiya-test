@@ -1,0 +1,180 @@
+﻿? Ketogen tipli (asetil-KoA yoki asetoatsetat – keton tanachasi hosil qilish uchun parchalanadigan aminokislotalar,) aminokislotani ko‘rsating
++ Leysin
+- Adrenalin
+- Adenin
+- Timin
+
+? Quyidagi qaysi aminokislotadan ham keton tanachalari, ham glukoza sintez qilish mumkin
++ Lizin
+- Bilirubin
+- Adenin
+- Laktat
+
+? Aminokislotalardan glukoza sintez qilish uchun dastlab aminokislotaning aminogruppasini olib tashlash bilan bog`liq qanday jarayon sodir bo‘lishi kerak
++ Dezaminlanish
+- Dekarboksillanish
+- Transmetillanish
+- Ornitin sikli
+
+? Glikogen tipli (metabolizm jarayonida glyukoza hosil bo'lgan aminokislotalar) aminokislotani belgilang
++ Treonin
+- Indikan
+- Mochevina
+- GAMK
+
+? Glikogen tipli (metabolizm jarayonida glyukoza hosil bo'lgan aminokislotalar) aminokislotalar almashinuvidan Krebs sikli gaysi oksalatli moddasi hosil bo‘lishi mumkin
++ Oksaloatsetat
+- Keton tanachalari
+- Atsetoatsetat
+- Atsetil KoA
+
+? Ketogen tipli (asetil-KoA yoki asetoatsetat – keton tanachasi hosil qilish uchun parchalanadigan aminokislotalar,) aminokislotalar almashinuvidan qanday modda hosil bo‘lishi mumkin
++ Atseton
+- Oksaloatsetat
+- Piruvat
+- a-ketokislota
+
+? Fenilalanin glyuko-ketogen aminokislota sifatida qo`yidagilarga aylanishi mumkin
++ Ham keton tanachalari, ham glyukoza
+- Faqat glyukozai
+- Faqat keton tanachalari
+- Hech biriga aylanmaydi
+
+? Quyidagi qaysi jarayon orqali aminokislotalardan glukoza sintez qilish mumkin,
++ Glukoneogenez
+- Dezaminlanish
+- Transaminlanish
+- Dekarboksillanish
+
+? Quyidagi aminokislotadan a-ketoglutarat hosil bo‘lishi mumkin
++ Serin
+- Indikan
+- Mochevina
+- Xolesterin
+
+? Qaysi aminokislotalardan glukoza sintez bo`lishi mumkin
++ Glikogen tipli
+- Ketogen tipli
+- Almashinmaydigan
+- Atseton hosil qiluvchi aminokislotalardan
+
+? Aminokislotalardan yog‘ kislotalar sintez qilish mumkin, quyidagi poli to`yinmagan yof` kislotasidan qaysi biri bundan mustasno
++ Araxidon
+- Stearin
+- Palmitoolien
+- Palmitin
+
+? Ma`lumki, yog` kislotalari sintezi uchun aktiv sirka (atseti) rislotasi talab etiladi. Aminokislotalardan yog‘ kislotalar sintezlanishi uchun oraliq mahsulotni ko‘rsating
++ Atsetil KoA
+- Laktat
+- Piruvat
+- Malat
+
+? Uglevodli ovqat mahsuloti ko`p miqdori yog`ga aylanib semirishga sabab bo`ladi/.Organizmda qaysi vaqtda yog‘ kislotalar sintezi jadallashadi
++ Ovqatlarnishdan so‘ng glukoza miqdorini ortishida
+- Glukoza miqdorini kamayishida
+- Glyukogon sekretsiyasini kuchayishida
+- Adrenalin sekretsiyasini susayishida
+
+? Uglevodlar va  alanine aminokislotasi orasidagi bog‘lanishni taminlaydigan siklik jarayonni toping:{
++ Glukoza-alanin sikli
+- Krebs sikli
+- Ornitin sikli
+- Pentoza fosfat sikli
+
+? Organizmda lipidlardan glukoza sintez qilish mumkinmi
++ Mumkin, glitserindan
+- Mumkin,  barcha keton tanachalaridan
+- Mumkin, atsetondan
+- Sintezlab bo‘lmaydi
+
+? Uglevodlar va lipidlar almashinuvi o‘rtasidagi bog‘lanish qaysi  uch atomli spirt orqali amalga oshiriladi
++ Glitserin
+- Atsetoatsetat
+- Atseton
+- Sitrat
+
+? Glukoneogenezni stimullovchi buyrak usti bezi gormonni
++ Kortizol
+- Androgen
+- Insulin
+- Tiroksin
+
+? Glukozaning hujayraga faol transportini ingibirlovchi gormonni ko‘rsating
++ Gidrokortizon
+- Indikan
+- Krezol
+- Putrestsin
+
+? Organizmga buyrak usti bezi qaysi gormonini uzoq vaqt kiritilganda  qandli diabet kelib chiqishi mumkin:{
++ Kortizol
+- Estrogen
+- Xolesterin
+- Prolaktin
+
+? Glukozadan aminokislota sintez qilish mumkinmi
++ Mumkin, faqat almashinadigan aminokislotalar
+- Mumkin, barcha aminokislotalar
+- Mumkin, faqat ochiq zanjirli aminokislotalar
+- Sintezlab bo‘lmaydi
+
+? Krebs siklidagi suktsinat ornitin sikliga bog‘lanishi  natijasida qaysi metabolit hosil bo‘ladi:{
++ Arginino-suksinat
+- Malat
+- Sitrullin
+- Karbomoil fosfat
+
+? Sitrat sikli bilan ornitin sikli bir-biri bilan bog`liq jarayon. “Krebs velosipedi” bu…
++ Sitrat sikli va ornitin siklining bog‘lanishi
+- Betta oksidlanish sikli va kori siklining bog‘liqligi
+- Katabolizm yo‘llarining umumiyligi
+- Metabolizmni boshqarish mumkin bo‘lgan reaksiyalari
+
+? Yog‘ kislotalaridan glukoza sintez qilish mumkinmi
++ Mumkin emas
+- Mumkin, Atsetil KoA
+- Mumkin, keton tanachalari orqali
+- Mumkin, piruvat orqali
+
+? Amfibolik yo‘llarda ishtirok etuvchi Krebs siklining metabolitini ko‘rsating
++ Oksaloatsetat
+- Albumin
+- Globulin
+- Fibrinogen
+
+? Krebs siklining 2-kalit substrati bo‘lgan oksaloatsetatning aminokislota bo`lgan manbai
++ Asparagin
+- Yog‘ kislotalari
+- Atsetoatsetat
+- Atseton
+
+? O‘t kislotalar yog‘lar hazmlanishida emulgator vazifasini bajaradi, bu jarayonda yana qaysi aminokislota ham ishtirok etadi
++ Glitsin
+- Yog‘ kislotalari
+- Atsetoatsetat
+- Atseton
+
+? Galaktozamin hosil bo‘lishi uchun qaysi aminokislota amid guruhi donori vazifasini bajaradi:.
++ Glutamin
+- Albumin
+- Atsetoatsetat
+- Atseton
+
+? Organizmda oqsil, yog‘ va uglevodlar almashinuvi o‘zaro
++ Integratsiyalashgan
+- Bir-biriga bog‘lanmaydi
+- Har birida alohida amalga oshadi
+- Bir-birini takrorlamaydi
+
+? Vitamin D3 sintezining organizmda eng dastlabki xom ashyosi – aktiv sirka kislotasi (atsetil) quyidagi qaysi metobolit bo‘lishi mumkin
++ Atsetil KoA
+- Tirozin
+- Fumarat
+- Oksaloatsetat
+
+? Atsetil KoAning krebs siklida yonishi uchun quyidagi qaysi metobolit zarur
++ Oksaloatsetat
+- Glukoza
+- Oqsil
+- Yog`
+

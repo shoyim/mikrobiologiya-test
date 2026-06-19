@@ -1,0 +1,180 @@
+﻿? Nuklein kislotalarning monomerlarini ko'rsating
++ Nukleotidlar
+- Uglevod
+- Azot asoslari
+- Aminokislotalar
+
+? Nukleoproteinlarning oqsil qismi oshqozonda qanday hazm bo`ladi
++ HCl va proteolitik fermentlar ta’sirida
+- Amilaza
+- Laktaza
+- Diastaza
+
+? Nukleotidlarning uglevod qismi qanday nomlanadi
++ Riboza
+- Glyukoza
+- Fruktoza
+- Galaktoza
+
+? Quyidagi qaysi ta’rif  "nukleoproteinlar" atamasiga to'g'ri kelishini ko'rsating
++ Oddiy oqsil va nuklein kislotalardan tuzilgan murakkab oqsillar
+- Uglevod hosilalaridan tuzilgan murakkab oqsillar
+- Bu faqat nukleotidlardan tashkil topgan yuqori molekulyar birikmalar
+- Oddiy hayot uchun zarur bo'lgan past molekulyar og'irlikdagi organik birikmalar
+
+? Ovqat bilan kirgan nuklein kislotalar qaysi fermentlar ta’sirida hazmlanadi
++ DNK va RNK-nukleazalar
+- Amilaza
+- Diastaza
+- Maltaza
+
+? Nuklein kislotalarining sintezi nimalardan hosil bo‘ladi?
++ Nukleozid trifosfatlar
+- Aminokislotalar
+- Azot asoslari
+- Ribozalar
+
+? UMF biosintezining irsiy buzilishini, (siydik bilan orotatning ko'p chiqarilishi bilan namoyon bo'ladi) tavsiflovchi biokimyoviy ko'rsatkichni ko‘rsating.
++ Orotatsiduriya
+- Aspartatatsiduriya
+- Alkaptonuriya
+- Sitozinuriya
+
+? Siydik kislotasi kristallarining bo'g'imlarga to`planishi qaysi kasallikning rivojlanishiga olib keladi
++ Podagra
+- Anemiya
+- Qandli diabet
+- Alkaptonuriya
+
+? Nukleoproteinlar murakkab oqsil sifatida gidrolitik parchalanishi qayerdan boshlanadi?
++ Oshqozonda
+- Og`iz bo`shlig`da
+- O‘n ikki barmoq ichakda
+- Oshqozon osti bezida
+
+? Ichakda nuklein kislotalar ning parchalanishining oxirgi mahsuloti sifatida asosan qaysi moddalar qonga so‘riladi?
++ Nukleozidlar va fosfat kislota
+- Riboza
+- Oqsillar
+- Nukleotid
+
+? Purin nukleotidlari sintezida faol ishtirok etadigan  eng sodda  alishtirsa bo`ladigan amino kislotani ko'rsating
++ Glisin
+- Fenilalanin
+- Arginin
+- Prolin
+
+? Nukleotidan fosfor kislotasini ajratib nukleozid hosil bo‘lishini katalizlaydigan ferment
++ Fosfataza
+- Diastaza
+- Proteaza
+- Amilaza
+
+? Nukleotid o`z tarkibida qaysi  kislota borligi bilan  nukleoziddan farq qiladi?
++ Fosfat kislota qoldiqlarini o'z ichiga oladi
+- Sirka kislotasi
+- Sulfat kislota
+- Xlorid kislota
+
+? Purin halqasidagi 3-va 9- holatlardagi azot manbai bo`lib  tuzilishi jihatidan aminokislota bo`lgan qaysi modda hisoblanadi?
++ Glutamin
+- Mochevina
+- Folat kislota
+- Glyukuron kislotasi
+
+? Tarkibida purinli azotli asos bo`lgan mononukleotid
++ GTF
+- STF
+- TTF
+- UTF
+
+? Tarkibida purinli azotli asos bo`lgan mononukleotid
++ ATF
+- STF
+- TTF
+- UTF
+
+? Tarkibida pirimidinli azotli asos bo`lgan mononukleotid
++ STF
+- ATF
+- GTF
+- ADF
+
+? GMF va AMF sintezida o‘tmishdosh bo`lib  ishtirok etuvchi inozin nukleozidi bo`lmish kislotani ko`rsating
++ Inozinat kislota
+- Oratat kislota
+- Sut kislotasi
+- Siydik kislota
+
+? Purinli nukletidlar katabolizmining oxirgi mahsulotini ko‘rsating
++ Siydik kislota
+- Ksantin
+- Gipoksantin
+- Karbonat angidrid
+
+? Podagra krizlari (to'satdan paydo bo'ladigan kasallik belgilari) qaysi moddaga bog‘liq
++ Siydik kislotaning mononatriyli tuzlariga
+- Mochevina
+- Ammoniy tuzlariga
+- Orotat kislotaga
+
+? Ksantin oksidaza qaysi reaktsiyalarni katalizlaydi
++ Gipoksantinning oksidlanishi
+- Siydik kislotasining oksidlanishi
+- Allantoinning gidrolizlanishi
+- Allantoik kislotaning oksidlanishi
+
+? Pirimidin asoslari katabolizmining oxirgi mahsulotlari quyidagilardir
++ b-alanin, NH3 + CO2
+- Siydik kislotasi
+- Bilirubin
+- Mochevina}
+
+? Sog'lom odamlarda qaysi birikma purin nukleozidlari adenozin va guanozin almashinuvining yakuniy mahsulotiga aylanadi?
++ Siydik kislotasi
+- Gipoksantin
+- Ksantin
+- Kreatinin
+
+? Podagrani davolashda quyidagilarni qaysi biri yordam beradi
++ Allopurinol
+- Urat kislota tuzlari
+- Gipoksantin
+- Orоtat kislota
+
+? Pirimidinli nukleotidlar biosintezida dastlab qaysi modda hosil bo‘ladi:{
++ Uridin monofosfat
+- Adenozinmonofosfat
+- Adenozindifosfat
+- Guanozinmonofosfat
+
+? Pirimidinlar tanqisligida kelib chiquvchi kasallik
++ Orotatatsiduriya
+- Anemiya
+- Qandli diabet
+- Giperammonemiya
+
+? Qaysi nukleotid hujayraning energiya valyutasi
++ ATP
+- STF
+- UTF
+- TTF
+
+? Qaysi tsiklik nukleotidlar ikkilamchi  messenjer (xabarchilar) rolini o'ynaydi.
++ sAMF va sGMF
+- sUMF
+- sSMF
+- sTMF
+
+? Qaysi purin nukleotidlarining hosilalari NAD  va FADga bog'liq degidrogenazalarning koenzimlari bo'lib xizmat qiladi?
++ Adenin
+- Uratsil
+- Sitozin
+- Timin
+
+? Nukleotidlar  qo`yidagi tarkibiy qismlardan iborat…
++ Uchala komponent ham
+- Azotli asos
+- Pentozlar
+- Fosfat
+

@@ -1,0 +1,180 @@
+﻿? Miya hujayralari uchun asosiy metabolik yoqilg'i
++ Glukoza
+- Ammiak
+- Keton tanachalari
+- Fruktoza
+
+? Nerv tolalarini o’rab turuvchi parda qanday nomlanadi?
++ Miyelin
+- Aktin
+- Tubulin
+- Miozin
+
+? Mediatorlarni belgilang?
++ Atsetilxolin
+- Barcha gormonlar
+- Insulin
+- Tiroksin
+
+? Asab to`qimasining hujayrali elementlari
++ Neyronlar, glial hujayralar
+- Sinaps
+- Neyromediator
+- Past sinaptik membrana
+
+? Neyrotmeditorlarga qanday moddalarga kiradi?
++ Serotonin
+- Glitsin
+- Gistidin
+- Alanin
+
+? Asab to`qimasi qondagi kislorodga qaram bo`lib gipoksiyani juda yomon o`tkazadi. Asab to`qimasida uglevod almashinuvining xususiyatlari
++ Asosan aerob glyukoza metabolizmi
+- Asosan anaerob glyukoza almashinuvi
+- Glyukozadan foydalanish insulin darajasiga bog'liq
+- Glikogenning yuqori konsentratsiyasi
+
+? Asab to`qimasida energiya almashinuvining xususiyatlari
++ Energiya almashinuvining yuqori intensivligi,
+- Energiya almashinuvining past intensivligi
+- ATF sintezining asosiy mexanizmi substrat fosforillanishidir
+- Asosiy energiya almashinuvini oqsillar ta’minlashi
+
+? Dofamin quyidagi qaysi aminokislotadan  hosil bo’ladi?
++ Tirozin
+- Adrenalin
+- Xolin
+- Kreatin
+
+? Miyada asosiy energiya iste’molchisini belgilang?
++ Na, K-ATFaza
+- Impulslarni uzatilishi
+- Qo’zg’alish jarayoni
+- Tormozlanish jarayonlari
+
+? Bir kecha kunduzda miyada qancha glyukoza oksidlanadi?
++ 100-120g
+- 100-120mg
+- 6-6,5g
+- 1-2g atrofida
+
+? Miya erkin aminokisloralarining aksar qismini qaysi aminokislotalar tashkil etadi?
++ Aspartat, glutamat va ularning unumlari
+- Prolin va oksiprolin
+- Karnozin va anserin
+- Adrenalin va noradrenalin
+
+? Miyaning energiyaga bo’lgan ehtiyoji qanday qoplanadi?
++ Glukozaning aerob parchalanishi
+- Ornitin sikli
+- Kori sikli
+- Keton tanachalari katabolizmi
+
+? Dofamin nima vazifa bajaradi?
++ Mediator
+- Nerv impulsini ishchi organga o’tkazadi
+- Ca2+ ionlari konsentratsiyasini oshiradi
+- Xolin sintezida qatnashadi
+
+? Kuchli og’riq qoldiruvchi moddani toping.
++ Morfin
+- Galoperidol
+- Imizin
+- Dofamin
+
+? Mielin qobig`ining yarmidan ko`pini lipidlar tashkil etadi. Miyelin  iborat-…?
++ 70% lipid, 30% oqsil
+- 70% oqsil, 30% lipid
+- 8% lipid, 92% oqsil
+- 80% oqsil, 20% lipid
+
+? Miyadagi barcha lipidlarning 65%i … qobig`ida bo’ladi?
++ Miyelin qobig`i
+- Gliya hujayralarida
+- Bosh miya yarimsharlarida
+- Targ’il moddada
+
+? Neyrospesifik oqsillarga kiradi
++ Protein S-100;
+- Gistamin
+- Prolin;
+- Oksiprolin;
+
+? Adrenalin qaysi aminokislotadan sintezlanadi?
++ Tirozin
+- Prolin
+- Oksiprolin
+- Tiroksin
+
+? Ochlik paytida asab hujayralari oksidlanish uchun qo'shimcha energetik substrat sifatida keto birikmalardan foydalanishi mumkin
++ keton tanachalari
+- glikogen
+- glutation;
+- lesitin;
+
+? Neyrospesifik oqsil S-100 oqsili marker sifatida ishlatiladi
++ Melanomalar;
+- Miyokard infarkti;
+- Artit
+- Jigar shikastlanishi;
+
+? Atsetilxolin sintezi uchun «xom ashyo» monosaxarid va…. hisoblanadi
++ glyukoza va xolin;
+- UDP va olein kislotasi;
+- kreatin va GAMK;
+- riboza va AMP;
+
+? Quyidagi moddalardan qaysi biri neyromediatorlarga tegishli emas?
++ karnitin va gastrixin
+- adrenalin va noradrenalin;
+- atsetilxolin va GAMK;
+- serotonin va glitsin;
+
+? Nerv to'qimalarining tarkibi tananing boshqa to'qimalaridan keskin farq qilishining eng muhim sabab-to`siq nimada?
++ qon-miya to'sig'ining mavjudligi bilan belgilanadi
+- kuchli qon oqimi;
+- metabolik jarayonlar sekin;
+- hayot davomida o'zgarishlarga duch kelmaydi;
+
+? Noradrenalin qaysi aminokislotasi o`tmishdoshi
++ Fenilalanin
+- Karnozin
+- Glitserin
+- Anserin
+
+? Serotonin qaysi aminokislotasi o`tmishdoshi
++ triptofan;
+- Karnozin
+- Glitserin
+- Anserin
+
+? Ro'yxatda keltirilgan qaysi kasalliklar neyromediatorlar metabolizmining buzilishi bilan bog'liq emas
++ Addison kasalligi;
+- Altsgeymer kasalligi;
+- Parkinson kasalligi;
+- depressiya;
+
+? Nerv to'qimalari tuzilishining eng xarakterli belgilaridan birini ko'rsating
++ lipid tarkibi yuqori
+- ko'p miqdorda albumin
+- ko'p miqdordagi mineral komponentlar;
+- nuklein kislotalarning yuqori miqdori;
+
+? Markaziy nerv sistemasida tormozlovchi neyrotransmitter hisoblanadi
++ GAMK;
+- adrenalin;
+- atsetilxolin;
+- noradrenalin;
+
+? Miya bo’limlarida odamning ixtiyoriy harakatlarini nazorat qiluvchi mediatorni toping?
++ Dofamin
+- Adrenalin
+- Atsetilxolin
+- Fosfatidil-etanolamin
+
+? Parkinson kasalligi qaysi sinapslar faoliyatiga bog’liq?
++ Dofaminergik
+- Adrenalin
+- Atsetilxolin
+- Fosfatidil-etanolamin
+

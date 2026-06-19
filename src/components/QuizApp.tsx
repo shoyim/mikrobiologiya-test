@@ -24,6 +24,7 @@ interface ModuleData {
   id: string;
   name: string;
   questions: Question[];
+  group?: 'davolash';
 }
 
 interface Props {
@@ -77,6 +78,22 @@ const MODULE_COLORS: Record<string, { ring: string; bg: string; text: string; ba
   },
 };
 
+function getColor(id: string) {
+  if (id.startsWith('davolash')) return MODULE_COLORS.davolash;
+  return MODULE_COLORS[id] ?? MODULE_COLORS.modul1;
+}
+
+function getEmoji(id: string) {
+  if (id === 'modul1') return '①';
+  if (id === 'modul2') return '②';
+  if (id === 'toliq') return '📚';
+  if (id === 'patfiz') return '🔬';
+  if (id === 'davolash') return '💊';
+  // davolash_N
+  const n = id.replace('davolash_', '');
+  return n;
+}
+
 export default function QuizApp({ modules }: Props) {
   const [screen, setScreen] = useState<Screen>('start');
   const [mode, setMode] = useState<Mode>('quiz');
@@ -90,7 +107,11 @@ export default function QuizApp({ modules }: Props) {
   const [shuffleEnabled, setShuffleEnabled] = useState(false);
   const [wrongOnly, setWrongOnly] = useState(false);
 
-  const colors = MODULE_COLORS[selectedModule.id] ?? MODULE_COLORS.modul1;
+  const colors = getColor(selectedModule.id);
+
+  const mainModules = modules.filter((m) => !m.group);
+  const davolashAll = modules.find((m) => m.id === 'davolash');
+  const davolashMavzular = modules.filter((m) => m.group === 'davolash' && m.id !== 'davolash');
 
   const startQuiz = useCallback(
     (shuffled: boolean, onlyWrong = false) => {
@@ -165,11 +186,11 @@ export default function QuizApp({ modules }: Props) {
 
           {/* Module selection */}
           <p className="text-gray-400 text-xs font-semibold uppercase tracking-wider mb-2 flex items-center gap-1">
-            <Layers className="w-3.5 h-3.5" /> Modul tanlang
+            <Layers className="w-3.5 h-3.5" /> Asosiy modullar
           </p>
           <div className="grid grid-cols-2 gap-2 mb-5">
-            {modules.map((m) => {
-              const c = MODULE_COLORS[m.id] ?? MODULE_COLORS.modul1;
+            {mainModules.map((m) => {
+              const c = getColor(m.id);
               const active = selectedModule.id === m.id;
               return (
                 <button
@@ -181,11 +202,51 @@ export default function QuizApp({ modules }: Props) {
                       : 'border-gray-700 text-gray-500 hover:border-gray-600'
                   }`}
                 >
-                  <span className="text-lg font-bold">
-                    {m.id === 'modul1' ? '①' : m.id === 'modul2' ? '②' : m.id === 'toliq' ? '📚' : m.id === 'davolash' ? '💊' : '🔬'}
-                  </span>
+                  <span className="text-lg font-bold">{getEmoji(m.id)}</span>
                   <span>{m.name}</span>
                   <span className="text-xs opacity-60">{m.questions.length} ta</span>
+                </button>
+              );
+            })}
+          </div>
+
+          {/* Davolash section */}
+          <p className="text-gray-400 text-xs font-semibold uppercase tracking-wider mb-2 flex items-center gap-1">
+            <span>💊</span> Davolash fanidan mavzular
+          </p>
+
+          {/* Davolash all button */}
+          {davolashAll && (
+            <button
+              onClick={() => setSelectedModule(davolashAll)}
+              className={`w-full flex items-center justify-between px-4 py-3 rounded-2xl border mb-2 transition-all text-sm font-semibold ${
+                selectedModule.id === 'davolash'
+                  ? `ring-2 ${MODULE_COLORS.davolash.ring} ${MODULE_COLORS.davolash.bg} ${MODULE_COLORS.davolash.text} border-transparent`
+                  : 'border-gray-700 text-gray-500 hover:border-gray-600'
+              }`}
+            >
+              <span>Barchasi (Mavzu 1–30)</span>
+              <span className="text-xs opacity-60">{davolashAll.questions.length} ta savol</span>
+            </button>
+          )}
+
+          {/* Mavzu grid */}
+          <div className="grid grid-cols-5 gap-1.5 max-h-48 overflow-y-auto pr-1 mb-5">
+            {davolashMavzular.map((m) => {
+              const active = selectedModule.id === m.id;
+              const c = MODULE_COLORS.davolash;
+              return (
+                <button
+                  key={m.id}
+                  onClick={() => setSelectedModule(m)}
+                  className={`flex flex-col items-center gap-0.5 py-2 px-1 rounded-xl border transition-all text-xs font-semibold ${
+                    active
+                      ? `ring-2 ${c.ring} ${c.bg} ${c.text} border-transparent`
+                      : 'border-gray-700 text-gray-500 hover:border-gray-600'
+                  }`}
+                >
+                  <span className="font-bold">{getEmoji(m.id)}</span>
+                  <span className="opacity-60 text-[10px]">{m.questions.length}ta</span>
                 </button>
               );
             })}
@@ -233,7 +294,7 @@ export default function QuizApp({ modules }: Props) {
                 Tartibsiz aralash
               </span>
             </div>
-            <div className={`relative w-10 h-6 rounded-full transition-all ${shuffleEnabled ? 'bg-blue-500' : 'bg-gray-700'}`}>
+            <div className={`relative w-10 h-6 rounded-full transition-all ${shuffleEnabled ? 'bg-teal-500' : 'bg-gray-700'}`}>
               <div
                 className={`absolute top-0.5 w-5 h-5 bg-white rounded-full shadow transition-all duration-200 ${
                   shuffleEnabled ? 'left-[18px]' : 'left-[2px]'

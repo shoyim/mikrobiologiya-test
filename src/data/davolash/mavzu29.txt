@@ -1,0 +1,180 @@
+﻿? Siydik miqdori qanchadan kam bo`lganda patalogiya kelib chiqadi?
++ 500ml
+- 1000ml
+- 1200ml
+- 1600ml
+
+? Siydik hajmining ortishi
++ Poliuriya
+- Oliguriya
+- Anuriya
+- Nikturiya
+
+? Oliguriya nima?
++ Sutkalik siydik miqdorining kamayishi
+- Sutkalik siydik miqdorining ortishi
+- Siydik ajralishi yo`q
+- Kechgi siydik kunduzgi siydikdan ko`p
+
+? Anuriya qanday kasallik?
++ Siydik chiqarilishi to`liq to`xtashi
+- Kechqurun ko`p siydik ajralishi
+- Sutkalik siydik miqdorining kamayishi
+- Siydik rangining o`zgarishi
+
+? Kechasi kunduzga qaraganda ko`p siydik ajralishi nima deyiladi?
++ Nikturiya
+- Anuriya
+- Oliguriya
+- Poliuriya
+
+? Siydik rangini belgilovchi pigmentni toping
++ Urobilin
+- Xolesterin
+- Gemoglobin
+- Mioglobin
+
+? Siydik bilirubin konsentratsiyasi yuqori bo`lganda qanday rangga kiradi?
++ Jigarrang yoki qizil qo`ng`ir
+- Kulrang
+- Yashil rang
+- Qora
+
+? Ichakda oqsillarning chirishi jarayoni kuchaysa siydik qanday rangga kiradi?
++ Yashil
+- Qizil
+- Jigarrang
+- To`q zarg`aldoq
+
+? Siydik tarkibidagi organik moddalar eng katta qismini qaysi moddalar tashkil etadi?
++ Siydikchil
+- Kreatinin
+- Krеatin
+- Aminokislotalar
+
+? Fenilketonuriyaning kelib chiqish sababini ko`rsating?
++ Fenilalaningidroksilaza fermenti yetishmasligi
+- Vitamin organizmda yetishmasligi
+- Organizmda temir miqdori oshib ketishi
+- Ko`p miqdorda tirozin sintez bo`lishi
+
+? Siydik tarkibida fenilalaninni qaysi modda orqali aniqlash mumkin?
++ FeCl2
+- NH4NO3
+- (NH4)2SO4
+- HCl
+
+? Havoda qolgan siydikning keskin qorayishi qaysi kasallikda sodir bo`ladi
++ Alkoptonuriya
+- Fenilketonuriya
+- Gipertireoz
+- Aminoatsiduriyalarda
+
+? Havoda qolgan siydikning keskin qorayishi qaysi moddaga bog`liq?
++ Gomogentizin kislota
+- Fenilalanin
+- Tirozin
+- Gippur kislota
+
+? Alkoptonuriya (Gomogentizin to`planishi) kelib chiqish sababini ko`rsating?
++ Gomogentizinatoksidaza fermenti ishlamasligi
+- Fenilpiruvatgidoksilaza fermenti ishlamasligi
+- Tirozinaza fermenti ishlamasligi
+- Prolinoksidaza fermenti ishlamasligi
+
+? Purin almashuvining oxirgi mahsulotini ko’rsating?
++ Siydik kislota
+- Siydikchil
+- Kreatinin
+- Gippur kislota
+
+? Ammiakni siydik bilan chiqarilishi qachon ko’payadi?
++ Atsidozda
+- Glyukozuriyada
+- Proteinuriyada
+- Glutamin almashinuvi buzilganda
+
+? Normal siydik tarkibida qo`yidagi qaysi modda umuman uchramaydi?
++ Atseton tanachalari
+- Siydikchil
+- Siydik kislotasi
+- Ammoniy tuzlari
+
+? Normal siydik tarkibida quyidagilarning qaysini aniqlab bo’lmaydi?
++ Glukoza
+- Siydikchil
+- Siydik kislotasi
+- Ammoniy tuzlari
+
+? Siydik tarkibda oqsilning chiqarilishi nima deyiladi?
++ Protienuriya
+- Aminoasiduriya
+- Atsidoz
+- Alkaloz
+
+? Gematuriya – bu…?
++ Siydikda qizil qon tanachalarining chiqarilishi
+- Siydik tarkibida oqsilning chiqarilishi
+- Siydik tarkibida glyukoza chiqarilishi
+- Siydik tarkibida aminokislotalar chiqarilishi
+
+? Ketonuriya qanday holat?
++ Siydik tarkibida keton tanachalarining chiqarilishi
+- Siydik tarkibida keton tanachalarining kamayishi
+- Organizmda keton almashinuvining buzilishi
+- β-oksimoy kislotaning siydik tarkibida ko’p ajralishi
+
+? Bilirubinuriya qachon kuzatiladi (mexanik sariqlik)?
++ O’t yo’llari bekilganda
+- Jigarning virusli kasalliklarida
+- Bilirubin parchalanishi buzilganda
+- Bilirubin hosil bo’lishi buzilganda
+
+? Normal holatda siydik tarkibida bo’lmaydigan moddani belgilang?
++ Atseton
+- Ammiak
+- Mochevina
+- Syidik kislotasi
+
+? Normal siydik bilan ajralmaydigan moddani ko’rsating?
++ Bilirubin
+- Ammiak
+- Mochivena
+- Syidik kislotasi
+
+? Normal siydik bilan ajralmaydigan moddani ko’rsating?
++ Atsetosirka kislota
+- Ammiak
+- Mochivena
+- Syidik kislotasi
+
+? Siydikning patologik tarkibiy qismlariga quyidagilar kiradi
++ Glyukoza
+- Kreatinin
+- Siydik kislotasi
+- Mochevina
+
+? Qaysi gormon ta'sirida suvning reabsorbtsiyasi tezlashadi
++ Vazopressin
+- Adrenalin
+- Insulin
+- Tiroksin
+
+? Siydikning zichligi odatda quyidagilardan iborat
++ 1,01-1,04 g/ml
+- 0,3-0,5 g/ml
+- 0,6-0,8 g/ml
+- 0,1-1,2 g/ml
+
+? Oddiy ovqatlanish vaqtida mochevina sutkada siydik bilan chiqariladi
++ 25-35 g
+- 1-2 g
+- 800-900 g
+- 110-130 g
+
+? Buyraklarning strukturaviy-funksional birligi
++ Nefron
+- Acinus
+- Neyron
+- Sarkomer
+

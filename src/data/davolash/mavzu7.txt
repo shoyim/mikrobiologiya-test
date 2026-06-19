@@ -1,0 +1,180 @@
+﻿? Kislorodsiz muhitdagi (Anaerob) glikolizning yakuniy mahsuloti
++ Laktat
+- Glyukozo-6-fosfat
+- Fosfoenolpiruvat
+- Asetil KoA
+
+? Kislorodsiz muhitdagi (Anaerob) glikolizda nechta ATF hosil bo`lishini ko`rsating
++ 2
+- 24
+- 38
+- 10
+
+? Kislorodli muhit (Aerob) glikolizida nechta ATF hosil bo`ladi?
++ 38
+- 2
+- 12
+- 24
+
+? To'qimalarda piruvatni ishlatishning asosiy yo`li– bu
++ Asetil CoA ga aylanish
+- Aminokislotalarga aylanish
+- Yo`g kislotalarga aylanish
+- Glitseringa aylanish
+
+? Glyukozaning de novo sintezi -  glyukoneogenez qayerda kechadi?
++ Jigar
+- O`pka
+- Adrenal korteks
+- Yurak
+
+? Glikogen nimadan sintez bo`ladi?
++ Glyukoza
+- Fruktoza
+- Galaktoza
+- Glitserin
+
+? Glikogen parchalanishini katalizlaydi
++ Fosforilaza
+- Tripsin
+- Pepsin
+- Rennin
+
+? Glikogen parchalanishini qaysi stress omillari faollashtiradi?
++ Adrenalin
+- Oqsil
+- Ovqatlanish
+- Glyukoza
+
+? Glikogenoz (glikogenning jigarda to`planishi) – bu
++ Glikogen parchalanishining buzilishi
+- Glyukoza so'rilishining buzilishi
+- Insulin sintezining buzilishi
+- Glyukoza sintezining buzilishi
+
+? Glikoliz kinaza fermentlarining qaysi biri insulin bilan boshqariladi?
++ Geksokinaza
+- Laktaza
+- Aldolaza
+- To'g'ri javob yuq
+
+? Organizmdagi eng oddiy uglevod?
++ Monosaxarid
+- Disaxarid
+- Polisaxarid
+- Lipid
+
+? Oligosaxaridga kiruvchi uglevod?
++ Saxaroza
+- Glikogen
+- Kraxmal
+- Oqsil
+
+? Biokimyoviy sistemalarda universal energiya tashuvchisi bu qaysi modda hisoblanadi
++ Adenozin trifosfor kislotasi
+- Adenozindifosfor kislota
+- Adenozinmonofosfor kislotasi
+- Spirt
+
+? Spirtli bijg`ish natijasida qaysi modda hosil bo`ladi?
++ Etil spirti
+- Propil spirt
+- Metil spirt
+- Butil spirt
+
+? Sutli bijg`ish natijasida qaysi mahsulot hosil bo'ladi
++ Sut kislota
+- Ortofosfor kislotasi
+- Fosfogliserin kislotasi
+- To`g`ri  javob yo'q
+
+? Qonda glyukoza miqdori oshib ketganda, qaysi kasallik yuzaga chiqadi?
++ Qandli diabed
+- Oshqozon yarasi va o'n ikki barmoqli ichak yarasi
+- Gastroduodenit
+- Qandsiz diabet
+
+? Glyukoza-6-fosfat hosil bo‘lishida ishtirok etadigan kinaza fermenti?
++ Geksokinaza
+- Aldolaza
+- Glyukoza-6-fosfataza
+- Fosforilaza
+
+? Jigarda glikogen to`planishi va parchalanishining izdan chiqishi - glikogenoz – bu
++ Glikogen parchalanishining buzilishi
+- Glyukoza so'rilishining buzilishi
+- Insulin sintezining buzilishi
+- Glyukoza sintezining buzilishi
+
+? Glikoliz kinaza fermentlarining qaysi biri insulin bilan boshqariladi?
++ Geksokinaza
+- Laktaza
+- Aldolaza
+- To'g'ri javob yuq
+
+? Fruktozani irsiy ko‘tara olmaslik qaysi ferment deffekti bilan bog‘liq?
++ Fruktozafosfataldolaza
+- Aldolaza
+- Glyukoza-6-fosfataza
+- Geksokinaza
+
+? Gipolaktaziya qaysi fermentning deffekti tufayli kelib chiqadi?
++ Laktaza
+- Pepsin
+- Saxaraza
+- Maltaza
+
+? Qandli diabetning qaysi turida insulinoterapiya talab etilmaydi
++ 2-tip
+- 1-tip
+- Gestatsion diabet
+- Autoimmun tipi
+
+? Glukoza gomeostazida qatnashuvchi moddani belgilang
++ Barcha javob to‘g‘ri
+- Insulin
+- Adrenalin
+- Kortizol
+
+? Pentoza fosfat siklini boshlab beruvchi va siklga qaytuvchi metabolitni belgilang
++ Glukoza 6-fosfat
+- Riboza
+- Glukoza
+- Galaktoza
+
+? Fosforilazani stimullovchi stress gormon omili
++ Adrenalin
+- Insulin
+- Glikogen
+- ATF ning yuqori konsentratsiyasi
+
+? Oshqozon osti bezi β-hujayralarining autoimmun zararlanishi natijasida qandli diabetning qaysi turi kelib chiqadi
++ 1-tip
+- 2-tip
+- Gestatsion diabet
+- Orttirilgan diabet
+
+? Glukozuriya qanday holat
++ Siydik bilan glukozaning chiqarilishi
+- Glukozaning qonda konsentratsiyasi baland bo‘lishi
+- Glukozaning qonda konsentratsiyasi past bo‘lishi
+- Hujayra ichiga glukoza kira olmasligi
+
+? Qandli diabetning qaysi turida ketoatsedoz kuzatilmaydi?
++ Insulinga bog‘liq bo‘lmagan turida
+- Insulinga bog‘liq bo‘lgan diabetda
+- Nasliy diabetda
+- Glukozaga irsiy tolerantlikda
+
+? Fruktozani fosforlanishini katalizlaydigan sfetsifik ferment
++ Fruktokinaza
+- Laktaza
+- Aldolaza
+- Maltaza
+
+? Irsiy fruktozani ko‘tara olmaslik kasalligi qachon namoyon bo‘ladi?
++ Bola ratsioniga saxarozali mahsulotlar kiritilganda
+- Tug‘ilishi bilanoq
+- Ona sutini birinchi marta iste’mol qilganda
+- 3-4 yoshlarida
+

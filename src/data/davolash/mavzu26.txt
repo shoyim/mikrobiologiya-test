@@ -1,0 +1,180 @@
+﻿? Qonning detoksifikatsiya funktsiyasi ushbu jarayonga bog'liq bo'lib, u toksinlarni bog'laydi va ularni suvda eruvchan qiladi, shuning uchun ular siydik bilan osonroq chiqariladi
++ Zaharli moddalarni UDFGK yordamida neytrallash
+- Gazlarni tashish (CO2 va O2)
+- Oziq moddalarni tashish
+- To'qimalar va qon o'rtasida issiqlik almashinuvi
+
+? Buyrak yetishmovchiligida organizm uchun eng katta xavf  tug`diruvchi holat
++ Uremiya
+- Gipoglikemiya
+- Gipoproteinemiya
+- Asidoz
+
+? Organizmda qurilish yoki energiya manbai bo‘lib xizmat qilmaydigan moddalar
++ Ksenobiotiklar
+- Metabolitlar
+- Antimetabolitlar
+- Oraliq mahsulotlar
+
+? Steroid gormonlarining ko'p qismi jigarda (I bosqich) qaytarilish orqali metabollanadi. Uron guruhiga mansub qaysi kislota bilan bog'lanishi (II bosqich) ularning biologik ta'sirini yo'qotishiga va buyraklar orqali chiqarilishiga olib keladi?
++ Glyukuron kislotasi
+- Aminokislotalar
+- Glutatyon
+- Sirka kislotasi
+
+? Biologik faol aminlar serotonin va gistamin jigarda aminoguruhlarini ajralib chiqishi bilan bog`liq quyidagi  reaktsiyalar bilan inaktivatsiya qilinadi
++ Dezaminlanish
+- Oksidlanish
+- Qaytarilish
+- Dekarboksillanish
+
+? Jigardagi ksenobiotiklarni zararsizlantirishning 1-bosqichida qatnashmaydigan glyukuron kislota bilan bog`liq fermentni belgilang?
++ UDFGK-transferaza
+- Sitoxrom P-450-reduktaza
+- Monooksigenaza
+- Gidroksilaza
+
+? Ksenobiotik konyugatsiyasida tez -tez ishlatiladigan peptidni tanlang
++ Glutation
+- Anserin
+- Karnozin
+- Bradikinin
+
+? Glyukuron kislotasi bilan zaharli moddalarni birlashtiradigan fermentni tanlang
++ UDP-glyukuronil transferaza
+- Uridiltransferaza
+- UDP degidrogenaza
+- Asetiltransferaza
+
+? Jigarda ksenobiotiklarni zararsizlantirishda ishtirok etuvchi vitaminlarni belgilang
++ A, E, C
+- B guruhi vitaminlari
+- D va K vitamini
+- Barcha vitaminlar ishtirok etadi
+
+? Mikrosomal oksidlanish uchun NADPH2 asosan vodorod atomlarining donori sifatida ishlatiladi. NADPH2 ning asosiy manbai glyukozaning qaysi metabolik yo'lida hosil bo`ladi?
++ Pentozo fosfat yo`li
+- Ornitin sikli
+- Kori sikli
+- Xolesterin sintezi
+
+? Jigar uchun xos bo`lmagan funksiya
++ Siydik hosil qilish
+- Regulyativ gomeostatik
+- O`t hosil qilish
+- Toksik moddalarni zararsizlantirish
+
+? Toksik moddalar quyidagi pirimidin nukleotidlar almashinuvi mahsuloti qaysi moddasi bilan konyugatsiya hosil qilmaydi
++ Orotat kislota
+- Glyukuron kislotasi
+- FAFS
+- Glutation
+
+? Organizmda konyugatsiya jarayonida ishtirok etuvchi glukuron kislotaning monosaxaridli manbai
++ Glukoza
+- Gistamin
+- Glutamin
+- Adenin
+
+? Quyidagi qaysi jumla to‘g‘ri.
++ Konyugatsiyalangan moddalarning gidrofilligi oshadi
+- Konyugatsiya jarayonida oksigenazalar ishtirok etadi
+- Mikrosomal oksidlanishdan so‘ng erkin radikallar foni oshadi
+- S-adenozilmetionin konyugatsiyaning asosiy konyugantidir
+
+? Endoplazmatik retikulumda toksik moddalarni neytrallashtirish ikki bosqichda sodir bo'ladi. Fermentlari hujayra mikrosomasida joylashgan I bosqichni ko'rsating
++ Mikrosomal oksidlanish
+- Gidroksillanish
+- Fosforillanish
+- Degidrogenlash
+
+? Toksik moddalarni zararsizlantirish barcha to'qimalar va organlarda uchraydi, lekin etakchi o'rin quyidagilarga tegishli.
++ Jigar
+- Buyrak
+- Qon
+- Ichak
+
+? Aspirinni (Atsetilsalitsil kislotasi) zararsizlantirishda hosil bo‘luvchi oraliq mahsulot
++ Salitsilatlar
+- Benzonat
+- Naftolamin
+- Niatsin
+
+? Nikotinamid qaysi mahsulotga aylantrilib chiqarilib yuboriladi
++ Metilnikotinamid
+- Benzonat
+- Naftolamin
+- Niatsin
+
+? Androgen va esterogenning keto gruppa hosil giluvchi steroid gormonlari jigarda inaktivatsiya qilinish o‘ziga xosligini belgilang
++ Oksidlanib ketosteroidlar holida chiqariladi
+- Aminooksidazalar ta’sirida oksidlanadi
+- Birinchi bosqichdan so‘ng epoksidlar hosil qiladi
+- O‘ta xavfli kanserogenlar hosil bo‘ladi
+
+? Giperketonemiya, ketonuriya va aseton hidi bilan namoyon bo'ladigan jigarda keton tanachalarining ortiqcha shakllanishi ketoz deyiladi. Bu qanday holatlarda sodir bo'lmaydi
++ Qandsiz diabet
+- Ochlik
+- Qandli diabet
+- Spirtli ichimliklarni ortiqcha iste'mol qilish
+
+? Jigardagi toksik moddalarni zararsizlantirishda eng muhim rol quyidagi jarayonlarga tegishli
++ Gidroksillanish
+- Transaminlanish
+- Dekarboksillanish
+- Dezaminlanish
+
+? Chaqaloqlarda dorilarni kam dozada berishlik qaysi fermentlarning to‘liq shakllanmagani bilan bog‘liq
++ Barchasi to‘g‘ri
+- Glyukuroniltransferaza
+- Atsellovchi
+- Deatsellovchi
+
+? Etanol metabolizmida ishtirok etuvchi alkogoldigidrogenaza(1.1.1.1) fermentining nikotinamidli kofermentini belgilang
++ NAD
+- Pridoksal fosfat
+- Kobalamin
+- TPF
+
+? Jigarda zararli moddalarni zararsizlantirish necha bosqichda boradi?{
++ 2
+- 3
+- 4
+- 5
+
+? Jigarda zaharli moddalarning zararsizlantirilishing ikkinchi bosqichi – glyukuron kislotasi birikishi yana qaysi nom bilan ataladi?
++ Konyugatsiyalanish
+- Devergensiya
+- Transmetillanish
+- Reaktiv ta`minot
+
+? Jigarda konyugatsiya bosqichi qaysi moddalarni biriktirish yo`li bilan boradi
++ Glyukuron yoki sulfat kislotasi
+- Glukoza, saxaroza, maltoza
+- Antioksidant vitaminlar
+- Mikroelementlar
+
+? Jigarda zahirasi eng ko`p bo`lgan polisaxarid
++ Glikogen
+- Kraxmal
+- Sellulyoza
+- Kletchatka
+
+? Jigarda uglevod bo`lmagan birikmalarning glyukozaga aylanish jarayoni nomi
++ Glyukoneogenez
+- Ketogenez
+- Xolesterin biosintezi
+- Mochevina biosintezi
+
+? Qondagi qand miqdori  me`yoridan tushsa jigardagi qaysi polisaxarid parchalanishi jadallashadi
++ Glikogen
+- Kraxmal
+- Sellulyoza
+- Kletchatka
+
+? Giperketonemiya, ketonuriya va aseton hidi bilan namoyon bo'ladigan jigarda keton jismlarining ortiqcha shakllanishi ketoz deyiladi. Bu qanday holatlarda sodir bo'lmaydi
++ Qandsiz diabet
+- Ochlik
+- Qandli diabet
+- Spirtli ichimliklarni ortiqcha iste'mol qilish
+

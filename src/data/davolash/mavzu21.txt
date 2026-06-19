@@ -1,0 +1,180 @@
+﻿? Organizmga bir kunda 10 mg temir so‘rilishi uchun oziq-ovqat tarkibida necha milligramm temir bo‘lishi kerak?
++ 50-60mg
+- 10-15g
+- 1-2 g
+- 2-3g
+
+? Qon buferli tizimining 75% ini tashkil etuvchi kuchli eritrotsitar oqsil bufer tizimi
++ Gemoglobin
+- Fosfat
+- Bikarbonat
+- Asetat
+
+? Ichaklarda temirning haddan tashqari ko‘p so‘rilishi temir almashinuvi izdan chiqishi bilan bog`liq qanday kasallik rivojlanadi
++ Gemoxromotoz
+- Asfiksiya
+- Artrit
+- Pnevmoniya
+
+? HBA ning asosiy vazifasi
++ CO2 va O2 ni tashish
+- Oqsillar sintezi (aktin, miyozin)
+- Tananing immunitet holatini ta'minlash
+- Aktiv kislorod turlarini shakllantirishda ishtirok etish
+
+? Gemoglobinning patologik shaklini belgilang
++ HbS
+- HbA
+- HbF
+- HbA2
+
+? Eritrotsitlarning yashash muddati
++ 120 kun
+- 1 oy
+- 2 oy
+- 15 kun
+
+? Uch valentli temir ionini fraksiyasi tashiydigan beta-globulin
++ Transferrin
+- Albumin
+- Globulin
+- Fibrinogen
+
+? Katta yoshli odam eritrotsitlari 98 % …gemoglobinini saqlaydi
++ HbA.
+- HbS
+- HbF
+- HbA2
+
+? Ayollarda gemoglobinning normal miqdori ko'rsatkichlarini tanlang
++ 115-145 g / l
+- 90-95 g / l
+- 50-80 g / l
+- 70-100 g / l
+
+? Erkaklarda normal gemoglobin miqdori ko'rsatkichlarini tanlang
++ 130-160 g / l
+- 90-95 g / l
+- 50-80 g / l
+- 70-100 g / l
+
+? Sog'lom odamlarning qizil qon tanachalari tarkibidagi gemoglobin turlarini ko'rsating
++ A1, A2, F
+- M, A1s, D.
+- C, M, E.
+- A2, S.
+
+? Qonning gemoglobin bufer tizimi (oksidlangan –oksigemoglobin, qaytarilgan – deosigemoglobin) quyidagilardan iborat
++ Oksigemoglobin va deoksigemoglobin
+- Karbgemoglobin va karboksigemoglobin
+- Karboksigemoglobin va oksigemoglobin
+- Oksigemoglobin va metgemoglobin
+
+? Qonning gidrokarbonat bufer tizimi pH qiymati nechiga teng{
++ 7.4
+- 1,5
+- 2,0
+- 7.0
+
+? Ichakda so'riladigan temir (Fe3+) ionlari tananing turli a'zolariga so‘riladi va har xil organlarda zahira sifatida to‘planishini ta’minlaydigan oqsil
++ Ferritin
+- Albuminn
+- Globulinn
+- Fibrinogen
+
+? Gemoglobinning kislorod bilan birikmasining nomi
++ Oksigemoglobin
+- Methemoglobin
+- Karbilaming gemoglobin
+- Karbemoglobin
+
+? Karbonat angidridni to'qimalardan o'pkaga tashuvchi birikmaning nomi
++ Karbgemoglobin
+- Oksigemoglobin
+- Ortogemoglobin
+- Oksogemoglobin
+
+? HbS genini tashuvchi odamlarda gemoglobin betta-zanjiri 6-holatida glutamin kislotaning o‘rni qaysi aminokislota bilan almashtiriladi
++ Valin
+- Taurin
+- Adenin
+- Tiroksin
+
+? Qon ivishi oqsili fibrinning o‘tmishdoshini …
++ Fibrinogen
+- Haptoglobin
+- Albumin
+- Keratin
+
+? Gem sintezining 1-bosqichida aminolevulinat kislota qaysi aminokislota va Krebs sikli oraliq mahsuloti kondensatsiyasidan hosil bo‘ladi
++ Glitsin va suksinil KoA
+- Porfirin halqasiga temir birikishidan
+- Bilirubindan
+- Propionil KoA va temirdan
+
+? Gem hosil bo`lishidagi asosiy ferment ferroxelataza  yana … deb nomlanadi
++ Gemsintaza
+- Aminolevulinatsintaza
+- Aminolevulinatdegidrataza
+- Porfoblinogensintaza
+
+? Gem sintezining buzilishi (gemoglobin metabolizmining oraliq mahsulotlarining paydo bo'lishi) qanysi kasalligida siydik qizil rangda, teri quyosh nurlariga ta’sircha bo‘ladi
++ Porfriya
+- Anemiya
+- O‘roqsimon anemiya
+- Gemofliya
+
+? Qon ivishi reaksiyalari bir-birini aktivlash orqali amalga oshib … mexanizmi asosida kechadi
++ Shalola
+- Ping-pong
+- Regulyativ
+- Allosterik ingibirlanish
+
+? Uning ta`sirida thrombin hosil bo`luvchi gemokoagulyatsiyaning faol bo`lmagan omilini tanlang
++ Protrombin
+- Fibrin
+- Akselerin
+- Konvertin
+
+? Qon ivishi jarayonida fibrinogenni fibringa aylantiruvchi omil
++ Trombin
+- Kallikrin
+- Kinin
+- Kreatinin
+
+? Antikoagulyant moddani belgilang
++ Geparin
+- K vitamini
+- Protrombin
+- Tromboplastin
+
+? Fibrinoliz qanday jarayon
++ Fibrin laxtasining parchalanishi
+- Fibrinning erimaydigan gel holatiga o‘tishi
+- Qon ivishi
+- Qon ivishining buzilishi
+
+? Qoldiqli azot fraktsiyasiga kirmaydi
++ Albumin
+- Mochevina
+- Kreatinin
+- Siydik kislotasi
+
+? Qoldiqli azot fraktsiyasiga kiradi
++ Mochevina
+- Albumin
+- Globulin
+- Fibrinogen
+
+? Qonda eng  ko`p uchraydigan oqsil
++ Albumin
+- Globulin
+- Fibrinogen
+- Protrombin
+
+? Qonda normada albubin miqdori
++ 40-50 g/l
+- 3,3-5,5 mmol/l
+- 20,5 mkmol/l
+- 115-145 mkmol/l
+

@@ -1,0 +1,180 @@
+﻿? Oqsilning hazm bo`lishi qayerdan boshlanadi?
++ Oshqozonda
+- Ingichka ichakda
+- 12 barmoqli ichakda
+- Oshqozon osti bezida
+
+? Essensial (alishtirib bo`lmaydigan) aminokislotani belgilang?
++ Metionin
+- Gistidin
+- Glitsin
+- Alanin
+
+? Yo‘g`on ichakda bazi aminokislotalarning dekarboksillanishidan toksik moddalar hosil bo‘ladi. Ornitindan quyidagilardan qaysi biri hosil bo‘ladi?
++ Putrestsin
+- Mochevina
+- Kreatin
+- Kreatinin
+
+? Ingichka ichakda aminokislotalarni so`rilishi qanday yo`l bilan kechadi
++ Ikkilamchi natriyga bog`liq aktiv transport
+- Yengil diffuziya
+- Pinositoz
+- Fagositoz
+
+? Ingichka ichak ekzopeptidazalariga kiradi
++ Karboksipeptidaza A va B
+- Ximotripsin
+- Tripsin
+- Elastaza
+
+? Oqsillarning hazmlanishida ishtirok etadigan oshqozon endopeptidazalari
++ Pepsin
+- Ximotripsin
+- Tripsin
+- Elastaza
+
+? Oqsillarni hazmlanishida ishtirok etadigan ichak endopeptidazalarini nomlang
++ Tripsin
+- Karboksipeptidaza
+- Kollagenaza
+- Aminopeptidaza
+
+? Ma’lumki, pepsin faqat denaturlangan oqsilga ta’sir ko‘rsatadi. Me’dada qaysi omil oqsillarni denaturatsiyaga uchratadi?
++ Xlorid kislota
+- Amilaza
+- O‘t kislotalar
+- Sut kislotasi
+
+? Oshqozon shirasining kislotaliligini aniqlash qanday kasalliklarni tashxislash va davolashda muhim?
++ Oshqozon va 12 barmoqli ichak
+- Jigar
+- Buyrak
+- O`pka
+
+? Oshqozonda pepsin uchun optimal kislotali pH
++ 1,5-2,0
+- 5,0-6,0
+- 6,0-7,0
+- 8-10
+
+? Oshqozon shirasining patologik tarkibiga kiradi
++ Sut kislota, qon
+- Xlorid kislota
+- Renin
+- Gastriksin
+
+? Oshqozonda oqsil hazmlanishida quyidagi endopeptidazalardan qaysi biri ishtirok etmaydi?
++ Tripsin
+- Gastriksin
+- Renin
+- Ximozin
+
+? Ichakda chirish jarayonining intensivligi va jigarda zararsizlantirish reaksiyalarini tezligini ko`rsatkichi hisoblanadi
++ Indikan
+- Mochevina
+- Bilirubin
+- Kreatin
+
+? Oshqozon shirasida xlorid kislota va pepsinning umuman bo`lmasligi quyidagicha ataladi
++ Axiliya
+- Anemiya
+- Glyukozuriya
+- Giperglikemiya
+
+? Oshqozon shirasida xlorid kislota konsentratsiyasining kamayishi natijasida qaysi ferment aktivligi pasayadi?
++ Pepsin
+- Amilaza
+- Laktaza
+- Maltaza
+
+? Surunkali pankreatitda tripsinning sintezi va sekretsiyasi susayishi kuzatiladi. Qaysi moddaning hazmlanishi va so`rilishi buziladi?
++ Oqsil
+- Lipid
+- Nuklein kislotalar
+- Disaxaridlar
+
+? Gastriksin qayerda bo‘ladi?
++ Oshqozonda
+- Jigarda
+- Buyrakda
+- Qizilo‘ngachda
+
+? Oqsillarning oshqozondagi parchalanish mahsulotini belgilang?
++ Aminokislota
+- Glyukoza
+- Oqsillar oshqozonda hazm bo`lmaydi
+- Yog` kislotalari
+
+? Almashinmaydigan aminokislotaga kiradi
++ Fenilalanin
+- Serin
+- Alanin
+- Glitsin
+
+? Inson organizmida oqsil almashinuvini baholash uchun azot balansidan foydalaniladi. Qaysi xolatda u musbat bo`ladi
++ Homiladorlikda
+- Qarilikda
+- Distrofiyada
+- Ochlikda
+
+? Quyidagilardan qaysi biri endopeptidazalarga kirmaydi?
++ Karboksipeptidaza
+- Pepsin
+- Ximotripsin
+- Tripsin
+
+? Quyidagilarning qaysi biri HClning vazifasi emas
++ Tripsinogenni faollantirish
+- Bakteridsit ta’sir
+- Pepsinogenni faollantirish
+- Ozuqa oqsillarini denaturlash
+
+? Tripsinogen quyidagi qaysi yo‘l bilan faollanadi?
++ Proteolitik gidroliz
+- Autokataliz
+- HCl ta'sirida gidroliz
+- Fosforlanish
+
+? Oshqozon osti bezining sekretor faoliyatini tartibga solishda ishtirok etadigan peptid gormoni sekretin qayerda sintezlanadi?
++ Ingichka ichak shilliq qavatidan
+- O`pkada
+- Buyrakda
+- Barcha organlarda
+
+? Ichakda oqsillarning chirish mahsulotini toping?
++ Barchasi to‘g‘ri
+- Vodorod sulfid
+- Kadaverin
+- Putresin
+
+? Pepsinogenning pepsinga aylanishi peptid N-uchini quyidagilar ta’sirida uzilishi hisobiga amalga oshadi
++ Xlorid kislota va pepsin
+- Sut kislotasi
+- Pirouzum kislotasi
+- Sulfat kislota
+
+? Endogen oqsillarni parchalovchi lizosoma fermentlari qanday nomlanadi?
++ Katepsinlar
+- Amilaza
+- Diastaza
+- Kinazalar
+
+? Oqsillarning ichakda chirishi qanday jarayon
++ Normal holat
+- Irsiy kasallik
+- Metabolizmning buzilishi
+- Fermentopatiya
+
+? G. Ismli bemorning oshqozon shirasi tarkibida umumiy kislotalilik miqdori normada. Qaysi ko‘rsatkich bu holatga mos?
++ 40-60 mM/l
+- 2-3 mM/l
+- 3-5 mM/l
+- 2-4 mM/l
+
+? Ichakda hosil bo‘lgan chirish mahsulotlarini zararsizlantirishda jigarda glukozaning qaysi unumidan foydalaniladi?
++ UDFGK
+- Mochevina
+- Kreatinin
+- Bilirubin
+

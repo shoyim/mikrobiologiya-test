@@ -1,0 +1,180 @@
+﻿? Hujayraning “dasturlashtirilgan” o‘limi nima deyiladi
++ Apoptoz
+- Nekroz
+- Metastaz
+- Invaziya
+
+? Hujayra membranasining o'tkazuvchanlik xossasining buzilishi natijasida ichki gomeostazning buzilishi nima deyiladi
++ Nekroz
+- Apoptoz
+- Metastaz
+- Invaziya
+
+? Apoptoz yo'li bilan ayrim hujayralarning olib tashlanishi nima deyiladi
++ Eliminatsiya
+- Nekroz
+- Metastaz
+- Invaziya
+
+? Yallig‘lanish jarayonlari bilan sodir bo‘ladigan hujayralarning nobud bo‘lishi nima deyiladi?
++ Nekroz
+- Metastaz
+- Invaziya
+- Transplantatsiya
+
+? Hujayraning asta-sekin bujmayib-kichrayib, boshqa hujayralarga zarar bermasdan nobud bo‘lishi quyidagi qaysi jarayonda kuzatiladi?
++ Apoptozda
+- Invaziyada
+- Metastazda
+- Transplantatsiya
+
+? Autoliz bu…
++ O'z-o'zini yemirish
+- Morfologik jihatdan ikkilamchi lizosomalar
+- Rekonstruktsiya
+- Qoldiq tanacha
+
+? DNK ni bo‘laklarga bo‘lib birlamchi tuzilishini o‘rganish nima deyiladi?
++ Sekvenirlash
+- Fotometriya
+- Gel-elektroforez
+- Kolorimetriya
+
+? Hujayra bo'linishidan oldin qaysi eng muhim jarayon –DNK ona molekulasini ikkiga bo`linishi sodir bo'ladi?
++ DNK replikatsiyasi
+- Transkriptsiya
+- Reparatsiya
+- Translyatsiya
+
+? Sisteinli proteazlari ..... dasturlashtirilgan hujayra o'limi jarayonida muhim rol o'ynaydi. Apoptoz jarayonida ishtirok etadigan fermentlarni belgilang
++ Kaspazalar
+- Maltaza
+- Laktaza
+- Lipaza
+
+? Quyidagi qaysi jarayonda apoptoz (hujayraning programmalashtirilgan o`limi) tezlashadi
++ Shikastlangan DNKlar soni ortganda
+- Kislotalardan zararlanganda
+- Yallig‘lanish sodir bo‘lganda
+- Og‘ir mexanik jarohatlanganda
+
+? Butun umri davomida bo`linib, ko`payib turmaydigan hujayrani belgilang
++ Nerv
+- Epidermis
+- Ichak epiteliysi
+- Suyak iligi
+
+? Qaysi usul yordamida hujayra organoidlarini alohida-alohida ajratib olish mumkin
++ Sentrafugalash
+- Yorug‘lik mikroskopi
+- Sitokimyoviy
+- Elektron mikroskop
+
+? Agar apoptoz mehanizmlari buzilsa qanday jarayonlar sodir bo‘ladi
++ Barchasi to‘g‘ri
+- Mutatsiya kelib chiqadi
+- Onkohujayralar rivojlanadi
+- Hujayralar yangilanmaydi
+
+? Bir hujayraning nobud bo‘lishi boshqa hujayralarning ham nobud bo‘lishiga sabab bo‘lsa, bu jarayon … deyiladi
++ Nekroz
+- Replikatsiya
+- Translyatsiya
+- Transformatsiya
+
+? Sisteinli proteazla kaspazalar. dasturlashtirilgan hujayra o'limi jarayonida muhim rol o'ynaydi Apoptoz induksiyasi qachon qaytmas bosqichga o‘tadi:{
++ Kaspazalar faollashgach
+- Replikatsiya
+- Translyatsiya
+- Transformatsiya
+
+? Apoptozning kuchayishi quyidagilarning qaysi biriga sabab bo‘lishi mumkin:{
++ Erta qarish
+- O‘smalarning paydo bo‘lishi
+- DNKning shikastlanishi
+- Mutatsiyalarning kelib chiqishi
+
+? Apoptozning susayishi quyidagilarning qaysi biriga sabab bo‘lishi mumkin{
++ O‘smalarning paydo bo‘lishi
+- Ateroskleroz
+- Neyrodegenrativ kasalliklar
+- Trombositopeniya
+
+? Teri hujayralarining yangilanib turishi qaysi jarayonga asoslanadi
++ Nekroz
+- Degenratsiya
+- Invaziya
+- Inplantatsiya
+
+? Tarkibiga yot genetik material kiritilgan DNK-… deyiladi
++ Rekombinant DNK
+- Nativ DNK
+- Vektor DNK
+- Implant DNK
+
+? DNK ni yopishqoq uchlar hosil qilib kesuvchi fermentlar
++ Restriktaza
+- Lipaza
+- Diastaza
+- Laktaza
+
+? PSR analizida quyidagi qaysi fermentdan foydalaniladi
++ Taq-polimeraza
+- Lipaza
+- Diastaza
+- Laktaza }
+
+? Hujayra irsiyatning unga yot DNK kirishi natijasida o'zgarishi nima deyiladi
++ Transformatsiya
+- Anoreksiya
+- Translatsiya
+- To'g'ri javob yoq
+
+? Yadroga bog‘liq bo‘lmagan irsiyat qo`sh membranali hyjayra qaysi organellesida  joylashadi
++ Mitoxondriyada
+- Lizosomada
+- EPTda
+- Ribosomada
+
+? Irsiy o‘zgaruvchanlikning qanday turlari bor?
++ Mutatsion
+- Fenotipik
+- Tasodifiy
+- To'g'ri javob yoq
+
+? Kеlib chiqishiga qarab mutatsiyalar
++ Spontan, induksion
+- Dominant, retsessiv
+- Monogen, poligen
+- Monosomiya, polisomiya
+
+? Rekombinant DNK (ikki yoki undan ortiq genlar ketma-ketligini birlashtirish natijasida hosil bo'lgan sun'iy ravishda yaratilgan DNK zanjiri) olishda quyidagilardan foydalaniladi
++ Barchasi to‘g‘ri
+- Plazmidalardan
+- Vektorlardan
+- Restriktazalardan
+
+? Mutаgеn tа’siridа gеnоtipi o‘zgаrgаn yangi оrgаnizm nima deyiladi{
++ Mutаnt
+- Mutаgеnеz
+- Irsiy o‘zgаruvchаnlik
+- Rеkоnstruktsiya
+
+? Mutаtsiоn o‘zgаruvchаnlikni yuzаgа kеltiruvchi оmil nima deyiladi
++ Mutаgеnеz
+- Mutаnt
+- Irsiy o’zgаruvchаnlik
+- Klоn
+
+? Genetik tahlilni o'tkazish uchun qanday biokimyoviy usullardan foydalaniladi?
++ Polimeraza zanjiri reaktsiyasi (PCR)
+- Fermentativ qon tekshiruvi
+- Qon  umumiy tahlil
+- Qon qoldiqli azoti
+
+? Genetik tahlilni o'tkazish uchun qanday biologik material kerak?
++ To'qima yoki qon namunasi
+- Siydik
+- Najas
+- Orqa miya  suyuqligi
+

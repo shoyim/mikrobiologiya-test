@@ -1,0 +1,180 @@
+﻿? Xatarli o'simta qanday xususiyatga ega
++ Past darajadagi differentsirovka
+- Katta o'sish
+- Metastaz yo`qligi
+- normal hujayralaridan morfologik farq yo'q.
+
+? Eng to'g'ri jumlani ko'rsating
++ Kanserogen – o‘sma hosil bo‘lishini stimullaydi;
+- Kanserogen - faqat endogen o'simta qo'zg'atuvchisi;
+- Kanserogen –hujayra bo‘lishini nazorat qiluvchi gen;
+- Kanserogen - bu o'smaning ko'payishini kodlovchi gen.
+
+? Mezenxima to'qimasidan o'smaning kelib chiqishini ko'rsatuvchi zardob gistokimyoviy o'simta markerini nomlang
++ Vimentin;
+- Tiroglobulin;
+- Karnozin;
+- Keratin.
+
+? Hujayradagi p-53 (o`sma paydo bo'lishini supressori (bostiruvchi) vazifasini bajaradi )oqsillarining kamayishi quyidagilarni ko'rsatadi
++ Apoptoz jarayonlarini ingibirlash.
+- Hujayra bo'linishini ingibirlash;
+- Hujayra apoptozi jarayonlarini faollashtirish;
+- DNKni tiklash jarayonlarini kuchaytirish;
+
+? Onkogenezning necha bosqichi bor?
++ Barcha javoblar to'g'ri
+- Boshlash
+- Rivojlanish (promotsiya)
+- Progressiya
+
+? Onkogenezning uchinchi (Progressiya) bosqichini tavsiflang
++ Onkoproteinlar  o`sma markerlari) sintezi, o'simta fenotipini olish;
+- O'simta hujayralarining nazoratsiz ko'payishi;
+- Protoonkogenni onkogenga aylantirish;
+- Kanserogenlarning hujayra genomining protoonkogenlari va anti-onkogenlari bilan o'zaro ta'siri.
+
+? Kimyoterapevtik saratonga qarshi dorilarga quyidagilar kiradi
++ Hammasi to'g'ri
+- Platina birikmalari;
+- Pushti vinka alkaloidlari
+- Antimetabolitlar
+
+? Onkoproteinlar bu…?
++ O'smalarning ko'payishi va rivojlanishini rag'batlantiruvchi oqsillar;
+- Hujayrali nafas olishni bloklaydigan oqsillar;
+- Glikolizni ingibirlovchi oqsillar;
+- Onkotik tomir ichi bosimini hosil qiluvchi oqsillar.
+
+? O‘ta xavfli kanserogenni belgilang
++ Benzipiren
+- Fenol;
+- Ammiak;
+- Etil spirti
+
+? Siydik pufagida rak keltirib chiqaruvchi kanserogenni toping
++ 2-naftilamin;
+- Metil spirti;
+- Etil spirti;
+- Ammiak.
+
+? Steroid jinsiy gormonlarining qanday xossalari ularning blastomogen (turli to'qimalarda o`simta paydo bo'lishiga olib keladi.) ta'siriga bog'liq bo'lishi mumkin?
++ Kanserogen metabolitlarni hosil qilish qobiliyati bilan;
+- Lipolizning faollashishi;
+- Gemolizni faollashtirish;
+- Glikolizni bostirish bilan.
+
+? RNK tarkibidagi virusdan zararlangan hujayra genomiga genetik ma'lumotni uzatuvchi fermentni ayting
++ RNKga bog'liq DNK polimeraza
+- Polinukleatidaza;
+- Endonukleaza;
+- Kaspaza;
+
+? Onkogenez nazariyalariga quyidagilar kirmaydi
++ Implantatsion;
+- Virusologik;
+- Disontogenetik;
+- Fizik va kimyoviy.
+
+? Yaxshi o'smalar xarakterlanadi
++ Expansiv o'sish;
+- O'simta tugunining tez shakllanishi;
+- Infiltrativ o'sish;
+- Metastaz.
+
+? Qanday endogen mahsulotlar kanserogenlardir?
++ Erkin radikallar.
+- Gemoglobin;
+- Ig A;
+- Sut kislotasi.
+
+? Mezoderma hujayralaridan hosil bo‘lgan o‘sma
++ Sarkoma;
+- Karsenoma;
+- Adenoma;
+- Melanoma;
+
+? O'simta hujayrasi qo`yidagi monosaxaridga "tuzoq" dir
++ Glyukoza
+- Erkin radikallar;
+- Folatlar;
+- Gidroksidlar;
+
+? O`smalarning davolash usullari
++ Barchasi.
+- Jarrohlik;
+- Radiatsiya terapiyasi;
+- Kimyoterapiya;
+
+? Metastazni initsiatsiya qilmaydigan fermentni
++ Amilaza;
+- Gialuronidaza;
+- Metalloproteinaza;
+- Katepsin B;
+
+? O`NO (o'simta nekrozi omili) ni ekzotsitlaydigan katta hujayrani nomlang
++ To'qima makrofaglari;
+- Eritrotsitlar;
+- Trombotsitlar;
+- Eozinofil.
+
+? Xavfli jigar hujayralari intensiv ravishda  ushbu oqsilni sintezlaydi (homiladorlik paytida... homila rivojlanishi nuqsonlarini aniqlash uchun ishlatiladi. onkologiyada  jigar va jinsiy bez saratoni (moyak saratoni) tashxisini qo'yish uchun ishlatiladi
++ Alfa-fetoprotein;
+- a-tokoferol;
+- a-globulin;
+- C-reaktiv oqsil.
+
+? Antikanserogen mexanizmlarga quyidagilar kiradi
++ Yuqorida aytilganlarning hammasi to'g'ri.
+- Glyukuron kislotasi, sulfatlar bilan bog'lanish;
+- Tana suyuqliklari bilan chiqarib yuborish;
+- Antioksidantlar bilan erkin radikallarni zararizlantirish;
+
+? Endogen kelib chiqadigan organik kanserogenlarni ko'rsating
++ Lipoperoksid birikmalari;
+- Glikogen;
+- Etanol;
+- Metanol.
+
+? Protoonkogen (hujayra bo'linishidagi mutatsiyalar yoki ekspressiya kuchayishi tufayli onkogenga aylanishi mumkin bo'lgan keng tarqalgan gen)  tushunchasiga ta'rif bering.
++ Hujayra bo'linishini boshqaruvchi gen;
+- Kanserogen o'zaro ta'sir qiladigan gen;
+- Virusli oqsillarning ko'payishini kodlovchi virusli gen;
+- Hujayra genomini (DNK) tiklanishini boshqaruvchi mutatsiyaga uchragan gen.
+
+? Onkogenezning ikkinchi bosqichini ta'riflang
++ Protoonkogenni onkogenga aylantirish;
+- O'simta hujayralarining nazoratsiz ko'payishi;
+- Onkoproteinlar sintezi, o'simta fenotipini olish;
+- Kanserogenlarning hujayra genomining protoonkogenlari va anti-onkogenlari bilan o'zaro ta'siri.
+
+? Prostata bezi hujayralaridan o'smaning kelib chiqishini ko'rsatadigan zardob gistokimyoviy o'simta belgisi nima?
++ Kislotali fosfataza;
+- Amilaza
+- Mochevina
+- Gemoglobin
+
+? Onkogenezni supressiyalovchi (bostiruvchi) genlarga quyidagilar kiradi
++ P-53
+- c-myc
+- n-myc
+- c-erbB
+
+? Tananing o`smalariga qarshi himoyasida qatnashmaydigan hujayrani ko'rsating
++ Fibroblast;
+- Makrofag;
+- Leykotsitlar;
+- T-killer.
+
+? Xatarli o'simta uchun qanday xususiyat xos?
++ Metastaz;
+- Yuqori darajadagi differinsiyalanish;
+- Oddiy tug'ma hujayradan morfologik farqlarning yo'qligi;
+- Hujayra bo‘linishini nazorat qilish mumkinligi.
+
+? Onkogenezning birinchi bosqichini ta'riflang
++ Kanserogenlarning hujayra genomining protoonkogenlari va anti-onkogenlari bilan o'zaro ta'siri.
+- O'simta hujayralarining nazoratsiz ko'payishi;
+- Onkoproteinlar sintezi, o'simta fenotipini olish;
+- Protoonkogenni onkogenga aylantirish;
+

@@ -1,0 +1,180 @@
+﻿? Oqsil biosintezini boshlab beruvchi aminokislota
++ Metionin
+- Lizin
+- Alanin
+- Treonin
+
+? Elongatsiya bu…
++ Polipeptid zanjirining uzayishi
+- Peptidning ko‘chirilishi
+- Ribosomaning bir qadam siljishi
+- Aminokislotalarning faollashuvi
+
+? Terminatsiya kodonlariga kiradi
++ UAA,UGA,UAG
+- ATF,GTF,STF
+- FAFS, UDFGK, TTF
+- ADF, GDF, UDF
+
+? Translyasiya – oqsil biosinezida ishtirok etmaydi
++ DNK
+- 20 ta Aminokislotalar
+- m-RNK
+- t-RNK
+
+? Translyasiya – oqsil biosinezida ishtirok etadi
++ Barchasi to`g`ri
+- 20 ta Aminokislota
+- m-RNK
+- t-RNK
+
+? O‘smalarga qarshi antibiotiklarning ta’sir mexanizmi nimaga asoslangan?
++ Matritsali biosintezlarni ingibirlash
+- Faqat DNK sintezini ingibirlash
+- Faqat RNK sintezini ingibirlash
+- Faqat Oqsil sintezini ingibirlash
+
+? Kodonda (tripletda) shifrlanadi
++ Aminokislota
+- Nukleotid
+- Pirimidin
+- Nukleozid
+
+? Oqsil biosintezi …dan boshlanadi
++ Initsiatsiya
+- Elongatsiyadan
+- Terminatsiyadan
+- Reparatsiyadan
+
+? Oqsil biosintezi tugallanishi …deb ataladi
++ Terminatsiya
+- Initsiatsiya
+- Elongatsiya
+- Reparatsiya
+
+? Oqsil biosintezida energiya manbai
++ ATF, GTF
+- GDF
+- ADF
+- STF
+
+? Oqsil sintezi qayerda amalga oshadi
++ Ribosomada
+- Sitoplazmada
+- Yadroda
+- Qonda
+
+? Oqsil biosintezida aminokislotalar faollanishida aminokislotaga qaysi RNK birikadi
++ tRNK
+- Fosfor kislota qoldig’i
+- mRNK
+- Ribosomaning kichik birligi
+
+? Oqsil sintezida Start (sintezni boshlovchi) va tormoz kodonlari (UAA, UAG, UGA) mavjud. Ushbulardan qaysi biri start kodoni
++ AUG
+- UGA
+- UAG
+- UAA
+
+? Oqsil sintezlovchi tizim komponentlar
++ 20 xil aminokislotalar va fermentlar
+- Peroksisomalar
+- Tashqi membrana
+- Mikrosomalar
+
+? Jqsil sintezidagi Initsiatsiyalovchi kompleks tarkibiga kiradi
++ Ribosomaning katta va kichik subbirliklari
+- DNK
+- Albumin
+- Xolesterin
+
+? Oqsol sintezida nechta aminokislota ishtirok etadi
++ 20
+- 64
+- 61
+- 21
+
+? Genetik kod xossasi
++ Tripletlik
+- Uzluklilik
+- Umumiylik
+- Dipletlilik
+
+? Genetik kod xossasi
++ Universallik
+- Uzluklilik
+- Umumiylik
+- Dipletlilik
+
+? Genetik kod xossasi
++ Uzluksizlik
+- Uzluklilik
+- Umumiylik
+- Dipletlilik
+
+? Genetik kod xossasi
++ Kolinearlilik
+- Uzluklilik
+- Umumiylik
+- Dipletlilik
+
+? Oqsil biosentezi qaysi yo‘nalishda boradi
++ 5ꞌ-3ꞌ
+- 3ꞌ-5ꞌ
+- 1ꞌ-5ꞌ
+- 1ꞌ-3ꞌ
+
+? Oqsil biosintezi elongatsiyasi bosqichida nima kuzatiladi
++ Oqsil zanjiri uzayishi
+- Oqsil biosintezi to‘xtashi
+- Ribosoma yig‘ilishi
+- Reparatsiya jarayoni
+
+? Translyatsiya terminatsiyasida kuzatiladi
++ Oqsil biosintezi to‘xtashi
+- Oqsil zanjiri uzayishi
+- Ribosoma yig‘ilishi
+- Reparatsiya jarayoni
+
+? Translyasiya initsiatsiyasida kuzatiladi
++ Oqsil biosintezi boshlanishi
+- Oqsil zanjiri uzayishi
+- Peptidning ko‘chirilishi
+- Ribosomaning siljishi
+
+? Postranslyatsion jarayonda kuzatiladi
++ Oqsil yetilishi
+- Oqsil denaturatsiyasi
+- Oqsil funksiyasi buzilishi
+- Oqsil renaturatsiyasi
+
+? Postranslyasion jarayonda kuzatilishi mumkin
++ Qisman proteoliz
+- Oqsil denaturatsiyasi
+- Oqsil funksiyasi buzilishi
+- Oqsil renaturatsiyasi
+
+? Aminoatsil – tRNK hosil bo‘lishida ishlatiladigan ferment
++ Aminoatsil-tRNK-sintetaza
+- GTF
+- DNK
+- Nukleotidlar
+
+? Ribosomaning qaysi uchastkasida peptid bog‘i sintezlanadi
++ Peptidil
+- Aminoatsil
+- 30S subbirligida
+- Akseptor
+
+? Transpeptidatsiya oqsil uzayishi qaysi jarayonda sodir bo‘ladi
++ Elongatsiya
+- Initsiatsiya
+- Terminatsiya
+- Rekognitsiya
+
+? Oqsil sintezi qaysi aminokislotadan boshlanadi
++ Metionin
+- Ferritin
+- Albumin
+- Globulin
+

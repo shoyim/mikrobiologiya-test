@@ -1,0 +1,180 @@
+﻿? Nuklein kislatalar monomeri bo`lib nima xizmat qiladi
++ Nukleotidlar
+- Aminokislotalar
+- Monosaxaridlar
+- Peptidlar
+
+? Adenin tuzilishining asosini tashkil etuvchi geterotsiklik birikmani ko'rsating
++ Purin
+- Monosaxarid
+- Imidazol
+- Triptofan
+
+? DNK zanjiridan RNK zanjir tiklanishida hosil bo‘luvchi azotli asosni ko'rsating
++ Urasil
+- Alanin
+- Glitserin
+- Ornitin
+
+? DNK va RNK birlamchi tuzilishi fosfor kislotasi ishtirokida qanday bog‘  bilan ta’minlangan
++ Fosfodiefir
+- Glikozid
+- Peptid
+- Gidrofob
+
+? DNK uchun xos bo'lmagan tarkibiy komponentni ko'rsating
++ dUMF
+- dAMF
+- dSMF
+- dTMF
+
+? Matritsali biosintez jarayonini tanlang
++ Barchasi to‘g‘ri
+- Replikatsiya
+- Transkripsiya
+- Translyatsiya
+
+? ”Beda bargi” tuzulishi aminokislotalar tashuvchisi bo`lgan qaysi nuklein kislota uchun xarakterli
++ tRNK
+- DNK ning uchlamchi strukturasi
+- iRNK
+- mRNK
+
+? Dezoksiribonuklein kislotaning qaysi tipida timin bo‘ladi?
++ DNK
+- rRNK
+- mRNK
+- tRNK
+
+? Nukleoproteinlar vakili hisoblanadi
++ Ribosoma
+- Albumin
+- Globulin
+- Fibrinogen
+
+? Splaysing  ( protsessing jarayonida RNKuchlarini  bir-biriga yopishtirish)- bu
++ Intronlar kesib tashlanib, ekzonlarni bog‘lanishi
+- RNK molekulalari nusxasining olinishi
+- DNK biosintezi
+- Oqsil biositezi
+
+? Replikatsiyada (DNK biosintezi) qatnashuvchi ferment
++ Xelikaza
+- Amilaza
+- Lipaza
+- Maltaza
+
+? Replikatsiya (DNK biosintezi)  jarayonida nima qatnashmaydi
++ m-RNK
+- Praymer
+- Praymaza
+- DNK-polimeraza
+
+? DNK polimeraza uchun substratlar tanlang
++ dATF,dGTF,dSTF,dTTF
+- ATF,GTF,UTF,STF
+- ATF,GTF,STF,TTF
+- AMF,GMF,TMF,SMF
+
+? Reparatsiyada qatnashuvchi ferment
++ Purin-insertaza
+- Maltaza
+- Laktaza
+- Transaminaza
+
+? Fosfat kislota orqali DNK molekulasini birlamchi strukturasini hosil qiluvchi  kimyoviy bog‘ning nomi
++ Fosfodiefir
+- Vodorod
+- Koordinatsion
+- Disulfid
+
+? Bir zanjirli nuklein kislota bo`lmish RNK birlamchi stuzilishini nima belgilaydi?
++ DNK ning bitta zanjiri
+- DNK ning ikki zanjiri
+- RNK polimeraza
+- ribosoma
+
+? O`zida oqsil haqida axborotni saqlovchi mRNKning soni nechta
++ oqsil soniga teng
+- 61
+- 3
+- 64
+
+? Aminokislotalar tranporti uchun javob beradigan  tRNKning necha xili bo‘ladi
++ 61
+- Molekulalarning turi oqsil soniga teng
+- 3
+- 5
+
+? DNKning ikkilamchi strukturasini hosil bo‘lishi uchun bir zanjir ikkinchisi bilan vodorod ishtirokida qanday bog`lanadi
++ Vodorod bog'lar
+- Kovalent aloqalar
+- Ionli o'zaro ta'sirlar
+- Gidrofob bog’lar
+
+? Transkriptonning  (informatsion (ekzon) va informatsion bo'lmagan (intron) zonalardan iborat) ,  axborot saqlovchi qismlari
++ Ekzon
+- Akseptor
+- Operon
+- Intron
+
+? DNKning uglevodli qismi qanday ataladi
++ Dezoksiriboza
+- Riboza
+- Glyukoza
+- Galaktoza
+
+? RNKning uglevodli qismi qanday ataladi
++ Riboza
+- Dezoksiriboza
+- Glyukoza
+- Galaktoza
+
+? Nuqtali mutatsiyalar- DNK yoki RNKdagi mutatsiyaning bir turi bo'lib, u bir ... asosni boshqasiga almashtirish bilan tavsiflanadi
++ DNK molekulasidagi azotli asoslarining o‘zgarishi
+- DNK molekulasining ko‘p sonli shikastlanishi
+- Ferment faolligi o‘zgarishi
+- Gen-operator faolligi o‘zgarishi
+
+? Birlamchi transkript (RNK sintez - transkripsiyadan so'ng hosil bo'ladigan RNK molekulalari) tarkibi
++ Ekzon+intron
+- Faqat ekzon
+- Faqat intron
+- Operon
+
+? Transkripsiya – RNK biosinteziga ta’rif bering
++ DNK asosidagi RNK sintezi
+- RNK asosidagi DNK sintezi
+- DNK asosidagi oqsil sintezi
+- RNK asosidagi oqsil sintezi
+
+? RNK yetilishi jarayoni
++ Protsessing
+- Replikatsiya
+- Translyasiya
+- Transkripsiya
+
+? Protsessing – RNK yetilishi jarayonida sodir bo‘ladi
++ Barcha javob to‘g‘ri
+- Intronlarning kesib tashlanishi
+- Ma’nosiz kodonlar splaysingi
+- Informatsion qismlar modifikatsiyasi
+
+? DNK Reparatsiyasi – bu…?
++ DNK shikastlangan qismlarining tiklanishi
+- RNK shikastlarngan qismlarining tiklanishi
+- DNKda mutatsiyalarning kelib chiqishi
+- RNK asosida DNK sintezi
+
+? RNK sintezida ishlatilmaydi
++ TTF
+- ATF
+- GTF
+- STF
+
+? Mutatsiyaga sababchi omil
++ Ion nurlanishlar
+- Somatik kasalliklar
+- Ochlik
+- Semirish
+
