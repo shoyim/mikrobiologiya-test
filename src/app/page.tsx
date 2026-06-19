@@ -13,6 +13,7 @@ export default function Home() {
     { id: 'modul2', name: 'Mikrob II', questions: parseQuestions(read('modul2.txt')) },
     { id: 'toliq', name: "To'liq", questions: parseQuestions(read('questions.txt')) },
     { id: 'patfiz', name: 'Patfiz', questions: parseQuestions(read('patfiz.txt')) },
+    { id: 'davolash', name: 'Davolash', questions: parseQuestions(read('davolash.txt')) },
   ];
 
   return <QuizApp modules={modules} />;

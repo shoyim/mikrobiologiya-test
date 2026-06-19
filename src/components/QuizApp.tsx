@@ -68,6 +68,13 @@ const MODULE_COLORS: Record<string, { ring: string; bg: string; text: string; ba
     badge: 'bg-orange-500/20 text-orange-400',
     bar: 'from-orange-500 to-orange-400',
   },
+  davolash: {
+    ring: 'ring-teal-500',
+    bg: 'bg-teal-500/10',
+    text: 'text-teal-400',
+    badge: 'bg-teal-500/20 text-teal-400',
+    bar: 'from-teal-500 to-teal-400',
+  },
 };
 
 export default function QuizApp({ modules }: Props) {
@@ -175,7 +182,7 @@ export default function QuizApp({ modules }: Props) {
                   }`}
                 >
                   <span className="text-lg font-bold">
-                    {m.id === 'modul1' ? '①' : m.id === 'modul2' ? '②' : m.id === 'toliq' ? '📚' : '🔬'}
+                    {m.id === 'modul1' ? '①' : m.id === 'modul2' ? '②' : m.id === 'toliq' ? '📚' : m.id === 'davolash' ? '💊' : '🔬'}
                   </span>
                   <span>{m.name}</span>
                   <span className="text-xs opacity-60">{m.questions.length} ta</span>
